@@ -4,9 +4,11 @@ import { favorites } from '../favorites.js';
 import { esc, money } from '../dom.js';
 import { sections } from '../../data/profile-sections.js';
 import { library } from './library.js';
-import { sonographerProfile } from './sonographer-profile.js';
+import { getFullProfile } from '../../data/full-profiles.js';
+import { fullCareerProfile } from './full-career-profile.js';
 export function profile(){
-  if(state.id==='sonographer')return sonographerProfile();
+  const rich = getFullProfile(state.id);
+  if(rich) return fullCareerProfile(rich);
   const c=careers.find(x=>x.id===state.id);
   if(!c)return library();
   const active=sections.find(s=>s[0]===state.section)||sections[0];
