@@ -316,33 +316,5 @@ export const careers = [
       "Community",
       "People"
     ]
-  },
-  {
-    "id": "sterile-processing-technician",
-    "name": "Sterile Processing Technician",
-    "path": "Support Services",
-    "icon": "🧼",
-    "years": 1,
-    "salary": 47700,
-    "desc": "Prepares, cleans, inspects, and sterilizes reusable medical instruments for clinical procedures.",
-    "work": "Hospital sterile processing departments and outpatient surgical centers.",
-    "duties": [
-      "Decontaminate and inspect reusable instruments",
-      "Assemble surgical instrument sets",
-      "Monitor sterilization cycles and keep records"
-    ],
-    "edu": "Employer-based instruction or a formal sterile processing program; program lengths vary.",
-    "qualities": "Careful attention to detail, infection prevention, organization, and teamwork.",
-    "requirements": "Certification may be preferred or required by an employer or jurisdiction; verify current credential eligibility.",
-    "related": [
-      "registered-nurse",
-      "health-info-tech",
-      "biomedical-engineer"
-    ],
-    "tags": [
-      "Instrument care",
-      "Infection prevention",
-      "Surgery support"
-    ]
   }
 ];
