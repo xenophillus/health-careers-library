@@ -1,0 +1,23 @@
+name: Career profile structure checks
+on:
+  pull_request:
+    paths:
+      - 'assets/data/**'
+      - 'scripts/validate-profiles*'
+      - '.github/workflows/profile-check.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'assets/data/**'
+      - 'scripts/validate-profiles*'
+      - '.github/workflows/profile-check.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/validate-profiles.mjs
+      - run: node --test scripts/validate-profiles.test.mjs
