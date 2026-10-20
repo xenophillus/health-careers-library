@@ -10,7 +10,12 @@ const featuredMedia = [
 ];
 const eligibleMedia = featuredMedia.filter(item => careers.some(c => c.id === item.id));
 // Choose once per page load: navigating away and back will not reshuffle.
-const featuredSelection = [...eligibleMedia].sort(() => Math.random() - .5).slice(0,3);
+const shuffledMedia = [...eligibleMedia];
+for(let i=shuffledMedia.length-1;i>0;i--){
+  const j=Math.floor(Math.random()*(i+1));
+  [shuffledMedia[i],shuffledMedia[j]]=[shuffledMedia[j],shuffledMedia[i]];
+}
+const featuredSelection = shuffledMedia.slice(0,3);
 function featuredCareer(item,i){
  const career=careers.find(c=>c.id===item.id);
  return `<div class="hero-career ${i===0?'hero-career-main':''}"><button type="button" onclick="route('profile','${item.id}')" aria-label="Explore ${esc(career.name)}"><img src="${item.image}" alt="${esc(item.alt)}" loading="${i===0?'eager':'lazy'}"><span class="hero-career-caption"><strong>${esc(career.name)}</strong><small>${esc(item.label)}</small></span></button><a class="hero-photo-credit" href="${item.source}" target="_blank" rel="noopener noreferrer" aria-label="Photograph credit and source for ${esc(career.name)}">Photo: ${esc(item.credit)} ↗</a></div>`;
