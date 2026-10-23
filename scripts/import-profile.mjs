@@ -8,7 +8,16 @@ export function parseCSV(text) {
  if(quoted)throw Error('Unclosed CSV quote');if(field||row.length){row.push(field);rows.push(row);}return rows;
 }
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-function inline(s){return esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,(_,label,url)=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${label}</a>`).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/(?<!\*)\*([^*]+)\*(?!\*)/g,'<em>$1</em>');}
+function inline(s){
+ const links=[];
+ const linked=String(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,(_,label,url)=>{const i=links.push({label,url})-1;return `LINKTOKEN${i}END`;});
+ const urls=[];
+ const marked=linked.replace(/https?:\/\/[^\s<>]+/g,url=>{const trimmed=url.replace(/[.,;]+$/,'');const i=urls.push(trimmed)-1;return `URLTOKEN${i}END`+url.slice(trimmed.length);});
+ let html=esc(marked).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/(?<!\*)\*([^*]+)\*(?!\*)/g,'<em>$1</em>');
+ const anchor=(label,url)=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`;
+ html=html.replace(/LINKTOKEN(\d+)END/g,(_,i)=>anchor(links[Number(i)].label,links[Number(i)].url));
+ return html.replace(/URLTOKEN(\d+)END/g,(_,i)=>anchor(urls[Number(i)],urls[Number(i)]));
+}
 export function markdownToHtml(text){return text.trim().split(/\n\s*\n/).map(block=>{const ls=block.split('\n');if(ls.every(x=>/^\s*\d+\.\s+/.test(x)))return '<ol>'+ls.map(x=>'<li>'+inline(x.replace(/^\s*\d+\.\s+/,''))+'</li>').join('')+'</ol>';if(ls.every(x=>/^\s*[-*]\s+/.test(x)))return '<ul>'+ls.map(x=>'<li>'+inline(x.replace(/^\s*[-*]\s+/,''))+'</li>').join('')+'</ul>';return '<p>'+ls.map(inline).join(' ')+'</p>';}).join('\n');}
 export function convertRows(rows,workingId,websiteId){
  if(!/^[a-z0-9-]+$/.test(websiteId))throw Error('Invalid website ID');
