@@ -5,6 +5,7 @@ on:
       - 'assets/data/**'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
+      - 'scripts/check-draft-isolation.mjs'
       - '.github/workflows/profile-check.yml'
   push:
     branches: [main, development/library-launch-build]
@@ -21,5 +22,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node scripts/check-draft-isolation.mjs
       - run: node scripts/validate-profiles.mjs
       - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs
