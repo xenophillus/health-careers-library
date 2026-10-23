@@ -14,6 +14,13 @@ Health Careers Library is a free, public, student-facing website for exploring h
 - Label wage figures precisely (e.g., median, percentile, published year and geography); never present lower percentiles as verified starting salaries. Do not fabricate regional pay, licensing, school timelines, or other data.
 - An external competition rubric may be used internally as a completeness checklist, but the public resource must remain independent of any one assignment or HOSA event.
 
+
+## Full-library development and launch
+- Read `docs/LIBRARY_LAUNCH_PLAN.md`, `docs/launch-careers.json`, and `docs/PROFILE_CONTENT_STANDARD.md` before producing or registering career articles.
+- The 60-career inventory is provisional planning data; review occupational overlap and pathway classifications before treating it as authoritative.
+- Work toward one complete launch release rather than merging draft batches into `main`. Never register unreviewed article drafts on the deployed branch.
+- Structural validation alone does not establish factual accuracy or publication readiness. Track progress only after editorial and source verification.
+
 ## Design and images
 - Preserve the existing approachable visual language and responsiveness. Use photographs, illustrations, diagrams, timelines, tables, and cards when each adds educational value; do not decorate merely to fill space.
 - Verify image license and provenance before adding assets. Use appropriate captions, credits, useful alt text, and reliable references. Avoid fragile or unverified hotlinks where practical.
