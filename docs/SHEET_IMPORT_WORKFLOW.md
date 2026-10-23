@@ -13,7 +13,7 @@ node --test scripts/import-profile.test.mjs
 ```
 
 3. Inspect all 14 generated sections for formatting, links, and completeness. The exporter accepts Markdown in the content column and creates trusted escaped HTML. HTML stored in the spreadsheet is intentionally **escaped**, rather than executed. The original sonographer article contains existing HTML, which requires a separate migration/conversion strategy to preserve rich diagrams and tables.
-4. The generated draft is **not registered** in `assets/data/full-profiles.js`. To preview in the website later, use a dedicated development-only preview route or local test harness; do not merge it into the public profile registry.
+4. The generated draft is **not registered** in `assets/data/full-profiles.js`. Preview the generated output through `preview/sterile-processing.html`, served from the repository root using `python3 -m http.server 8000` and opened at `http://localhost:8000/preview/sterile-processing.html`. The preview renders every tab using the site's CSS, without linking or registering the career in the public directory. This file is for local/staging inspection only; do not merge or deploy the development branch until the complete library is approved.
 5. Before approving publication, confirm factual claims, source URLs, images and licenses, descriptions, salary dates, credential pathways, accessibility and browser presentation. Passing the importer and structural tests alone is insufficient.
 
 ## What is covered
