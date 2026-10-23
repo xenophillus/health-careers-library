@@ -5,13 +5,13 @@ on:
       - 'assets/data/**'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
-      - 'scripts/import-profile*'
       - '.github/workflows/profile-check.yml'
   push:
     branches: [main, development/library-launch-build]
     paths:
       - 'assets/data/**'
       - 'scripts/validate-profiles*'
+      - 'scripts/import-profile*'
       - '.github/workflows/profile-check.yml'
 jobs:
   validate:
