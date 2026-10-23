@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "scope": "provisional editorial launch inventory; not published profile data",
+  "pathwayClassification": "proposed; verify ambiguous or cross-pathway roles against current NCHSE guidance",
+  "statusDefinitions": {
+    "not_started": "No complete validated article",
+    "model_review_needed": "Existing model article requires final editorial/source review",
+    "draft": "Article in progress",
+    "fact_check": "Research and references under review",
+    "qa": "Editorial and display checks",
+    "approved": "Ready for release"
+  },
+  "careers": [
+    {
+      "id": "registered-nurse",
+      "name": "Registered Nurse",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "respiratory-therapist",
+      "name": "Respiratory Therapist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "physician",
+      "name": "Physician",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "emt",
+      "name": "Emergency Medical Technician",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "physical-therapist",
+      "name": "Physical Therapist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "occupational-therapist",
+      "name": "Occupational Therapist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "speech-language-pathologist",
+      "name": "Speech-Language Pathologist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "pharmacist",
+      "name": "Pharmacist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "dental-hygienist",
+      "name": "Dental Hygienist",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "paramedic",
+      "name": "Paramedic",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "veterinarian",
+      "name": "Veterinarian",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "vet-technician",
+      "name": "Veterinary Technician",
+      "proposedPathway": "Therapeutic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "sonographer",
+      "name": "Diagnostic Medical Sonographer",
+      "proposedPathway": "Diagnostic Services",
+      "status": "model_review_needed",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "radiologic-technologist",
+      "name": "Radiologic Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "medical-lab-scientist",
+      "name": "Medical Laboratory Scientist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "ct-technologist",
+      "name": "CT Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "mri-technologist",
+      "name": "MRI Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "nuclear-medicine-technologist",
+      "name": "Nuclear Medicine Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "diagnostic-medical-cytologist",
+      "name": "Diagnostic Medical Cytologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "histotechnologist",
+      "name": "Histotechnologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "cardiovascular-technologist",
+      "name": "Cardiovascular Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "electroneurodiagnostic-technologist",
+      "name": "Electroneurodiagnostic Technologist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "phlebotomist",
+      "name": "Phlebotomist",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "pathologists-assistant",
+      "name": "Pathologists' Assistant",
+      "proposedPathway": "Diagnostic Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "health-info-tech",
+      "name": "Health Information Technician",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "medical-coder",
+      "name": "Medical Coder",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "health-informatics-specialist",
+      "name": "Health Informatics Specialist",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-informatics-analyst",
+      "name": "Clinical Informatics Analyst",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "health-data-analyst",
+      "name": "Healthcare Data Analyst",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "ehr-implementation-specialist",
+      "name": "EHR Implementation Specialist",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-documentation-specialist",
+      "name": "Clinical Documentation Integrity Specialist",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "health-information-manager",
+      "name": "Health Information Manager",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "cancer-registrar",
+      "name": "Cancer Registrar",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "medical-records-specialist",
+      "name": "Medical Records Specialist",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "healthcare-privacy-officer",
+      "name": "Healthcare Privacy Officer",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-informatics-nurse",
+      "name": "Clinical Informatics Nurse",
+      "proposedPathway": "Health Informatics",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "sterile-processing-technician",
+      "name": "Sterile Processing Technician",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "community-health-worker",
+      "name": "Community Health Worker",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "biomedical-equipment-technician",
+      "name": "Biomedical Equipment Technician",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "hospital-facilities-manager",
+      "name": "Healthcare Facilities Manager",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "environmental-services-technician",
+      "name": "Healthcare Environmental Services Technician",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "medical-equipment-preparer",
+      "name": "Medical Equipment Preparer",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "healthcare-interpreter",
+      "name": "Healthcare Interpreter",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "dietary-manager",
+      "name": "Healthcare Dietary Manager",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "surgical-instrument-coordinator",
+      "name": "Surgical Instrument Coordinator",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "healthcare-supply-chain-specialist",
+      "name": "Healthcare Supply Chain Specialist",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "patient-transport-technician",
+      "name": "Patient Transport Technician",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "hospital-safety-officer",
+      "name": "Hospital Safety Officer",
+      "proposedPathway": "Support Services",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "biomedical-engineer",
+      "name": "Biomedical Engineer",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": true,
+      "notes": ""
+    },
+    {
+      "id": "biomedical-research-scientist",
+      "name": "Biomedical Research Scientist",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "biochemist",
+      "name": "Biochemist",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "biostatistician",
+      "name": "Biostatistician",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "geneticist",
+      "name": "Geneticist",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "bioinformatics-scientist",
+      "name": "Bioinformatics Scientist",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "bioprocess-technician",
+      "name": "Bioprocess Technician",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-research-coordinator",
+      "name": "Clinical Research Coordinator",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-research-associate",
+      "name": "Clinical Research Associate",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "medical-device-design-engineer",
+      "name": "Medical Device Design Engineer",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "biomedical-laboratory-technician",
+      "name": "Biomedical Research Laboratory Technician",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    },
+    {
+      "id": "clinical-trials-data-manager",
+      "name": "Clinical Trials Data Manager",
+      "proposedPathway": "Biotechnology Research and Development",
+      "status": "not_started",
+      "includedInPilot": false,
+      "notes": ""
+    }
+  ]
+}
