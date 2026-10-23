@@ -17,7 +17,7 @@ Health Careers Library is a free, public, student-facing website for exploring h
 
 ## Full-library development and launch
 - Read `docs/LIBRARY_LAUNCH_PLAN.md`, `docs/launch-careers.json`, and `docs/PROFILE_CONTENT_STANDARD.md` before producing or registering career articles.
-- The 60-career inventory is provisional planning data; review occupational overlap and pathway classifications before treating it as authoritative.
+- The May 2024 NCHSE chart is the baseline for all 192 pathway listings in `docs/launch-careers.json`. The 60-entry first wave is a provisional work priority, and the other 132 entries are an explicit accountability backlog. Review overlaps, source labels, and pathway classifications; do not imply deferred careers are less important. Read `docs/CAREER_COVERAGE.md`.
 - Work toward one complete launch release rather than merging draft batches into `main`. Never register unreviewed article drafts on the deployed branch.
 - Structural validation alone does not establish factual accuracy or publication readiness. Track progress only after editorial and source verification.
 
