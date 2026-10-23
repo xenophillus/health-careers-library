@@ -31,3 +31,18 @@ node --test scripts/import-profile.test.mjs
 - It does not yet convert embedded images, tables, nested list formatting, or complex HTML. These require subsequent work.
 - It does not verify bibliography targets, image licensing, occupational claims, or publication approval. It never modifies `main` or automatically deploys.
 - `assets/data/drafts/sterile-processing-technician.js` is the first converted **development-only** artifact. It remains outside the reviewed profile registry.
+
+
+## Authenticated Google Sheets synchronization (development)
+
+The new `scripts/sync-sheet-drafts.mjs` supports a **read-only Google service account**. It reads Career Profiles and Article Sections from the existing workbook, validates complete 14-section records, and refreshes JavaScript draft files under `assets/data/drafts/`. It deliberately **does not** modify the production registry or deploy the site.
+
+**The GitHub Actions workflow is currently manual-only and is not activated** until credentials are provisioned. To activate it safely:
+
+1. In a Google Cloud project, enable Google Sheets API; create a dedicated service account with no general Drive editing permissions.
+2. Share the editorial spreadsheet with the service account's `client_email` as a **Viewer**, not an Editor. Keep the workbook private otherwise.
+3. Store the service account JSON in a GitHub Actions repository secret called `GOOGLE_SERVICE_ACCOUNT_JSON`. Never place the key in Sheets cells, files or commits.
+4. Invoke **Sync editorial spreadsheet drafts** using GitHub Actions on the `development/library-launch-build` branch. After verifying an initial manual run, an appropriate schedule may be added.
+5. The service account token grants only `spreadsheets.readonly` scope. GitHub's `contents: write` permission is scoped to committing draft files on the development branch.
+
+**Limitations:** This is a prepared authenticated automation, not a running connection. Credentials have not been set by this process. Full automation and synchronization have not been verified end-to-end. Sonographer HTML requires a richer converter and remains handled separately. Published profiles require explicit approval.
