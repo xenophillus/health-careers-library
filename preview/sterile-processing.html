@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sterile Processing Technician — Draft Preview</title>
+<link rel="stylesheet" href="../assets/css/styles.css">
+<style>
+.preview-banner{padding:1rem; background:#fff3d6;color:#4c3600;border-bottom:2px solid #e8ae3b;text-align:center;font-weight:700}
+.preview-head{margin:2rem auto 1rem}.preview-head h1{margin:.5rem 0}.preview-layout{display:grid;grid-template-columns:minmax(200px,260px) minmax(0,1fr);gap:1rem;margin:2rem auto}
+.preview-menu{display:flex;flex-direction:column;gap:.35rem}.preview-menu button{padding:.6rem;text-align:left;border:1px solid #d1d8dd;border-radius:7px;background:transparent;color:inherit;cursor:pointer}.preview-menu button[aria-current="true"]{border-color:#177d80;background:#d7f1ec;font-weight:bold;color:#123c3e}
+.preview-content{min-width:0}.preview-content p{line-height:1.7}.preview-content a{overflow-wrap:anywhere}
+@media(max-width:750px){.preview-layout{grid-template-columns:1fr}.preview-menu{max-height:240px;overflow:auto}}
+@media print{.preview-banner,.preview-menu{display:none}.preview-layout{display:block}}
+</style></head>
+<body>
+<div class="preview-banner">EDITORIAL DRAFT — NOT VERIFIED OR APPROVED FOR PUBLICATION</div>
+<main class="wrap profile">
+<header class="preview-head"><span class="tag">Support Services</span><h1>Sterile Processing Technician</h1><p class="intro">Prepares reusable medical instruments and equipment to support safe clinical procedures.</p><p>Preview of spreadsheet-exported content. Wage and credential details still require editorial verification.</p></header>
+<div class="preview-layout">
+<nav id="section-menu" class="preview-menu panel" aria-label="Draft career sections"></nav>
+<article id="section-content" class="profileCard content preview-content" aria-live="polite"></article>
+</div></main>
+<script type="module">
+import {sections} from '../assets/data/drafts/sterile-processing-technician.js';
+const menu=document.getElementById('section-menu'),content=document.getElementById('section-content');
+function show(index){const section=sections[index];if(!section)return;content.innerHTML='<h2></h2><div class="preview-body"></div>';content.querySelector('h2').textContent=section.name;content.querySelector('.preview-body').innerHTML=section.html;[...menu.children].forEach((button,i)=>button.setAttribute('aria-current',String(i===index)));}
+sections.forEach((section,i)=>{const button=document.createElement('button');button.type='button';button.textContent=section.name;button.addEventListener('click',()=>show(i));menu.appendChild(button);});
+show(0);
+</script></body></html>
