@@ -1,19 +1,31 @@
-import fs from 'node:fs';
+import { createSign } from 'node:crypto';
 import { convertRows, writeDraft } from './import-profile.mjs';
 
 // Read-only source. Sheets API key must have permission to view the workbook.
 // Never commit credentials, never publish without editorial approval.
 const SHEET_ID=process.env.SHEET_ID;
-const key=process.env.GOOGLE_SHEETS_API_KEY;
-if(!SHEET_ID || !key) {
- console.error('Google Sheets sync not configured. Set SHEET_ID and GOOGLE_SHEETS_API_KEY GitHub Actions secret.');
- process.exit(2);
+const credsJson=process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
+if(!SHEET_ID || !credsJson)throw Error('Configure SHEET_ID and GOOGLE_SERVICE_ACCOUNT_JSON before syncing.');
+const creds=JSON.parse(credsJson);
+if(!creds.client_email || !creds.private_key)throw Error('Invalid service account credentials.');
+const b64=v=>Buffer.from(typeof v==='string'?v:JSON.stringify(v)).toString('base64url');
+async function token(){
+ const now=Math.floor(Date.now()/1000);
+ const header={alg:'RS256',typ:'JWT'};
+ const body={iss:creds.client_email,scope:'https://www.googleapis.com/auth/spreadsheets.readonly',aud:'https://oauth2.googleapis.com/token',iat:now,exp:now+3000};
+ const unsigned=b64(header)+'.'+b64(body);
+ const signer=createSign('RSA-SHA256');signer.update(unsigned);signer.end();
+ const assertion=unsigned+'.'+signer.sign(creds.private_key,'base64url');
+ const response=await fetch('https://oauth2.googleapis.com/token',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams({grant_type:'urn:ietf:params:oauth:grant-type:jwt-bearer',assertion})});
+ if(!response.ok)throw Error('Service account OAuth failed: HTTP '+response.status);
+ return (await response.json()).access_token;
 }
+const accessToken=await token();
 async function sheet(name,range){
  const a1=encodeURIComponent("'"+name+"'!"+range);
- const url=`https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(SHEET_ID)}/values/${a1}?key=${encodeURIComponent(key)}`;
- const response=await fetch(url);
- if(!response.ok)throw Error(`Google Sheets read failed for ${name}: HTTP ${response.status}. Check workbook visibility and credentials.`);
+ const url=`https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(SHEET_ID)}/values/${a1}`;
+ const response=await fetch(url,{headers:{Authorization:'Bearer '+accessToken}});
+ if(!response.ok)throw Error(`Google Sheets read failed for ${name}: HTTP ${response.status}. Check service account sharing.`);
  const data=await response.json();return data.values||[];
 }
 const profiles=await sheet('Career Profiles','A1:G250');
