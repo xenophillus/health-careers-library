@@ -4,9 +4,11 @@ on:
     paths:
       - 'assets/data/**'
       - 'scripts/validate-profiles*'
+      - 'scripts/import-profile*'
+      - 'scripts/import-profile*'
       - '.github/workflows/profile-check.yml'
   push:
-    branches: [main]
+    branches: [main, development/library-launch-build]
     paths:
       - 'assets/data/**'
       - 'scripts/validate-profiles*'
@@ -20,4 +22,4 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/validate-profiles.mjs
-      - run: node --test scripts/validate-profiles.test.mjs
+      - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs
