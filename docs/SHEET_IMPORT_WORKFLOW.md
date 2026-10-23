@@ -1,0 +1,33 @@
+# Google Sheets → career article conversion (development)
+
+The editorial workbook is the content source. The importer lives at `scripts/import-profile.mjs` and has **no npm dependencies**.
+
+## Import a profile
+
+1. In the Google Sheets workbook, select the **Article Sections** tab and use File → Download → Comma-separated values (.csv). The export must contain the header row and all 14 rows for the desired career. Save the CSV locally (do not commit it).
+2. From the repository root, run:
+
+```sh
+node scripts/import-profile.mjs path/to/sections.csv hcl-centralserviceorsterileprocessingtechnician sterile-processing-technician assets/data/drafts/sterile-processing-technician.js
+node --test scripts/import-profile.test.mjs
+```
+
+3. Inspect all 14 generated sections for formatting, links, and completeness. The exporter accepts Markdown in the content column and creates trusted escaped HTML. HTML stored in the spreadsheet is intentionally **escaped**, rather than executed. The original sonographer article contains existing HTML, which requires a separate migration/conversion strategy to preserve rich diagrams and tables.
+4. The generated draft is **not registered** in `assets/data/full-profiles.js`. To preview in the website later, use a dedicated development-only preview route or local test harness; do not merge it into the public profile registry.
+5. Before approving publication, confirm factual claims, source URLs, images and licenses, descriptions, salary dates, credential pathways, accessibility and browser presentation. Passing the importer and structural tests alone is insufficient.
+
+## What is covered
+
+- Reads real CSV quoting including multiline article cells.
+- Selects a profile by the workbook's **Working Profile ID**, separate from the website's stable ID.
+- Requires exactly 14 sections with official names in order and nonempty content.
+- Converts paragraphs, basic bold/italic, Markdown links, and simple numbered/bulleted lists.
+- Escapes raw HTML to prevent spreadsheet content becoming executable HTML.
+- Writes a JavaScript module whose `sections` structure matches the reusable profile renderer.
+
+## Current limitations
+
+- The importer requires a manually downloaded CSV; it does not access the authenticated Google Sheets API automatically.
+- It does not yet convert embedded images, tables, nested list formatting, or complex HTML. These require subsequent work.
+- It does not verify bibliography targets, image licensing, occupational claims, or publication approval. It never modifies `main` or automatically deploys.
+- `assets/data/drafts/sterile-processing-technician.js` is the first converted **development-only** artifact. It remains outside the reviewed profile registry.
