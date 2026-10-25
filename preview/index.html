@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Editorial Career Previews — Health Careers Library</title>
-<link rel="stylesheet" href="../assets/css/styles.css">
+<link rel="stylesheet" href="./styles.css">
 <style>
 .preview-banner{padding:.9rem 1rem;background:#fff3d6;color:#4c3600;border-bottom:2px solid #e8ae3b;text-align:center;font-weight:700}
 .preview-head{margin:2rem auto 1rem}.preview-head h1{margin:.4rem 0}.preview-layout{display:grid;grid-template-columns:minmax(210px,290px) minmax(0,1fr);gap:1.25rem;margin:1.3rem auto 2rem}
@@ -30,7 +30,7 @@
 </div>
 </main>
 <script type="module">
-import {draftProfiles} from '../assets/data/drafts/manifest.js';
+import {draftProfiles} from './drafts/manifest.js';
 const selector=document.getElementById('career-select');
 const menu=document.getElementById('section-menu');
 const content=document.getElementById('section-content');
@@ -54,7 +54,7 @@ async function selectCareer(id){
  selector.value=id;
  const url=new URL(location.href);url.searchParams.set('career',id);history.replaceState(null,'',url);
  try{
-  const module=await import('../assets/data/drafts/'+encodeURIComponent(id)+'.js');
+  const module=await import('./drafts/'+encodeURIComponent(id)+'.js');
   if(current!==revision)return;
   if(!Array.isArray(module.sections)||module.sections.length!==14)throw Error('Expected 14 career sections.');
   const sections=module.sections;
