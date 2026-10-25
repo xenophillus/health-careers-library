@@ -1,0 +1,500 @@
+{
+  "checks": [
+    {
+      "id": "biomedical-clinical-technician",
+      "width": 1365,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://aami.org/focus-area/healthcare-technology-management/",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/49-9062.00",
+          "safe": true
+        },
+        {
+          "href": "https://accenet.org/about/Pages/ClinicalEngineer.aspx",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/focus-area/healthcare-technology-management/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/cbet/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/cabt/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/human-factors-and-medical-devices",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "print": {
+        "visibleSections": 15,
+        "draftVisible": true,
+        "overflow": false,
+        "images": []
+      },
+      "errors": []
+    },
+    {
+      "id": "health-information-technologist",
+      "width": 1365,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/who-we-are/about-us/",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-9021.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/certifications/cahims/",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/",
+          "safe": true
+        },
+        {
+          "href": "https://healthit.gov/health-it-basics/benefits-ehrs/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/certification-careers/certifications-overview/career-tools/career-pages/health-information-101/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/certification-careers/certifications-overview/rhit/",
+          "safe": true
+        },
+        {
+          "href": "https://www.cahiim.org/programs/",
+          "safe": true
+        },
+        {
+          "href": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/who-we-are/about-us/",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "print": {
+        "visibleSections": 15,
+        "draftVisible": true,
+        "overflow": false,
+        "images": []
+      },
+      "errors": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "width": 1365,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/1d530fe3-05d7-4633-a7e8-70f9d414489b/RAD_TI_2022.pdf",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+          "safe": true
+        },
+        {
+          "href": "https://www.jrcert.org/find-a-program/",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/about-asrt",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/1d530fe3-05d7-4633-a7e8-70f9d414489b/RAD_TI_2022.pdf",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+          "safe": true
+        },
+        {
+          "href": "https://www.jrcert.org/find-a-program/",
+          "safe": true
+        },
+        {
+          "href": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+          "safe": true
+        },
+        {
+          "href": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/about-asrt",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "print": {
+        "visibleSections": 15,
+        "draftVisible": true,
+        "overflow": false,
+        "images": []
+      },
+      "errors": []
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "width": 390,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://aami.org/focus-area/healthcare-technology-management/",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/49-9062.00",
+          "safe": true
+        },
+        {
+          "href": "https://accenet.org/about/Pages/ClinicalEngineer.aspx",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/focus-area/healthcare-technology-management/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/cbet/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/cabt/",
+          "safe": true
+        },
+        {
+          "href": "https://aami.org/certifications/",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/human-factors-and-medical-devices",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "errors": []
+    },
+    {
+      "id": "health-information-technologist",
+      "width": 390,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/who-we-are/about-us/",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-9021.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/certifications/cahims/",
+          "safe": true
+        },
+        {
+          "href": "https://www.himss.org/",
+          "safe": true
+        },
+        {
+          "href": "https://healthit.gov/health-it-basics/benefits-ehrs/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/certification-careers/certifications-overview/career-tools/career-pages/health-information-101/",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/certification-careers/certifications-overview/rhit/",
+          "safe": true
+        },
+        {
+          "href": "https://www.cahiim.org/programs/",
+          "safe": true
+        },
+        {
+          "href": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+          "safe": true
+        },
+        {
+          "href": "https://www.ahima.org/who-we-are/about-us/",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "errors": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "width": 390,
+      "expectedImages": 0,
+      "sections": 15,
+      "overflow": false,
+      "sectionOverflow": [],
+      "links": [
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/1d530fe3-05d7-4633-a7e8-70f9d414489b/RAD_TI_2022.pdf",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+          "safe": true
+        },
+        {
+          "href": "https://www.jrcert.org/find-a-program/",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/about-asrt",
+          "safe": true
+        },
+        {
+          "href": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.onetonline.org/link/summary/29-2034.00",
+          "safe": true
+        },
+        {
+          "href": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/1d530fe3-05d7-4633-a7e8-70f9d414489b/RAD_TI_2022.pdf",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+          "safe": true
+        },
+        {
+          "href": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiography",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+          "safe": true
+        },
+        {
+          "href": "https://www.jrcert.org/find-a-program/",
+          "safe": true
+        },
+        {
+          "href": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+          "safe": true
+        },
+        {
+          "href": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/",
+          "safe": true
+        },
+        {
+          "href": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+          "safe": true
+        },
+        {
+          "href": "https://www.asrt.org/main/about-asrt",
+          "safe": true
+        }
+      ],
+      "draft": "LOCAL REVIEW ONLY — UNAPPROVED DRAFT — NOT PUBLICLY DEPLOYED",
+      "images": [],
+      "errors": []
+    }
+  ]
+}

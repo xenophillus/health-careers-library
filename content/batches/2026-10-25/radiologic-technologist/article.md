@@ -10,6 +10,8 @@ Radiologic technologists create images that help physicians investigate injuries
 
 Radiographers are part of the Diagnostic Services pathway. They prepare and perform the examination; a radiologist is the physician who interprets the images. Radiography is one branch of medical imaging, alongside fields such as MRI, nuclear medicine, and ultrasound. [ARRT’s radiography overview](https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography) explains this entry point into imaging work.
 
+[O*NET lists Radiologic Technician and Radiographer among reported job titles](https://www.onetonline.org/link/summary/29-2034.00). This profile focuses on general X-ray radiography. Limited-scope X-ray work can have different education and legal limits; it should not be treated as equivalent preparation. CT, mammography, PET, and radiation therapy are distinct areas with their own preparation and responsibilities, rather than qualifications automatically included in a general radiography role.
+
 ## Duties and Responsibilities
 
 The goal is to obtain the requested images safely and accurately. Responsibilities include:

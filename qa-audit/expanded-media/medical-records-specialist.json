@@ -1,0 +1,23 @@
+{
+  "src": null,
+  "caption": null,
+  "alt": null,
+  "credit": "Rod Duren / U.S. Navy",
+  "license": "Public domain in the United States; official U.S. Navy work",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_040914-N-4202D-001_Navy_Civilian_Medical_Records_Technician,_Jeanette_Welch,_boxes_up_medical_records_for_safekeeping_in_the_event_of_damaging_winds_and_flooding.jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "reviewDate": "2026-10-25",
+  "status": "historical_candidate_acquisition_blocked_text_only_recommended",
+  "evidence": [
+    "Commons source identifies medical records technician Jeanette Welch packing records at Naval Hospital Pensacola on September 14, 2004 before Hurricane Ivan; official-duty public-domain status rechecked.",
+    "Ordinary GET of source-linked upload.wikimedia.org original (4/48 path) returned Tunnel connection failed: 403 Forbidden. No bytes saved or retries."
+  ],
+  "limits": [
+    "Pixels uninspected; possible visible record labels cannot be assessed.",
+    "Historical paper records disaster preparation is accurate context but not typical contemporary electronic workflow. If later used, preserve 2004 date and disaster context.",
+    "Released credit says Rod Duren; EXIF says Rod Duran. Prefer released-caption spelling with discrepancy retained in evidence."
+  ],
+  "recommendation": "Retain text-only for current article. Its missing-document/authorized-release example is more representative. Historical photo is optional contextual media, not a gate that must be filled."
+}

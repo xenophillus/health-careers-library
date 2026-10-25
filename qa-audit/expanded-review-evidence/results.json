@@ -1,0 +1,250 @@
+[
+  {
+    "id": "paramedic",
+    "surface": "simple",
+    "width": 1365,
+    "figure": {
+      "loaded": true,
+      "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement.",
+      "fit": "contain",
+      "width": 824,
+      "height": 440,
+      "naturalRatio": 0.74,
+      "source": "assets/images/careers/emt.webp"
+    },
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 1,
+      "imageFit": "contain",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement."
+    },
+    "fails": []
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "surface": "simple",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "cancer-registrar",
+    "surface": "simple",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "medical-records-specialist",
+    "surface": "simple",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "medical-transcriptionist",
+    "surface": "simple",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "paramedic",
+    "surface": "simple",
+    "width": 390,
+    "figure": {
+      "loaded": true,
+      "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement.",
+      "fit": "contain",
+      "width": 302,
+      "height": 408.09375,
+      "naturalRatio": 0.74,
+      "source": "assets/images/careers/emt.webp"
+    },
+    "fails": []
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "surface": "simple",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "cancer-registrar",
+    "surface": "simple",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "medical-records-specialist",
+    "surface": "simple",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "medical-transcriptionist",
+    "surface": "simple",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "paramedic",
+    "surface": "integrated",
+    "width": 1365,
+    "figure": {
+      "loaded": true,
+      "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement.",
+      "fit": "contain",
+      "width": 640,
+      "height": 440,
+      "naturalRatio": 0.74,
+      "source": "assets/images/careers/emt.webp"
+    },
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 1,
+      "imageFit": "contain",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement."
+    },
+    "fails": []
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "surface": "integrated",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "cancer-registrar",
+    "surface": "integrated",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "medical-records-specialist",
+    "surface": "integrated",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "medical-transcriptionist",
+    "surface": "integrated",
+    "width": 1365,
+    "figure": null,
+    "print": {
+      "sections": 15,
+      "visible": true,
+      "draft": true,
+      "images": 0,
+      "imageFit": null
+    },
+    "fails": []
+  },
+  {
+    "id": "paramedic",
+    "surface": "integrated",
+    "width": 390,
+    "figure": {
+      "loaded": true,
+      "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+      "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy · Public domain in the United States: official U.S. Navy work · U.S. government imagery does not imply endorsement.",
+      "fit": "contain",
+      "width": 302,
+      "height": 408.09375,
+      "naturalRatio": 0.74,
+      "source": "assets/images/careers/emt.webp"
+    },
+    "fails": []
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "surface": "integrated",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "cancer-registrar",
+    "surface": "integrated",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "medical-records-specialist",
+    "surface": "integrated",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  },
+  {
+    "id": "medical-transcriptionist",
+    "surface": "integrated",
+    "width": 390,
+    "figure": null,
+    "fails": []
+  }
+]

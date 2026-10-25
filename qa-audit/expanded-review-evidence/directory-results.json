@@ -1,0 +1,122 @@
+[
+  {
+    "width": 1365,
+    "titles": [
+      "Athletic Trainer",
+      "Biomedical/Clinical Engineer",
+      "Cancer Registrar",
+      "Central Service or Sterile Processing Technician",
+      "Dental Assistant",
+      "Diagnostic Medical Sonographer",
+      "Emergency Medical Technician",
+      "Medical Assistant",
+      "Medical Records Technician",
+      "Medical Transcriptionist",
+      "Paramedic"
+    ],
+    "checks": [
+      {
+        "id": "paramedic",
+        "found": [
+          "Paramedic"
+        ],
+        "heading": "🏥 Paramedic",
+        "broken": []
+      },
+      {
+        "id": "biomedical-clinical-engineer",
+        "found": [
+          "Biomedical/Clinical Engineer"
+        ],
+        "heading": "🏥 Biomedical/Clinical Engineer",
+        "broken": []
+      },
+      {
+        "id": "cancer-registrar",
+        "found": [
+          "Cancer Registrar"
+        ],
+        "heading": "🏥 Cancer Registrar",
+        "broken": []
+      },
+      {
+        "id": "medical-records-specialist",
+        "found": [
+          "Medical Records Technician"
+        ],
+        "heading": "🏥 Medical Records Technician",
+        "broken": []
+      },
+      {
+        "id": "medical-transcriptionist",
+        "found": [
+          "Medical Transcriptionist"
+        ],
+        "heading": "🏥 Medical Transcriptionist",
+        "broken": []
+      }
+    ],
+    "fails": [],
+    "errors": []
+  },
+  {
+    "width": 390,
+    "titles": [
+      "Athletic Trainer",
+      "Biomedical/Clinical Engineer",
+      "Cancer Registrar",
+      "Central Service or Sterile Processing Technician",
+      "Dental Assistant",
+      "Diagnostic Medical Sonographer",
+      "Emergency Medical Technician",
+      "Medical Assistant",
+      "Medical Records Technician",
+      "Medical Transcriptionist",
+      "Paramedic"
+    ],
+    "checks": [
+      {
+        "id": "paramedic",
+        "found": [
+          "Paramedic"
+        ],
+        "heading": "🏥 Paramedic",
+        "broken": []
+      },
+      {
+        "id": "biomedical-clinical-engineer",
+        "found": [
+          "Biomedical/Clinical Engineer"
+        ],
+        "heading": "🏥 Biomedical/Clinical Engineer",
+        "broken": []
+      },
+      {
+        "id": "cancer-registrar",
+        "found": [
+          "Cancer Registrar"
+        ],
+        "heading": "🏥 Cancer Registrar",
+        "broken": []
+      },
+      {
+        "id": "medical-records-specialist",
+        "found": [
+          "Medical Records Technician"
+        ],
+        "heading": "🏥 Medical Records Technician",
+        "broken": []
+      },
+      {
+        "id": "medical-transcriptionist",
+        "found": [
+          "Medical Transcriptionist"
+        ],
+        "heading": "🏥 Medical Transcriptionist",
+        "broken": []
+      }
+    ],
+    "fails": [],
+    "errors": []
+  }
+]

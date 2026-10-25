@@ -1,0 +1,23 @@
+[
+  {
+    "file": "qa-audit/mapping-render-evidence/biomedical-clinical-technician.pdf",
+    "draft": true,
+    "professionalAssociations": true,
+    "bibliography": true,
+    "scopePresent": true
+  },
+  {
+    "file": "qa-audit/mapping-render-evidence/health-information-technologist.pdf",
+    "draft": true,
+    "professionalAssociations": true,
+    "bibliography": true,
+    "scopePresent": true
+  },
+  {
+    "file": "qa-audit/mapping-render-evidence/radiologic-technologist.pdf",
+    "draft": true,
+    "professionalAssociations": true,
+    "bibliography": true,
+    "scopePresent": true
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "reviewDate": "2026-10-25",
+  "basis": "Parent-supplied independent source research; local scope correction only",
+  "sourceInventoryEvidence": {
+    "url": "https://healthscienceconsortium.org/wp-content/uploads/2024/10/Health-Science-Career-May-2024-revisions-2.pdf",
+    "finding": "NCHSE lists the titles and pathway appearances, not definitions establishing exact aliases."
+  },
+  "occupationalSource": "https://aami.org/focus-area/healthcare-technology-management/",
+  "disposition": "Scoped draft supported; exact grouped-title meaning and biotechnology appearance remain unresolved.",
+  "preservedSourceAppearanceFields": [
+    "sourcePathways",
+    "sourceAppearanceCount"
+  ],
+  "publicationDecision": "None; existing approval flags unchanged",
+  "limitations": "No canonical Sheet write or accepted full-library coverage claim."
+}

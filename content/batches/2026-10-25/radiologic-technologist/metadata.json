@@ -22,14 +22,14 @@
   "status": "draft",
   "approved": false,
   "canonicalSheetStatus": "new proposed draft; parent must compare full Sheet before insert",
-  "normalizationRationale": "Proposed title uses ASRT/ARRT professional terminology for general radiography while preserving source label Radiologic Technician. Source label alone does not resolve full-scope radiographer versus a limited-scope X-ray role; owner mapping review required. Do not assign source listing to all imaging modalities.",
+  "normalizationRationale": "O*NET 29-2034.00 reports Radiologic Technician and Radiographer as job titles, supporting a general radiographer crosswalk. NCHSE source title remains preserved. Scope excludes equivalence with limited-scope X-ray work and does not fulfill CT, mammography, PET or radiation therapy listings.",
   "doNotCollapse": [
     "CT technologist",
     "Mammographer",
     "Positron Emission Tomography (PET) Technologist",
     "Radiation Therapist"
   ],
-  "mappingStatus": "proposed scope; confirm intended source label",
+  "mappingStatus": "Evidence-supported general-radiographer crosswalk; not publication approval or limited-scope/modality equivalence.",
   "publicationBlockers": [
     "editorial approval",
     "canonical Sheet reconciliation",

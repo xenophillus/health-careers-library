@@ -1,0 +1,22 @@
+{
+  "src": null,
+  "caption": null,
+  "alt": null,
+  "credit": "Intel Free Press",
+  "license": "CC BY 2.0 (candidate only)",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Healthcare_Apps_for_Android_Tablets.jpg",
+  "sha256": null,
+  "placementSection": null,
+  "reviewDate": "2026-10-25",
+  "status": "text_only_recommended_pending_integrator_decision",
+  "evidence": [
+    "Commons provenance and Flickr license review rechecked: Intel Free Press photo captured August 20, 2012, CC BY 2.0.",
+    "Depicted object is a Motorola Xoom tablet; not an identified health information technologist."
+  ],
+  "limits": [
+    "No asset download attempted because editorial fitness rejected before acquisition. No pixels inspected or alt text approved.",
+    "A 2012 tablet photograph does not explain data definitions, workflow testing or current system implementation; could suggest outdated tools are representative."
+  ],
+  "recommendation": "Retain text-only. The illustrative follow-up-report discrepancy already supplies occupation-specific understanding. Reject this historical tablet as a filler hero; a future appropriately sourced workflow diagram would be more useful."
+}

@@ -1,0 +1,29 @@
+{
+  "src": null,
+  "caption": "Physical therapist Lt. Tia Blythe in a clinic at the Silver Strand Training Complex in Coronado, California, in January 2023.",
+  "alt": "Physical therapist posing in a clinic",
+  "credit": "Chelsea D. Meiller / U.S. Navy (DVIDS account: Chelsea Daily)",
+  "license": "Public domain in the United States; DVIDS official-government photograph",
+  "licenseUrl": "https://www.dvidshub.net/about/copyright",
+  "sourceUrl": "https://www.dvidshub.net/image/7628464/junior-physical-therapist-year-one-officer-chasing-her-dreams",
+  "sha256": null,
+  "placementSection": 1,
+  "evidence": "DVIDS photo 7628464, VIRIN 230130-N-GR718-1077; 2100 × 1500. Caption explicitly identifies Blythe as a physical therapist. Source caption credits Chelsea D. Meiller; contributor account is Chelsea Daily. Portrait, not a staged claim about treatment. Independently re-read source identity and public-domain statement with web tools on 2026-10-25. LPN source was readable via search result after initial web open error; RN/surgical via Commons file descriptions; OT/PT via DVIDS individual pages.",
+  "limits": [
+    "No downloaded image; pixel inspection and final alt/caption fit remain pending. Text above is provisional based on source caption, not visual verification.",
+    "Ordinary urllib GET to sourceUrl failed at execution proxy with Tunnel connection failed: 403 Forbidden. No source HTML/image bytes written. No bypass or retry attempted after current failure.",
+    "Retain historical date and setting; do not imply the pictured person or military endorses this library.",
+    "DVIDS copyright policy retains privacy/publicity rights and requires non-endorsement display; image integration must carry the notice.",
+    "Portrait is lower educational value than an authentic treatment image; do not caption it as treatment."
+  ],
+  "requiredNonEndorsementText": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "reuseConditionsUrl": "https://www.dvidshub.net/about/copyright",
+  "status": "blocked-acquisition-and-pixel-review",
+  "downloadOutcome": {
+    "action": "Ordinary source-page GET preparatory to image acquisition",
+    "target": "https://www.dvidshub.net/image/7628464/junior-physical-therapist-year-one-officer-chasing-her-dreams",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "failed; no bytes saved; image GET not reached"
+  },
+  "approved": false
+}

@@ -40,12 +40,13 @@
     "url": "https://www.onetonline.org/link/summary/29-2034.00",
     "accessed": "2026-10-25",
     "sections": [
+      1,
       2,
       4,
       5,
       10
     ],
-    "evidence": "Patient preparation, positioning, image QC, equipment checks, documentation and work contexts. Broad task list not universal clinical authority.",
+    "evidence": "O*NET reported titles include Radiologic Technician and Radiographer, supporting general-radiographer crosswalk. Patient preparation, positioning, image QC, equipment checks, documentation and work contexts. Broad task list does not establish limited-scope equivalence or authority in every modality. Title crosswalk evidence supplied by parent independent research on 2026-10-25.",
     "verificationStatus": "primary source inspected",
     "approvalStatus": "unapproved",
     "workingProfileId": "hcl-radiologictechnician"

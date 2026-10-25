@@ -1,0 +1,8 @@
+{
+  "src": null,
+  "sha256": null,
+  "status": "media_selection_pending",
+  "reason": "No individual-file provenance/license was established in prior evidence. No authenticated suitable alternative selected in this bounded pass; no new asset GET attempted.",
+  "completed": "Substantive source/editorial review and full text catalog desktop/mobile/print checks",
+  "publicationApproval": "unchanged; not approved"
+}

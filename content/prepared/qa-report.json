@@ -52,13 +52,14 @@
       "sourceRecords": 10,
       "canonicalSectionsPresent": 15,
       "canonicalUpdate": "proposed only",
-      "wordCount": 1808,
+      "wordCount": 1830,
       "structuralCheck": "pass",
       "sourceCheck": "See claim-level records; not automatic approval",
       "mediaCheck": "See profile media evidence",
       "independentEditorialReview": "pending unless reviewer documented",
       "renderedQA": "pending integration; runtime owner",
-      "publicationApproval": "Not approved"
+      "publicationApproval": "Not approved",
+      "scopeReview": "See content/batches/2026-10-25/biomedical-clinical-technician/mapping-review.json; no publication approval"
     },
     {
       "folder": "biostatistician",
@@ -142,13 +143,14 @@
       "sourceRecords": 10,
       "canonicalSectionsPresent": 0,
       "canonicalUpdate": "proposed only",
-      "wordCount": 1452,
+      "wordCount": 1521,
       "structuralCheck": "pass",
       "sourceCheck": "See claim-level records; not automatic approval",
       "mediaCheck": "See profile media evidence",
       "independentEditorialReview": "pending unless reviewer documented",
       "renderedQA": "pending integration; runtime owner",
-      "publicationApproval": "Not approved"
+      "publicationApproval": "Not approved",
+      "scopeReview": "See content/batches/2026-10-25/health-information-technologist/mapping-review.json; no publication approval"
     },
     {
       "folder": "licensed-practical-nurse",
@@ -307,13 +309,14 @@
       "sourceRecords": 12,
       "canonicalSectionsPresent": 15,
       "canonicalUpdate": "proposed only",
-      "wordCount": 1490,
+      "wordCount": 1550,
       "structuralCheck": "pass",
       "sourceCheck": "See claim-level records; not automatic approval",
       "mediaCheck": "See profile media evidence",
       "independentEditorialReview": "pending unless reviewer documented",
       "renderedQA": "pending integration; runtime owner",
-      "publicationApproval": "Not approved"
+      "publicationApproval": "Not approved",
+      "scopeReview": "See content/batches/2026-10-25/radiologic-technologist/mapping-review.json; no publication approval"
     },
     {
       "folder": "registered-nurse",

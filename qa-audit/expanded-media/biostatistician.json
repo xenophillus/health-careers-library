@@ -1,0 +1,35 @@
+{
+  "profile": "biostatistician",
+  "src": null,
+  "caption": "Florence Nightingale’s 1858 diagram compares historical causes of mortality in the British Army. The areas of blue, red and black wedges represent deaths from preventable disease, wounds and other causes. It illustrates communicating health evidence, not current healthcare data.",
+  "alt": "Two historical polar-area diagrams with blue, red and black wedges comparing causes of mortality by month",
+  "credit": "Florence Nightingale,1858 / Wikimedia Commons; public domain",
+  "license": "Public domain; historical1858 published work, author died1910; Commons public-domain mark",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "status": "blocked_asset_acquisition",
+  "publicationApproved": false,
+  "verifiedDate": "2026-10-25",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg",
+  "changes": "No downloaded image or derivative created. Caption/alt remain provisional until pixel inspection.",
+  "evidence": {
+    "method": "Individual source page and license text freshly read via web tool; ordinary original-file GET attempted once in current execution environment.",
+    "source": "Commons identifies1858 work, author and David Rumsey source scan. Public-domain assessment refers to the original artwork; no modern dataset or occupation portrait inferred.",
+    "visualInspection": "Not completed: no image bytes received.",
+    "downloadLog": "qa-audit/expanded-media/science-download-log.json"
+  },
+  "limits": [
+    "Pending permitted asset acquisition, actual-pixel inspection and full-aspect-ratio desktop/mobile/print rendering.",
+    "No occupation mapping or public article approval made.",
+    "Historical 1858 publication; public domain based on age and author death in 1910.",
+    "Provide readable explanatory caption and full-resolution link; tiny chart labels will be unreadable at mobile width."
+  ],
+  "blocker": {
+    "action": "Download original and inspect pixels",
+    "target": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "Denied by network proxy; no asset created; not retried or bypassed."
+  }
+}
