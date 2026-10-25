@@ -43,7 +43,15 @@ function updateRange(which,value){
       yMin:'ymin',yMax:'ymax',sMin:'smin',sMax:'smax'
     }[k]);
     if(input)input.value=state[k]
-  }renderResults()
+  }
+  for(const [prefix,low,high,maximum] of [['y',state.yMin,state.yMax,15],['s',state.sMin,state.sMax,250000]]){
+    const range=document.querySelector('#'+prefix+'min')?.closest('.dual-range');
+    if(range){
+      range.style.setProperty('--range-start',(low/maximum*100)+'%');
+      range.style.setProperty('--range-end',(high/maximum*100)+'%');
+    }
+  }
+  renderResults()
 }
 function resetFilters(){
   Object.assign(state,{
