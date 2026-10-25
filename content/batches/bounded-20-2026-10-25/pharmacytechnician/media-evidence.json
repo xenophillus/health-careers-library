@@ -1,0 +1,22 @@
+{
+  "status": "Candidate license documentation reviewed; actual pixel/visual verification missing",
+  "candidates": [
+    {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Airman_first_Class_(A1C)_George_Brown,_left,_and_A1C_Kevin_Johnson,_pharmacy_technicians,_fill_prescriptions_using_the_Composite_Health_Care_System_(CHCS),_a_computer_network_that_links_various_medical_F-3006-SPT-93-000001-XX-0049.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Airman_first_Class_%28A1C%29_George_Brown%2C_left%2C_and_A1C_Kevin_Johnson%2C_pharmacy_technicians%2C_fill_prescriptions_using_the_Composite_Health_Care_System_%28CHCS%29%2C_a_computer_network_that_links_various_medical_F-3006-SPT-93-000001-XX-0049.jpg",
+      "creator": "Tech. Sgt. Rose Reynolds / U.S. Air Force",
+      "license": "Public domain in United States, official U.S. military work",
+      "licenseEvidence": "Commons description identifies pharmacy technicians and photographer; explicit PD-US-Military tag and Defense Imagery source.",
+      "date": "1992-08-01",
+      "caption": "U.S. Air Force pharmacy technicians use a medication information system at Eglin Air Force Base, 1992. Photo by Tech. Sgt. Rose Reynolds.",
+      "alt": "Two military pharmacy technicians working with a computer; final alt text requires pixel review.",
+      "suitability": "Historic equipment; suitable only with prominent historical caption, modern occupational photograph preferred.",
+      "checkedDate": "2026-10-25",
+      "licensePageStatus": "Retrieved and read by author",
+      "pixelsObtained": false,
+      "visualReview": "missing",
+      "downloadStatus": "Web original-image clicks returned URL only, not viewable pixels. Local upload.wikimedia.org image download attempted for Dental_Hygiene-19.jpg and failed at network proxy with Tunnel connection failed:403 Forbidden. No local file acquired.",
+      "embedded": false
+    }
+  ]
+}

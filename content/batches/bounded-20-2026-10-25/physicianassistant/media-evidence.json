@@ -1,0 +1,24 @@
+{
+  "status": "missing_verified_image",
+  "checkedDate": "2026-10-25",
+  "imageIncluded": false,
+  "pixelsObtained": false,
+  "visualReview": "not performed",
+  "licenseVerified": false,
+  "candidate": {
+    "filePage": "https://commons.wikimedia.org/wiki/File:US_Navy_050930-N-6843I-024_U.S._Navy_Ens._Frank_Percy%2C_right%2C_a_physician%27s_assistant_observes_corpsmen_prepare_a_patient_for_a_Computerized_Tomography_%28CT%29_scan.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/US_Navy_050930-N-6843I-024_U.S._Navy_Ens._Frank_Percy%2C_right%2C_a_physician%27s_assistant_observes_corpsmen_prepare_a_patient_for_a_Computerized_Tomography_%28CT%29_scan.jpg",
+    "creatorAsListed": "U.S. Navy / Journalist Seaman S. C. Irwin",
+    "licenseAsListed": "U.S. federal government public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "licenseDeclarationChecked": true,
+    "dateAsListed": "2005-09-30",
+    "provenanceLimit": "Archive identifies PA observing CT preparation at Navy Trauma Training Center; cannot depict routine independent scan operation by a PA. Original Navy ID retained; no visual review yet."
+  },
+  "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "remaining": [
+    "Obtain and inspect actual pixels",
+    "Verify original image-specific provenance and suitability",
+    "Write accurate final caption, alt text and attribution after visual review"
+  ]
+}

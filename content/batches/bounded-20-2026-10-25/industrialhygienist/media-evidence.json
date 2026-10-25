@@ -1,0 +1,21 @@
+{
+  "status": "license_metadata_checked_pixels_missing",
+  "verifiedDate": "2026-10-25",
+  "assets": [
+    {
+      "sourcePage": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=6796",
+      "imageURL": "https://wwwn.cdc.gov/phil/PHIL_Images/20050127/e0403bc8d0f64976a77d9ad3e58b123a/6796_lores.jpg",
+      "creator": "Aaron L Sussell",
+      "provider": "CDC/NIOSH",
+      "creationYear": 1998,
+      "license": "CDC PHIL copyright field permits public-domain reuse with CDC and photographer attribution; confirm alongside agency-use terms before publication.",
+      "licenseURL": "https://www.cdc.gov/other/agencymaterials.html",
+      "caption": "Inspectors in the Philippines practice air-sampling pump calibration during an industrial hygiene course, 1998. Historical training image; not a claim about present-day equipment.",
+      "alt": "Provisional from source caption: Two inspectors practice calibrating air-sampling pumps during an industrial hygiene course.",
+      "licenseStatus": "PHIL metadata and permission field retrieved directly",
+      "pixelStatus": "web image link returned URL; urllib download failed with proxy tunnel403; no visual inspection completed",
+      "localFile": null,
+      "publicationStatus": "Not inserted; visual inspection and final caption/alt review pending"
+    }
+  ]
+}

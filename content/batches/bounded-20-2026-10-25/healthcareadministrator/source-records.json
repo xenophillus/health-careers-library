@@ -1,0 +1,75 @@
+[
+  {
+    "workingProfileId": "hcl-healthcareadministrator",
+    "sourceId": "healthcareadministrator-1",
+    "organizationTitle": "BLS — Medical and Health Services Managers",
+    "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+    "claimSupported": "Broad occupational wage/outlook group, schedule, typical education, and nursing-home administrator state licensure distinction.",
+    "sections": [
+      1,
+      4,
+      7,
+      8,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthcareadministrator",
+    "sourceId": "healthcareadministrator-2",
+    "organizationTitle": "O*NET — Medical and Health Services Managers",
+    "url": "https://www.onetonline.org/link/summary/11-9111.00",
+    "claimSupported": "Management tasks, collaboration, planning and evaluation responsibilities. Section 13 is author-synthesized reflection about evaluating processes, staffing, scheduling, and information needs, grounded in these occupational management duties; not a source-authored or validated professional assessment.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthcareadministrator",
+    "sourceId": "healthcareadministrator-3",
+    "organizationTitle": "ACHE — Healthcare Management Careers",
+    "url": "https://www.ache.org/Career-Resources/Start-Your-Career/Health-Management-Careers",
+    "claimSupported": "Educational routes, career tracks, management settings and advancement.",
+    "sections": [
+      7,
+      10,
+      11,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthcareadministrator",
+    "sourceId": "healthcareadministrator-4",
+    "organizationTitle": "ACHE — Professional Home of Healthcare Leaders",
+    "url": "https://www.ache.org/",
+    "claimSupported": "Professional organization, education and networking.",
+    "sections": [
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthcareadministrator",
+    "sourceId": "healthcareadministrator-5",
+    "organizationTitle": "KDADS — Board of Adult Care Home Administrators",
+    "url": "https://www.kdads.ks.gov/licensing-policy/health-occupations-credentialing/board-of-adult-care-home-administrators-bacha",
+    "claimSupported": "Identity of relevant Kansas board only; no detailed Kansas eligibility asserted.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official search excerpt confirms board regulating Adult Care Home Administrators. Direct retrieval returned 403; detailed state requirement verification remains open."
+  }
+]

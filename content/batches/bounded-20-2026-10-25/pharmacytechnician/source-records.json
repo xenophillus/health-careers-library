@@ -1,0 +1,102 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "U.S. Bureau of Labor Statistics — Pharmacy Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+    "claimSupported": "National May 2025 median, stated outlook if included, settings, education and occupation-level context. Not verified entry-level or Kansas pay.",
+    "sections": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "verificationStatus": "Retrieved official OOH page via web on 2026-10-25.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET OnLine — Pharmacy Technicians",
+    "url": "https://www.onetonline.org/link/summary/29-2052.00",
+    "claimSupported": "Occupational definition, tasks, work context and skills; day-in-life is an original illustrative scenario, not an observed worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      12,
+      13
+    ],
+    "verificationStatus": "Retrieved official occupation page via web on 2026-10-25.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-1",
+    "organizationTitle": "Kansas Board of Pharmacy — Pharmacy Technicians",
+    "url": "https://www.pharmacy.ks.gov/licensing-registration/pharmacy-technicians",
+    "claimSupported": "Kansas registration and national certification examination requirement for technicians registered on or after July 1, 2017.",
+    "sections": [
+      8
+    ],
+    "verificationStatus": "Official indexed text retrieved; full page returned 403. Deadline and renewal details not asserted.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-2",
+    "organizationTitle": "PTCB — Certified Pharmacy Technician",
+    "url": "https://ptcb.org/credentials/certification/certified-pharmacy-technician/",
+    "claimSupported": "PTCB-recognized education/training OR minimum 500 hours equivalent experience eligibility route; examination and credential.",
+    "sections": [
+      7,
+      8
+    ],
+    "verificationStatus": "Retrieved official credential page.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-3",
+    "organizationTitle": "PTCB — I want to be a CPhT",
+    "url": "https://ptcb.org/i-want-to-be-a-cpht/",
+    "claimSupported": "Advanced credentials and technician professional development.",
+    "sections": [
+      10
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-4",
+    "organizationTitle": "ASHP — Pharmacy Technicians",
+    "url": "https://www.ashp.org/pharmacy-technicians",
+    "claimSupported": "Technician education and professional community.",
+    "sections": [
+      10,
+      14
+    ],
+    "verificationStatus": "Retrieved official association page.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-5",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-1663",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_016_0000_article/065_016_0063_section/065_016_0063_k/",
+    "claimSupported": "Kansas registration, pharmacist supervision and certification-examination requirements.",
+    "sections": [
+      1,
+      7,
+      8
+    ],
+    "verificationStatus": "Direct full statute retrieved via web; subsection (a), (i), (k) spot-checked.",
+    "workingProfileId": "hcl-pharmacytechnician",
+    "verifiedDate": "2026-10-25"
+  }
+]

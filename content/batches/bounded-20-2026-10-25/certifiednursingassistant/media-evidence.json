@@ -1,0 +1,13 @@
+{
+  "status": "Image verification missing; no suitable candidate selected",
+  "pixelsObtained": false,
+  "visualReview": "missing",
+  "candidates": [],
+  "rejectedCandidates": [
+    {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Predisan_Nursing_Assistant_Aury_Navarro.JPG",
+      "reason": "Indexed description is oral-hygiene outreach in Honduras; not representative evidence of US CNA duties or scope. Not selected, license not cleared."
+    }
+  ],
+  "nextAction": "Obtain an authentic US nursing-assistant care photograph with explicit license and inspect actual pixels before integration."
+}

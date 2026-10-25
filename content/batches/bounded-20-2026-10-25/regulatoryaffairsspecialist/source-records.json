@@ -1,0 +1,97 @@
+[
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R1",
+    "organizationTitle": "O*NET — Regulatory Affairs Specialists",
+    "url": "https://www.onetonline.org/link/summary/13-1041.07",
+    "claimSupported": "Specialist duties and mapping to the broader Compliance Officers wage group.",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R2",
+    "organizationTitle": "FDA — Classify Your Medical Device",
+    "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device",
+    "claimSupported": "Risk-based device classes and baseline controls.",
+    "sections": [
+      2,
+      3
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R3",
+    "organizationTitle": "FDA — Overview of Device Regulation",
+    "url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation",
+    "claimSupported": "Different controls and pathways for medical devices.",
+    "sections": [
+      1,
+      2,
+      3,
+      7,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R4",
+    "organizationTitle": "RAPS — Regulatory Affairs Certification",
+    "url": "https://www.raps.org/certify-advance/credentials/rac.html",
+    "claimSupported": "RAC-Drugs and RAC-Devices, education/experience eligibility and examination.",
+    "sections": [
+      7,
+      8,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R5",
+    "organizationTitle": "BLS — Compliance Officers",
+    "url": "https://www.bls.gov/ooh/business-and-financial/compliance-officers.htm",
+    "claimSupported": "May 2025 U.S. median $80,730 for broad compliance-officer category.",
+    "sections": [
+      4,
+      6,
+      7,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-regulatoryaffairsspecialist",
+    "sourceId": "R6",
+    "organizationTitle": "RAPS — Professional society",
+    "url": "https://www.raps.org/",
+    "claimSupported": "Professional education, publications and regulatory community.",
+    "sections": [
+      11,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary association homepage retrieved directly2026-10-25; identity and listed resources checked"
+  }
+]

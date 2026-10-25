@@ -1,0 +1,18 @@
+{
+  "reviewDate": "2026-10-25",
+  "status": "missing_verified_image",
+  "selectedImage": null,
+  "authenticOccupationalPhotoIncluded": false,
+  "licenseVerification": "No selected image license cleared",
+  "pixelVerification": "No image pixels acquired or visually verified",
+  "attempts": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PARTY_AT_HOME_OF_HOSPITAL_ADMINISTRATOR_BOB_GEORGESON_LIKE_MOST_OF_RIFLE%27S_SOCIAL_EVENTS,_IS_INFORMAL_-_NARA_-_552646.jpg",
+      "result": "Search result describes a 1972 social event at an administrator home, credited to David Hiser/EPA.",
+      "licenseStatus": "Search result states public-domain EPA employee work; original record not independently checked",
+      "pixelStatus": "Not downloaded; rejected from description",
+      "decision": "Not selected: unrelated to workplace responsibilities"
+    }
+  ],
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+}

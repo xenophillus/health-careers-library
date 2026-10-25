@@ -1,0 +1,26 @@
+{
+  "reviewDate": "2026-10-25",
+  "status": "missing_verified_image",
+  "selectedImage": null,
+  "authenticOccupationalPhotoIncluded": false,
+  "licenseVerification": "No selected image license cleared",
+  "pixelVerification": "No image pixels acquired or visually verified",
+  "attempts": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_size_doesn't_fit_all_140807-F-LX971-169.jpg",
+      "originalSourceUrl": "https://www.dvidshub.net/image/1497019",
+      "result": "Commons record retrieved: medical interpreter observes an Afghan soldier receiving an ocular prosthesis in 2014; U.S. Air Force photo by Master Sgt. Cohen A. Young.",
+      "licenseStatus": "Commons explicitly identifies public-domain U.S. Air Force official work; original DVIDS record not independently checked",
+      "pixelStatus": "Not downloaded or visually inspected; declined from description",
+      "decision": "Not selected: procedure-centered military image is not the best general illustration of interpretation; actual visual suitability unverified"
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medical_Interpreter_-_The_Noun_Project.svg",
+      "result": "Search returned icon, not authentic photograph.",
+      "licenseStatus": "Not checked; not selected",
+      "pixelStatus": "Not obtained",
+      "decision": "Not selected: icon would be decorative"
+    }
+  ],
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+}

@@ -1,0 +1,23 @@
+{
+  "status": "Candidate license documentation reviewed; actual pixel/visual verification missing",
+  "candidates": [
+    {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Woman_consults_with_pharmacist.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/3/31/Woman_consults_with_pharmacist.jpg",
+      "creator": "Rhoda Baer / National Cancer Institute",
+      "originalSource": "https://visualsonline.cancer.gov/details.cfm?imageid=7512",
+      "license": "Public domain; author release and NCI reuse statement recorded on Commons",
+      "licenseEvidence": "Commons page includes photographer credit, NCI image ID7512 and explicit reuse-restrictions-none statement; originating NCI record not independently retrieved.",
+      "date": "2005-12-07",
+      "caption": "A pharmacist explains a prescription to a patient. Photograph by Rhoda Baer, National Cancer Institute, 2005.",
+      "alt": "Pharmacist discussing a prescription with a patient; final alt text requires pixel review.",
+      "suitability": "Directly relevant counseling scene; older image date must be retained.",
+      "checkedDate": "2026-10-25",
+      "licensePageStatus": "Retrieved and read by author",
+      "pixelsObtained": false,
+      "visualReview": "missing",
+      "downloadStatus": "Web original-image clicks returned URL only, not viewable pixels. Local upload.wikimedia.org image download attempted for Dental_Hygiene-19.jpg and failed at network proxy with Tunnel connection failed:403 Forbidden. No local file acquired.",
+      "embedded": false
+    }
+  ]
+}

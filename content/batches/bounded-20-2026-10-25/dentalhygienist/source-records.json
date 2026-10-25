@@ -1,0 +1,100 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "U.S. Bureau of Labor Statistics — Dental Hygienists",
+    "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+    "claimSupported": "National May 2025 median, stated outlook if included, settings, education and occupation-level context. Not verified entry-level or Kansas pay.",
+    "sections": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "verificationStatus": "Retrieved official OOH page via web on 2026-10-25.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET OnLine — Dental Hygienists",
+    "url": "https://www.onetonline.org/link/summary/29-1292.00",
+    "claimSupported": "Occupational definition, tasks, work context and skills; day-in-life is an original illustrative scenario, not an observed worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      12,
+      13
+    ],
+    "verificationStatus": "Retrieved official occupation page via web on 2026-10-25.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-1",
+    "organizationTitle": "American Dental Hygienists’ Association — Roles of an RDH",
+    "url": "https://www.adha.org/becomeahygienist/roles-of-an-rdh/",
+    "claimSupported": "Clinical and nonclinical roles including education, research and administration.",
+    "sections": [
+      1,
+      10,
+      11
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-2",
+    "organizationTitle": "ADHA — Find a Dental Hygiene Program",
+    "url": "https://www.adha.org/becomeahygienist/degree-options/dental-hygiene-programs/",
+    "claimSupported": "Entry-level and degree-completion routes are distinct.",
+    "sections": [
+      7
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-3",
+    "organizationTitle": "Kansas Dental Board — Hygienist applications",
+    "url": "https://www.dental.ks.gov/hygienists/applications",
+    "claimSupported": "Kansas dental hygiene application and licensing authority.",
+    "sections": [
+      8
+    ],
+    "verificationStatus": "Official indexed text retrieved; direct page returned 403; detailed checklist not verified.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-4",
+    "organizationTitle": "American Dental Hygienists’ Association",
+    "url": "https://www.adha.org/",
+    "claimSupported": "Education, professional resources and association role.",
+    "sections": [
+      14
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-5",
+    "organizationTitle": "ADA — Dental career pathways",
+    "url": "https://www.ada.org/resources/careers/career-pathways",
+    "claimSupported": "Distinctions among hygienists, dentists, assistants and dental laboratory technicians.",
+    "sections": [
+      12
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentalhygienist",
+    "verifiedDate": "2026-10-25"
+  }
+]

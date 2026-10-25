@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-nuclearmedicinetechnologist",
+  "title": "Nuclear Medicine Technologist",
+  "sourceTitle": "Nuclear Medicine Technologist",
+  "sourceKey": "nuclearmedicinetechnologist",
+  "sourceIndices": [
+    75
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Exact inventory title; PET and other imaging inventory entries not silently merged into this profile.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Proposed only; no Sheet read or write by this batch"
+}

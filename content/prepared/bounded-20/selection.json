@@ -1,0 +1,371 @@
+{
+  "batch": "bounded-20-2026-10-25",
+  "baseCommit": "23161b6cf3c815a45d2318f609ac410278e64f9c",
+  "pr11CheckedHead": "8638950f3c9f0994e5544fb708afbd378d3b52fc",
+  "selectedExactTitles": 20,
+  "selectedSourceAppearances": 22,
+  "inventoryAppearances": 192,
+  "inventoryExactTitles": 182,
+  "records": [
+    {
+      "sourceKey": "certifiednursingassistant",
+      "sourceTitle": "Certified Nursing Assistant",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 6,
+          "sourceTitle": "Certified Nursing Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "certifiednursingassistant",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "sourceTitle": "Dental Hygienist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 10,
+          "sourceTitle": "Dental Hygienist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "dentalhygienist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "dentist",
+      "sourceTitle": "Dentist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 12,
+          "sourceTitle": "Dentist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "dentist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "sourceTitle": "Pharmacy Technician",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 35,
+          "sourceTitle": "Pharmacy Technician",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "pharmacytechnician",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "pharmacist",
+      "sourceTitle": "Pharmacist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 34,
+          "sourceTitle": "Pharmacist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "pharmacist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "sourceTitle": "Respiratory Therapist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 47,
+          "sourceTitle": "Respiratory Therapist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "respiratorytherapist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        },
+        {
+          "sourceIndex": 95,
+          "sourceTitle": "Respiratory Therapist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "respiratorytherapist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "sourceTitle": "Speech Language Pathologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 49,
+          "sourceTitle": "Speech Language Pathologist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "speechlanguagepathologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "sourceTitle": "Physician Assistant",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 39,
+          "sourceTitle": "Physician Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "physicianassistant",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "sourceTitle": "Nuclear Medicine Technologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 75,
+          "sourceTitle": "Nuclear Medicine Technologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "nuclearmedicinetechnologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "sourceTitle": "Medical Laboratory Scientist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 73,
+          "sourceTitle": "Medical Laboratory Scientist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "medicallaboratoryscientist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "epidemiologist",
+      "sourceTitle": "Epidemiologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 109,
+          "sourceTitle": "Epidemiologist",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "epidemiologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "sourceTitle": "Healthcare Administrator",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 115,
+          "sourceTitle": "Healthcare Administrator",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "healthcareadministrator",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        },
+        {
+          "sourceIndex": 149,
+          "sourceTitle": "Healthcare Administrator",
+          "sourcePathway": "Support Services",
+          "sourceKey": "healthcareadministrator",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "sourceTitle": "Clinical Data Management Specialist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 104,
+          "sourceTitle": "Clinical Data Management Specialist",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "clinicaldatamanagementspecialist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "interpreter",
+      "sourceTitle": "Interpreter",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 153,
+          "sourceTitle": "Interpreter",
+          "sourcePathway": "Support Services",
+          "sourceKey": "interpreter",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "patientnavigator",
+      "sourceTitle": "Patient Navigator",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 155,
+          "sourceTitle": "Patient Navigator",
+          "sourcePathway": "Support Services",
+          "sourceKey": "patientnavigator",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "sourceTitle": "Clinical Trials Research Coordinator",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 173,
+          "sourceTitle": "Clinical Trials Research Coordinator",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "clinicaltrialsresearchcoordinator",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "regulatoryaffairsspecialist",
+      "sourceTitle": "Regulatory Affairs Specialist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 189,
+          "sourceTitle": "Regulatory Affairs Specialist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "regulatoryaffairsspecialist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "toxicologist",
+      "sourceTitle": "Toxicologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 192,
+          "sourceTitle": "Toxicologist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "toxicologist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "sourceTitle": "Molecular Biologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 179,
+          "sourceTitle": "Molecular Biologist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "molecularbiologist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "sourceTitle": "Industrial Hygienist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 152,
+          "sourceTitle": "Industrial Hygienist",
+          "sourcePathway": "Support Services",
+          "sourceKey": "industrialhygienist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "selectionReason": "Missing from the 24 prepared PR #11 drafts; prioritize remaining priority-wave titles and broaden all-pathway coverage."
+    }
+  ]
+}

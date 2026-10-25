@@ -1,0 +1,88 @@
+[
+  {
+    "workingProfileId": "hcl-molecularbiologist",
+    "sourceId": "R1",
+    "organizationTitle": "O*NET — Molecular and Cellular Biologists",
+    "url": "https://www.onetonline.org/link/summary/19-1029.02",
+    "claimSupported": "Exact reported title Molecular Biologist; tasks, preparation and broader Biological Scientists, All Other wage mapping; 2025 U.S. median $98,920 and 2025–2035 group growth 5–6%.",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-molecularbiologist",
+    "sourceId": "R2",
+    "organizationTitle": "NHGRI — Genetics and Molecular Biology Branch",
+    "url": "https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Genetics-Molecular-Biology-Branch",
+    "claimSupported": "Research using genetic/genomic technologies to understand genomes and disease mechanisms.",
+    "sections": [
+      1,
+      2,
+      3,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-molecularbiologist",
+    "sourceId": "R3",
+    "organizationTitle": "ASBMB — Exploring Careers in Biochemistry and Molecular Biology",
+    "url": "https://www.asbmb.org/getmedia/f7c551d5-682e-44b1-a7a3-0cb3bcef9eac/asbmb-career-brochure-2017.pdf",
+    "claimSupported": "Career preparation and range of scientific paths; brochure is dated 2017, not current wage evidence.",
+    "sections": [
+      4,
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-molecularbiologist",
+    "sourceId": "R4",
+    "organizationTitle": "BLS — Biochemists and Biophysicists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+    "claimSupported": "Related research-field education and research conditions; no wage imported as a molecular-biologist statistic.",
+    "sections": [
+      4,
+      6,
+      7,
+      10,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-molecularbiologist",
+    "sourceId": "R5",
+    "organizationTitle": "ASBMB — Professional society",
+    "url": "https://www.asbmb.org/",
+    "claimSupported": "Scientific community, publications and professional development.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  }
+]

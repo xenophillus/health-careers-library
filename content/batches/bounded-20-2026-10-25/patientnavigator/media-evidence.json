@@ -1,0 +1,18 @@
+{
+  "reviewDate": "2026-10-25",
+  "status": "missing_verified_image",
+  "selectedImage": null,
+  "authenticOccupationalPhotoIncluded": false,
+  "licenseVerification": "No selected image license cleared",
+  "pixelVerification": "No image pixels acquired or visually verified",
+  "attempts": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Mike_Enzi",
+      "result": "Search found a 2005 bill-signing photograph related to patient navigation legislation, not navigator duties.",
+      "licenseStatus": "Not checked because irrelevant",
+      "pixelStatus": "Not downloaded; rejected from description",
+      "decision": "Not selected"
+    }
+  ],
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+}

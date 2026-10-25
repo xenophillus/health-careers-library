@@ -1,0 +1,24 @@
+{
+  "status": "missing_verified_image",
+  "checkedDate": "2026-10-25",
+  "imageIncluded": false,
+  "pixelsObtained": false,
+  "visualReview": "not performed",
+  "licenseVerified": false,
+  "candidate": {
+    "filePage": "https://commons.wikimedia.org/wiki/File:Medical_Laboratory_Scientist_US_NIH.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Medical_Laboratory_Scientist_US_NIH.jpg",
+    "creatorAsListed": "National Institutes of Health (Commons attribution)",
+    "licenseAsListed": "Public domain claim; federal authorship not independently established",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "licenseDeclarationChecked": false,
+    "dateAsListed": null,
+    "provenanceLimit": "Commons warns NIH also uses commercial images. Original image-specific federal authorship not confirmed; public-domain label alone is insufficient."
+  },
+  "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "remaining": [
+    "Obtain and inspect actual pixels",
+    "Verify original image-specific provenance and suitability",
+    "Write accurate final caption, alt text and attribution after visual review"
+  ]
+}

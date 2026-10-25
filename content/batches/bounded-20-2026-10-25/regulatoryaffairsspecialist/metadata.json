@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-regulatoryaffairsspecialist",
+  "title": "Regulatory Affairs Specialist",
+  "sourceTitle": "Regulatory Affairs Specialist",
+  "sourceKey": "regulatoryaffairsspecialist",
+  "sourceIndices": [
+    189
+  ],
+  "sourcePathways": [
+    "Biotechnology Research and Development"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact inventory Regulatory Affairs Specialist mapped to O*NET 13-1041.07; healthcare-product scope explicitly described, not all compliance work."
+}

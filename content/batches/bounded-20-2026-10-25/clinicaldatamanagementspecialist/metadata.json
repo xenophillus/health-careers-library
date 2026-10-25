@@ -1,0 +1,15 @@
+{
+  "title": "Clinical Data Management Specialist",
+  "sourceTitle": "Clinical Data Management Specialist",
+  "sourceKey": "clinicaldatamanagementspecialist",
+  "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+  "sourceIndices": [
+    104
+  ],
+  "sourcePathways": [
+    "Health Informatics"
+  ],
+  "mapping": "Exact source title index 104 retained; documented scoped mapping to O*NET Clinical Data Managers 15-2051.02, specifically clinical research data management. Other Clinical Data Specialist/Data Miner/Associate labels remain separate.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Unapproved editorial source; no publication or canonical action"
+}

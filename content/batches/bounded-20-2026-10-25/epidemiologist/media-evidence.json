@@ -1,0 +1,25 @@
+{
+  "reviewDate": "2026-10-25",
+  "status": "missing_verified_image",
+  "selectedImage": null,
+  "authenticOccupationalPhotoIncluded": false,
+  "licenseVerification": "No selected image license cleared",
+  "pixelVerification": "No image pixels acquired or visually verified",
+  "attempts": [
+    {
+      "sourceUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=31707",
+      "result": "Search excerpt retrieved; direct web retrieval inaccessible. No exact depiction/credit independently confirmed.",
+      "licenseStatus": "Search excerpt states public domain; not sufficiently verified for use",
+      "pixelStatus": "Not obtained",
+      "decision": "Do not use"
+    },
+    {
+      "sourceUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=30821",
+      "result": "Direct primary record retrieved. Caption identifies CDC staff and attendees at a 1964 vector-borne disease epidemiology course; provider CDC/Dr. H.G. Scott.",
+      "licenseStatus": "Record displays public-domain reuse/attribution language; CDC and known photographer credit required",
+      "pixelStatus": "Not downloaded or visually inspected; candidate rejected from description before download",
+      "decision": "Not selected: historical course group photo does not explain modern epidemiology work well"
+    }
+  ],
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+}

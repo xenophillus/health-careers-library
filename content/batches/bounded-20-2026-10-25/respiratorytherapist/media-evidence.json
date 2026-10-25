@@ -1,0 +1,24 @@
+{
+  "status": "missing_verified_image",
+  "checkedDate": "2026-10-25",
+  "imageIncluded": false,
+  "pixelsObtained": false,
+  "visualReview": "not performed",
+  "licenseVerified": false,
+  "candidate": {
+    "filePage": "https://commons.wikimedia.org/wiki/File:Respiratory_therapist_at_Baystate_Health_NICU.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Respiratory_therapist_at_Baystate_Health_NICU.jpg",
+    "creatorAsListed": "Rose State Community College",
+    "licenseAsListed": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "licenseDeclarationChecked": true,
+    "dateAsListed": "2012-03-26",
+    "provenanceLimit": "Commons identifies respiratory therapist in neonatal intensive care. Source credit lacks original institutional image URL; that provenance chain needs confirmation."
+  },
+  "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "remaining": [
+    "Obtain and inspect actual pixels",
+    "Verify original image-specific provenance and suitability",
+    "Write accurate final caption, alt text and attribution after visual review"
+  ]
+}

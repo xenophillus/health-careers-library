@@ -1,0 +1,123 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "U.S. Bureau of Labor Statistics \u2014 Pharmacists",
+    "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+    "claimSupported": "National May 2025 median, stated outlook if included, settings, education and occupation-level context. Not verified entry-level or Kansas pay. Section10: BLS describes advanced clinical residency/fellowship, specialty certification, and pharmaceutical research roles.",
+    "sections": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "verificationStatus": "Retrieved official OOH page via web on 2026-10-25.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET OnLine \u2014 Pharmacists",
+    "url": "https://www.onetonline.org/link/summary/29-1051.00",
+    "claimSupported": "Occupational definition, tasks, work context and skills; day-in-life is an original illustrative scenario, not an observed worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      12,
+      13
+    ],
+    "verificationStatus": "Retrieved official occupation page via web on 2026-10-25.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-1",
+    "organizationTitle": "American Association of Colleges of Pharmacy \u2014 PharmD Program Structures",
+    "url": "https://www.aacp.org/resource/pharmd-program-structures",
+    "claimSupported": "Programs differ in pre-pharmacy coursework and degree requirements.",
+    "sections": [
+      7
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-2",
+    "organizationTitle": "AACP \u2014 International Students and Graduates",
+    "url": "https://www.aacp.org/resource/international-students-and-graduates",
+    "claimSupported": "US PharmD professional education follows prerequisite undergraduate study; program structures vary.",
+    "sections": [
+      7
+    ],
+    "verificationStatus": "Retrieved official page; US education paragraph used, not international licensure guidance.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-3",
+    "organizationTitle": "Accreditation Council for Pharmacy Education",
+    "url": "https://www.acpe-accredit.org/",
+    "claimSupported": "ACPE accredits PharmD programs.",
+    "sections": [
+      7
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-4",
+    "organizationTitle": "Kansas Board of Pharmacy \u2014 Pharmacists",
+    "url": "https://www.pharmacy.ks.gov/licensing-registration/pharmacists",
+    "claimSupported": "Kansas licensing authority and application routes.",
+    "sections": [
+      8
+    ],
+    "verificationStatus": "Official indexed text retrieved; full page 403. Exact current law examination options not asserted.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-5",
+    "organizationTitle": "American Pharmacists Association",
+    "url": "https://www.pharmacist.com/",
+    "claimSupported": "Professional education, practice resources and pharmacist community.",
+    "sections": [
+      14
+    ],
+    "verificationStatus": "Retrieved official association page.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-6",
+    "organizationTitle": "AACP \u2014 Who We Are",
+    "url": "https://www.aacp.org/article/who-we-are",
+    "claimSupported": "PharmD and professional licensure are separate steps; pharmacy education context.",
+    "sections": [
+      7,
+      8
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-pharmacist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "workingProfileId": "hcl-pharmacist",
+    "sourceId": "aacp-academic",
+    "organizationTitle": "American Association of Colleges of Pharmacy",
+    "url": "https://www.aacp.org/",
+    "claimSupported": "Pharmacy academic careers and education resources; academic pharmacy career center.",
+    "sections": [
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official home page retrieved via search; academic pharmacy career-center description read."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-dentalhygienist",
+  "title": "Dental Hygienist",
+  "sourceKey": "dentalhygienist",
+  "sourceIndices": [
+    10
+  ],
+  "sourceTitle": "Dental Hygienist",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; clinical profile does not merge other inventory labels."
+}
