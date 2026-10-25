@@ -44,7 +44,7 @@ for(const profile of profiles.slice(1)){
  if(profile[status]==='Approved')continue; // reviewed publishing requires a separate manual process
  if(profile[status]!=='Draft'&&profile[status]!=='Fact check'&&profile[status]!=='QA')continue;
  const selected=rows.slice(1).filter(r=>r[0]===workingId);
- if(selected.length!==14 || selected.some(r=>!r[3]?.trim()))continue; // unfinished profiles are tracked in Sheets
+ if(selected.length!==15 || selected.some(r=>!r[3]?.trim()))continue; // unfinished profiles are tracked in Sheets
  const sections=convertRows(rows,workingId,websiteId);
  writeDraft(sections,`assets/data/drafts/${websiteId}.js`);
  writeDraft(sections,`preview/drafts/${websiteId}.js`);
