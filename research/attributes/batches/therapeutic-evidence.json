@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "acupuncturist",
+    "title": "Acupuncturist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Acupuncturist",
+      "source": "https://www.onetonline.org/link/summary/29-1291.00",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Evaluate treatment outcomes and change treatment plans as needed.",
+        "source": "https://www.onetonline.org/link/summary/29-1291.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "anesthesiologistassistant",
+    "title": "Anesthesiologist Assistant",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Anesthesiologist Assistant",
+      "source": "https://www.onetonline.org/link/summary/29-1071.01",
+      "note": "Exact O*NET heading; reported titles include other anesthesia support roles, so no universal exposure inferred."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Pretest and calibrate anesthesia systems and monitors.",
+        "source": "https://www.onetonline.org/link/summary/29-1071.01",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "Listed tasks include administering blood products; procedure and local responsibilities determine exposure.",
+        "source": "https://www.onetonline.org/link/summary/29-1071.01",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Listed tasks include resuscitation; frequency depends on the procedural setting.",
+        "source": "https://www.onetonline.org/link/summary/29-1071.01",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "artmusicdancetherapists",
+    "title": "Art/Music/Dance Therapist(s)",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": "Art therapists / music therapists / dance therapists",
+      "source": "https://www.onetonline.org/link/summary/29-1129.01",
+      "note": "Combined source label spans separate creative therapy professions. O*NET separately describes art and music therapists (29-1129.02); neither alone represents this whole entry."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "athletictrainer",
+    "title": "Athletic Trainer",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Athletic Trainer",
+      "source": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "emergencies": {
+        "status": "core",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "First aid and emergency care are listed typical duties; trainers are often first healthcare providers at on-field injuries.",
+        "source": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Keep accurate records of injuries and treatment programs.",
+        "source": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "audiologist",
+    "title": "Audiologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Audiologist",
+      "source": "https://www.bls.gov/ooh/healthcare/audiologists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Counsel patients and families on communication and prevention of hearing loss.",
+        "source": "https://www.bls.gov/ooh/healthcare/audiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Assess examination results to identify hearing and balance problems.",
+        "source": "https://www.bls.gov/ooh/healthcare/audiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "certifiednursingassistant",
+    "title": "Certified Nursing Assistant",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Nursing assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+      "note": "BLS explicitly identifies Certified Nursing Assistant as a state-specific nursing-assistant title; orderlies duties not imported."
+    },
+    "attributes": {
+      "personalCare": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "personal-care tasks",
+        "explanation": "Help patients bathe, dress, and use the toilet.",
+        "source": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Turn, reposition, and transfer patients between beds and wheelchairs.",
+        "source": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Listen to patients’ health concerns and report them to nurses.",
+        "source": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "certifiedrnanesthetistcrna",
+    "title": "Certified RN Anesthetist (CRNA)",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Nurse anesthetist",
+      "source": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+      "note": "Uses nurse-anesthetist-specific passage, not duties exclusive to nurse midwives."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Monitor vital signs during procedures and adjust anesthesia as needed.",
+        "source": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "chiropractor",
+    "title": "Chiropractor",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Chiropractor",
+      "source": "https://www.bls.gov/ooh/healthcare/chiropractors.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Review health history and listen to patient concerns.",
+        "source": "https://www.bls.gov/ooh/healthcare/chiropractors.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Advise patients about exercise and other health and lifestyle issues.",
+        "source": "https://www.bls.gov/ooh/healthcare/chiropractors.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dentalassistant",
+    "title": "Dental Assistant",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Dental Assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Explain procedures and oral hygiene to patients.",
+        "source": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Keep treatment records and schedule appointments.",
+        "source": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dentalhygienist",
+    "title": "Dental Hygienist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Dental Hygienist",
+      "source": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients brushing, flossing, and other oral hygiene techniques.",
+        "source": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Assess oral health and report findings to dentists.",
+        "source": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dentallabtechnician",
+    "title": "Dental Lab Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Dental laboratory technician",
+      "source": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm",
+      "note": "Dental laboratory technician subsection only; no ophthalmic or medical appliance duties imported."
+    },
+    "attributes": {
+      "make": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "making practical things",
+        "explanation": "Use molds and small tools to create crowns, bridges, dentures, and other dental appliances.",
+        "source": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Use computer programs and three-dimensional printers to create dental restorations.",
+        "source": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dentist",
+    "title": "Dentist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Dentist",
+      "source": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+      "note": "Broad dental title includes specialties; no universal blood or wound exposure assigned."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients how diet and oral care affect dental health.",
+        "source": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Use examinations and x rays to diagnose oral health problems.",
+        "source": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dialysistechnician",
+    "title": "Dialysis Technician",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Hemodialysis technician",
+      "source": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/hemodialysis-technician/",
+      "note": "Hemodialysis technician is the verified role; inventory label could also describe equipment-oriented posts."
+    },
+    "attributes": {
+      "explain": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Educate patients about dialysis and respond to questions.",
+        "source": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/hemodialysis-technician/",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "Hemodialysis care involves blood circulated through a machine; the source describes the hemodialysis patient-care role, not every dialysis technical post.",
+        "source": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/hemodialysis-technician/",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "dietitiannutritionist",
+    "title": "Dietitian/Nutritionist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Dietitian/Nutritionist",
+      "source": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm",
+      "note": "Combined BLS group matches the combined inventory label; credentials and settings remain distinct."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Counsel clients on nutrition and create educational materials.",
+        "source": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Evaluate how nutrition plans affect clients and adjust the plans.",
+        "source": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dietetictechnician",
+    "title": "Dietetic Technician",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Dietetic Technician",
+      "source": "https://www.onetonline.org/link/summary/29-2051.00",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Guide individuals and families in selecting and preparing food.",
+        "source": "https://www.onetonline.org/link/summary/29-2051.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating practical tasks",
+        "explanation": "Help supervise food service and develop work schedules.",
+        "source": "https://www.onetonline.org/link/summary/29-2051.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "dosimetrist",
+    "title": "Dosimetrist",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical dosimetrist",
+      "source": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm",
+      "note": "Healthcare context supports Medical Dosimetrist; no unrelated radiation-monitoring roles assumed."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Check treatment equipment for quality assurance.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Calculate radiation doses manually and with computers.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "emergencymedicaltechnician",
+    "title": "Emergency Medical Technician",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Emergency Medical Technician",
+      "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+      "note": "BLS explicitly describes both EMT and paramedic duties; no paramedic-only interventions assigned to EMT."
+    },
+    "attributes": {
+      "emergencies": {
+        "status": "core",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Assess patients and provide care during medical emergencies.",
+        "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Lift and move patients during care and transport.",
+        "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "homehealthaide",
+    "title": "Home Health Aide",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Home Health Aide",
+      "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+      "note": "Source explicitly describes these daily living duties for both home health and personal care aides; medical-only duties not transferred."
+    },
+    "attributes": {
+      "personalCare": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "personal-care tasks",
+        "explanation": "Assist clients with bathing and dressing.",
+        "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Often help clients get into or out of bed and stand or walk.",
+        "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "kinesiotherapistkinesiologist",
+    "title": "Kinesiotherapist/Kinesiologist",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": "Kinesiotherapy / kinesiology",
+      "source": "https://akta.org/about",
+      "note": "AKTA describes kinesiotherapists providing prescribed exercise rehabilitation and education. AKA describes kinesiology as a broader academic discipline (https://americankinesiology.org/about-us/). Combined inventory label cannot be treated as a one-to-one occupation."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "licensedpracticalnurse",
+    "title": "Licensed Practical Nurse",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Licensed Practical Nurse",
+      "source": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+      "note": "BLS states LPN and LVN responsibilities are nearly identical; settings and state scope still vary."
+    },
+    "attributes": {
+      "personalCare": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "personal-care tasks",
+        "explanation": "Typical basic care includes help with bathing or dressing.",
+        "source": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Discuss care and listen to patient concerns.",
+        "source": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "wounds": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "open-wound exposure",
+        "explanation": "Changing bandages is listed, but actual wound care varies by setting.",
+        "source": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "massagetherapist",
+    "title": "Massage Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Massage Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Talk with clients about symptoms, history, and treatment goals.",
+        "source": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Guide clients on stretching, relaxation, and posture.",
+        "source": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "medicalassistant",
+    "title": "Medical Assistant",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Medical Assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Enter patient information in records and schedule appointments.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "Some clinical medical assistants collect blood; others focus on administrative duties.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "mortician",
+    "title": "Mortician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Mortician / funeral director",
+      "source": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm",
+      "note": "Uses morticians and funeral arrangers subsection. Embalming is described as done by many, not all."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating practical tasks",
+        "explanation": "Arrange funeral services, transportation, clergy, and cemetery arrangements.",
+        "source": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Offer counsel and comfort to bereaved families.",
+        "source": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "nursepractitioner",
+    "title": "Nurse Practitioner",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Nurse Practitioner",
+      "source": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+      "note": "Uses NP-specific paragraph; no midwifery or anesthesia duties transferred."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Discuss ways to integrate health promotion into patients’ lives.",
+        "source": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Assess health and determine approaches to improve or manage it.",
+        "source": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "occupationaltherapist",
+    "title": "Occupational Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Occupational Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+      "note": "Teaching self-care is not treated as routinely bathing clients."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Explain treatment goals and plans to clients and families.",
+        "source": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Listen closely to clients when planning care.",
+        "source": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "physicalAssistance": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Some settings require lifting and moving clients.",
+        "source": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "occupationaltherapyassistant",
+    "title": "Occupational Therapy Assistant",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Occupational Therapy Assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+      "note": "Assistant subsection only; self-care teaching not equated with regular bathing assistance."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach everyday skills and use of adaptive equipment.",
+        "source": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "physicalAssistance": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Training can include bed-to-wheelchair transfers; client needs determine assistance.",
+        "source": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "ophthalmictechnician",
+    "title": "Ophthalmic Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Ophthalmic medical technician",
+      "source": "https://www.onetonline.org/link/summary/29-2057.00",
+      "note": "Mapped to ophthalmic medical technician, not ophthalmic laboratory technician."
+    },
+    "attributes": {
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Take and document patient medical histories.",
+        "source": "https://www.onetonline.org/link/summary/29-2057.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Measure visual acuity and eye pressure using specified tests.",
+        "source": "https://www.onetonline.org/link/summary/29-2057.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET occupation-specific Tasks section; qualitative listed task, no frequency or universal requirement inferred.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "orientationmobilityspecialist",
+    "title": "Orientation & Mobility Specialist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Orientation & Mobility Specialist",
+      "source": "https://www.acvrep.org/certifications/coms-scope",
+      "note": "Certification scope describes orientation and mobility instruction; not a generic rehabilitation-counselor mapping."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach people with visual impairment techniques for safe movement through their environment.",
+        "source": "https://www.acvrep.org/certifications/coms-scope",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "orthotistprosthetist",
+    "title": "Orthotist/Prosthetist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Orthotist/Prosthetist",
+      "source": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients and families to use and care for devices.",
+        "source": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "repair": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "practical troubleshooting",
+        "explanation": "Adjust, repair, or replace orthotic or prosthetic devices.",
+        "source": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "make": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "making practical things",
+        "explanation": "Some practitioners construct devices; others supervise technicians who do so.",
+        "source": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "paramedic",
+    "title": "Paramedic",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Paramedic",
+      "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+      "note": "BLS explicitly describes both EMT and paramedic duties; no paramedic-only interventions assigned to EMT."
+    },
+    "attributes": {
+      "emergencies": {
+        "status": "core",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Assess patients and provide care during medical emergencies.",
+        "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Lift and move patients during care and transport.",
+        "source": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "patientcaretechnicianpct",
+    "title": "Patient Care Technician (PCT)",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Patient care technician/assistant",
+      "source": "https://www.nhanow.com/certification/nha-certifications/certified-patient-care-technician-assistant-(cpct-a)",
+      "note": "Certification source describes possible duties, not a universal employer scope; no hard exclusion."
+    },
+    "attributes": {
+      "personalCare": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "personal-care tasks",
+        "explanation": "NHA lists bathing, feeding, and catheter care among possible PCT tasks.",
+        "source": "https://www.nhanow.com/certification/nha-certifications/certified-patient-care-technician-assistant-(cpct-a)",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "NHA lists phlebotomy among possible PCT tasks; its wording explicitly says some or all tasks.",
+        "source": "https://www.nhanow.com/certification/nha-certifications/certified-patient-care-technician-assistant-(cpct-a)",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      },
+      "listen": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Some PCT jobs provide emotional support to patients and families.",
+        "source": "https://www.nhanow.com/certification/nha-certifications/certified-patient-care-technician-assistant-(cpct-a)",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "pedorthist",
+    "title": "Pedorthist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Pedorthist",
+      "source": "https://www.abcop.org/publication/section/scope-of-practice/v.-delineation-of-scopes-of-practice---abc-certified-pedorthist",
+      "note": "ABC credentialed scope supports these duty cues; credential not automatically assigned to every title holder."
+    },
+    "attributes": {
+      "make": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "making practical things",
+        "explanation": "Pedorthic care includes fabrication and modification of therapeutic footwear and devices.",
+        "source": "https://www.abcop.org/publication/section/scope-of-practice/v.-delineation-of-scopes-of-practice---abc-certified-pedorthist",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "repair": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "practical troubleshooting",
+        "explanation": "Pedorthic care includes maintenance and repair of devices.",
+        "source": "https://www.abcop.org/publication/section/scope-of-practice/v.-delineation-of-scopes-of-practice---abc-certified-pedorthist",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Patient education and instruction are part of treatment and follow-up.",
+        "source": "https://www.abcop.org/publication/section/scope-of-practice/v.-delineation-of-scopes-of-practice---abc-certified-pedorthist",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "personalcareaide",
+    "title": "Personal Care Aide",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Personal Care Aide",
+      "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+      "note": "Source explicitly describes these daily living duties for both home health and personal care aides; medical-only duties not transferred."
+    },
+    "attributes": {
+      "personalCare": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "personal-care tasks",
+        "explanation": "Assist clients with bathing and dressing.",
+        "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Often help clients get into or out of bed and stand or walk.",
+        "source": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "pharmacist",
+    "title": "Pharmacist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Pharmacist",
+      "source": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Check prescription accuracy and potential medication interactions.",
+        "source": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Explain how to use and store medication and discuss side effects.",
+        "source": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "pharmacytechnician",
+    "title": "Pharmacy Technician",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Pharmacy Technician",
+      "source": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Organize medication inventory and alert pharmacists about shortages.",
+        "source": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Enter patient and prescription information into a computer system.",
+        "source": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "physicaltherapist",
+    "title": "Physical Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Physical Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Often lift and move patients while providing care.",
+        "source": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Explain treatment programs and exercises to patients.",
+        "source": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Listen to patients’ concerns during therapy.",
+        "source": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "physicaltherapyassistant",
+    "title": "Physical Therapy Assistant",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Physical therapist assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+      "note": "Physical therapist assistant subsection only; aide tasks not imported."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Educate patients and families about care after treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Often lift and move patients while helping with treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS Work Environment explicitly states physical therapist assistants and aides often lift and move patients; this is distinct from merely explaining exercises.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "physicianmddo",
+    "title": "Physician (MD/DO)",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Physicians and surgeons",
+      "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "note": "BLS group includes physicians and surgeons; only general physician duties used. No specialty-wide exclusion."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Review examination and test findings to guide treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Answer patient questions and discuss preventive health.",
+        "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Emergency medicine is one specialty; other clinical and nonclinical roles differ.",
+        "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "physicianassistant",
+    "title": "Physician Assistant",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Physician Assistant",
+      "source": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Educate patients and families about treatment and self-care.",
+        "source": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Interpret tests and diagnose illness or injury.",
+        "source": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "wounds": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "open-wound exposure",
+        "explanation": "Suturing or closing incisions occurs in some specialties; psychiatry and other settings differ.",
+        "source": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Emergency medicine is one of several PA specialties.",
+        "source": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "podiatrist",
+    "title": "Podiatrist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Podiatrist",
+      "source": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients about foot and ankle care.",
+        "source": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Evaluate history, examination, imaging, and laboratory results.",
+        "source": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Urgent-care podiatrists may be on call for emergencies.",
+        "source": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "psychologist",
+    "title": "Psychologist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Psychologists",
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "note": "Broad title spans clinical, counseling, organizational, and other specialties. No single specialty treated as universal."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Use observation, assessment, and research to understand behavior.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "listen": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Clinical and counseling psychologists interview clients; other psychology specialties differ.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "testing ideas through experiments",
+        "explanation": "Some psychologists use controlled experiments; practice differs by specialty.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "psychiatrist",
+    "title": "Psychiatrist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Psychiatrist",
+      "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "note": "Uses psychiatry-specific paragraph; no other physician-specialty duties transferred."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Psychiatry includes personal counseling and exploration of clients’ experiences.",
+        "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "radiationtherapist",
+    "title": "Radiation Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Radiation Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Explain treatment plans and answer patients’ questions.",
+        "source": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Calibrate treatment equipment and monitor unexpected reactions.",
+        "source": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "physicalAssistance": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "May lift or turn patients to support treatment positioning.",
+        "source": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "recreationaltherapist",
+    "title": "Recreational Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Recreational Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach adaptive activities and social skills.",
+        "source": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Assess needs and analyze progress to adjust treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "registerednurse",
+    "title": "Registered Nurse",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Registered Nurse",
+      "source": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+      "note": "Broad nursing title; clinical, administrative, educational, and specialty duties differ."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients and families how to manage health conditions.",
+        "source": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Assess conditions and help analyze diagnostic test results.",
+        "source": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Critical-care nursing is one specialty; nursing roles differ by setting.",
+        "source": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "rehabilitationcounselor",
+    "title": "Rehabilitation Counselor",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Rehabilitation Counselor",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Provide individual and group counseling about clients’ concerns.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Help clients and employers understand available resources and services.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "respiratorytherapist",
+    "title": "Respiratory Therapist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Respiratory Therapist",
+      "source": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach patients how to use breathing equipment and medications.",
+        "source": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Perform diagnostic tests to evaluate breathing.",
+        "source": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "Some therapists take blood samples for blood-gas analysis.",
+        "source": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Emergency-setting therapists support ventilation; not all roles are emergency-based.",
+        "source": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "socialworker",
+    "title": "Social Worker",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Social workers",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+      "note": "Broad title includes direct practice, clinical therapy, and macro work; no universal clinical exposure."
+    },
+    "attributes": {
+      "listen": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Direct-service social workers help clients cope with life challenges; macro roles differ.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Maintain case files and service records.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "emergencies": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "emergency-response work",
+        "explanation": "Some roles respond to mental health crises; macro social work differs.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "speechlanguagepathologist",
+    "title": "Speech Language Pathologist",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Speech-language pathologist",
+      "source": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Teach communication techniques and counsel clients and families.",
+        "source": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Evaluate communication or swallowing difficulties and track treatment progress.",
+        "source": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "surgeon",
+    "title": "Surgeon",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Physicians and surgeons",
+      "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "note": "BLS explicitly describes surgeons performing operations; broad surgical title and combined source do not establish frequency of blood or visible-wound exposure for every job."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "comparing explanations with evidence",
+        "explanation": "Review clinical findings and tests when planning surgical treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  },
+  {
+    "id": "surgicaltechnologist",
+    "title": "Surgical Technologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Surgical Technologist",
+      "source": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+      "note": "Uses surgical-technologist-specific duties, not first-assistant-only incision or suturing duties."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details carefully",
+        "explanation": "Count instruments and supplies to avoid leaving objects in patients.",
+        "source": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "physicalAssistance": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Position patients on the operating table before surgery.",
+        "source": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      },
+      "wounds": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "open-wound exposure",
+        "explanation": "Work during surgery can involve seeing surgical incisions; this does not describe traumatic-wound treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Limited inference from BLS surgical-technologist duties: passing instruments during operations, possible retractor or internal-organ handling, and incision dressings. The source does not give an exposure-frequency percentage.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Regular/core occupational duty supported by cited description."
+      }
+    }
+  },
+  {
+    "id": "veterinarian",
+    "title": "Veterinarian",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Veterinarian",
+      "source": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+      "note": "Matched occupational title or explicitly named subsection; only the cited duties used."
+    },
+    "attributes": {
+      "animalCare": {
+        "status": "core",
+        "reviewedAt": "2026-10-25",
+        "label": "animal care",
+        "explanation": "Examine and treat animals.",
+        "source": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining ideas to others",
+        "explanation": "Advise animal owners about care and treatment.",
+        "source": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "wounds": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "open-wound exposure",
+        "explanation": "Clinical veterinary duties include treating wounds; public-health and research settings differ.",
+        "source": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "veterinariantechnician",
+    "title": "Veterinarian Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Veterinary technician",
+      "source": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+      "note": "Inventory spelling preserved. Mapped to veterinary technician, not a veterinarian; source includes technologists, whose advanced research duties are not imported."
+    },
+    "attributes": {
+      "animalCare": {
+        "status": "core",
+        "reviewedAt": "2026-10-25",
+        "label": "animal care",
+        "explanation": "Provide nursing care and handle animals for examinations.",
+        "source": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      },
+      "blood": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "work with blood",
+        "explanation": "Clinical laboratory tasks can include blood counts; specialty and research settings vary.",
+        "source": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Typical duties only; actual exposure depends on workplace. Not eligible for hard exclusion."
+      }
+    }
+  },
+  {
+    "id": "wellnesscoach",
+    "title": "Wellness Coach",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "NBHWC health and wellness coach",
+      "source": "https://nbhwc.org/scope-of-practice/",
+      "note": "NBHWC defines its credentialed coaching practice; unqualified Wellness Coach title does not guarantee this credential or identical scope."
+    },
+    "attributes": {
+      "listen": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting someone",
+        "explanation": "Client-centered coaching supports clients in identifying their own goals and resources.",
+        "source": "https://nbhwc.org/scope-of-practice/",
+        "confidence": "moderate",
+        "evidenceNote": "Occupational duties or scope of practice section; paraphrased duty cue. See mapping note for role boundaries.",
+        "scope": "Soft ordering only; duty cue, not aptitude or personality requirement."
+      }
+    }
+  }
+]

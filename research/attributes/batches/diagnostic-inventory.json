@@ -1,0 +1,319 @@
+[
+  {
+    "sourceTitle": "Advanced Cardiac Sonographer (ACS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "advancedcardiacsonographeracs",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Blood Bank Technician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "bloodbanktechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Cardiovascular Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "cardiovasculartechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Certified Cardiogenic Technician (CCT)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "certifiedcardiogenictechniciancct",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Certified Rhythm Analysis Technician (CRAT)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "certifiedrhythmanalysistechniciancrat",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Laboratory Technician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "clinicallaboratorytechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Computer Tomography (CT) Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "computertomographycttechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Cytogenetic Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "cytogenetictechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Cytotechnologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "cytotechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Diagnostic Medical Sonographer",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "diagnosticmedicalsonographer",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Electrocardiographic (ECG or EKG) Technician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "electrocardiographicecgorekgtechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Neurodiagnostic Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "neurodiagnostictechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Exercise Physiologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "exercisephysiologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Genetic Counselor Histotechnician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "geneticcounselorhistotechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [
+      "Chart text appears to combine titles; verify source formatting before separating into occupations"
+    ],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Histotechnologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "histotechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Magnetic Resonance (MR) Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "magneticresonancemrtechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Mammographer",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "mammographer",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Laboratory Scientist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "medicallaboratoryscientist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Laboratory Technician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "medicallaboratorytechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Nuclear Medicine Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "nuclearmedicinetechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Nutritionist/Dietitian",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "nutritionistdietitian",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Occupational Therapist Assistant",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "occupationaltherapistassistant",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Ophthalmic Technician/Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "ophthalmictechniciantechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Ophthalmic Dispensing Optician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "ophthalmicdispensingoptician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Optometrist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "optometrist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Phlebotomist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "phlebotomist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Polysomnographic Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "polysomnographictechnologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Positron Emission Tomography (PET) Technologist",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "positronemissiontomographypettechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Radiologic Technician",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "radiologictechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Congenital Cardiac Sonographer (RCCS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredcongenitalcardiacsonographerrccs",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Cardiac Electrophysiology Specialist (RCES)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredcardiacelectrophysiologyspecialistrces",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Cardiovascular Invasive Specialist (RCIS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredcardiovascularinvasivespecialistrcis",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Cardiac Sonographer (RCS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredcardiacsonographerrcs",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Phlebology Sonographer (RPhS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredphlebologysonographerrphs",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Registered Vascular Specialist (RVS)",
+    "sourcePathway": "Diagnostic Services",
+    "sourceKey": "registeredvascularspecialistrvs",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  }
+]

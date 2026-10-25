@@ -1,0 +1,721 @@
+[
+  {
+    "id": "biochemist",
+    "title": "Biochemist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Biochemists and Biophysicists",
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+      "note": "BLS combines biochemistry and biophysics; shared research duties support scoped cues only."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "BLS describes conducting scientific experiments on biological molecules.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS describes conducting scientific experiments on biological molecules.",
+        "scope": "Biochemists and Biophysicists; soft preference cue only"
+      },
+      "explain": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "explain",
+        "explanation": "BLS describes presenting research findings to colleagues.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS describes presenting research findings to colleagues.",
+        "scope": "Biochemists and Biophysicists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "bioinformaticsassociate",
+    "title": "Bioinformatics Associate",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Associate may mean scientific research or technical support; scientist profile does not establish equivalent duties."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "bioinformaticsscientist",
+    "title": "Bioinformatics Scientist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Bioinformatics Scientists",
+      "source": "https://www.onetonline.org/link/summary/19-1029.01",
+      "note": "Occupational task evidence; preferences are soft exploration cues, not aptitude requirements."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "patterns",
+        "explanation": "Tasks include analysis of large molecular datasets.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include analysis of large molecular datasets.",
+        "scope": "Bioinformatics Scientists; soft preference cue only"
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "digital",
+        "explanation": "Tasks include testing bioinformatics software.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include testing bioinformatics software.",
+        "scope": "Bioinformatics Scientists; soft preference cue only"
+      },
+      "invent": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "invent",
+        "explanation": "Tasks include creating computational approaches for research goals.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include creating computational approaches for research goals.",
+        "scope": "Bioinformatics Scientists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "bioinformaticsspecialist",
+    "title": "Bioinformatics Specialist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Specialist may be scientist, technician or software role; exact mapping unresolved."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "biomedicalchemist",
+    "title": "Biomedical Chemist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": "https://www.acs.org/careers/chemical-sciences/fields/medicinal-chemistry-pharmaceuticals.html",
+      "note": "Reviewed ACS medicinal/pharmaceutical chemistry duties (drug synthesis, discovery and production). This source does not establish that the inventory label is equivalent to medicinal chemist; the label may span other disciplines. Exact specialty or employer role needed before applying those traits."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "biostatistician",
+    "title": "Biostatistician",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Biostatisticians",
+      "source": "https://www.onetonline.org/link/summary/15-2041.01",
+      "note": "Occupational task evidence; preferences are soft exploration cues, not aptitude requirements."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "patterns",
+        "explanation": "Tasks include statistical analysis of clinical or survey data.",
+        "source": "https://www.onetonline.org/link/summary/15-2041.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include statistical analysis of clinical or survey data.",
+        "scope": "Biostatisticians; soft preference cue only"
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "digital",
+        "explanation": "Tasks include writing statistical analysis code.",
+        "source": "https://www.onetonline.org/link/summary/15-2041.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include writing statistical analysis code.",
+        "scope": "Biostatisticians; soft preference cue only"
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "evidence",
+        "explanation": "Tasks include drawing conclusions from statistical analyses.",
+        "source": "https://www.onetonline.org/link/summary/15-2041.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include drawing conclusions from statistical analyses.",
+        "scope": "Biostatisticians; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "biotechnicianassistant",
+    "title": "Biotechnician Assistant",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Assistant label does not establish technician-level research tasks."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "cellbiologist",
+    "title": "Cell Biologist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Molecular and Cellular Biologists",
+      "source": "https://www.onetonline.org/link/summary/19-1029.02",
+      "note": "Combined molecular/cellular occupation; task cues cover the research family, not every specialty."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "Tasks include designing molecular or cellular experiments and interpreting their results.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.02",
+        "confidence": "moderate",
+        "evidenceNote": "Tasks include designing molecular or cellular experiments and interpreting their results.",
+        "scope": "Molecular and Cellular Biologists; soft preference cue only"
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "Tasks include maintaining laboratory records and data.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.02",
+        "confidence": "moderate",
+        "evidenceNote": "Tasks include maintaining laboratory records and data.",
+        "scope": "Molecular and Cellular Biologists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "clinicaldatamanagementassociateconsultant",
+    "title": "Clinical Data Management Associate/Consultant",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Clinical Data Managers",
+      "source": "https://www.onetonline.org/link/summary/15-2051.02",
+      "note": "Associate and consultant may have narrower duties than the manager occupation; cues apply only where clinical data management duties match."
+    },
+    "attributes": {
+      "details": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "details",
+        "explanation": "The broader occupation validates databases and investigates data errors.",
+        "source": "https://www.onetonline.org/link/summary/15-2051.02",
+        "confidence": "moderate",
+        "evidenceNote": "The broader occupation validates databases and investigates data errors.",
+        "scope": "Clinical Data Managers; soft preference cue only"
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "The broader occupation processes and files clinical information.",
+        "source": "https://www.onetonline.org/link/summary/15-2051.02",
+        "confidence": "moderate",
+        "evidenceNote": "The broader occupation processes and files clinical information.",
+        "scope": "Clinical Data Managers; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "clinicalpharmacologist",
+    "title": "Clinical Pharmacologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Clinical pharmacologists",
+      "source": "https://www.ascpt.org/Resources/Knowledge-Center/What-is-Clinical-Pharmacology",
+      "note": "ASCPT explicitly distinguishes laboratory, office and patient-facing settings; no universal patient contact inferred."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "evidence",
+        "explanation": "ASCPT describes evaluating clinical trials in office-based clinical pharmacology.",
+        "source": "https://www.ascpt.org/Resources/Knowledge-Center/What-is-Clinical-Pharmacology",
+        "confidence": "moderate",
+        "evidenceNote": "ASCPT describes evaluating clinical trials in office-based clinical pharmacology.",
+        "scope": "Office-based clinical pharmacology; soft cue only"
+      },
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "ASCPT describes participation in experimental studies in clinical settings.",
+        "source": "https://www.ascpt.org/Resources/Knowledge-Center/What-is-Clinical-Pharmacology",
+        "confidence": "moderate",
+        "evidenceNote": "ASCPT describes participation in experimental studies in clinical settings.",
+        "scope": "Clinical research setting; soft cue only"
+      }
+    }
+  },
+  {
+    "id": "clinicaltrialsmonitor",
+    "title": "Clinical Trials Monitor",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Clinical Research Associate / trial monitoring",
+      "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+      "note": "ACRP describes the clinical-trial CRA monitoring role; source also documents variation among CRA positions. Not equated with site coordinator."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "details",
+        "explanation": "ACRP describes verifying trial data for accuracy and protocol adherence.",
+        "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+        "confidence": "high",
+        "evidenceNote": "ACRP describes verifying trial data for accuracy and protocol adherence.",
+        "scope": "Clinical trial monitoring duties; soft cue only"
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "ACRP describes maintaining trial documentation.",
+        "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+        "confidence": "high",
+        "evidenceNote": "ACRP describes maintaining trial documentation.",
+        "scope": "Clinical trial monitoring duties; soft cue only"
+      }
+    }
+  },
+  {
+    "id": "clinicaltrialsresearchassociate",
+    "title": "Clinical Trials Research Associate",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Clinical Research Associate / trial monitoring",
+      "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+      "note": "ACRP describes the clinical-trial CRA monitoring role; source also documents variation among CRA positions. Not equated with site coordinator."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "details",
+        "explanation": "ACRP describes verifying trial data for accuracy and protocol adherence.",
+        "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+        "confidence": "high",
+        "evidenceNote": "ACRP describes verifying trial data for accuracy and protocol adherence.",
+        "scope": "Clinical trial monitoring duties; soft cue only"
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "ACRP describes maintaining trial documentation.",
+        "source": "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway",
+        "confidence": "high",
+        "evidenceNote": "ACRP describes maintaining trial documentation.",
+        "scope": "Clinical trial monitoring duties; soft cue only"
+      }
+    }
+  },
+  {
+    "id": "clinicaltrialsresearchcoordinator",
+    "title": "Clinical Trials Research Coordinator",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Clinical Research Coordinators",
+      "source": "https://www.onetonline.org/link/summary/11-9121.01",
+      "note": "Clinical trial coordinator is a reported title in this occupation; does not equate coordinators with trial monitors."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "plan",
+        "explanation": "The occupation coordinates clinical research projects and study appointments.",
+        "source": "https://www.onetonline.org/link/summary/11-9121.01",
+        "confidence": "high",
+        "evidenceNote": "The occupation coordinates clinical research projects and study appointments.",
+        "scope": "Clinical Research Coordinators; soft preference cue only"
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explain",
+        "explanation": "Tasks include explaining study aspects and expected outcomes to participants.",
+        "source": "https://www.onetonline.org/link/summary/11-9121.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include explaining study aspects and expected outcomes to participants.",
+        "scope": "Clinical Research Coordinators; soft preference cue only"
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "Tasks include maintaining case reports and regulatory records.",
+        "source": "https://www.onetonline.org/link/summary/11-9121.01",
+        "confidence": "high",
+        "evidenceNote": "Tasks include maintaining case reports and regulatory records.",
+        "scope": "Clinical Research Coordinators; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "geneticist",
+    "title": "Geneticist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Geneticists",
+      "source": "https://www.onetonline.org/link/summary/19-1029.03",
+      "note": "Occupational task evidence; preferences are soft exploration cues, not aptitude requirements."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "patterns",
+        "explanation": "Tasks include mathematical or statistical analysis of genetic data.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.03",
+        "confidence": "high",
+        "evidenceNote": "Tasks include mathematical or statistical analysis of genetic data.",
+        "scope": "Geneticists; soft preference cue only"
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "Tasks include laboratory notebooks recording methods and results.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.03",
+        "confidence": "high",
+        "evidenceNote": "Tasks include laboratory notebooks recording methods and results.",
+        "scope": "Geneticists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "laboratoryassistantgenetics",
+    "title": "Laboratory Assistant-Genetics",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Geneticist research tasks cannot establish assistant duties."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "laboratorytechnician",
+    "title": "Laboratory Technician",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "May denote clinical, biological or quality-control laboratory work; retained unsplit."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "medicaleditorwriter",
+    "title": "Medical Editor/Writer",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Editing and writing are combined in source label; occupation-specific evidence not established in consulted sources."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "microbiologist",
+    "title": "Microbiologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Microbiologists",
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+      "note": "Occupational task evidence; preferences are soft exploration cues, not aptitude requirements."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "BLS lists laboratory experiments among typical duties.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS lists laboratory experiments among typical duties.",
+        "scope": "Microbiologists; soft preference cue only"
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explain",
+        "explanation": "BLS describes presenting research findings at conferences.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS describes presenting research findings at conferences.",
+        "scope": "Microbiologists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "molecularbiologist",
+    "title": "Molecular Biologist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Molecular and Cellular Biologists",
+      "source": "https://www.onetonline.org/link/summary/19-1029.02",
+      "note": "Combined molecular/cellular occupation; task cues cover the research family, not every specialty."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "Tasks include designing molecular or cellular experiments and interpreting their results.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.02",
+        "confidence": "moderate",
+        "evidenceNote": "Tasks include designing molecular or cellular experiments and interpreting their results.",
+        "scope": "Molecular and Cellular Biologists; soft preference cue only"
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "Tasks include maintaining laboratory records and data.",
+        "source": "https://www.onetonline.org/link/summary/19-1029.02",
+        "confidence": "moderate",
+        "evidenceNote": "Tasks include maintaining laboratory records and data.",
+        "scope": "Molecular and Cellular Biologists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "pharmaceuticalclinicalprojectmanager",
+    "title": "Pharmaceutical/Clinical Project Manager",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Combined pharmaceutical and clinical project scopes need clarification."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "pharmaceuticalsalesrepresentative",
+    "title": "Pharmaceutical Sales Representative",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Technical sales occupation consulted but pharmaceutical-specific scope not confirmed."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "pharmaceuticalscientist",
+    "title": "Pharmaceutical Scientist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": "https://www.acs.org/careers/chemical-sciences/fields/medicinal-chemistry-pharmaceuticals.html",
+      "note": "Reviewed ACS medicinal/pharmaceutical chemistry duties (drug synthesis, discovery and production). This source does not establish that the inventory label is equivalent to medicinal chemist; the label may span other disciplines. Exact specialty or employer role needed before applying those traits."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "pharmacologist",
+    "title": "Pharmacologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Pharmacologists",
+      "source": "https://www.aspet.org/docs/default-source/education-files/explorepharmacology2026.pdf?sfvrsn=acf479d3_2",
+      "note": "ASPET 2026 guide covers pharmacology research and other career paths, explicitly distinct from pharmacy."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "evidence",
+        "explanation": "ASPET describes studying drug effects on biological systems and investigating therapeutic or toxic responses.",
+        "source": "https://www.aspet.org/docs/default-source/education-files/explorepharmacology2026.pdf?sfvrsn=acf479d3_2",
+        "confidence": "moderate",
+        "evidenceNote": "ASPET describes studying drug effects on biological systems and investigating therapeutic or toxic responses.",
+        "scope": "Pharmacology research; guide pages 2\u20135; soft cue only"
+      }
+    }
+  },
+  {
+    "id": "productsafetyassociatescientist",
+    "title": "Product Safety Associate/Scientist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Combined associate/scientist label spans safety disciplines; exact duties unresolved."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "processdevelopmentassociatescientist",
+    "title": "Process Development Associate/Scientist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Combined levels and process domains prevent exact mapping."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "processingtechnician",
+    "title": "Processing Technician",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Processing domain unspecified; no traits inferred from biotechnology pathway."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "qualityassurancetechnician",
+    "title": "Quality Assurance Technician",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Quality Control Analysts",
+      "source": "https://www.onetonline.org/link/summary/19-4099.01",
+      "note": "Both technician labels appear as reported titles; QA can also mean nonlaboratory process assurance, so this is not universal."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "This testing occupation examines quality of materials and products; testing is a scoped interest cue.",
+        "source": "https://www.onetonline.org/link/summary/19-4099.01",
+        "confidence": "moderate",
+        "evidenceNote": "This testing occupation examines quality of materials and products; testing is a scoped interest cue.",
+        "scope": "Quality Control Analysts; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "qualitycontroltechnician",
+    "title": "Quality Control Technician",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Quality Control Analysts",
+      "source": "https://www.onetonline.org/link/summary/19-4099.01",
+      "note": "Both technician labels appear as reported titles; QA can also mean nonlaboratory process assurance, so this is not universal."
+    },
+    "attributes": {
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "This testing occupation examines quality of materials and products; testing is a scoped interest cue.",
+        "source": "https://www.onetonline.org/link/summary/19-4099.01",
+        "confidence": "moderate",
+        "evidenceNote": "This testing occupation examines quality of materials and products; testing is a scoped interest cue.",
+        "scope": "Quality Control Analysts; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "regulatoryaffairsspecialist",
+    "title": "Regulatory Affairs Specialist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Regulatory Affairs Specialists",
+      "source": "https://www.onetonline.org/link/summary/13-1041.07",
+      "note": "Occupational task evidence; preferences are soft exploration cues, not aptitude requirements."
+    },
+    "attributes": {
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organize",
+        "explanation": "Tasks include maintaining technical files for product approval.",
+        "source": "https://www.onetonline.org/link/summary/13-1041.07",
+        "confidence": "high",
+        "evidenceNote": "Tasks include maintaining technical files for product approval.",
+        "scope": "Regulatory Affairs Specialists; soft preference cue only"
+      },
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "plan",
+        "explanation": "Tasks include coordinating regulatory submissions.",
+        "source": "https://www.onetonline.org/link/summary/13-1041.07",
+        "confidence": "high",
+        "evidenceNote": "Tasks include coordinating regulatory submissions.",
+        "scope": "Regulatory Affairs Specialists; soft preference cue only"
+      }
+    }
+  },
+  {
+    "id": "researchassistant",
+    "title": "Research Assistant",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Broad title used across disciplines and levels; no universal duties inferred."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "researchscientist",
+    "title": "Research Scientist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": null,
+      "note": "Appears across multiple consulted O*NET occupations; not assigned a fabricated one-to-one match."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "toxicologist",
+    "title": "Toxicologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Toxicologists",
+      "source": "https://www.acs.org/careers/chemical-sciences/fields/toxicology.html",
+      "note": "ACS occupational page describes scientific toxicology across industry, government and academia; does not establish clinical physician duties."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "evidence",
+        "explanation": "ACS describes analyzing safety data and assessing chemical risks.",
+        "source": "https://www.acs.org/careers/chemical-sciences/fields/toxicology.html",
+        "confidence": "high",
+        "evidenceNote": "ACS describes analyzing safety data and assessing chemical risks.",
+        "scope": "Scientific toxicology; soft cue only"
+      },
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "patterns",
+        "explanation": "ACS describes integrating studies to identify patterns in datasets.",
+        "source": "https://www.acs.org/careers/chemical-sciences/fields/toxicology.html",
+        "confidence": "high",
+        "evidenceNote": "ACS describes integrating studies to identify patterns in datasets.",
+        "scope": "Scientific toxicology; soft cue only"
+      },
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "experiment",
+        "explanation": "ACS describes planning and conducting experiments; senior roles may interpret work performed by others.",
+        "source": "https://www.acs.org/careers/chemical-sciences/fields/toxicology.html",
+        "confidence": "moderate",
+        "evidenceNote": "ACS describes planning and conducting experiments; senior roles may interpret work performed by others.",
+        "scope": "Laboratory toxicology research; soft cue only"
+      }
+    }
+  }
+]
