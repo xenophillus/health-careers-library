@@ -13,7 +13,7 @@ export function profile(){
   const c=careers.find(x=>x.id===state.id);
   if(!c)return library();
   const media=careerMedia[c.id];
-  const photo=media ? `<figure class="career-figure"><img class="profile-career-photo" src="${esc(media.src)}" alt="${esc(media.alt)}"><figcaption>${esc(media.credit)}</figcaption></figure>` : '';
+  const photo=media ? `<figure class="career-figure"><img class="profile-career-photo" src="${esc(media.src)}" alt="${esc(media.alt)}"><figcaption>Photo: <a href="${esc(media.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(media.credit)}</a> · ${esc(media.license)}</figcaption></figure>` : '';
   const active=sections.find(s=>s[0]===state.section)||sections[0];
   let html='';
   switch(active[0]){

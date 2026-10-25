@@ -1,4 +1,4 @@
-// UNPUBLISHED integrated review directory: revised careers only.
+// Development review build only; unpublished careers.
 export const careers = [
   {
     "id": "sonographer",
@@ -26,33 +26,6 @@ export const careers = [
       "Technology",
       "Patient contact"
     ]
-  },
-  {
-    "id": "emt",
-    "name": "Emergency Medical Technician",
-    "path": "Therapeutic Services",
-    "icon": "🚑",
-    "years": 1,
-    "salary": 41000,
-    "desc": "Emergency medical technicians (EMTs) provide emergency medical care before and during transport to a hospital or other medical facility. They respond to people experiencing injuries, illness",
-    "work": "Ambulance services, fire departments and emergency response organizations.",
-    "duties": [
-      "Respond to medical emergencies",
-      "Assess and stabilize patients",
-      "Transport patients and communicate with receiving teams"
-    ],
-    "edu": "State-approved EMT training followed by certification/licensure processes. Duration varies.",
-    "qualities": "Fast decision-making, composure, teamwork, and physical readiness.",
-    "requirements": "State EMT certification or licensure and associated examination requirements.",
-    "related": [
-      "registered-nurse",
-      "respiratory-therapist"
-    ],
-    "tags": [
-      "Emergencies",
-      "Hands-on"
-    ],
-    "hasEditorialDraft": true
   },
   {
     "id": "athletic-trainer",
@@ -100,6 +73,25 @@ export const careers = [
     "years": null,
     "salary": null,
     "desc": "Dental assistants help a dental practice run safely and efficiently. They prepare treatment areas, support dentists during procedures, help patients feel comfortable, sterilize instruments, ",
+    "work": "See the full career article for work settings.",
+    "duties": [],
+    "edu": "See Education and Training.",
+    "qualities": "See Skills and Personal Qualities.",
+    "requirements": "See Certification and Licensure.",
+    "related": [],
+    "tags": [
+      "Full editorial draft"
+    ],
+    "hasEditorialDraft": true
+  },
+  {
+    "id": "emt",
+    "name": "Emergency Medical Technician",
+    "path": "Therapeutic Services",
+    "icon": "🏥",
+    "years": null,
+    "salary": null,
+    "desc": "Emergency medical technicians (EMTs) provide emergency medical care before and during transport to a hospital or other medical facility. They respond to people experiencing injuries, illness",
     "work": "See the full career article for work settings.",
     "duties": [],
     "edu": "See Education and Training.",
