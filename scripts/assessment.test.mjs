@@ -55,3 +55,17 @@ test('even every disliked pathway retains full inventory for reversible show-all
  assert.equal(rows.filter(c=>c.hidden).length,182);assert.equal(rows.length,182);
  assert.equal(filterCareerEntries({}).filter(c=>!c.hidden).length,182);
 });
+
+import {assessment} from '../assets/js/views/assessment.js';
+import {state} from '../assets/js/state.js';
+test('progress describes completion, including neutral skips, without claiming answers',()=>{
+ const oldPage=state.page,oldId=state.id;
+ try {
+  state.page='assessment';state.id='results';resetAssessment();
+  assert.match(assessment(),/0 of 10 questions completed \(including any skipped\)/);
+  for(const q of questions)setAnswer(q.id,0);
+  const html=assessment();
+  assert.match(html,/10 of 10 questions completed \(including any skipped\)/);
+  assert.doesNotMatch(html,/questions answered/);
+ } finally {resetAssessment();state.page=oldPage;state.id=oldId;}
+});

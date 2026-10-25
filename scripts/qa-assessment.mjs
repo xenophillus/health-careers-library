@@ -47,6 +47,7 @@ try{
   await page.evaluate(()=>window.route('assessment','results'));await page.getByRole('button',{name:'Clear answers and restart',exact:true}).click();
   check(width+' reset clears choices',await page.locator('input:checked').count()===0);
   for(let i=0;i<questions.length;i++)await page.getByRole('button',{name:'Skip for now',exact:true}).click();
+  check(width+' skipped questions are labeled as completed',await page.locator('.assessment').innerText().then(x=>x.includes('10 of 10 questions completed (including any skipped)')&&!x.includes('questions answered')));
   check(width+' all unsure gives no false match',await page.locator('#assessment-heading').innerText()==='Keep exploring your interests');
   check(width+' unsure still includes all titles',await page.locator('#map-count').innerText().then(x=>x.startsWith('182 of 182')));
   await page.getByRole('button',{name:'Clear answers and restart',exact:true}).click();
@@ -63,7 +64,7 @@ try{
   await page.locator('input[value="0"]').check();await page.evaluate(()=>window.route('assessment','results'));
   check(width+' answer change keeps uncertain pathway open',await page.locator('.assessment').innerText().then(x=>!x.includes('182 are hidden')));
   await page.reload();await page.locator('#assessment-heading').waitFor();
-  check(width+' refresh clears answers safely',await page.locator('.assessment').innerText().then(x=>x.includes('0 of 10 questions answered')));
+  check(width+' refresh clears answers safely',await page.locator('.assessment').innerText().then(x=>x.includes('0 of 10 questions completed')));
   await page.evaluate(()=>window.route('assessment','1'));await page.screenshot({path:`qa-results/assessment/assessment-question-${width}.png`});
   check(width+' no browser errors',errors.length===0);await page.close();
  }
