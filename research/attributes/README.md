@@ -56,3 +56,9 @@ All 26 repository-plus-evidence tests passed, as did the existing full-profile v
 Independent audit covered 43 sampled table rows, all 17 potential hard-exclusion relationships and at least two positive soft cues per pathway. Review clarified PTA patient-moving evidence, bounded surgical-incision inference, and removed unsupported PET digital inference. It also kept paired and digital-operation-only cues out of scoring.
 
 Remaining source blocker: the informatics researcher received HTTP 403 fetching the NAHQ competency framework; affected quality-role attributes remain unknown. Remaining research gaps and ambiguous-title reasons are recorded individually in the ledger and batch notes. No private email source was accessed.
+
+## Runtime integration in v2.1
+
+The reviewed export is now synchronized into `assets/data/career-attributes.js` by `node scripts/sync-career-attributes.mjs`. The runtime export also includes mapping occupations from the ledger so scoped cues name their actual source occupation. Rebuild the ledger first, then synchronize and run repository/evidence tests. The historical candidate instructions above describe the original data-only handoff.
+
+The application uses explicit soft-interest gates, quarter-weight scoped cues, no career-specific scoring of paired or digital-context fields, and explicit hard-exclusion eligibility. Only the blood and emergency opt-ins are enabled. Individually kept careers survive show-all, reapply and checkbox changes until a full reset. Clinical Coder's mapping also records the NHS exact-title corroboration; no UK qualifications are imported.

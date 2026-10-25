@@ -10471,7 +10471,8 @@
         "status": "alias",
         "occupation": "Medical coders",
         "source": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
-        "note": "Clinical coder interpreted as medical coder; BLS explicitly describes coding within this broader records profile."
+        "note": "Clinical coder interpreted as medical coder; BLS explicitly describes coding within this broader records profile. NHS England independently uses the exact Clinical coder title for reviewing patient notes and recording alphanumeric codes. This corroborates the duty/title connection only; UK training or employment rules are not transferred to U.S. roles.",
+        "supportingSource": "https://www.stepintothenhs.nhs.uk/careers/clinical-coder"
       },
       "reviewBatch": "informatics",
       "reviewedAt": "2026-10-25",

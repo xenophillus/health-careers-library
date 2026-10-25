@@ -1,6 +1,6 @@
 import {chromium} from 'playwright';
 import {careerMap} from '../assets/data/career-map.js';
-import {questions} from '../assets/js/assessment.js?v=preferences-2';
+import {questions} from '../assets/js/assessment.js?v=preferences-2-1';
 import assert from 'node:assert/strict';import fs from 'node:fs';
 const base=process.env.ASSESSMENT_BASE_URL||'http://127.0.0.1:4173/';
 const out='qa-results/assessment';fs.mkdirSync(out,{recursive:true});
@@ -18,7 +18,7 @@ try{
    }else await route.continue();
   });
   await page.goto(base+'#assessment');await page.locator('#assessment-heading').waitFor();
-  check(width+' new version and25 question intro',await page.locator('.assessment').innerText().then(x=>x.includes('25 questions')&&x.includes('v2.0')));
+  check(width+' new version and25 question intro',await page.locator('.assessment').innerText().then(x=>x.includes('25 questions')&&x.includes('v2.1')));
   check(width+' mobile assessment nav visible',await page.locator('[data-nav=assessment]').isVisible());
   await page.getByRole('button',{name:'Start exploring',exact:false}).click();
   check(width+' next disabled before choice',await page.locator('#assessment-next').isDisabled());
@@ -38,13 +38,13 @@ try{
    await page.locator('#assessment-next').click();
   }
   check(width+' full25 flow completed',await page.locator('.assessment').innerText().then(x=>x.includes('25 of 25 questions completed')));
-  check(width+' only three source-confirmed entries excluded',await page.locator('#map-count').innerText().then(x=>x.startsWith('179 of 182')));
+  check(width+' only four source-confirmed entries excluded',await page.locator('#map-count').innerText().then(x=>x.startsWith('178 of 182')));
   await page.getByText('Why entries are hidden',{exact:true}).click();
-  check(width+' hidden explanations and sources',await page.locator('details').filter({has:page.getByText('Why entries are hidden',{exact:true})}).locator('a').count()===3);
+  check(width+' hidden explanations and sources',await page.locator('details').filter({has:page.getByText('Why entries are hidden',{exact:true})}).locator('a').count()===4);
   await page.getByRole('button',{name:'Keep Paramedic in my options',exact:true}).click();
-  check(width+' individual restore is independent',await page.locator('#map-count').innerText().then(x=>x.startsWith('180 of 182')));
+  check(width+' individual restore is independent',await page.locator('#map-count').innerText().then(x=>x.startsWith('179 of 182')));
   await page.getByRole('button',{name:'Apply my answer filters',exact:true}).click();
-  check(width+' reapply restores selected exclusions',await page.locator('#map-count').innerText().then(x=>x.startsWith('179 of 182')));
+  check(width+' reapply preserves individual keep',await page.locator('#map-count').innerText().then(x=>x.startsWith('179 of 182')));
   await page.getByRole('button',{name:'Show every entry',exact:true}).click();
   check(width+' show all restores all182',await page.locator('#map-count').innerText().then(x=>x.startsWith('182 of 182')));
   await page.locator('#map-search').fill('Phlebotomist');
@@ -71,6 +71,17 @@ try{
   await page.getByRole('button',{name:'Clear answers and restart',exact:true}).click();check(width+' reset clears choices',await page.locator('input:checked').count()===0);
   for(let i=0;i<questions.length;i++)await page.getByRole('button',{name:'Skip for now',exact:true}).click();
   check(width+' all skips neutral and count honest',await page.locator('.assessment').innerText().then(x=>x.includes('25 of 25 questions completed (including any skipped)'))&&await page.locator('#map-count').innerText().then(x=>x.startsWith('182 of 182')));
+  await page.evaluate(()=>window.route('assessment','13'));await page.locator('input[value="2"]').check();
+  await page.getByRole('button',{name:'Explore with my answers so far',exact:true}).click();await page.locator('#map-search').fill('Bioinformatics Scientist');
+  await page.getByText('How documented duties connect to your answers',{exact:true}).click();
+  check(width+' positive duty has source explanation',await page.locator('.map-card').innerText().then(x=>x.includes('Tasks you would enjoy'))&&await page.locator('.map-card a[href*="onetonline.org"]').count()>0);
+  await page.getByRole('button',{name:'Clear answers and restart',exact:true}).click();await page.evaluate(()=>window.route('assessment','19'));await page.locator('input[value="2"]').check();
+  await page.getByRole('button',{name:'Explore with my answers so far',exact:true}).click();await page.locator('#map-search').fill('Biomedical/Clinical Engineer');
+  await page.getByText('How documented duties connect to your answers',{exact:true}).click();
+  check(width+' broader-group evidence is visibly qualified',await page.locator('.map-card').innerText().then(x=>x.includes('Related occupational group, not confirmed for every role.')&&x.includes('Source occupation: Bioengineers and biomedical engineers, including clinical engineers')));
+  await page.screenshot({path:out+`/evidence-scoped-${width}.png`});
+  await page.locator('#map-search').fill('Genetic Counselor Histotechnician');
+  check(width+' unknown title has no invented duty match',await page.locator('.map-card').innerText().then(x=>x.includes('career-specific duties have not been mapped yet'))&&await page.locator('.map-card details').count()===0);
   check(width+' no answer persistence or upload',posts.length===0&&await page.evaluate(()=>localStorage.length===0&&sessionStorage.length===0));
   await page.reload();await page.locator('#assessment-heading').waitFor();check(width+' reload clears memory',await page.locator('.assessment').innerText().then(x=>x.includes('0 of 25 questions completed')));
   await page.evaluate(()=>window.route('assessment','1'));await page.screenshot({path:out+`/preferences-question-${width}.png`});

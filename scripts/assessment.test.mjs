@@ -2,9 +2,9 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {careerMap} from '../assets/data/career-map.js';
-import {careerAttributes} from '../assets/data/career-attributes.js?v=preferences-2';
-import {questions,answerOptions,pathways,rankCareers,pathwayScores,setAnswer,setExclusion,restoreEntry,resetAssessment,assessmentState,filterCareerEntries} from '../assets/js/assessment.js?v=preferences-2';
-import {assessment} from '../assets/js/views/assessment.js?v=preferences-2';
+import {careerAttributes} from '../assets/data/career-attributes.js?v=preferences-2-1';
+import {questions,answerOptions,pathways,rankCareers,pathwayScores,setAnswer,setExclusion,restoreEntry,resetAssessment,assessmentState,filterCareerEntries} from '../assets/js/assessment.js?v=preferences-2-1';
+import {assessment} from '../assets/js/views/assessment.js?v=preferences-2-1';
 import {state} from '../assets/js/state.js';
 const ledger=JSON.parse(fs.readFileSync(new URL('../docs/launch-careers.json',import.meta.url)));
 const hidden=(a,e=[],restored=[])=>filterCareerEntries(a,e,restored).filter(c=>c.hidden).map(c=>c.id).sort();
@@ -27,16 +27,16 @@ test('blood avoidance never excludes a pathway or unverified occupational exposu
  assert.deepEqual(hidden({blood:-1},['blood']),['phlebotomist']);
  for(const id of ['registerednurse','medicallaboratoryscientist','medicallaboratorytechnician','diagnosticmedicalsonographer','geneticcounselorhistotechnician'])assert.equal(filterCareerEntries({blood:-1},['blood']).find(c=>c.id===id).hidden,false);
 });
-test('only explicit checked emergency exclusion hides EMT and paramedic',()=>{
+test('only explicit checked emergency exclusion hides only the reviewed emergency duties',()=>{
  assert.deepEqual(hidden({emergencies:-1}),[]);
- assert.deepEqual(hidden({emergencies:-1},['emergencies']),['emergencymedicaltechnician','paramedic']);
+ assert.deepEqual(hidden({emergencies:-1},['emergencies']),['athletictrainer','emergencymedicaltechnician','paramedic']);
  assert.deepEqual(hidden({emergencies:0},['emergencies']),[]);
  assert.deepEqual(hidden({emergencies:2},['emergencies']),[]);
 });
 test('both exposure rules preserve all entries and allow restoring one independently',()=>{
  const a={blood:-1,emergencies:-1},e=['blood','emergencies'];
- assert.deepEqual(hidden(a,e),['emergencymedicaltechnician','paramedic','phlebotomist']);
- assert.deepEqual(hidden(a,e,['paramedic']),['emergencymedicaltechnician','phlebotomist']);assert.equal(filterCareerEntries(a,e).length,182);
+ assert.deepEqual(hidden(a,e),['athletictrainer','emergencymedicaltechnician','paramedic','phlebotomist']);
+ assert.deepEqual(hidden(a,e,['paramedic']),['athletictrainer','emergencymedicaltechnician','phlebotomist']);assert.equal(filterCareerEntries(a,e).length,182);
 });
 test('comfort is not enthusiasm: comfortable answers do not boost clinical careers',()=>{
  const neutral=filterCareerEntries({}).map(c=>[c.id,c.score]);
@@ -58,11 +58,11 @@ test('animal preference supports veterinary care, not inferred animal research',
 });
 test('multi-pathway roles use strongest normalized pathway without duplicate boost',()=>{
  const a={experiment:2,invent:2,evidence:2,make:2};const scores=pathwayScores(a);const c=rankCareers(a).find(c=>c.id==='biomedicalclinicalengineer');
- assert.equal(c.score,Math.max(...scores.filter(s=>c.pathways.includes(s.path)).map(s=>s.score)));
+ assert.equal(c.score-c.dutyScore,Math.max(...scores.filter(s=>c.pathways.includes(s.path)).map(s=>s.score)));
  assert.equal(rankCareers(a).filter(x=>x.id===c.id).length,1);
 });
 test('each source-confirmed attribute has provenance and no phantom inventory ID',()=>{
- for(const [id,attrs] of Object.entries(careerAttributes)){assert.ok(careerMap.some(c=>c.id===id));for(const e of Object.values(attrs)){assert.ok(['core','regular','setting-dependent','unknown'].includes(e.status));assert.match(e.source,/^https:\/\/www\.bls\.gov\//);assert.ok(e.reviewedAt&&e.explanation);}}
+ for(const [id,attrs] of Object.entries(careerAttributes)){assert.ok(careerMap.some(c=>c.id===id));for(const e of Object.values(attrs)){assert.ok(['core','regular','setting-dependent','unknown'].includes(e.status));assert.match(e.source,/^https:\/\//);assert.ok(e.reviewedAt&&e.explanation);}}
 });
 test('optional exclusions start unchecked and clear when preference changes',()=>{
  resetAssessment();setAnswer('blood',-1);assert.deepEqual(assessmentState.exclusions,[]);setExclusion('blood',true);assert.deepEqual(assessmentState.exclusions,['blood']);
@@ -74,6 +74,27 @@ test('progress is dynamic and includes skips without claiming they were answers'
  const old={page:state.page,id:state.id};try{state.page='assessment';state.id='results';resetAssessment();assert.match(assessment(),/0 of 25 questions completed/);questions.forEach(q=>setAnswer(q.id,0));assert.match(assessment(),/25 of 25 questions completed \(including any skipped\)/);assert.doesNotMatch(assessment(),/questions answered/);}finally{resetAssessment();Object.assign(state,old);}
 });
 test('entry and changed assessment modules use one release version',()=>{
- const root=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');assert.match(root,/app\.js\?v=preferences-2/);
- for(const f of ['app.js','views/assessment.js'])assert.match(fs.readFileSync(new URL('../assets/js/'+f,import.meta.url),'utf8'),/assessment\.js\?v=preferences-2/);
+ const root=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');assert.match(root,/app\.js\?v=preferences-2-1/);
+ for(const f of ['app.js','views/assessment.js'])assert.match(fs.readFileSync(new URL('../assets/js/'+f,import.meta.url),'utf8'),/assessment\.js\?v=preferences-2-1/);
+});
+test('sourced duty ordering responds to preferences without inventing unknown matches',()=>{
+ const positive=rankCareers({patterns:2}),negative=rankCareers({patterns:-1});
+ const bio=positive.find(c=>c.id==='bioinformaticsscientist');assert.ok(bio.dutyScore>0);assert.ok(bio.interestMatches.some(e=>e.attribute==='patterns'));
+ assert.ok(negative.find(c=>c.id===bio.id).dutyScore<0);
+ const unknown=positive.find(c=>c.id==='geneticcounselorhistotechnician');assert.equal(unknown.dutyScore,0);assert.equal(unknown.interestMatches.length,0);
+ assert.equal(rankCareers({digital:2}).find(c=>c.id===bio.id).dutyScore,0);
+});
+test('broader-group cues have quarter strength, explicit scope, and no exposure gate',()=>{
+ const c=rankCareers({invent:2}).find(c=>c.id==='biomedicalclinicalengineer');assert.equal(c.dutyScore,0.5);assert.equal(c.interestMatches[0].scoringUse,'soft-interest-scoped');assert.ok(c.interestMatches[0].scope);assert.match(c.interestMatches[0].mappingOccupation,/Bioengineers/);
+});
+test('hard exclusion requires explicit evidence eligibility, not status alone',()=>{
+ const e=careerAttributes.athletictrainer.emergencies,previous=e.hardExclusionEligible;
+ try{e.hardExclusionEligible=false;assert.ok(!hidden({emergencies:-1},['emergencies']).includes('athletictrainer'));}finally{e.hardExclusionEligible=previous;}
+});
+test('deliberate keep persists through checkbox off/on until reset',()=>{
+ resetAssessment();setAnswer('emergencies',-1);setExclusion('emergencies',true);restoreEntry('athletictrainer');setExclusion('emergencies',false);setExclusion('emergencies',true);
+ assert.ok(!hidden(assessmentState.answers,assessmentState.exclusions,assessmentState.restoredIds).includes('athletictrainer'));resetAssessment();assert.deepEqual(assessmentState.restoredIds,[]);
+});
+test('published evidence is exactly the reviewed candidate data',async()=>{
+ const candidate=await import('../research/attributes/career-attributes.js');assert.deepEqual(careerAttributes,candidate.careerAttributes);
 });
