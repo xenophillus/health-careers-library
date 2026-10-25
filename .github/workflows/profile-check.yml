@@ -3,6 +3,11 @@ on:
   pull_request:
     paths:
       - 'assets/data/**'
+      - 'preview/**'
+      - 'content/batches/**'
+      - 'scripts/build-prepared-review.mjs'
+      - 'scripts/review-media.mjs'
+      - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
       - 'scripts/check-draft-isolation.mjs'
@@ -11,6 +16,11 @@ on:
     branches: [main, development/library-launch-build]
     paths:
       - 'assets/data/**'
+      - 'preview/**'
+      - 'content/batches/**'
+      - 'scripts/build-prepared-review.mjs'
+      - 'scripts/review-media.mjs'
+      - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
       - 'scripts/check-draft-isolation.mjs'

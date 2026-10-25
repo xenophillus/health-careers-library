@@ -1,0 +1,124 @@
+# Dental Assistant
+
+**Unapproved editorial review draft.** applied and readback verified. Source, image and review evidence are linked below.
+
+[Author QA](qa.md) · [Claim-level sources](source-records.json)
+
+## Career Overview
+
+Dental assistants help the dental team deliver treatment while keeping the patient, instruments, and treatment room ready. Their work connects hands-on care with the preparation and records that make each visit possible. An assistant may spend one part of a visit beside the dentist and another preparing instruments or arranging follow-up care.
+
+The profession belongs within Therapeutic Services because it supports oral healthcare. Dental assisting is distinct from being a dentist or dental hygienist: the assistant works within delegated duties and the rules of the state, rather than independently diagnosing dental disease. [O*NET’s occupational profile](https://www.onetonline.org/link/summary/31-9091.00) describes both the clinical and administrative sides of the role.
+
+## Duties and Responsibilities
+
+Dental assistants support treatment, patient communication, infection prevention, and the flow of a dental practice. Major responsibilities include:
+
+- **Patient preparation:** Ask about relevant health history, help the patient settle into the chair, and obtain measurements such as blood pressure when assigned.
+- **Chairside support:** Prepare instruments and materials, pass instruments during treatment, and use suction to help keep the working area clear.
+- **Infection prevention:** Process reusable instruments and prepare the treatment area for the next patient. Cleaning, disinfection, and sterilization are different steps, not interchangeable names for wiping equipment.
+- **Records and coordination:** Record treatment information, arrange appointments, and manage supplies; some positions also involve billing and insurance records.
+- **Patient instructions:** Reinforce the dentist’s directions for care after treatment and oral hygiene.
+- **Imaging and other permitted functions:** Assist with dental radiographs or other tasks when training and state rules allow them.
+
+The [ADA’s career guide](https://www.ada.org/resources/careers/career-pathways/dental-assistant) and [O*NET](https://www.onetonline.org/link/summary/31-9091.00) describe the range of duties. Not every assistant performs every task.
+
+## A Day in the Life
+
+Imagine a morning in a general dental practice. Before the first appointment, the assistant reviews the schedule and prepares the instruments and materials needed for the planned treatment. After welcoming the patient, the assistant gathers the information the dentist needs and helps the patient get comfortable.
+
+During treatment, attention moves between the dentist’s requests, the instruments, and the patient. Afterward, the assistant reinforces the dentist’s home-care directions and helps arrange the next visit. The room and reusable instruments then need their own preparation before another patient arrives.
+
+This illustrative sequence draws on [DANB’s description of a typical day](https://www.danb.org/career-center/become-a-dental-assistant). A specialty practice changes the mix: the repeated appointments of orthodontics differ from a schedule organized around oral surgery. An unexpected patient concern can also change the pace.
+
+## Work Environment and Schedule
+
+Almost all dental assistants work in dental offices. Most work full time, although part-time jobs exist, and some offices offer evening or weekend appointments, according to [BLS](https://www.bls.gov/ooh/healthcare/dental-assistants.htm).
+
+The workplace can be a small practice with one dentist or a larger group with several treatment rooms. Other settings include public-health clinics, hospital dental clinics, and dental-school clinics. In a small team, one assistant may alternate between chairside work and office coordination; in a larger team, responsibilities may be divided. Specialty practices shape the work around particular patients or treatments. The [ADA](https://www.ada.org/resources/careers/career-pathways/dental-assistant) describes these settings.
+
+## Skills, Knowledge, and Personal Qualities
+
+Close attention matters when instruments look similar or a treatment record must accurately reflect what happened. Manual dexterity helps with small tools; listening and clear speaking help the assistant coordinate with the dentist and understand a patient’s concern. Organizing supplies and keeping confidential patient records also require dependable computer and administrative skills. These capabilities appear in [O*NET’s description](https://www.onetonline.org/link/summary/31-9091.00).
+
+Infection-prevention knowledge turns careful habits into patient protection. For example, a worker must know which items are disposable and which require processing for reuse. [CDC guidance](https://www.cdc.gov/dental-infection-control/hcp/summary/sterilization-disinfection.html) emphasizes following the manufacturer’s instructions and completing the required steps in sequence. A useful personal quality is the willingness to stop and clarify an unfamiliar task instead of guessing.
+
+## Physical and Emotional Demands
+
+The job involves working close to patients and making controlled hand movements in a confined area. Maintaining attention while reaching, sitting, or standing can be tiring. A patient who is afraid, uncomfortable, or unable to communicate easily may need patient, respectful reassurance while the team completes treatment.
+
+Blood, saliva, sprays, and sharp instruments make infection prevention a daily responsibility. Gloves alone are not the whole system: appropriate masks and eye protection, hand hygiene, safe handling of sharps, and cleaning of surfaces all play a part. [CDC’s Standard Precautions](https://www.cdc.gov/dental-infection-control/hcp/summary/standard-precautions.html) apply to every patient, rather than only people known to have an infection. Safety habits must remain consistent even when the appointment schedule is busy.
+
+## Education and Training
+
+There are two broad entry routes: a dental assisting education program and supervised workplace training where state rules permit it. Formal programs commonly take about a year, according to [BLS](https://www.bls.gov/ooh/healthcare/dental-assistants.htm), and combine classroom, laboratory, and clinical learning; workplace training develops skills under an employer’s supervision. The route affects which credentials a new assistant can pursue and how soon.
+
+The [Commission on Dental Accreditation](https://coda.ada.org/find-a-program/) maintains a searchable list of accredited dental assisting programs. Accreditation is especially relevant because graduation from a CODA-accredited program is one route to eligibility for DANB’s Certified Dental Assistant examination. A school’s certificate of completion and national certification are different achievements.
+
+When comparing programs, ask specifically how students practice chairside assisting, instrument processing, and dental radiography, and which credential pathway the program supports. High-school biology can help with understanding oral tissues and infection; communication courses are useful preparation for explaining instructions to patients. Program length should be checked with the individual school rather than assumed from the word “certificate.”
+
+## Certification and Licensure
+
+**National certification:** The Dental Assisting National Board offers the Certified Dental Assistant (CDA) credential. Its examination combines General Chairside Assisting, Radiation Health and Safety, and Infection Control. Current eligibility routes include graduation from a CODA-accredited dental assisting or dental hygiene program, or a high-school credential plus at least 3,500 hours of approved work experience. Both routes require current hands-on CPR, BLS, or ACLS from a DANB-accepted provider. Other eligibility routes exist; the [CDA page](https://www.danb.org/exams/exam/cda-exam) explains them. Certification does not independently grant permission to perform every dental procedure.
+
+**Kansas:** The Kansas Dental Board does not license or certify dental assistants. Kansas law permits certain services by unlicensed people under dentist supervision, but places specific limits on that work. Assistants cannot independently diagnose or prescribe treatment, perform prohibited tissue-cutting procedures, or administer general or local anesthesia. Dental radiographs may be made under a licensed dentist’s or physician’s supervision. Certain expanded functions have additional training and supervision requirements. [K.S.A. 65-1423](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_014_0000_article/065_014_0023_section/065_014_0023_k/) establishes these distinctions; the [Kansas Dental Board](https://www.dental.ks.gov/about-us/helpful-links/dental-assistant-faqs) is the state regulatory resource.
+
+## Salary, Entry-Level Earnings, and Job Outlook
+
+The [U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/healthcare/dental-assistants.htm) reports a **national median annual wage of $48,070 in May 2025**. Half of workers earned more and half earned less. The lowest-paid 10% earned below $37,130, and the highest-paid 10% earned above $62,250.
+
+Those percentiles describe the whole workforce, not a verified starting-pay range. For a first job, compare actual local offers, including scheduled hours and benefits.
+
+BLS projects **7% employment growth from 2025 to 2035**, compared with 3% for all occupations, and about **53,000 openings per year**, averaged across that decade. Openings include replacement needs as well as employment growth. These are national projections, not a guarantee of a vacancy in a particular town.
+
+## Specialties and Career Advancement
+
+An assistant can develop experience within a dental specialty while remaining a dental assistant. Orthodontic practices focus on tooth alignment, pediatric practices on children’s care, and oral-surgery practices on surgical treatment. Each changes the appointment patterns, instruments, and patient conversations an assistant encounters. These settings are described by the [ADA](https://www.ada.org/resources/careers/career-pathways/dental-assistant).
+
+Other directions include coordinating supplies and clinical workflows, office administration, or teaching as qualifications and experience allow. Expanded-duty training can add specific permitted functions, but a title alone does not establish legal authority. Becoming a dental hygienist or dentist is a separate educational and licensing pathway, not an automatic promotion after a certain number of years as an assistant.
+
+## Benefits and Challenges of the Career
+
+For someone who likes practical teamwork, the appeal is seeing preparation turn into care: the needed instruments are ready, the patient understands the next step, and treatment can proceed smoothly. The combination of personal contact and equipment work provides variety within a familiar clinical setting.
+
+The same combination creates demands. An assistant may need to reassure a worried patient while tracking the dentist’s requests and the next appointment. Instrument processing and room preparation continue after the patient leaves. Accuracy, patient dignity, and infection prevention cannot be traded away for speed. These tradeoffs follow from the duties described by [DANB](https://www.danb.org/career-center/become-a-dental-assistant) and [CDC](https://www.cdc.gov/dental-infection-control/hcp/summary/standard-precautions.html).
+
+## Career Connections and Related Occupations
+
+Several careers contribute to the same patient’s dental care:
+
+- **Dentists** diagnose dental conditions and plan and provide treatment. Dental assistants help them deliver that care.
+- **Dental hygienists** concentrate on preventive oral care, including professional cleaning and patient education, within their licensed role.
+- **Dental laboratory technicians** make items such as crowns, dentures, and orthodontic appliances; much of their work is with materials and models rather than beside a patient.
+- **Dental office managers and patient-service coordinators** organize the business and scheduling side of care.
+
+The [ADA’s career pathways guide](https://www.ada.org/resources/careers/career-pathways) helps compare these roles. A student drawn to chairside teamwork may prefer assisting, while someone especially interested in making precise objects may want to explore dental laboratory technology.
+
+## Could This Career Interest You?
+
+Would you enjoy coordinating small, precise tasks while also paying attention to how a patient feels? Are you comfortable being close to mouths, saliva, and dental instruments? Can you keep a careful sequence of safety steps even when you have repeated it many times?
+
+Think about which part interests you most: chairside teamwork, helping an anxious person, handling materials, or keeping a practice organized. When speaking with an assistant or visiting a program, ask how much time the job spends in each of those activities. Comparing two practice settings can reveal more than a job title alone.
+
+## Professional Associations
+
+The [American Dental Assistants Association (ADAA)](https://adaausa.org/) is a professional membership organization for dental assistants, with education and advocacy as central purposes. Its membership categories include students in dental assisting programs and professionals working in clinical, administrative, or education roles.
+
+ADAA, DANB, and a state dental board have different functions: the association supports the profession, DANB administers national credentials, and the state board oversees state dental regulation. Joining an association is not a substitute for training or a required credential.
+
+## Bibliography & Sources
+
+Sources accessed October 25, 2026.
+
+1. U.S. Bureau of Labor Statistics. [Dental Assistants, Occupational Outlook Handbook](https://www.bls.gov/ooh/healthcare/dental-assistants.htm).
+2. National Center for O*NET Development. [Dental Assistants, 31-9091.00](https://www.onetonline.org/link/summary/31-9091.00).
+3. American Dental Association. [Dental Assistant](https://www.ada.org/resources/careers/career-pathways/dental-assistant).
+4. Dental Assisting National Board. [Become a Dental Assistant](https://www.danb.org/career-center/become-a-dental-assistant).
+5. Centers for Disease Control and Prevention. [Sterilization and Disinfection](https://www.cdc.gov/dental-infection-control/hcp/summary/sterilization-disinfection.html).
+6. Centers for Disease Control and Prevention. [Standard Precautions](https://www.cdc.gov/dental-infection-control/hcp/summary/standard-precautions.html).
+7. Commission on Dental Accreditation. [Find a Program](https://coda.ada.org/find-a-program/).
+8. Dental Assisting National Board. [Certified Dental Assistant](https://www.danb.org/exams/exam/cda-exam).
+9. Kansas Legislature. [K.S.A. 65-1423](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_014_0000_article/065_014_0023_section/065_014_0023_k/).
+10. Kansas Dental Board. [Dental Assistant FAQs](https://www.dental.ks.gov/about-us/helpful-links/dental-assistant-faqs).
+11. American Dental Association. [Career Pathways](https://www.ada.org/resources/careers/career-pathways).
+12. American Dental Assistants Association. [Association home page](https://adaausa.org/).
