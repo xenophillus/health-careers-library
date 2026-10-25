@@ -48,6 +48,10 @@ jobs:
         id: browser
         continue-on-error: true
         run: node scripts/qa-browser-drafts.mjs
+      - name: Test integrated development library and capture screenshots
+        id: library
+        continue-on-error: true
+        run: node scripts/qa-integrated-library.mjs
       - name: Upload QA report
         if: always()
         uses: actions/upload-artifact@v4
@@ -65,5 +69,5 @@ jobs:
             git push origin HEAD:development/library-launch-build
           fi
       - name: Fail on structural or browser QA errors
-        if: steps.qa.outcome == 'failure' || steps.browser.outcome == 'failure' || steps.integration.outcome == 'failure'
+        if: steps.qa.outcome == 'failure' || steps.browser.outcome == 'failure' || steps.integration.outcome == 'failure' || steps.library.outcome == 'failure'
         run: exit 1
