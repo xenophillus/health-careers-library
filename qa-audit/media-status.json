@@ -1,0 +1,194 @@
+[
+  {
+    "profile": "athletic-trainer",
+    "status": "Existing asset; provenance previously verified; pixels independently inspected",
+    "image_ready": false,
+    "fix": "Apply Anthony Lazzaro credit and hand-examination caption from media.json. Reconcile stale manifest status; render crop and print caption. Asset hash matches reviewed record.",
+    "evidence": "content/batches/2026-10-25/athletic-trainer/media.json",
+    "source": "https://commons.wikimedia.org/wiki/File:An%20athletic%20trainer%20with%20the%20Warrior%20Hope%20and%20Care%20Center%20examines%20U.S.%20Marine%20Corps%20Lance%20Cpl.%20Nicholas%20M.%20Shelton's%20hand%2C%20during%20a%20wheelchair%20basketball%20game%20at%20the%202012%20Marine%20Corps%20Trials%20at%20Marine%20Corps%20120216-M-IX633-211.jpg"
+  },
+  {
+    "profile": "biochemist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect insulin molecular model; preserve Isaac Yonemoto CC BY 2.5 attribution/link and modification statement. Low 380\u00d7398 source resolution suits a small figure, not hero.",
+    "evidence": "content/batches/2026-10-25/biochemist/media.json",
+    "source": "https://commons.wikimedia.org/wiki/File:InsulinHexamer.jpg"
+  },
+  {
+    "profile": "biomedical-clinical-engineer",
+    "status": "No selected image",
+    "image_ready": false,
+    "fix": "Select relevant licensed engineer image; do not relabel technician image. Verify pixels, provenance, caption/alt and render.",
+    "evidence": "content/batches/2026-10-25/biomedical-clinical-engineer/media-evidence.json",
+    "source": null
+  },
+  {
+    "profile": "biomedical-clinical-technician",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect CT-scanner cleaning photo. Preserve Tiffany Trojca credit; avoid calibration claim. Resolve or omit conflicting 2008/2009 date.",
+    "evidence": "content/batches/2026-10-25/biomedical-clinical-technician/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Biomedical_Equipment_Technicians_DVIDS152922.jpg"
+  },
+  {
+    "profile": "biostatistician",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect historical Nightingale diagram. Retain 1858 historical caption, explanatory text and readable/full-resolution access; no current-data implication.",
+    "evidence": "content/batches/2026-10-25/biostatistician/media.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg"
+  },
+  {
+    "profile": "cancer-registrar",
+    "status": "No selected image",
+    "image_ready": false,
+    "fix": "Select relevant licensed occupational image/educational visual and inspect. Existing search is not license clearance.",
+    "evidence": "content/batches/2026-10-25/cancer-registrar/media-evidence.json",
+    "source": null
+  },
+  {
+    "profile": "community-health-worker",
+    "status": "No cleared image",
+    "image_ready": false,
+    "fix": "Reject Brazilian candidate with bad-author licensing warning unless resolved. Ethiopian candidate would need explicit setting and role limits; select and inspect suitable visual.",
+    "evidence": "content/batches/2026-10-25/community-health-worker/media-evidence.json",
+    "source": null
+  },
+  {
+    "profile": "dental-assistant",
+    "status": "Existing asset; CC0 independently verified; pixels inspected",
+    "image_ready": false,
+    "fix": "Apply precise blood-pressure training caption and alt from media-evidence.json. Existing broad clinical-procedures alt is less informative. Render training context beside photo.",
+    "evidence": "content/batches/2026-10-25/dental-assistant/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Dental_Assisting-44.jpg"
+  },
+  {
+    "profile": "emergency-medical-technician",
+    "status": "Existing asset; Navy public-domain independently verified; pixels inspected",
+    "image_ready": false,
+    "fix": "Integrate paramedic/corpsman equipment-check caption and alt. Do not imply the people are EMTs. Portrait needs a crop that retains hands, equipment and both subjects.",
+    "evidence": "content/batches/2026-10-25/emergency-medical-technician/media-review.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Navy%20Corpsmen%20Ride-Along%20with%20Local%20Ambulance%20Paramedics%20to%20Bolster%20Patient%20Care%20and%20Readiness%20(9087008).jpg"
+  },
+  {
+    "profile": "health-information-technologist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "2012 Android tablet candidate is historical and not a technologist at work; choose better contemporary visual or explicitly historical context. Acquire/inspect and preserve Intel Free Press CC BY 2.0 credit/link.",
+    "evidence": "content/batches/2026-10-25/health-information-technologist/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Healthcare_Apps_for_Android_Tablets.jpg"
+  },
+  {
+    "profile": "licensed-practical-nurse",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect 2010 Haiti LPN chart-review photo; preserve setting, credit and applicable DVIDS notice.",
+    "evidence": "content/batches/2026-10-25/licensed-practical-nurse/media.json",
+    "source": "https://www.dvidshub.net/image/305565/haiti-relief"
+  },
+  {
+    "profile": "medical-assistant",
+    "status": "Existing asset; Navy public-domain independently verified; pixels inspected",
+    "image_ready": false,
+    "fix": "Integrate Steven King credit and 2007 Belize corpsman caption. Prefer Duties placement as shared-task example; current hero lacks occupational distinction. Alt may describe temperature measurement.",
+    "evidence": "content/batches/2026-10-25/medical-assistant/media-review.json",
+    "source": "https://commons.wikimedia.org/wiki/File:US%20Navy%20070622-N-0194K-447%20Hospital%20Corpsman%203rd%20Class%20Philip%20Ganaban%20checks%20the%20vital%20signs%20of%20a%20patient%20at%20the%20Monsignor%20Romero%20Roman%20Catholic%20School%20in%20the%20Valley%20of%20Peace.jpg"
+  },
+  {
+    "profile": "medical-records-specialist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect 2004 disaster-preparation photo; retain historical paper-record context. Resolve Duren/Duran creator discrepancy using released caption.",
+    "evidence": "content/batches/2026-10-25/medical-records-specialist/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Navy_040914-N-4202D-001_Navy_Civilian_Medical_Records_Technician,_Jeanette_Welch,_boxes_up_medical_records_for_safekeeping_in_the_event_of_damaging_winds_and_flooding.jpg"
+  },
+  {
+    "profile": "medical-transcriptionist",
+    "status": "No selected image",
+    "image_ready": false,
+    "fix": "Select relevant licensed image or explanatory visual; verify actual activity rather than generic computer worker.",
+    "evidence": "content/batches/2026-10-25/medical-transcriptionist/media-evidence.json",
+    "source": null
+  },
+  {
+    "profile": "microbiologist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect CDC PHIL11157; retain digital colorization explanation, CDC/Janice Haney Carr credit and agency reuse terms.",
+    "evidence": "content/batches/2026-10-25/microbiologist/media.json",
+    "source": "https://wwwn.cdc.gov/phil/details.aspx?pid=11157"
+  },
+  {
+    "profile": "mri-technologist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect MRI output; use full aspect ratio and precise alt. Preserve Ptrump16 CC BY-SA 4.0 attribution/license/change statement and compatible license for adaptations.",
+    "evidence": "content/batches/2026-10-25/mri-technologist/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg"
+  },
+  {
+    "profile": "occupational-therapist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect hand-brace photo; preserve Ann Brandstadter credit, 2026 Walter Reed context and DVIDS notice.",
+    "evidence": "content/batches/2026-10-25/occupational-therapist/media.json",
+    "source": "https://www.dvidshub.net/image/9599856/occupational-therapy-drives-warrior-readiness-walter-reed"
+  },
+  {
+    "profile": "paramedic",
+    "status": "Existing EMT asset proposed for reuse; pixels inspected",
+    "image_ready": false,
+    "fix": "Register mapping only after review; render caption identifying paramedic at right and corpsman at left. No separate local photo required if shared use accepted.",
+    "evidence": "content/batches/2026-10-25/paramedic/media-review.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Navy%20Corpsmen%20Ride-Along%20with%20Local%20Ambulance%20Paramedics%20to%20Bolster%20Patient%20Care%20and%20Readiness%20(9087008).jpg"
+  },
+  {
+    "profile": "phlebotomist",
+    "status": "No selected image",
+    "image_ready": false,
+    "fix": "Original file/license not verified; acquire a genuinely licensed suitable blood-collection visual, then inspect and render.",
+    "evidence": "content/batches/2026-10-25/phlebotomist/media.json",
+    "source": null
+  },
+  {
+    "profile": "physical-therapist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect 2023 portrait; do not label as treatment. Preserve Chelsea D. Meiller credit (account Chelsea Daily) and DVIDS notice.",
+    "evidence": "content/batches/2026-10-25/physical-therapist/media.json",
+    "source": "https://www.dvidshub.net/image/7628464/junior-physical-therapist-year-one-officer-chasing-her-dreams"
+  },
+  {
+    "profile": "radiologic-technologist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect CC0 chest-radiograph output; preserve useful credit/context, full aspect ratio and no patient biography.",
+    "evidence": "content/batches/2026-10-25/radiologic-technologist/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Normal_posteroanterior_(PA)_chest_radiograph_(X-ray).jpg"
+  },
+  {
+    "profile": "registered-nurse",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect 2012 humanitarian/interpreter photo; preserve historical context and Stephen M. Votaw credit, DVIDS notice.",
+    "evidence": "content/batches/2026-10-25/registered-nurse/media.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Yesi_Paat,_center_left,_an_interpreter_with_Hope_Worldwide,_translates_instructions_from_Jenni_Hoermann,_left,_a_registered_nurse_with_the_Latter-day_Saint_Charities,_to_an_Indonesian_patient_before_entering_an_120603-N-GW695-001.jpg"
+  },
+  {
+    "profile": "sterile-processing-technician",
+    "status": "Existing asset; USAF public-domain independently verified; pixels inspected",
+    "image_ready": false,
+    "fix": "Integrate demonstration caption/alt, photographer and historical location from media-evidence.json. Do not imply candid civilian shift.",
+    "evidence": "content/batches/2026-10-25/sterile-processing-technician/media-evidence.json",
+    "source": "https://commons.wikimedia.org/wiki/File:From_Preventive_Care_to_Environmental_Health,_39th_OMRS_Maintains_Force_Capability_(9253859).jpg"
+  },
+  {
+    "profile": "surgical-technologist",
+    "status": "Candidate license record only; no asset",
+    "image_ready": false,
+    "fix": "Acquire/inspect 2003 field-hospital image for technician visibility and non-graphic suitability; retain Derrick C. Goode credit and historical caption.",
+    "evidence": "content/batches/2026-10-25/surgical-technologist/media-review.json",
+    "source": "https://commons.wikimedia.org/wiki/File:Surgeons_at_Work.jpg"
+  }
+]
