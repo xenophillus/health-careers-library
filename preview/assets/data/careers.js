@@ -88,7 +88,7 @@ export const careers = [
     "id": "emt",
     "name": "Emergency Medical Technician",
     "path": "Therapeutic Services",
-    "icon": "🏥",
+    "icon": "🚑",
     "years": null,
     "salary": null,
     "desc": "Emergency medical technicians (EMTs) provide emergency medical care before and during transport to a hospital or other medical facility. They respond to people experiencing injuries, illness",
