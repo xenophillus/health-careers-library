@@ -1,0 +1,16 @@
+{
+  "mediaId": "HCL-IMG-MA",
+  "workingProfileId": "hcl-medicalassistant",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:US%20Navy%20070622-N-0194K-447%20Hospital%20Corpsman%203rd%20Class%20Philip%20Ganaban%20checks%20the%20vital%20signs%20of%20a%20patient%20at%20the%20Monsignor%20Romero%20Roman%20Catholic%20School%20in%20the%20Valley%20of%20Peace.jpg",
+  "assetPath": "assets/images/careers/medical-assistant.webp",
+  "sha256": "ef8dcd29507ac231dafa5687c0c472e6e3b529bbf6bc47f414dfe5cd9b9daca7",
+  "credit": "Steven King / U.S. Navy",
+  "license": "Public domain in the United States: official U.S. Navy work",
+  "licenseEvidence": "Commons Licensing section identifies official Navy work, PD-USGov-Military-Navy; description identifies photographer and event.",
+  "proposedCaption": "Navy hospital corpsman Philip Ganaban checks a patient’s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.",
+  "proposedAlt": "Navy hospital corpsman taking a patient’s temperature during an outreach clinic",
+  "verifiedDate": "2026-10-25",
+  "visualReview": "Local WebP opened and visually inspected; described task visible. Responsive crop and rendered caption not tested.",
+  "suitability": "The subject is a military hospital corpsman, not an identified civilian medical assistant. Use as a clearly captioned shared-task illustration, preferably inside Duties rather than an occupation-identifying hero. A civilian MA photograph would be more representative.",
+  "approval": "Not approved; proposed caption and placement require integration review"
+}

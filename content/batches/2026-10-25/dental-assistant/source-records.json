@@ -1,0 +1,196 @@
+[
+  {
+    "sourceId": "HCL-DA-BLS",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "U.S. Bureau of Labor Statistics",
+    "title": "Dental Assistants, Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+    "accessed": "2026-10-25",
+    "sections": [
+      4,
+      7,
+      9
+    ],
+    "evidence": "National May 2025 median $48,070; lower 10% below $37,130; upper 10% above $62,250; 2025–35 growth 7%; 53,000 average annual openings. Office setting and schedule.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-ONET",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "National Center for O*NET Development",
+    "title": "Dental Assistants, 31-9091.00",
+    "url": "https://www.onetonline.org/link/summary/31-9091.00",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "evidence": "Tasks and work characteristics: limited clinical duties directed by dentist, patient records, equipment, supplies, oral-care instructions, dexterity and communication. Broad task inventory is not state authorization.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-ADA",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "American Dental Association",
+    "title": "Dental Assistant",
+    "url": "https://www.ada.org/resources/careers/career-pathways/dental-assistant",
+    "accessed": "2026-10-25",
+    "sections": [
+      2,
+      4,
+      10
+    ],
+    "evidence": "Patient history and blood pressure; chairside support; solo, group, specialty, public-health, hospital and teaching settings. Used for occupational context, not current detailed CDA eligibility.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-DANB-DAY",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Dental Assisting National Board",
+    "title": "Become a Dental Assistant",
+    "url": "https://www.danb.org/career-center/become-a-dental-assistant",
+    "accessed": "2026-10-25",
+    "sections": [
+      3,
+      11
+    ],
+    "evidence": "Search-index passage describes seating patients, preparing instruments, assisting, post-treatment instructions and specialty work. Full-page requests timed out twice; source supports general workflow only.",
+    "verificationStatus": "search-index-only; direct fetch unavailable",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-CDC-PROCESS",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Centers for Disease Control and Prevention",
+    "title": "Sterilization and Disinfection",
+    "url": "https://www.cdc.gov/dental-infection-control/hcp/summary/sterilization-disinfection.html",
+    "accessed": "2026-10-25",
+    "sections": [
+      2,
+      5
+    ],
+    "evidence": "May 15, 2024: trained personnel, manufacturer instructions, cleaning before sterilization, processing sequence and distinction from surface disinfection.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-CDC-SAFETY",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Centers for Disease Control and Prevention",
+    "title": "Standard Precautions",
+    "url": "https://www.cdc.gov/dental-infection-control/hcp/summary/standard-precautions.html",
+    "accessed": "2026-10-25",
+    "sections": [
+      6,
+      11
+    ],
+    "evidence": "May 15, 2024: hand hygiene, PPE, sharps, sterile equipment and environmental surfaces apply to all patient care.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-CODA",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Commission on Dental Accreditation",
+    "title": "Find a Program",
+    "url": "https://coda.ada.org/find-a-program/",
+    "accessed": "2026-10-25",
+    "sections": [
+      7
+    ],
+    "evidence": "Programmatic accreditation and searchable accredited-program directory; not a guarantee of one program length.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-DANB-CDA",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Dental Assisting National Board",
+    "title": "Certified Dental Assistant",
+    "url": "https://www.danb.org/exams/exam/cda-exam",
+    "accessed": "2026-10-25",
+    "sections": [
+      7,
+      8,
+      14
+    ],
+    "evidence": "Current listed Pathways I–III, 3,500 approved hours in Pathway II, accepted hands-on CPR/BLS/ACLS, three component examinations. Future 2027 route intentionally omitted.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-KS-LAW",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Kansas Legislature",
+    "title": "K.S.A. 65-1423",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_014_0000_article/065_014_0023_section/065_014_0023_k/",
+    "accessed": "2026-10-25",
+    "sections": [
+      8,
+      10
+    ],
+    "evidence": "Subsections (a)(7), (a)(8), (b): supervised radiography, unlicensed dental services, prohibited acts and expanded-function distinctions. Nitrous oxide is excluded from statutory definition of general/local anesthesia; draft makes no nitrous authorization claim.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-KS-BOARD",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "Kansas Dental Board",
+    "title": "Dental Assistant FAQs",
+    "url": "https://www.dental.ks.gov/about-us/helpful-links/dental-assistant-faqs",
+    "accessed": "2026-10-25",
+    "sections": [
+      8
+    ],
+    "evidence": "Official search-index answer confirms Board does not license or certify dental assistants. Direct open returned 403; do not characterize full page as inspected.",
+    "verificationStatus": "search-index-only; direct fetch unavailable",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-ADA-ROLES",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "American Dental Association",
+    "title": "Career Pathways",
+    "url": "https://www.ada.org/resources/careers/career-pathways",
+    "accessed": "2026-10-25",
+    "sections": [
+      10,
+      12
+    ],
+    "evidence": "Different dental-team roles: assistant, hygienist, laboratory technician, office manager, patient-service coordinator. Further education required for separate clinical professions.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  },
+  {
+    "sourceId": "HCL-DA-ADAA",
+    "workingProfileId": "hcl-dentalassistant",
+    "websiteId": "dental-assistant",
+    "publisher": "American Dental Assistants Association",
+    "title": "Association home page",
+    "url": "https://adaausa.org/",
+    "accessed": "2026-10-25",
+    "sections": [
+      14
+    ],
+    "evidence": "Education/advocacy and student/professional membership. Temporary site reports service transition; no claim that full learning portal is available.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved"
+  }
+]

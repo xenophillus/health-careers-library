@@ -1,0 +1,98 @@
+{
+  "spreadsheetId": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "readDate": "2026-10-25",
+  "range": "'Career Profiles'!A1:T12",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Working Profile ID",
+      "Career Title",
+      "Pathways in NCHSE chart",
+      "Production Wave",
+      "Editorial Status",
+      "Website Career ID",
+      "Reviewer Notes"
+    ],
+    [
+      "hcl-acupuncturist",
+      "Acupuncturist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-anesthesiologistassistant",
+      "Anesthesiologist Assistant",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-artmusicdancetherapists",
+      "Art/Music/Dance Therapist(s)",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-athletictrainer",
+      "Athletic Trainer",
+      "Therapeutic Services",
+      "Priority",
+      "Fact check",
+      "athletic-trainer",
+      "15/15 sections editorially reviewed 2026-10-25; revised overview, education pathway, Kansas certification/licensure, salary/outlook and bibliography. Verified BLS May 2025 national wage $62,520 and 2025–35 growth 13%, CAATE master's entry, BOC certification, KSBHA license and practice protocol. Remaining: final source-link/browser QA, image suitability and license review, independent final approval. National wage percentiles are not entry-level pay."
+    ],
+    [
+      "hcl-audiologist",
+      "Audiologist",
+      "Therapeutic Services; Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-certifiednursingassistant",
+      "Certified Nursing Assistant",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-certifiedrnanesthetistcrna",
+      "Certified RN Anesthetist (CRNA)",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-chiropractor",
+      "Chiropractor",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dentalassistant",
+      "Dental Assistant",
+      "Therapeutic Services",
+      "Priority",
+      "Fact check",
+      "dental-assistant",
+      "15-section editorial review completed 2026-10-25; revised overview, education, certification and Kansas scope, salary/outlook, bibliography. BLS May 2025 median $48,070 and 2025–2035 growth 7% verified; DANB CDA pathways checked; Kansas Dental Board confirms it does not license/certify dental assistants. Remains in Fact check: verify detailed Kansas radiography/expanded-function permissions against statutes/regulations, image relevance/license, individual source links and final mobile presentation before approval."
+    ],
+    [
+      "hcl-dentalhygienist",
+      "Dental Hygienist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-dentallabtechnician",
+      "Dental Lab Technician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ]
+  ]
+}

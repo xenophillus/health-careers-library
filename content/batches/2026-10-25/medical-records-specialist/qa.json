@@ -1,0 +1,12 @@
+{
+  "checkedDate": "2026-10-25",
+  "checks": {
+    "structural": "15 names in canonical order; unique IDs; nonempty Markdown; bibliography links present",
+    "source": "Primary occupational, pay, credential and privacy sources read; independent review pending",
+    "editorial": "Original occupation-specific draft; illustrative workflow explicitly identified; no approval",
+    "image": "License evidence researched; candidate not acquired or visually inspected; not publication-ready",
+    "technical": "No runtime files touched; no integration/browser/print verification performed",
+    "approval": "Not approved"
+  },
+  "approved": false
+}

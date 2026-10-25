@@ -1,0 +1,176 @@
+[
+  {
+    "sourceId": "EMT-BLS-WAGE",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: Pay",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "U.S. EMT-only annual median $44,470; lower 10% <$34,130; upper 10% >$62,500, May 2025. Percentiles are not entry wages.",
+    "publicationDate": "May 2025 wage reference period",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-BLS-OUTLOOK",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: Job Outlook",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "EMT-only SOC 29-2042 and combined 29-2040 both 6% projected growth 2025–2035.18,200 annual openings is combined EMT/paramedic.",
+    "publicationDate": "2025–2035 projection period",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-BLS-WORK",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: duties, environment, preparation",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "Assessment; basic care; transfer; records/equipment; shifts/physical and emotional demands; EMT/AEMT/paramedic distinctions. Workday is an illustrative synthesis, not an observed shift.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-ONET",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      2,
+      3,
+      5,
+      8,
+      13
+    ],
+    "organizationTitle": "O*NET — Emergency Medical Technicians 29-2042.00",
+    "url": "https://www.onetonline.org/link/summary/29-2042.00",
+    "claimSupported": "Basic emergency care, assessment, patient reassurance and continuing education. Occupational profile is a subset while data collection continues; not state scope authority.",
+    "publicationDate": "Updated 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-NREMT-ROLE",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      1,
+      2,
+      10
+    ],
+    "organizationTitle": "National Registry — EMT Certification",
+    "url": "https://www.nremt.org/EMT/Certification",
+    "claimSupported": "Basic equipment, safe transport including nonemergency transport; EMTs function under medical oversight.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-NREMT-EDU",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      7,
+      8
+    ],
+    "organizationTitle": "National Registry — EMT Full Education Program Pathway",
+    "url": "https://www.nremt.org/Document/EMT-Full-Education-Program",
+    "claimSupported": "State-approved EMT course, program-director completion verification, certification exam and state-approved BLS skills competency.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-NREMT-LEGAL",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      8,
+      14
+    ],
+    "organizationTitle": "National Registry — Certification and Licensure",
+    "url": "https://www.nremt.org/Document/certification_licensure",
+    "claimSupported": "National certification does not itself authorize practice; state certification can function as licensure.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-KBEMS-PAGE",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "KBEMS — Initial Certification",
+    "url": "https://www.ksbems.org/ems/?page_id=6152",
+    "claimSupported": "Agency landing page resolves to current initial-certification PDF. Use stable landing page for application procedures.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-KBEMS-PDF",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "KBEMS — Initial Provider: Kansas Course Completion",
+    "url": "https://www.ksbems.org/ems/pdfs/InitialCertProcess.pdf%20?ver=26.08",
+    "claimSupported": "Approved course, knowledge/skills examinations, background-check process, minimum age 17, application. Revision conflict resolved; do not reproduce 15-day denial language.",
+    "publicationDate": "Revised March 1,2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-KANSAS-LAW",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A.65-6129",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_061_0000_article/065_061_0029_section/065_061_0029_k/",
+    "claimSupported": "Certification application, coursework/examination and criminal-history framework.",
+    "publicationDate": "Current code accessed 2026-10-25",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-KANSAS-REG",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "Kansas Secretary of State — KBEMS regulations",
+    "url": "https://www.kssos.org/publications/Register/Volume-43/Issues/Issue-42/10-17-24-52587.html",
+    "claimSupported": "K.A.R.109-8-1 examination and 109-15-3 application provisions; incomplete application may be considered withdrawn rather than PDF categorical denial. Internal discrepancy only.",
+    "publicationDate": "Published 2024-10-17; effective 2024-11-01",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "EMT-NAEMT",
+    "workingProfileId": "hcl-emergencymedicaltechnician",
+    "sections": [
+      14
+    ],
+    "organizationTitle": "NAEMT — Overview",
+    "url": "https://www.naemt.org/about-naemt/about-NAEMT",
+    "claimSupported": "Association supports EMS practitioners through education, advocacy and professional resources.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  }
+]

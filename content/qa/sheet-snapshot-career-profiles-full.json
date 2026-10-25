@@ -1,0 +1,1308 @@
+{
+  "readDate": "2026-10-25",
+  "range": "'Career Profiles'!A1:G200",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Working Profile ID",
+      "Career Title",
+      "Pathways in NCHSE chart",
+      "Production Wave",
+      "Editorial Status",
+      "Website Career ID",
+      "Reviewer Notes"
+    ],
+    [
+      "hcl-acupuncturist",
+      "Acupuncturist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-anesthesiologistassistant",
+      "Anesthesiologist Assistant",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-artmusicdancetherapists",
+      "Art/Music/Dance Therapist(s)",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-athletictrainer",
+      "Athletic Trainer",
+      "Therapeutic Services",
+      "Priority",
+      "Fact check",
+      "athletic-trainer",
+      "15/15 sections editorially reviewed 2026-10-25; revised overview, education pathway, Kansas certification/licensure, salary/outlook and bibliography. Verified BLS May 2025 national wage $62,520 and 2025–35 growth 13%, CAATE master's entry, BOC certification, KSBHA license and practice protocol. Remaining: final source-link/browser QA, image suitability and license review, independent final approval. National wage percentiles are not entry-level pay."
+    ],
+    [
+      "hcl-audiologist",
+      "Audiologist",
+      "Therapeutic Services; Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-certifiednursingassistant",
+      "Certified Nursing Assistant",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-certifiedrnanesthetistcrna",
+      "Certified RN Anesthetist (CRNA)",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-chiropractor",
+      "Chiropractor",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dentalassistant",
+      "Dental Assistant",
+      "Therapeutic Services",
+      "Priority",
+      "Fact check",
+      "dental-assistant",
+      "15-section editorial review completed 2026-10-25; revised overview, education, certification and Kansas scope, salary/outlook, bibliography. BLS May 2025 median $48,070 and 2025–2035 growth 7% verified; DANB CDA pathways checked; Kansas Dental Board confirms it does not license/certify dental assistants. Remains in Fact check: verify detailed Kansas radiography/expanded-function permissions against statutes/regulations, image relevance/license, individual source links and final mobile presentation before approval."
+    ],
+    [
+      "hcl-dentalhygienist",
+      "Dental Hygienist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-dentallabtechnician",
+      "Dental Lab Technician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dentist",
+      "Dentist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-dialysistechnician",
+      "Dialysis Technician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dietitiannutritionist",
+      "Dietitian/Nutritionist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dietetictechnician",
+      "Dietetic Technician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dosimetrist",
+      "Dosimetrist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-emergencymedicaltechnician",
+      "Emergency Medical Technician",
+      "Therapeutic Services",
+      "Priority",
+      "Fact check",
+      "emergency-medical-technician",
+      "14-section research draft; confirm state-specific scope, licensing and certification, wage data, and bibliography before approval."
+    ],
+    [
+      "hcl-homehealthaide",
+      "Home Health Aide",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-kinesiotherapistkinesiologist",
+      "Kinesiotherapist/Kinesiologist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-licensedpracticalnurse",
+      "Licensed Practical Nurse",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-massagetherapist",
+      "Massage Therapist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicalassistant",
+      "Medical Assistant",
+      "Therapeutic Services; Health Informatics",
+      "Priority",
+      "Fact check",
+      "medical-assistant",
+      "14-section research draft; confirm state-specific scope, licensing and certification, wage data, and bibliography before approval."
+    ],
+    [
+      "hcl-mortician",
+      "Mortician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-nursepractitioner",
+      "Nurse Practitioner",
+      "Therapeutic Services; Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-occupationaltherapist",
+      "Occupational Therapist",
+      "Therapeutic Services; Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-occupationaltherapyassistant",
+      "Occupational Therapy Assistant",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-ophthalmictechnician",
+      "Ophthalmic Technician",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-orientationmobilityspecialist",
+      "Orientation & Mobility Specialist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-orthotistprosthetist",
+      "Orthotist/Prosthetist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-paramedic",
+      "Paramedic",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-patientcaretechnicianpct",
+      "Patient Care Technician (PCT)",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pedorthist",
+      "Pedorthist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-personalcareaide",
+      "Personal Care Aide",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pharmacist",
+      "Pharmacist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-pharmacytechnician",
+      "Pharmacy Technician",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-physicaltherapist",
+      "Physical Therapist",
+      "Therapeutic Services; Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-physicaltherapyassistant",
+      "Physical Therapy Assistant",
+      "Therapeutic Services; Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-physicianmddo",
+      "Physician (MD/DO)",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-physicianassistant",
+      "Physician Assistant",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-podiatrist",
+      "Podiatrist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-psychologist",
+      "Psychologist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-psychiatrist",
+      "Psychiatrist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-radiationtherapist",
+      "Radiation Therapist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-recreationaltherapist",
+      "Recreational Therapist",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registerednurse",
+      "Registered Nurse",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-rehabilitationcounselor",
+      "Rehabilitation Counselor",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-respiratorytherapist",
+      "Respiratory Therapist",
+      "Therapeutic Services; Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-socialworker",
+      "Social Worker",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-speechlanguagepathologist",
+      "Speech Language Pathologist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-surgeon",
+      "Surgeon",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-surgicaltechnologist",
+      "Surgical Technologist",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-veterinarian",
+      "Veterinarian",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-veterinariantechnician",
+      "Veterinarian Technician",
+      "Therapeutic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-wellnesscoach",
+      "Wellness Coach",
+      "Therapeutic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-advancedcardiacsonographeracs",
+      "Advanced Cardiac Sonographer (ACS)",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-bloodbanktechnician",
+      "Blood Bank Technician",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-cardiovasculartechnologist",
+      "Cardiovascular Technologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-certifiedcardiogenictechniciancct",
+      "Certified Cardiogenic Technician (CCT)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-certifiedrhythmanalysistechniciancrat",
+      "Certified Rhythm Analysis Technician (CRAT)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicallaboratorytechnician",
+      "Clinical Laboratory Technician",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-computertomographycttechnologist",
+      "Computer Tomography (CT) Technologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-cytogenetictechnologist",
+      "Cytogenetic Technologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-cytotechnologist",
+      "Cytotechnologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-diagnosticmedicalsonographer",
+      "Diagnostic Medical Sonographer",
+      "Diagnostic Services",
+      "Priority",
+      "Model review",
+      "sonographer",
+      "Original website article imported; 14 sections; awaiting source and editorial checks."
+    ],
+    [
+      "hcl-electrocardiographicecgorekgtechnician",
+      "Electrocardiographic (ECG or EKG) Technician",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-neurodiagnostictechnologist",
+      "Neurodiagnostic Technologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-exercisephysiologist",
+      "Exercise Physiologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-geneticcounselorhistotechnician",
+      "Genetic Counselor Histotechnician",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started",
+      null,
+      "Chart text appears to combine titles; verify source formatting before separating into occupations"
+    ],
+    [
+      "hcl-histotechnologist",
+      "Histotechnologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-magneticresonancemrtechnologist",
+      "Magnetic Resonance (MR) Technologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-mammographer",
+      "Mammographer",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicallaboratoryscientist",
+      "Medical Laboratory Scientist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-medicallaboratorytechnician",
+      "Medical Laboratory Technician",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-nuclearmedicinetechnologist",
+      "Nuclear Medicine Technologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-nutritionistdietitian",
+      "Nutritionist/Dietitian",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-occupationaltherapistassistant",
+      "Occupational Therapist Assistant",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-ophthalmictechniciantechnologist",
+      "Ophthalmic Technician/Technologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-ophthalmicdispensingoptician",
+      "Ophthalmic Dispensing Optician",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-optometrist",
+      "Optometrist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-phlebotomist",
+      "Phlebotomist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-polysomnographictechnologist",
+      "Polysomnographic Technologist",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-positronemissiontomographypettechnologist",
+      "Positron Emission Tomography (PET) Technologist",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-radiologictechnician",
+      "Radiologic Technician",
+      "Diagnostic Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-registeredcongenitalcardiacsonographerrccs",
+      "Registered Congenital Cardiac Sonographer (RCCS)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registeredcardiacelectrophysiologyspecialistrces",
+      "Registered Cardiac Electrophysiology Specialist (RCES)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registeredcardiovascularinvasivespecialistrcis",
+      "Registered Cardiovascular Invasive Specialist (RCIS)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registeredcardiacsonographerrcs",
+      "Registered Cardiac Sonographer (RCS)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registeredphlebologysonographerrphs",
+      "Registered Phlebology Sonographer (RPhS)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-registeredvascularspecialistrvs",
+      "Registered Vascular Specialist (RVS)",
+      "Diagnostic Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-admittingclerk",
+      "Admitting Clerk",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-appliedresearcher",
+      "Applied Researcher",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-cancerregistrar",
+      "Cancer Registrar",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-certifiedcompliancetechnician",
+      "Certified Compliance Technician",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicalaccountmanager",
+      "Clinical Account Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicalaccounttechnician",
+      "Clinical Account Technician",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicalcoder",
+      "Clinical Coder",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaldataminer",
+      "Clinical Data Miner",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaldatamanagementspecialist",
+      "Clinical Data Management Specialist",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaldataspecialist",
+      "Clinical Data Specialist",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-communityservicesspecialist",
+      "Community Services Specialist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dataqualitymanager",
+      "Data Quality Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-decisionsupportanalyst",
+      "Decision Support Analyst",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-epidemiologist",
+      "Epidemiologist",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-ethicist",
+      "Ethicist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-healtheducator",
+      "Health Educator",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-healthinformationadministrator",
+      "Health Information Administrator",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-healthinformationtechnician",
+      "Health Information Technician",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-healthinformationservices",
+      "Health Information Services",
+      "Health Informatics",
+      "Backlog",
+      "Not started",
+      null,
+      "Service/department label; verify specific occupation before writing"
+    ],
+    [
+      "hcl-healthcareadministrator",
+      "Healthcare Administrator",
+      "Health Informatics; Support Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-healthcarefinanceprofessional",
+      "Healthcare Finance Professional",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-informationprivacyofficer",
+      "Information Privacy Officer",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-informationsecurityofficer",
+      "Information Security Officer",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-managedcarecontractanalyst",
+      "Managed Care Contract Analyst",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicalillustrator",
+      "Medical Illustrator",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicalinformationtechnologist",
+      "Medical Information Technologist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicallibrarian",
+      "Medical Librarian",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicalrecordstechnician",
+      "Medical Records Technician",
+      "Health Informatics",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-medicaltranscriptionist",
+      "Medical Transcriptionist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-patientaccountmanager",
+      "Patient Account Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-patientaccounttechnician",
+      "Patient Account Technician",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-patientadvocate",
+      "Patient Advocate",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-patientinformationcoordinator",
+      "Patient Information Coordinator",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-projectmanager",
+      "Project Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-qualitymanagementspecialist",
+      "Quality Management Specialist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-qualitydataanalyst",
+      "Quality Data Analyst",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-reimbursementspecialist",
+      "Reimbursement Specialist",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-riskmanager",
+      "Risk Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-unitcoordinator",
+      "Unit Coordinator",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-utilizationmanager",
+      "Utilization Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-utilizationreviewmanager",
+      "Utilization Review Manager",
+      "Health Informatics",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-behavioraldisordercounselor",
+      "Behavioral Disorder Counselor",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-biomedicalclinicalengineer",
+      "Biomedical/Clinical Engineer",
+      "Support Services; Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-biomedicalclinicaltechnician",
+      "Biomedical/Clinical Technician",
+      "Support Services; Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-clinicalsimulatortechnician",
+      "Clinical Simulator Technician",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-centralservicemanager",
+      "Central Service Manager",
+      "Support Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "Central Service or Sterile Processing Technician",
+      "Support Services",
+      "Priority",
+      "Draft",
+      "sterile-processing-technician",
+      "Next 14-section production article; no student-ready text approved."
+    ],
+    [
+      "hcl-communityhealthworker",
+      "Community Health Worker",
+      "Support Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-dietarymanager",
+      "Dietary Manager",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-dietaryaide",
+      "Dietary Aide",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-environmentalservices",
+      "Environmental Services",
+      "Support Services",
+      "Priority",
+      "Not started",
+      null,
+      "Service/department label; verify specific occupation before writing"
+    ],
+    [
+      "hcl-facilitiesmanager",
+      "Facilities Manager",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-healthcareeconomist",
+      "Healthcare Economist",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-maintenanceengineer",
+      "Maintenance Engineer",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-industrialhygienist",
+      "Industrial Hygienist",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-interpreter",
+      "Interpreter",
+      "Support Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-materialsmanager",
+      "Materials Manager",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-patientnavigator",
+      "Patient Navigator",
+      "Support Services",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-telehealthpresenter",
+      "Telehealth Presenter",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-transporttechnician",
+      "Transport Technician",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-substanceabusecounselor",
+      "Substance Abuse Counselor",
+      "Support Services",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-biochemist",
+      "Biochemist",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-bioinformaticsassociate",
+      "Bioinformatics Associate",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-bioinformaticsscientist",
+      "Bioinformatics Scientist",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-bioinformaticsspecialist",
+      "Bioinformatics Specialist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-biomedicalchemist",
+      "Biomedical Chemist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-biostatistician",
+      "Biostatistician",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-biotechnicianassistant",
+      "Biotechnician Assistant",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-cellbiologist",
+      "Cell Biologist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaldatamanagementassociateconsultant",
+      "Clinical Data Management Associate/Consultant",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicalpharmacologist",
+      "Clinical Pharmacologist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaltrialsmonitor",
+      "Clinical Trials Monitor",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaltrialsresearchassociate",
+      "Clinical Trials Research Associate",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-clinicaltrialsresearchcoordinator",
+      "Clinical Trials Research Coordinator",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-geneticist",
+      "Geneticist",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-laboratoryassistantgenetics",
+      "Laboratory Assistant-Genetics",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-laboratorytechnician",
+      "Laboratory Technician",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-medicaleditorwriter",
+      "Medical Editor/Writer",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-microbiologist",
+      "Microbiologist",
+      "Biotechnology Research and Development",
+      "Priority",
+      "Not started"
+    ],
+    [
+      "hcl-molecularbiologist",
+      "Molecular Biologist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pharmaceuticalclinicalprojectmanager",
+      "Pharmaceutical/Clinical Project Manager",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pharmaceuticalsalesrepresentative",
+      "Pharmaceutical Sales Representative",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pharmaceuticalscientist",
+      "Pharmaceutical Scientist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-pharmacologist",
+      "Pharmacologist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-productsafetyassociatescientist",
+      "Product Safety Associate/Scientist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-processdevelopmentassociatescientist",
+      "Process Development Associate/Scientist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-processingtechnician",
+      "Processing Technician",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-qualityassurancetechnician",
+      "Quality Assurance Technician",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-qualitycontroltechnician",
+      "Quality Control Technician",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-regulatoryaffairsspecialist",
+      "Regulatory Affairs Specialist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-researchassistant",
+      "Research Assistant",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-researchscientist",
+      "Research Scientist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ],
+    [
+      "hcl-toxicologist",
+      "Toxicologist",
+      "Biotechnology Research and Development",
+      "Backlog",
+      "Not started"
+    ]
+  ]
+}

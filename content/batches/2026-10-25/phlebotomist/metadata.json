@@ -1,0 +1,20 @@
+{
+  "workingProfileId": "hcl-phlebotomist",
+  "websiteCareerId": "phlebotomist",
+  "sourceTitle": "Phlebotomist",
+  "sourceAppearances": [
+    {
+      "sourceIndex": 83,
+      "sourceTitle": "Phlebotomist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "phlebotomist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "fact_check",
+  "approval": "Not approved",
+  "mappingStatus": "Exact source title; proposed profile mapping"
+}

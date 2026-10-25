@@ -1,0 +1,173 @@
+{
+  "spreadsheetId": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "readDate": "2026-10-25",
+  "range": "Sources!A1:I40",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Source ID",
+      "Working Profile ID",
+      "Section Number",
+      "Organization / Title",
+      "URL",
+      "Claim Supported",
+      "Publication Date",
+      "Verified Date",
+      "Verification Status"
+    ],
+    [
+      "SONO-01",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "Bureau of Labor Statistics — Diagnostic Medical Sonographers",
+      "https://www.bls.gov/ooh/healthcare/diagnostic-medical-sonographers.htm",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-02",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "O*NET OnLine — Diagnostic Medical Sonographers",
+      "https://www.onetonline.org/link/summary/29-2032.00",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-03",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "Inteleos — RDMS",
+      "https://www.inteleos.org/certification/registered-diagnostic-medical-sonographer/",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-04",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "CAAHEP — For Students",
+      "https://www.caahep.org/students/for-students",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-05",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "CAAHEP — Find Accredited Program",
+      "https://www.caahep.org/students/find-an-accredited-program",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-06",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "SDMS — Work-related Musculoskeletal Disorders",
+      "https://www.sdms.org/resources/careers/work-related-musculoskeletal-disorders",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SONO-07",
+      "hcl-diagnosticmedicalsonographer",
+      "14",
+      "CareerOneStop — Salary Finder (URL requires repair)",
+      "https://cloudfront.careeronestop.org/Toolkit/Wages/find-salary.aspx?dataview=table&amp;keyword=Diagnostic+Medical+Sonographers&amp;location=Kansas&amp;soccode=292032",
+      "See existing sonographer bibliography; claim-to-source mapping to verify.",
+      "",
+      "",
+      "Needs verification"
+    ],
+    [
+      "SPT-01",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "9",
+      "U.S. Bureau of Labor Statistics — Medical Equipment Preparers",
+      "https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm",
+      "2025 median wage $47,700, 2025–2035 projected growth 11%, high school entry and on-the-job training",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-02",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "9",
+      "O*NET — Medical Equipment Preparers",
+      "https://www.onetonline.org/link/summary/31-9093.00",
+      "Occupation tasks, knowledge, employment conditions and wage grouping",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-03",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "8",
+      "HSPA — CRCST certification",
+      "https://myhspa.org/certification/certification-overview/certified-registered-central-service-technician-crcst/",
+      "400 required experience hours and certification examination routes",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-04",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "8",
+      "HSPA — Become Certified",
+      "https://myhspa.org/certification/become-certified/",
+      "Certification and preparation routes",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-05",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "8",
+      "CBSPD — CSPDT Technician Certification",
+      "https://www.cbspd.net/tech/",
+      "Alternative eligibility routes and credentialing requirements",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-06",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "10",
+      "HSPA — Certified Healthcare Leader",
+      "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+      "Advancement credential",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ],
+    [
+      "SPT-07",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "10",
+      "CBSPD — Surgical Instrument Specialist",
+      "https://www.cbspd.net/surgical-instrument-specialist/",
+      "Advanced specialization",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  ]
+}

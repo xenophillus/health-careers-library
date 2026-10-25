@@ -1,0 +1,144 @@
+[
+  {
+    "sourceId": "MRT-01",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "BLS Medical Records Specialists",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+    "sections": [
+      1,
+      4,
+      7,
+      9,
+      12
+    ],
+    "claimSupported": "May2025 US median $51,140;2025\u20132035 growth8%;14,000 average annual openings; typical certificate entry; computer-based full-time work; some shifts; no direct patient care.",
+    "evidence": "Summary, duties, education, pay, outlook read. Statistics apply to SOC29-2072, including coding, not each specific title. No entry salary invented.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-02",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "O*NET Medical Records Specialists29-2072.00",
+    "url": "https://www.onetonline.org/link/summary/29-2072.00",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      12
+    ],
+    "claimSupported": "Medical Records Technician and Health Information Technician are reported job titles in group; security, record review, clinical classification and information handling.",
+    "evidence": "Reported-title list supports proposed MRT crosswalk but does not authorize merging all inventory titles. Workflow is author-created illustration of listed tasks.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-03",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "AHIMA CCA",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/cca/",
+    "sections": [
+      7,
+      8
+    ],
+    "claimSupported": "High-school diploma required for exam; coding experience/training recommended, not mandatory eligibility; maintenance required.",
+    "evidence": "Eligibility and maintenance sections read. Does not imply exam credential guarantees employment.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-04",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "AHIMA Ethics",
+    "url": "https://www.ahima.org/who-we-are/governance/ethics/",
+    "sections": [
+      2,
+      5,
+      6,
+      11,
+      14
+    ],
+    "claimSupported": "Professional ethics, integrity of coding, and responsibilities when obligations conflict.",
+    "evidence": "Ethics page and description of coding standards read; no claim of a specific legal rule derived solely from professional ethics.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-05",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "AHIMA Health Information 101",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/career-tools/career-pages/health-information-101/",
+    "sections": [
+      1,
+      2,
+      5,
+      10,
+      11,
+      12
+    ],
+    "claimSupported": "Information management connects clinical, business and IT work; information completeness, accuracy, privacy and standardization matter.",
+    "evidence": "Primary association describes health records and health information work; article examples are original illustrative synthesis, not reported worker diaries.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-06",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "AHIMA RHIT",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/rhit/",
+    "sections": [
+      7,
+      8
+    ],
+    "claimSupported": "Associate-level CAHIIM-accredited HIM education or listed international reciprocity route; health informatics programs not currently supported; recertification required.",
+    "evidence": "Eligibility and maintenance sections read directly. No claim that every information job requires RHIT.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-07",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "CAHIIM Programs",
+    "url": "https://www.cahiim.org/programs/",
+    "sections": [
+      7
+    ],
+    "claimSupported": "Accreditor distinguishes Health Informatics and Health Information Management and provides accredited program directory.",
+    "evidence": "Programs page opened. Directory visible in search; direct directory fetch returned502. Do not treat any individual program as verified accredited.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-08",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "HHS HIPAA Privacy Rule summary",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+    "sections": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "claimSupported": "Covered organizations restrict workforce access according to role and maintain disclosure procedures.",
+    "evidence": "Access/Uses and disclosure sections reviewed. Article avoids oversimplified claim that all disclosure needs patient authorization or that minimum-necessary rule applies without exceptions.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MRT-09",
+    "workingProfileId": "hcl-medicalrecordstechnician",
+    "organizationTitle": "AHIMA About",
+    "url": "https://www.ahima.org/who-we-are/about-us/",
+    "sections": [
+      14
+    ],
+    "claimSupported": "Professional association supporting health information practitioners.",
+    "evidence": "About page directly opened; membership is not presented as credentialing or licensure.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  }
+]

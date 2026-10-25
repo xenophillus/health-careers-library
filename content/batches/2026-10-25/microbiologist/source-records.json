@@ -1,0 +1,212 @@
+[
+  {
+    "sourceId": "BLS-MICRO",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Microbiologists, Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+    "sectionNumbers": [
+      4,
+      7,
+      9,
+      10
+    ],
+    "claimSummary": "Typical bachelor entry; laboratory/office full-time work; organism specialties; May2025 median87990, lower10%54670, upper10%150000;2025\u20132035 growth6%,1500 annual openings.",
+    "locator": "Summary; What They Do; How to Become One; Pay; Job Outlook",
+    "sourceDateOrPeriod": "May2025 wages;2025\u20132035 projections",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ONET-MICRO",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "U.S. Department of Labor, O*NET",
+    "title": "Microbiologists19-1022.00",
+    "url": "https://www.onetonline.org/link/summary/19-1022.00",
+    "sectionNumbers": [
+      1,
+      2,
+      3,
+      5,
+      11,
+      13
+    ],
+    "claimSummary": "Organism characterization; experiments and applied work; recording, analysis and communication. Workday and reflection are authored illustrations, not empirical time-use claims.",
+    "locator": "Tasks; Work Activities; Knowledge; Work Styles",
+    "sourceDateOrPeriod": "Updated2026",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ASM-CAREERS",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "American Society for Microbiology",
+    "title": "Careers in Microbiology and the Microbial Sciences",
+    "url": "https://asm.org/articles/2018/november/careers-in-microbiology-and-the-microbial-sciences",
+    "sectionNumbers": [
+      1,
+      3,
+      7,
+      11,
+      12
+    ],
+    "claimSummary": "Research questions, experiment design and communication; study preparation; distinct associate technician and bachelor/graduate routes. Historical wages deliberately excluded.",
+    "locator": "Research; How Do I Prepare; What Level of Education",
+    "sourceDateOrPeriod": "2019-11-12",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ASM-CPHM",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "American Society for Microbiology",
+    "title": "Careers in Clinical and Public Health Microbiology",
+    "url": "https://asm.org/careers-in-clinical-public-health-microbiology",
+    "sectionNumbers": [
+      1,
+      2,
+      3,
+      12,
+      14
+    ],
+    "claimSummary": "Patient testing supports clinical decisions; public-health surveillance and outbreaks; career and mentoring resources.",
+    "locator": "Clinical Microbiology; Public Health Microbiology; Connect with CPHM Professionals",
+    "sourceDateOrPeriod": "Accessed current page",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ASM-CERT",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "American Society for Microbiology",
+    "title": "How to Become Certified in the Clinical Microbiology Laboratory",
+    "url": "https://asm.org/articles/2023/march/how-to-become-certified-in-the-clinical-microbiolo",
+    "sectionNumbers": [
+      7,
+      8,
+      12,
+      14
+    ],
+    "claimSummary": "ASCP credentials may be broad or microbiology-specific; different laboratory roles and qualification routes. No numerical eligibility/renewal claim copied.",
+    "locator": "Key Takeaways",
+    "sourceDateOrPeriod": "2023-03-22",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ASM-SETTINGS",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "American Society for Microbiology",
+    "title": "Working in a Reference and Non-Reference Microbiology Laboratory",
+    "url": "https://asm.org/articles/2023/june/working-in-a-reference-non-reference-microbiology",
+    "sectionNumbers": [
+      4,
+      10,
+      11
+    ],
+    "claimSummary": "Reference versus academic laboratories; observed examples of lead, quality and supervisory advancement. Examples do not establish universal promotion timelines.",
+    "locator": "Setting definitions; Key Takeaways",
+    "sourceDateOrPeriod": "2023-06-12",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ASM-ABMM",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "American Society for Microbiology / ABMM",
+    "title": "American Board of Medical Microbiology",
+    "url": "https://asm.org/certifications/american-board-of-medical-microbiology-abmm",
+    "sectionNumbers": [
+      8,
+      10,
+      12
+    ],
+    "claimSummary": "Doctoral-level clinical/public-health laboratory leadership certification; does not replace jurisdictional requirements; scientific and administrative responsibilities.",
+    "locator": "Certification; What Is a Medical Microbiologist",
+    "sourceDateOrPeriod": "Accessed current page",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "CMS-CLIA",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "title": "Clinical Laboratory Improvement Amendments",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "CLIA regulates human laboratory testing for health assessment and diagnosis/prevention/treatment. Research degree is not asserted to universally authorize clinical work.",
+    "locator": "About CLIA",
+    "sourceDateOrPeriod": "Page updated2026-10-07",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "ECFR-PERSONNEL",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "Office of the Federal Register / eCFR",
+    "title": "42CFR493 Subpart M: Personnel for Nonwaived Testing",
+    "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-493/subpart-M",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Role-specific personnel requirements for nonwaived testing. Article intentionally does not summarize detailed eligibility combinations or pending rule changes.",
+    "locator": "Subpart M headings and qualification provisions",
+    "sourceDateOrPeriod": "Displayed current through2026-10-22",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "CDC-RISK",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "Centers for Disease Control and Prevention",
+    "title": "Biological Risk Assessment Process",
+    "url": "https://www.cdc.gov/safe-labs/php/biological-risk-assessment/process.html",
+    "sectionNumbers": [
+      6
+    ],
+    "claimSummary": "Biological,chemical,physical hazards; task/facility/personnel risk assessment and selected controls. No culturing or pathogen-handling instructions provided.",
+    "locator": "Overview; Steps1\u20135",
+    "sourceDateOrPeriod": "2024-09-21",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  },
+  {
+    "sourceId": "BLS-EPI",
+    "workingProfileId": "hcl-microbiologist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Epidemiologists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Epidemiologist population disease-pattern role contrasted with microbiology.",
+    "locator": "What They Do",
+    "sourceDateOrPeriod": "Accessed current page",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "jurisdiction": "United States; role-specific exceptions described where relevant",
+    "notes": "Claim support is not editorial or publication approval."
+  }
+]

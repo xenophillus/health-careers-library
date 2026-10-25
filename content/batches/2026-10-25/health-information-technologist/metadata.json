@@ -1,0 +1,27 @@
+{
+  "workingProfileId": "hcl-medicalinformationtechnologist",
+  "proposedWebsiteId": "health-information-technologist",
+  "displayTitle": "Medical Information Technologist",
+  "articleScope": "Health information technologist; proposed interpretation of source title, subject to mapping review",
+  "sourceAppearances": [
+    {
+      "inventoryIndex": 121,
+      "sourceTitle": "Medical Information Technologist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalinformationtechnologist"
+    }
+  ],
+  "mappingStatus": "Proposed mapping only; source label is not independently established as an exact alias",
+  "unresolvedRelatedLabels": [
+    "Clinical Data Specialist",
+    "Clinical Data Management Specialist",
+    "Health Information Technician"
+  ],
+  "status": "Draft \u2014 source-backed, not approved",
+  "coverageCredit": {
+    "draftedExactTitles": 1,
+    "approvedExactTitles": 0,
+    "additionalAliasTitlesCounted": 0
+  },
+  "canonicalSheetWriteStatus": "Not written; integrator must reread canonical rows before applying"
+}
