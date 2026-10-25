@@ -1,3 +1,5 @@
+> Current checkpoint:20 complete drafts; images optional; source/editorial and standalone desktop/mobile/84-page print QA completed. See [HANDOFF.md](HANDOFF.md). No publication approval or canonical writes.
+
 # Bounded batch of 20 — review index
 
 Unapproved editorial drafts only. No Sheet writes, runtime registration, approval changes, merge or deployment.
