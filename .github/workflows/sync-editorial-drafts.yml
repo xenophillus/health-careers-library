@@ -1,6 +1,8 @@
 name: Sync editorial spreadsheet drafts
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 12 * * *'
 permissions:
   contents: write
 jobs:
@@ -24,6 +26,17 @@ jobs:
         run: |
           node --test scripts/import-profile.test.mjs
           node scripts/check-draft-isolation.mjs
+      - name: Automated editorial QA and report
+        id: qa
+        continue-on-error: true
+        run: node scripts/qa-editorial-drafts.mjs
+      - name: Upload QA findings
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-qa-report
+          path: qa-results/
+          if-no-files-found: warn
       - name: Commit development drafts only
         run: |
           git config user.name "github-actions[bot]"
@@ -33,3 +46,8 @@ jobs:
             git commit -m "chore: refresh spreadsheet editorial drafts"
             git push origin HEAD:development/library-launch-build
           fi
+      - name: Report QA blockers
+        if: steps.qa.outcome == 'failure'
+        run: |
+          echo "Automated QA found blocking errors. Review editorial-qa-report."
+          exit 1
