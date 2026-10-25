@@ -30,6 +30,18 @@ jobs:
         id: qa
         continue-on-error: true
         run: node scripts/qa-editorial-drafts.mjs
+      - name: Install Playwright Chromium
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Start local unpublished preview server
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/hcl-preview.log 2>&1 &
+          for n in {1..30}; do curl -fsS http://127.0.0.1:4173/preview/ >/dev/null && break; sleep 1; done
+      - name: Run browser tests on desktop and mobile
+        id: browser
+        continue-on-error: true
+        run: node scripts/qa-browser-drafts.mjs
       - name: Upload QA report
         if: always()
         uses: actions/upload-artifact@v4
@@ -46,6 +58,6 @@ jobs:
             git commit -m "chore: refresh unpublished editorial drafts"
             git push origin HEAD:development/library-launch-build
           fi
-      - name: Fail if automated checks found structural errors
-        if: steps.qa.outcome == 'failure'
+      - name: Fail on structural or browser QA errors
+        if: steps.qa.outcome == 'failure' || steps.browser.outcome == 'failure'
         run: exit 1
