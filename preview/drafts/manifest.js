@@ -6,8 +6,18 @@ export const draftProfiles = [
     "status": "Fact check"
   },
   {
-    "id": "sterile-processing-technician",
-    "title": "Central Service or Sterile Processing Technician",
-    "status": "Draft"
+    "id": "dental-assistant",
+    "title": "Dental Assistant",
+    "status": "Fact check"
+  },
+  {
+    "id": "emergency-medical-technician",
+    "title": "Emergency Medical Technician",
+    "status": "Fact check"
+  },
+  {
+    "id": "medical-assistant",
+    "title": "Medical Assistant",
+    "status": "Fact check"
   }
 ];
