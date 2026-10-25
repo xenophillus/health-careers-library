@@ -1,0 +1,51 @@
+name: Nightly editorial QA (unpublished drafts)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 12 * * *'
+permissions:
+  contents: write
+jobs:
+  editorial-qa:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out isolated development branch
+        uses: actions/checkout@v5
+        with:
+          ref: development/library-launch-build
+          persist-credentials: true
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Read editorial spreadsheet and regenerate unpublished previews
+        env:
+          SHEET_ID: 1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: node scripts/sync-sheet-drafts.mjs
+      - name: Validate draft conversion and production isolation
+        run: |
+          node --test scripts/import-profile.test.mjs
+          node scripts/check-draft-isolation.mjs
+      - name: Produce editorial QA report
+        id: qa
+        continue-on-error: true
+        run: node scripts/qa-editorial-drafts.mjs
+      - name: Upload QA report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-qa-report
+          path: qa-results/
+          if-no-files-found: warn
+      - name: Commit regenerated previews to development only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/drafts/ preview/drafts/ preview/styles.css
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh unpublished editorial drafts"
+            git push origin HEAD:development/library-launch-build
+          fi
+      - name: Fail if automated checks found structural errors
+        if: steps.qa.outcome == 'failure'
+        run: exit 1
