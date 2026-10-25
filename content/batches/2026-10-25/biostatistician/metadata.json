@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-biostatistician",
+  "websiteCareerId": "biostatistician",
+  "title": "Biostatistician",
+  "sourceIndices": [
+    166
+  ],
+  "sourceTitle": "Biostatistician",
+  "sourcePathway": "Biotechnology Research and Development",
+  "canonicalSnapshot": "content/qa/sheet-snapshot-career-profiles-full.json",
+  "canonicalProfileRow": 157,
+  "canonicalStatusObserved": "Not started",
+  "status": "draft",
+  "publicationApproved": false,
+  "reviewDate": "2026-10-25",
+  "intro": "Biostatisticians use statistical reasoning to answer questions in biology, medicine and public health. They help researchers decide how a study should collect evidence and what conclusions its results can support. A study of a treatment, an environmental exposure or a pattern of illness may all need this expertise.",
+  "tags": [
+    "biotechnology",
+    "research",
+    "biostatistician"
+  ]
+}

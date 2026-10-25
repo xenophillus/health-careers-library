@@ -1,0 +1,11 @@
+{
+  "status": "No image selected; not approved",
+  "searchDate": "2026-10-25",
+  "queries": [
+    "site.commons.wikimedia.org \"cancer registry\" \"File\""
+  ],
+  "findings": "Search returned old registry-statistics charts and a legislative-event video, not a verified suitable registrar-at-work photograph.",
+  "reasonNotAdded": "Do not substitute unrelated stock imagery or infer photographer/permission from page hosting.",
+  "nextStep": "Acquire a suitable primary-source or Commons image; verify creator/license, actual depicted activity, caption and alt text; visually inspect before integrating.",
+  "assetsAdded": 0
+}

@@ -1,6 +1,6 @@
 # Canonical content review batches
 
-These files are proposed editorial source material, not approved site articles. The current canonical workbook remains https://docs.google.com/spreadsheets/d/1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI/edit . No workbook edits or generated/runtime changes are made by this batch.
+These files are editorial source material, not approved site articles. The current canonical workbook remains https://docs.google.com/spreadsheets/d/1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI/edit . Following explicit user approval, the five pilot revisions (54 content cells) and 144 section-specific source rows were applied and read back successfully. See `qa/canonical-write-receipt.json`. Other articles remain proposals. No generated/runtime changes or publication approvals were made.
 
 Each occupation directory contains 15 ordered Markdown sections, claim-level primary-source records, media evidence or an explicit gap, and review notes. The source-title inventory is preserved in `qa/inventory-review.json`: 192 source-pathway appearances, 182 exact titles, not 182 established distinct occupations. Proposed aliases and grouped labels remain unresolved until supported and reviewed.
 

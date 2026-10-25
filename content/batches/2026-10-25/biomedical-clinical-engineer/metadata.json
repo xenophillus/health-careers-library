@@ -1,0 +1,14 @@
+{
+  "workingProfileId": "hcl-biomedicalclinicalengineer",
+  "proposedWebsiteId": "biomedical-clinical-engineer",
+  "title": "Biomedical/Clinical Engineer",
+  "sourcePathways": [
+    "Support Services",
+    "Biotechnology Research and Development"
+  ],
+  "sourceAppearanceCount": 2,
+  "scope": "Grouped source label retained; biomedical engineering broad and clinical engineering hospital/technology-management direction explained. No merger with technician.",
+  "editorialStatus": "research_draft_not_approved",
+  "approved": false,
+  "sectionCount": 15
+}

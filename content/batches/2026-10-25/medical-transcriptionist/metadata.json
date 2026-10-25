@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-medicaltranscriptionist",
+  "proposedWebsiteId": "medical-transcriptionist",
+  "displayTitle": "Medical Transcriptionist",
+  "sourceAppearances": [
+    {
+      "inventoryIndex": 124,
+      "sourceTitle": "Medical Transcriptionist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicaltranscriptionist"
+    }
+  ],
+  "mappingStatus": "Exact source title retained; no alias consolidation",
+  "occupationalStatisticsGroup": "SOC31-9094 Medical Transcriptionists",
+  "status": "Draft \u2014 source-backed, not approved",
+  "coverageCredit": {
+    "draftedExactTitles": 1,
+    "approvedExactTitles": 0,
+    "additionalAliasTitlesCounted": 0
+  },
+  "canonicalSheetWriteStatus": "Not written; re-read canonical rows before applying"
+}

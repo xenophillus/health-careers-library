@@ -1,0 +1,14 @@
+{
+  "workingProfileId": "hcl-biomedicalclinicaltechnician",
+  "proposedWebsiteId": "biomedical-clinical-technician",
+  "title": "Biomedical/Clinical Technician",
+  "sourcePathways": [
+    "Support Services",
+    "Biotechnology Research and Development"
+  ],
+  "sourceAppearanceCount": 2,
+  "scope": "Proposed equipment-service interpretation of grouped label, aligned with BMET/medical equipment repairers. Clinical laboratory/biotechnology bench technician meanings remain unresolved and are not silently mapped.",
+  "editorialStatus": "research_draft_not_approved",
+  "approved": false,
+  "sectionCount": 15
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "sourceId": "BCT-01",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "BLS \u2014 Medical Equipment Repairers",
+    "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+    "sections": [
+      4,
+      7,
+      9
+    ],
+    "evidence": "May2025 median61,660;10th38,490;90th98,280;2025\u201335growth13%;8,200 annual openings; associate/certificate or alternate experience/training routes.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-02",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "O*NET \u2014 Medical Equipment Repairers",
+    "url": "https://www.onetonline.org/link/summary/49-9062.00",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "evidence": "Inspection, fault diagnosis, maintenance, records, tools, work context and technical skills.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-03",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "ACCE \u2014 Clinical Engineer Defined",
+    "url": "https://accenet.org/about/Pages/ClinicalEngineer.aspx",
+    "sections": [
+      10,
+      12,
+      14
+    ],
+    "evidence": "Engineering and managerial work in healthcare; clinical education and hospital internship; budgets, systems, assets, IT coordination and maintenance oversight.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-04",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "AAMI \u2014 Healthcare Technology Management",
+    "url": "https://aami.org/focus-area/healthcare-technology-management/",
+    "sections": [
+      1,
+      4,
+      10,
+      14
+    ],
+    "evidence": "HTM manages and repairs technology with clinicians; safety, security, interoperability and functionality.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-05",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "AAMI \u2014 Certified Biomedical Equipment Technician",
+    "url": "https://aami.org/certifications/cbet/",
+    "sections": [
+      5,
+      8
+    ],
+    "evidence": "Full-status routes: qualifying associate/higher +2yr; military program+2yr;4yr BMET. Candidate eligibility separate.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-06",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "AAMI \u2014 Certified Associate in Biomedical Technology",
+    "url": "https://aami.org/certifications/cabt/",
+    "sections": [
+      8
+    ],
+    "evidence": "Introductory credential; at least high-school junior eligible with documentation. Does not establish full CBET equivalence.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-07",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "AAMI \u2014 Certifications",
+    "url": "https://aami.org/certifications/",
+    "sections": [
+      8,
+      14
+    ],
+    "evidence": "Professional credential organization and examination process; not state clinical licensure.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-08",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "FDA \u2014 Cybersecurity",
+    "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
+    "sections": [
+      4,
+      10
+    ],
+    "evidence": "Connected-device safety/security requires manufacturer and healthcare-organization collaboration; no unsourced patching instructions.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-09",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "FDA \u2014 Human Factors and Medical Devices",
+    "url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/human-factors-and-medical-devices",
+    "sections": [
+      2,
+      11
+    ],
+    "evidence": "User-device interaction, controls, displays, maintenance interfaces and reduction of use-related risk.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCT-LAB",
+    "workingProfileId": "hcl-biomedicalclinicaltechnician",
+    "title": "BLS \u2014 Clinical Laboratory Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+    "sections": [
+      12
+    ],
+    "evidence": "Laboratory professionals perform specimen tests; distinct from equipment-service and design work.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  }
+]

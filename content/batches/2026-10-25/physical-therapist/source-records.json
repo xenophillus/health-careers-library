@@ -1,0 +1,131 @@
+[
+  {
+    "sourceId": "PT-BLS",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      4,
+      9
+    ],
+    "organizationTitle": "BLS — Physical Therapists",
+    "url": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+    "claimSupported": "May2025 U.S. median$102,760;2025–35 growth12%;13,400 annual openings; settings/schedule. No assistant statistics substituted.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-ONET",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      2,
+      3,
+      5
+    ],
+    "organizationTitle": "O*NET — Physical Therapists 29-1123.00",
+    "url": "https://www.onetonline.org/link/summary/29-1123.00",
+    "claimSupported": "Evaluation, treatment planning, reassessment, documentation, teaching and coordination. Workday is illustrative synthesis.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-CAREER",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      1,
+      7
+    ],
+    "organizationTitle": "APTA — Becoming a Physical Therapist",
+    "url": "https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pt",
+    "claimSupported": "CAPTE-accredited DPT route; usually three-year professional program; bachelor prerequisite common, combined formats exist; clinical education.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-PUBLIC",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      1,
+      3,
+      11,
+      12
+    ],
+    "organizationTitle": "ChoosePT — Why Physical Therapy?",
+    "url": "https://www.choosept.com/why-physical-therapy",
+    "claimSupported": "Movement-focused role, education and hands-on care; patient-specific function. Benefits/challenges interpreted as career tradeoffs, not guarantees.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-SPECIALTY",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      8,
+      10
+    ],
+    "organizationTitle": "APTA — Specialist Certification",
+    "url": "https://www.apta.org/your-career/career-advancement/specialist-certification",
+    "claimSupported": "Advanced clinical specialty certification differs from entry licensure; orthopedic, neurological, pediatric, geriatric, sports and cardiopulmonary areas.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-EXAM",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "FSBPT — National Physical Therapy Examination",
+    "url": "https://www.fsbpt.org/Secondary-Pages/Exam-Candidates/National-Exam-NPTE",
+    "claimSupported": "NPTE step toward state licensure; not a license.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-KS-QUAL",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A.65-2906",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_029_0000_article/065_029_0006_section/065_029_0006_k/",
+    "claimSupported": "Board evaluates education/exam/application/fees and other qualifications.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-KS-ROLE",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      8,
+      12
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A.65-2901",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_029_0000_article/065_029_0001_section/065_029_0001_k/",
+    "claimSupported": "Board is State Board of Healing Arts; PT and PTA distinction. No detailed procedure/direct-access claims made.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-ASSOC",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      14
+    ],
+    "organizationTitle": "APTA — About",
+    "url": "https://www.apta.org/apta-and-you/about-us",
+    "claimSupported": "Professional association role.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  },
+  {
+    "sourceId": "PT-NIOSH",
+    "workingProfileId": "hcl-physicaltherapist",
+    "sectionNumbers": [
+      6
+    ],
+    "organizationTitle": "CDC/NIOSH — Safe Patient Handling and Mobility",
+    "url": "https://www.cdc.gov/niosh/healthcare/sphm/index.html",
+    "claimSupported": "Patient handling risk and equipment/training/system prevention. Emotional demands are occupational synthesis, not quantified prevalence. May9,2024.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source reviewed; independent final review pending"
+  }
+]

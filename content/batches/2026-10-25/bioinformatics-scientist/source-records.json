@@ -1,0 +1,230 @@
+[
+  {
+    "sourceId": "NHGRI-BIOINFO",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "NHGRI",
+    "title": "Bioinformatics",
+    "url": "https://www.genome.gov/genetics-glossary/Bioinformatics",
+    "sectionNumbers": [
+      1,
+      2
+    ],
+    "claimSummary": "Computing to organize and analyze biological sequence information.",
+    "locator": "Definition",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-BIOINFO",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Bioinformatics Scientists 19-1029.01",
+    "url": "https://www.onetonline.org/link/summary/19-1029.01",
+    "sectionNumbers": [
+      2,
+      3,
+      4,
+      6,
+      9,
+      10,
+      12,
+      13
+    ],
+    "claimSummary": "Occupation-specific tasks; broad Biological Scientists All Other wage/projection attribution. Illustrative day and reflection are author-created.",
+    "locator": "Tasks; Work Context; Wages and Employment",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-DATA",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "NHGRI",
+    "title": "Genomic Data Science",
+    "url": "https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science",
+    "sectionNumbers": [
+      1,
+      2,
+      11
+    ],
+    "claimSummary": "Computational/statistical methods connect genomic data with biological interpretation.",
+    "locator": "What is genomic data science",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-VARIATION",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "NHGRI",
+    "title": "Human Genomic Variation",
+    "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+    "sectionNumbers": [
+      2,
+      11
+    ],
+    "claimSummary": "Variant detection versus health significance; reference comparisons and data interpretation.",
+    "locator": "How variants are detected; Why variation matters",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ISCB-FRAMEWORK",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "ISCB Education Committee authors",
+    "title": "ISCB competency framework v.3",
+    "url": "https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae166/7903279",
+    "sectionNumbers": [
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "claimSummary": "Research-based educational competency framework, not professional license.",
+    "locator": "Framework competencies and career profiles",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ISCB-CORE",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "Lloret-Llinares and colleagues",
+    "title": "Competencies for bioinformatics core facility scientists",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517332/",
+    "sectionNumbers": [
+      4,
+      10
+    ],
+    "claimSummary": "Core facility role and development of technical, coordination and leadership competencies.",
+    "locator": "Abstract; career progression framework",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-ZONE",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Bioinformatics Scientists Job Zone",
+    "url": "https://www.onetonline.org/skills/zone/19-1029.01",
+    "sectionNumbers": [
+      7
+    ],
+    "claimSummary": "Extensive preparation/graduate-school job-zone context; not universal degree requirement.",
+    "locator": "Job Zone Five",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ISCB-EDU",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "International Society for Computational Biology",
+    "title": "Education and Training Resources",
+    "url": "https://www.iscb.org/nucleus/education-and-training-resources",
+    "sectionNumbers": [
+      7,
+      14
+    ],
+    "claimSummary": "Training resources for bioinformatics learners and professionals.",
+    "locator": "Education pages overview",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-PRIVACY",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "NHGRI",
+    "title": "Privacy in Genomics",
+    "url": "https://www.genome.gov/about-genomics/policy-issues/Privacy",
+    "sectionNumbers": [
+      6,
+      8
+    ],
+    "claimSummary": "Privacy applies to genomic information in research and clinical contexts; identifiable implications.",
+    "locator": "Privacy in genomics",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "CMS-CLIA",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "title": "Clinical Laboratory Improvement Amendments",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Clinical human testing is subject to CLIA; degree/framework is not universal clinical qualification.",
+    "locator": "About CLIA",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ECFR-PERSONNEL",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "eCFR",
+    "title": "42 CFR 493 Subpart M",
+    "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-493/subpart-M",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Role-specific nonwaived laboratory personnel requirements.",
+    "locator": "Subpart M",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ISCB-ABOUT",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "International Society for Computational Biology",
+    "title": "About ISCB",
+    "url": "https://www.iscb.org/about-iscb",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Society scientific,educational and professional activities.",
+    "locator": "Mission and services",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASHG",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "American Society of Human Genetics",
+    "title": "ASHG",
+    "url": "https://www.ashg.org/",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Human genetics learning and career resources.",
+    "locator": "Careers and Learning",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-STATS",
+    "workingProfileId": "hcl-bioinformaticsscientist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Biostatisticians",
+    "url": "https://www.onetonline.org/link/summary/15-2041.01",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Related statistical study-design and analysis duties.",
+    "locator": "Tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  }
+]

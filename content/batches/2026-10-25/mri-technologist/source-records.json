@@ -1,0 +1,187 @@
+[
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-01",
+    "websiteId": "mri-technologist",
+    "title": "BLS Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+    "accessed": "2026-10-25",
+    "sections": [
+      4,
+      9
+    ],
+    "evidence": "May2025 MRI median $95,480;2025–35 MRI growth8%; combined openings15,300 not presented as MRI-only.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-02",
+    "websiteId": "mri-technologist",
+    "title": "ARRT MRI",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/mri",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      6,
+      7,
+      8
+    ],
+    "evidence": "Patient support, radiologist collaboration, primary and postprimary MRI routes.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-03",
+    "websiteId": "mri-technologist",
+    "title": "O*NET 29-2035.00",
+    "url": "https://www.onetonline.org/link/summary/29-2035.00",
+    "accessed": "2026-10-25",
+    "sections": [
+      2,
+      10
+    ],
+    "evidence": "Screening, coils, sequences, hearing protection, image QC; contrast within scope; teaching, troubleshooting, research appointments.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-04",
+    "websiteId": "mri-technologist",
+    "title": "ARRT MRI Task Inventory",
+    "url": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/fb2e1193-26ce-4f5b-9da6-50e8abe9a94f/Magnetic%20Resonance%20Imaging%20Task%20Inventory%202025.pdf",
+    "accessed": "2026-10-25",
+    "sections": [
+      3,
+      5,
+      6,
+      10,
+      11
+    ],
+    "evidence": "Patient preparation, MR-compatible transfers, image optimization and clinical anatomy. PDF cover says implementation Feb1,2025; internal page headers differ, so no student-facing revision-date claim.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-05",
+    "websiteId": "mri-technologist",
+    "title": "FDA MRI Benefits and Risks",
+    "url": "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      6,
+      12
+    ],
+    "evidence": "No ionizing radiation; magnetic objects, acoustic noise, radiofrequency heating; contrast not required for every exam.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-06",
+    "websiteId": "mri-technologist",
+    "title": "FDA MRI Information for Professionals",
+    "url": "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/information-professionals",
+    "accessed": "2026-10-25",
+    "sections": [
+      4,
+      5,
+      6
+    ],
+    "evidence": "Site safety procedures, screening and MR Conditional device constraints; technology itself does not remove safety responsibility.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-07",
+    "websiteId": "mri-technologist",
+    "title": "ARRT Primary Requirements",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+    "accessed": "2026-10-25",
+    "sections": [
+      7,
+      8
+    ],
+    "evidence": "Degree and approved MRI program with ethics/exam; MRI primary route available.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-08",
+    "websiteId": "mri-technologist",
+    "title": "ARRT Postprimary Requirements",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+    "accessed": "2026-10-25",
+    "sections": [
+      7,
+      8
+    ],
+    "evidence": "Appropriate supporting credential, education and clinical experience. Does not imply every imaging credential qualifies.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-09",
+    "websiteId": "mri-technologist",
+    "title": "Mayo Clinic MRI Program Minnesota",
+    "url": "https://college.mayo.edu/academics/health-sciences-education/magnetic-resonance-imaging-mri-program-minnesota/",
+    "accessed": "2026-10-25",
+    "sections": [
+      5,
+      7,
+      12
+    ],
+    "evidence": "Concrete education example: classroom, lab, clinical, faculty include radiologists/physicists; no one-year universal claim.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-10",
+    "websiteId": "mri-technologist",
+    "title": "K.S.A.65-7302(m)",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0002_section/065_073_0002_k/",
+    "accessed": "2026-10-25",
+    "sections": [
+      8
+    ],
+    "evidence": "Explicitly excludes MRI, echocardiography and diagnostic sonography from radiologic-technology definition. Replaces earlier misleading reliance on65-7304(f). Employer credential requirements remain distinct.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-12",
+    "websiteId": "mri-technologist",
+    "title": "ISMRT",
+    "url": "https://www.ismrm.org/smrt/",
+    "accessed": "2026-10-25",
+    "sections": [
+      14
+    ],
+    "evidence": "MR-specific professional society, education/safety/meetings; section of ISMRM.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  },
+  {
+    "sourceId": "HCL-MRI-TECHNOLOGIST-13",
+    "websiteId": "mri-technologist",
+    "title": "ASRT About Us",
+    "url": "https://www.asrt.org/main/about-asrt",
+    "accessed": "2026-10-25",
+    "sections": [
+      14
+    ],
+    "evidence": "Broader imaging professional association.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-magneticresonancemrtechnologist"
+  }
+]

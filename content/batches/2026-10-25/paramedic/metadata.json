@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-paramedic",
+  "websiteCareerId": "paramedic",
+  "sourceTitle": "Paramedic",
+  "sourceAppearances": [
+    {
+      "sourceIndex": 30,
+      "sourceTitle": "Paramedic",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "paramedic",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "fact_check",
+  "approval": "Not approved",
+  "mappingStatus": "Exact source title; proposed profile mapping",
+  "canonicalBaseline": "content/qa/sheet-snapshot-all-sections.json",
+  "canonicalStatus": "Existing 15 empty section rows inspected; no remote writes"
+}

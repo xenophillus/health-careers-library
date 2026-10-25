@@ -1,0 +1,36 @@
+{
+  "title": "Physical Therapist",
+  "workingProfileId": "hcl-physicaltherapist",
+  "proposedWebsiteCareerId": "physical-therapist",
+  "sourcePathways": [
+    "Therapeutic Services",
+    "Diagnostic Services"
+  ],
+  "sourceAppearances": [
+    {
+      "sourceRecordIndex": 35,
+      "sourceTitle": "Physical Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "physicaltherapist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceRecordIndex": 83,
+      "sourceTitle": "Physical Therapist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "physicaltherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "draft",
+  "approved": false,
+  "authoredDate": "2026-10-25",
+  "canonicalBaseline": "Career Profiles full snapshot: Not started. Re-read Article Sections, Sources and Media before applying.",
+  "intro": "Physical therapists (PTs) evaluate how people move and help them improve physical function, manage pain, and participate in activities that matter to them. Their patients include people recovering from injury or surgery and people living with longer-term conditions. Physical therapy also addresses preventing movement problems and maintaining function."
+}
