@@ -46,3 +46,7 @@ The new `scripts/sync-sheet-drafts.mjs` supports a **read-only Google service ac
 5. The service account token grants only `spreadsheets.readonly` scope. GitHub's `contents: write` permission is scoped to committing draft files on the development branch.
 
 **Limitations:** This is a prepared authenticated automation, not a running connection. Credentials have not been set by this process. Full automation and synchronization have not been verified end-to-end. Sonographer HTML requires a richer converter and remains handled separately. Published profiles require explicit approval.
+
+## Official editorial workbook
+
+The current source workbook is the **personally owned** Google Sheet: https://docs.google.com/spreadsheets/d/1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI/edit . The previous school-owned workbook is preserved as a historical backup and must not be used by new import runs. The Google Drive connection in ChatGPT can access and read the personal workbook; the separate GitHub Actions credential (`GOOGLE_SERVICE_ACCOUNT_JSON`) still requires configuration and a successful synchronization run before GitHub can read it unattended.
