@@ -1,0 +1,113 @@
+[
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-1",
+    "organizationTitle": "BLS — Veterinary Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+    "claimSupported": "Combined-group May 2025 median, 2025–35 outlook, schedules and demands.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-2",
+    "organizationTitle": "O*NET — Veterinary Technologists and Technicians",
+    "url": "https://www.onetonline.org/link/summary/29-2056.00",
+    "claimSupported": "Technical duties, observation, sample handling and patient recovery.",
+    "sections": [
+      2,
+      3,
+      5,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-3",
+    "organizationTitle": "NAVTA — Resources",
+    "url": "https://navta.net/resources/",
+    "claimSupported": "Skilled medical, surgical and diagnostic support role.",
+    "sections": [
+      1,
+      11,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed primary-source text retrieved."
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-4",
+    "organizationTitle": "NAVTA — FAQs",
+    "url": "https://navta.net/faqs/",
+    "claimSupported": "Roles of veterinarians, technicians, technologists and assistants; supervisory work.",
+    "sections": [
+      2,
+      7,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-5",
+    "organizationTitle": "AVMA — Veterinary technicians and veterinary assistants",
+    "url": "https://www.avma.org/resources/pet-owners/yourvet/veterinary-technicians-and-veterinary-assistants",
+    "claimSupported": "Accredited-program degree routes.",
+    "sections": [
+      7,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed text retrieved; direct page exposed iframe only. Degree-route claim cross-checked with NAVTA."
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-6",
+    "organizationTitle": "AAVSB — Veterinary Technician National Exam",
+    "url": "https://www.aavsb.org/students-exams/veterinary-technician-national-exam/",
+    "claimSupported": "VTNE administration and distinction between exam and jurisdiction-issued credentials.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-7",
+    "organizationTitle": "Kansas Legislature — K.S.A. 47-821",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/047_000_0000_chapter/047_008_0000_article/047_008_0021_section/047_008_0021_k/",
+    "claimSupported": "Board authority over technician registration and delegated tasks under veterinary supervision.",
+    "sections": [
+      8,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinariantechnician",
+    "sourceId": "veterinariantechnician-8",
+    "organizationTitle": "NAVTA — Veterinary Technician Specialties",
+    "url": "https://navta.net/veterinary-technician-specialties/",
+    "claimSupported": "Specialty academy recognition and advanced knowledge/skills.",
+    "sections": [
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed primary-source text retrieved; direct access timed out."
+  }
+]

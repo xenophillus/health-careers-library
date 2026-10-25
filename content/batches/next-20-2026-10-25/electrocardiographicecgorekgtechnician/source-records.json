@@ -1,0 +1,115 @@
+[
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-1",
+    "organizationTitle": "MedlinePlus — Electrocardiogram medical test",
+    "url": "https://medlineplus.gov/lab-tests/electrocardiogram/",
+    "claimSupported": "Electrical recording, clinician interpretation, and longer-term monitoring.",
+    "sections": [
+      1,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-2",
+    "organizationTitle": "MedlinePlus — Electrocardiogram procedure",
+    "url": "https://medlineplus.gov/ency/article/003868.htm",
+    "claimSupported": "Patient preparation, movement interference, electrodes and recording process.",
+    "sections": [
+      2,
+      3,
+      6,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-3",
+    "organizationTitle": "NHA — Certified EKG Technician",
+    "url": "https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)",
+    "claimSupported": "Occupational duties and CET eligibility; education and live-recording experience.",
+    "sections": [
+      2,
+      3,
+      7,
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-4",
+    "organizationTitle": "BLS — Cardiovascular Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
+    "claimSupported": "Settings, education, related roles, May 2025 broad-group U.S. wage and 2025–2035 outlook.",
+    "sections": [
+      4,
+      7,
+      9,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-5",
+    "organizationTitle": "CCI — Certified Cardiographic Technician",
+    "url": "https://cci-online.org/credentials/certified-cardiographic-technician/",
+    "claimSupported": "CCT scope and eligibility pathways; credentialing purpose.",
+    "sections": [
+      5,
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-6",
+    "organizationTitle": "O*NET — Cardiovascular Technologists and Technicians",
+    "url": "https://www.onetonline.org/link/summary/29-2031.00",
+    "claimSupported": "Recording duties, patient contact, precision and work context; reflection and workflow grounded in this broader occupational evidence.",
+    "sections": [
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-7",
+    "organizationTitle": "CCI — Credential categories",
+    "url": "https://cci-online.org/credentials/get-credentialed/",
+    "claimSupported": "Separate cardiac credentials and role distinctions.",
+    "sections": [
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+    "sourceId": "electrocardiographicecgorekgtechnician-source-8",
+    "organizationTitle": "Alliance of Cardiovascular Professionals",
+    "url": "https://www.acp-online.org/",
+    "claimSupported": "Allied cardiovascular professional association and education.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  }
+]

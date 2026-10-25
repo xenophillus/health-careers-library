@@ -1,0 +1,15 @@
+{
+  "title": "Health Information Administrator",
+  "sourceTitle": "Health Information Administrator",
+  "sourceKey": "healthinformationadministrator",
+  "workingProfileId": "hcl-healthinformationadministrator",
+  "sourceIndices": [
+    112
+  ],
+  "sourcePathways": [
+    "Health Informatics"
+  ],
+  "mapping": "Inventory sourceIndex 112, exact title Health Information Administrator. Scope is management of health information operations, with RHIA discussed as a credential rather than a job license. Distinct from prior Healthcare Administrator, Clinical Coder, Medical Records Technician, and Information Privacy Officer. BLS 11-9111 is a broad comparative wage group.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Prepared editorial draft; no publication or canonical action"
+}

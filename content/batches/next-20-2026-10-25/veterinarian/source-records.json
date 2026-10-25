@@ -1,0 +1,88 @@
+[
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-1",
+    "organizationTitle": "BLS \u2014 Veterinarians",
+    "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+    "claimSupported": "National May 2025 wage, 2025\u201335 outlook, working settings and demands. Veterinary professional education.",
+    "sections": [
+      4,
+      6,
+      9,
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-2",
+    "organizationTitle": "O*NET \u2014 Veterinarians",
+    "url": "https://www.onetonline.org/link/summary/29-1131.00",
+    "claimSupported": "Clinical duties, observations, communication, species and clinical focus areas.",
+    "sections": [
+      2,
+      3,
+      5,
+      10,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-3",
+    "organizationTitle": "AVMA \u2014 Veterinarians: Protecting the health of animals and people",
+    "url": "https://www.avma.org/resources/pet-owners/yourvet/veterinarians-protecting-health-animals-and-people",
+    "claimSupported": "Clinical, teaching, research, regulatory and public-health career areas.",
+    "sections": [
+      1,
+      10,
+      11,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed text retrieved; direct page exposed iframe only. Claims limited to indexed career areas."
+  },
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-4",
+    "organizationTitle": "AVMA \u2014 Veterinarians and public health",
+    "url": "https://www.avma.org/resources-tools/one-health/veterinarians-and-public-health",
+    "claimSupported": "Relationship of animal health, food safety and human health.",
+    "sections": [
+      1,
+      2,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed primary-source text retrieved."
+  },
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-5",
+    "organizationTitle": "NAVTA \u2014 FAQs",
+    "url": "https://navta.net/faqs/",
+    "claimSupported": "Veterinary team roles and distinctions between veterinarian, technician and assistant.",
+    "sections": [
+      7,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-veterinarian",
+    "sourceId": "veterinarian-6",
+    "organizationTitle": "Kansas Legislature \u2014 K.S.A. 47-824",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/047_000_0000_chapter/047_008_0000_article/047_008_0024_section/047_008_0024_k/",
+    "claimSupported": "Veterinary license application education and examination provisions.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  }
+]

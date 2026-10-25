@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-histotechnologist",
+  "title": "Histotechnologist",
+  "sourceTitle": "Histotechnologist",
+  "sourceKey": "histotechnologist",
+  "sourceIndices": [
+    70
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Histotechnologist preserved as exact inventory title. Current ASCP HTL credential is Scientist in Histotechnology; histotechnician distinguished, not merged.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Separate prepared draft; no canonical or runtime writes."
+}

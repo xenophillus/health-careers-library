@@ -1,0 +1,33 @@
+{
+  "firstBatch24TitlesCompared": [
+    "Athletic Trainer",
+    "Biochemist",
+    "Biomedical/Clinical Engineer",
+    "Biomedical/Clinical Technician",
+    "Biostatistician",
+    "Cancer Registrar",
+    "Community Health Worker",
+    "Dental Assistant",
+    "Emergency Medical Technician",
+    "Medical Information Technologist",
+    "Licensed Practical Nurse",
+    "Medical Assistant",
+    "Medical Records Technician",
+    "Medical Transcriptionist",
+    "Microbiologist",
+    "Magnetic Resonance (MR) Technologist",
+    "Occupational Therapist",
+    "Paramedic",
+    "Phlebotomist",
+    "Physical Therapist",
+    "Radiologic Technician",
+    "Registered Nurse",
+    "Central Service or Sterile Processing Technician",
+    "Surgical Technologist"
+  ],
+  "overlap": [],
+  "priorBounded20Overlap": [],
+  "selectedExactTitles": 20,
+  "appearances": 22,
+  "preservesAliasesAndInventoryLabels": true
+}

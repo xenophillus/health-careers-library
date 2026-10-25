@@ -1,0 +1,16 @@
+{
+  "workingProfileId": "hcl-nursepractitioner",
+  "title": "Nurse Practitioner",
+  "sourceKey": "nursepractitioner",
+  "sourceIndices": [
+    24,
+    76
+  ],
+  "sourceTitle": "Nurse Practitioner",
+  "sourcePathway": [
+    "Therapeutic Services",
+    "Diagnostic Services"
+  ],
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; no other source label merged."
+}

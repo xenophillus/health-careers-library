@@ -1,0 +1,500 @@
+{
+  "reviewDate": "2026-10-25",
+  "reviewer": "independent clinical reviewer, separate from authors",
+  "scope": "Read all 15 sections of each listed article; independently browse primary sources for selected core scope, credential and compensation claims. This is a content/editorial review and targeted factual verification, not an application checklist, rendered integration test or publication approval. Optional images are assessed only if included; deliberate clean text-only content is acceptable.",
+  "profiles": [
+    {
+      "sourceKey": "nursepractitioner",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Population focus controls preparation and practice",
+        "Clinic follow-up between appointments",
+        "RN and graduate NP pathway rather than universal doctorate"
+      ],
+      "coreChecks": [
+        {
+          "claim": "NP-specific US May2025 median132300 and41% employment growth2025–35",
+          "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+          "status": "verified directly; detailed NP table, not grouped APRN summary"
+        },
+        {
+          "claim": "Kansas APRN license and role/population national certification for initial licensure on/after2023-07-01",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_011_0000_article/065_011_0030_section/065_011_0030_k/",
+          "status": "verified directly, subsections(a),(b)(2),(c)"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no image included, no license/pixel requirement for omitted asset",
+      "corrections": [
+        {
+          "issue": "Internal editorial sentence: bounded description of Kansas law, not an application checklist",
+          "status": "Author corrected; read back final article and sections"
+        },
+        {
+          "issue": "Bibliography synthesis wording",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "75721df5ee090a31a844c1959b4133b4ebfb1d621284513a6e10246bc5131090",
+        "sections.json": "594d8443ffaac7877cdcfd7240d867e8531dd89a0892a1a1a75a42c6ecd38fba",
+        "source-records.json": "f2be7ca08ac957830390f55dd24eec030bcb07798c13d3bc36cf96031d4ab65b",
+        "metadata.json": "95efce187257bb2cb4bc868d8be5003a2b725e7ebd6ffee9a344989d25440ec4",
+        "media-evidence.json": "e3c108121c54d1b8af44798120ca802f04aafa62e5d481211a4ea135b449521e"
+      },
+      "wordCountIncludingBibliography": 1316
+    },
+    {
+      "sourceKey": "physicianmddo",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Family-medicine scenario distinguishes specialty variability",
+        "MD and DO routes, supervised residency, separate license and specialty certification"
+      ],
+      "coreChecks": [
+        {
+          "claim": "AMA residency range 3–7 years, specialty dependent",
+          "url": "https://www.ama-assn.org/medical-residents/residency-life/what-residency",
+          "status": "Verified directly against primary source"
+        },
+        {
+          "claim": "Kansas medical practice authorization requirement",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_028_0000_article/065_028_0003_section/065_028_0003_k/",
+          "status": "Verified directly against primary source"
+        },
+        {
+          "claim": "Physicians and surgeons US May2025 group median $275,930",
+          "url": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+          "status": "Verified directly against primary source"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [
+        {
+          "issue": "Checklist/editorial synthesis wording",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "cd98b2cbed2b05f0df5709652373483072779524ddb3617ef507347a0effc3a6",
+        "sections.json": "30a3abdcb2ec9b4d48fe39e8f577ba4c78a9df43c09f9e0d7d998b24ac78d814",
+        "source-records.json": "170981f40f2480aedd6645d135235234deee4fac61f52be093a397e14640762d",
+        "metadata.json": "22f34b1d20e234975a16b1f64699fd0267fcee30d5e1e0582c11f9b432eb6884",
+        "media-evidence.json": "e3c108121c54d1b8af44798120ca802f04aafa62e5d481211a4ea135b449521e"
+      },
+      "wordCountIncludingBibliography": 1351
+    },
+    {
+      "sourceKey": "veterinarian",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Species and population differences",
+        "Owner communication, welfare and euthanasia",
+        "Technician and assistant distinctions"
+      ],
+      "coreChecks": [
+        {
+          "claim": "Kansas education, prescribed exams and legal practice examination",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/047_000_0000_chapter/047_008_0000_article/047_008_0024_section/047_008_0024_k/",
+          "status": "Verified directly against primary source"
+        },
+        {
+          "claim": "Veterinarian US May2025 median $130,100",
+          "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+          "status": "Verified directly against primary source"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "866e53ae2dfd3d946d191e3bbca4624b67d4563d618136832c27aa26aec6044a",
+        "sections.json": "79cc48d3250a5bc4645c93d4e2fd6a98a090ba4bbbd420d6a00be0d786323f9f",
+        "source-records.json": "222dab21f47aa2cff981317a137a9ea5a1d27785c5121858612d8c53b66c13d4",
+        "metadata.json": "0d287a75086c6fb6b48969aed1ee347af79ef983bdd995378c5c6b264d85cbc3",
+        "media-evidence.json": "e3c108121c54d1b8af44798120ca802f04aafa62e5d481211a4ea135b449521e"
+      },
+      "wordCountIncludingBibliography": 1310
+    },
+    {
+      "sourceKey": "cardiovasculartechnologist",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Broad title explicitly distinguishes invasive/noninvasive departments",
+        "Cath-lab scrub/monitor tasks, physician responsibility",
+        "Radiologic duties do not follow automatically from RCIS"
+      ],
+      "coreChecks": [
+        {
+          "claim": "RCIS4 accredited invasive program route and catheterization specialty",
+          "url": "https://cci-online.org/credentials/registered-cardiovascular-invasive-specialist/",
+          "status": "Verified directly against primary source"
+        },
+        {
+          "claim": "Named Mayo Minnesota program is 21 months; not universal route",
+          "url": "https://college.mayo.edu/academics/health-sciences-education/cardiovascular-invasive-specialist-minnesota/",
+          "status": "Verified directly against primary source"
+        },
+        {
+          "claim": "Broad cardiovascular group US May2025 median $74,310 and 4% projected growth2025–35",
+          "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
+          "status": "Verified directly against primary source"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [
+        {
+          "issue": "Bibliography synthesis phrasing",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "ed53538546cff459d0a77ea840534062cd088c3cf1312d4aef5be4f592294d3f",
+        "sections.json": "ea8e21e6db512fc8f28955bead3dbba2be798432279d80fb2892a6db54203c15",
+        "source-records.json": "db82e9c648e360d20245f5d80a3cea253d725275cafbd5b87b218fedd899c694",
+        "metadata.json": "7b2667c9580d8cf7a4b75760644826b538f7adec5c24ae8f1e8decaeaadf90a7",
+        "media-evidence.json": "b0fe0e348912e2d5bce72b6414bbb3fdbe066f15a02ff65eba2bb6e5896e6471"
+      },
+      "wordCountIncludingBibliography": 1406
+    },
+    {
+      "sourceKey": "computertomographycttechnologist",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Cross-sectional x-ray imaging and radiologist interpretation",
+        "Contrast responsibilities conditional on training/orders/local authority",
+        "Postprimary pathway and proxy wages clearly bounded"
+      ],
+      "coreChecks": [
+        {
+          "claim": "ARRT CT supporting credentials and postprimary requirements",
+          "url": "https://www.arrt.org/pages/resources/earn-additional-credentials/earn-additional-credentials-postprimary/computed-tomography",
+          "status": "Verified primary indexed full content; direct body retrieval initially limited"
+        },
+        {
+          "claim": "Kansas license requirement and supervised exemptions",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+          "status": "Verified directly together with65-7304"
+        },
+        {
+          "claim": "Radiologic technologists/technicians US May2025 $80,110, 5%2025–35",
+          "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+          "status": "Verified subgroup table; not MRI or CT-only estimate"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [
+        {
+          "issue": "Bibliography bounded legal summary wording",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "3b58856f912f147b0fc95d6c968c573f42011e48510f75f037ce782d4afeb5f5",
+        "sections.json": "04c9789946b7df398c61928c0d6c301f959ae883450150305a83e072f79b616b",
+        "source-records.json": "76a854d94e90c8f7b754e0c961831df9276b553bbccfd86d119d542d25d59f13",
+        "metadata.json": "9e63295c37d034db1e5de339356836d79b30f405bac8c00351cd2c6bcbe0bd2a",
+        "media-evidence.json": "d589cb58d92e2a90e46ec26ed5fb5ff7fd55c1fbf2404a56a00dc86a81a2a71f"
+      },
+      "wordCountIncludingBibliography": 1430
+    },
+    {
+      "sourceKey": "veterinariantechnician",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Sample identification and anesthesia monitoring",
+        "Degree distinction technician versus technologist",
+        "Exam versus Kansas registration"
+      ],
+      "coreChecks": [
+        {
+          "claim": "VTNE administered by AAVSB; credentials issued by jurisdiction",
+          "url": "https://www.aavsb.org/students-exams/veterinary-technician-national-exam/",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Kansas veterinary technician registration and delegated supervised functions",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/047_000_0000_chapter/047_008_0000_article/047_008_0021_section/047_008_0021_k/",
+          "status": "Verified directly subsections(a)(11),(15),(16)"
+        },
+        {
+          "claim": "US May2025 combined group $47,380 and9%2025–35; common associate/bachelor distinction",
+          "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+          "status": "Verified directly; broad group not technician-only"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "30f99bde980c0f79997d6aaace9e189f3f7c7ed5d60dcad9ded81371c1275286",
+        "sections.json": "cdaa8a1a31dbdbc30b92fc7284b8d51f325538b64749310ad81cf05dfaad1acd",
+        "source-records.json": "d8887f98163a7b75aa3619eeb7a3bcad5c754bbcacfb43059038c194dc6547ec",
+        "metadata.json": "884c800962bc812c8371185eb36395fe41b81a0416311a2cac257e95d11394f1",
+        "media-evidence.json": "e3c108121c54d1b8af44798120ca802f04aafa62e5d481211a4ea135b449521e"
+      },
+      "wordCountIncludingBibliography": 1398
+    },
+    {
+      "sourceKey": "occupationaltherapyassistant",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Daily-life participation and dressing scenario",
+        "Observation and documentation under therapist supervision",
+        "Aide and assistant roles distinguished"
+      ],
+      "coreChecks": [
+        {
+          "claim": "Associate and bachelor entry routes",
+          "url": "https://www.aota.org/education/find-a-school",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "COTA candidates require ACOTE-accredited OTA entry degree",
+          "url": "https://www.nbcot.org/get-certified/eligibility",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Kansas education, supervised fieldwork and examination",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_054_0000_article/065_054_0006_section/065_054_0006_k/",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Assistant services under OT supervision",
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_054_0000_article/065_054_0002_section/065_054_0002_k/",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Assistant-specific US May2025 median $72,300 and21%2025–35 growth",
+          "url": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+          "status": "Verified directly"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "bfeecaa45d2e332ef22bebedaf5330ddee681fab0f6910495e5df181ae1ecd41",
+        "sections.json": "37e1222773302a525a1f694a15ce2bb5c8710e45a8301ad3de0b7112cdcf4ddd",
+        "source-records.json": "aa3a32a099097fd0c2f950d1f9395af289efdeab96efc6c9ccaece7a655fb91a",
+        "metadata.json": "6c839a764a7ed88f73a5d7e3b8aaa9a981d835e7cc629d95e917b9d039da6bcd",
+        "media-evidence.json": "e3c108121c54d1b8af44798120ca802f04aafa62e5d481211a4ea135b449521e"
+      },
+      "wordCountIncludingBibliography": 1390
+    },
+    {
+      "sourceKey": "electrocardiographicecgorekgtechnician",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Electrical recording versus clinician diagnosis",
+        "Movement artifact and patient privacy",
+        "CCT/CET distinctions and broad wage proxy clearly explained"
+      ],
+      "coreChecks": [
+        {
+          "claim": "NHA training route includes recent program and at least10 live ECGs with education conditions",
+          "url": "https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "CCT1 eligible training students/graduates, supporting documentation; ECG/Holter/stress scope",
+          "url": "https://cci-online.org/credentials/certified-cardiographic-technician/",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Broad cardiovascular group US May2025 $74,310 and4%2025–35, not ECG-specific",
+          "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
+          "status": "Verified directly"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [
+        {
+          "issue": "Bibliography editorial reflection phrasing",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "6349d13d6956e30306ca73286214fd5196b54c6b7ce1d1cb1db61dabfc72e9f9",
+        "sections.json": "127af930f83e637d2333664d6788b7b0c06a2234d54ea1b058061a9b037a5270",
+        "source-records.json": "335bb0b7c68d453dbdadd0c029743a729e09f0a119ad9ddd275a2d02555e43df",
+        "metadata.json": "a56e15acf9900d7520f78813f088784cbdf2343cd5994d0744c181ff9f1e04c2",
+        "media-evidence.json": "7a3a501102dc297de728a23a0825adc15576afaaa2f061cc84e39efe0e6b4f6f"
+      },
+      "wordCountIncludingBibliography": 1445
+    },
+    {
+      "sourceKey": "histotechnologist",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Fixation, embedding, microtome sectioning and staining",
+        "Failed staining controls prompt troubleshooting",
+        "HTL and HT distinction; pathologist interpretation"
+      ],
+      "coreChecks": [
+        {
+          "claim": "HTL current name Scientist in Histotechnology; Route1 bachelor,30semester bio/chem including both, accredited histology program within5years",
+          "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/HTL",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Tissue preparation for pathologist interpretation and modern methods",
+          "url": "https://www.nsh.org/about/about-histotechnology",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Kansas CLIA administration by Laboratory Improvement Program Office",
+          "url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Broad laboratory group US May2025 $62,930 and3%2025–35, not histotechnologist-only",
+          "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+          "status": "Verified directly"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [
+        {
+          "issue": "Bibliography editorial education-not-substituted wording",
+          "status": "Author corrected; read back final article and sections"
+        }
+      ],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "ecb9ca4024e209a93289b76a7374e4f0040ff62a40326cdf39cea627744335d5",
+        "sections.json": "ea0a462e7a5fe0196f2da81b9d6260a4c9b3f091bb0c8c1d80539329ea9ccdbe",
+        "source-records.json": "4a4f2957bd018d21fa845495c7ca7c80465d2690d8f8595587c63b37d62dcd1f",
+        "metadata.json": "b5a065ec05f3af9a266619a1ccc94f31965952f89e6cdbce216839b03f3c4784",
+        "media-evidence.json": "a3d6df99426e91800585609c9795d638e036832a333231899b28dca553317224"
+      },
+      "wordCountIncludingBibliography": 1448
+    },
+    {
+      "sourceKey": "medicallaboratorytechnician",
+      "editorialStatus": "All 15 sections read; substantive career-specific prose",
+      "distinctiveDetails": [
+        "Specimen identification and quality-control interruption",
+        "Technician/scientist role distinction",
+        "Lab authorization, personal certification and competency distinguished"
+      ],
+      "coreChecks": [
+        {
+          "claim": "ASCP MLT Route1 associate or60semester credits AND accredited MLT program within5years",
+          "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/MLT",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Moderate/high-complexity testing competency must be demonstrated and documented",
+          "url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/clia_compbrochure_508.pdf",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Kansas CLIA administration",
+          "url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen",
+          "status": "Verified directly"
+        },
+        {
+          "claim": "Broad laboratory group US May2025 $62,930 and3%2025–35, not MLT-only",
+          "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+          "status": "Verified directly"
+        }
+      ],
+      "mediaStatus": "Acceptable deliberate text-only; no asset included",
+      "corrections": [],
+      "coreFactBlockers": [],
+      "structuralCheck": {
+        "sectionCount": 15,
+        "professionalAssociationsBeforeBibliography": true,
+        "embeddedImages": 0
+      },
+      "metadataReview": "Exact sourceTitle and sourceKey retained; occupational mappings remain in metadata and no source inventory entries silently merged",
+      "reviewedFileHashes": {
+        "article.md": "3a4526e2a43e0ee9615459042ad204500e3f114621ecffca26b84e5591d52348",
+        "sections.json": "8343df8428b7754fa7b61a0bb261ef2c47f4606a4c05ec363ac458db492b3f91",
+        "source-records.json": "3c4a4f299589c455fc03da5963299549fc4e2decb16fb77cb8b5af5f07ccb169",
+        "metadata.json": "ac89b06b42757b13078e197e1703695cc5d81c8901bd39bcd2aae639c4c8b8e3",
+        "media-evidence.json": "ef211c082dc65a0eca1b0fef3b5f37169c548328445684f7bcaa0ae4cbb99930"
+      },
+      "wordCountIncludingBibliography": 1453
+    }
+  ],
+  "summary": {
+    "completeArticlesRead": 10,
+    "sectionsRead": 150,
+    "profilesWithIndependentPrimaryCredentialOrScopeCheck": 10,
+    "profilesWithIndependentWageCheck": 10,
+    "mediaRecordsReviewed": 10,
+    "deliberateTextOnlyProfiles": 10,
+    "imagesIncluded": 0,
+    "imageLicenseReview": "Not applicable; no assets included",
+    "imagePixelReview": "Not applicable; no assets included",
+    "unresolvedRequiredTextCorrections": 0,
+    "coreFactBlockers": 0,
+    "publicationApproval": "Not granted by this report"
+  },
+  "limitations": [
+    "Targeted primary-source checks are listed per article; report does not assert line-by-line independent verification of every sentence.",
+    "ARRT CT pathway verified through primary indexed full content after direct-body extraction limitation.",
+    "Spot-reviewed source-record entries and read full prose; integration rendering and canonical publication remain outside this review.",
+    "No image omitted by deliberate text-only presentation is treated as a missing-verification blocker."
+  ]
+}

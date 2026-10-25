@@ -1,0 +1,97 @@
+# Clinical Coder
+
+## Career Overview
+
+A clinical coder translates documented healthcare information into standardized codes. Those codes describe diagnoses, procedures, and services so that information can be used consistently in payment systems, reporting, and analysis. The work begins with the medical record, not with guessing what a patient probably had.
+
+Coding is a focused part of the broader medical-records field. A coder may read a complicated account of a hospital stay and decide how the documented information fits the applicable classification rules. Accuracy matters because a small difference in wording or code selection can change how the encounter is represented. The [O*NET medical records specialists profile](https://www.onetonline.org/link/summary/29-2072.00) explicitly includes medical coders.
+
+## Duties and Responsibilities
+
+Coders review clinical documentation, select appropriate codes, and check whether the record supports their choices. They use classification references and software, communicate about missing or unclear information, and help resolve coding discrepancies. The goal is an accurate representation of the documented care.
+
+Different settings use different coding systems and rules. For example, CMS provides ICD-10 diagnosis and inpatient procedure coding resources. A coder needs to know which rules apply to the encounter being reviewed and which version is current. Good coding is not a contest to find the highest-paying code; it is a disciplined interpretation of documentation within a defined system.
+
+## A Day in the Life
+
+Imagine a coder beginning the day with a queue of completed encounters. One record is straightforward, but another describes a procedure in several notes that do not clearly agree. The coder reviews the relevant documentation and follows the organization's process for obtaining clarification instead of filling the gap with an assumption.
+
+Later, a quality review identifies a pattern in previously coded records. The coder discusses the issue with a supervisor, checks the applicable guidance, and revises the workflow if needed. This illustrative day involves much more than typing numbers: it combines reading, decisions, communication, and a traceable explanation for the final code selection.
+
+## Work Environment and Schedule
+
+Clinical coders work within healthcare organizations and related information services. Much of the day involves records and computer systems rather than hands-on patient care. BLS describes medical records specialists as typically working full time and spending many hours at a computer.
+
+A hospital's coding operation differs from a small practice's workflow. The records, pace, specialty knowledge, and division of duties may change. When comparing jobs, ask whether the position involves inpatient coding, outpatient services, professional services, audits, or a mixture. Remote work, when offered, still requires secure handling of records and clear productivity and quality expectations.
+
+## Skills, Knowledge, and Personal Qualities
+
+Reading comprehension and attention to detail are central. Anatomy, medical terminology, and understanding of disease and procedures help a coder interpret the record. Classification knowledge helps turn that understanding into a supported coding decision.
+
+A careful coder can distinguish between information that is documented and an inference that needs clarification. Communication skills help when asking a clinician or colleague a precise question. Software can support searching and checking, but a suggested code still needs to fit the record and applicable guidance. Students who enjoy rules, language, and solving information puzzles may recognize an appealing combination here.
+
+## Physical and Emotional Demands
+
+The work requires sustained concentration and repeated close reading. Long periods of screen use make an appropriate workstation and sensible work habits important. A challenging record may require patience rather than a quick answer.
+
+There can also be tension between speed and accuracy. A coder may need to explain why a record cannot yet be finalized or why a proposed code is not supported. Confidentiality adds responsibility: access to sensitive information is for the job, not for personal curiosity. Comfort with careful, sometimes repetitive work is as relevant as interest in healthcare.
+
+## Education and Training
+
+BLS reports that medical records specialists typically enter with a postsecondary certificate, although employers may accept or require different levels of education. For coding specifically, compare programs that teach medical terminology, anatomy and physiology, classification systems, and application to realistic records.
+
+AHIMA's [Certified Coding Associate information](https://www.ahima.org/certification-careers/certifications-overview/cca/) recommends relevant coding experience or training before the examination. A high-school diploma meets the listed basic educational eligibility, but eligibility to sit for an exam is not the same as being prepared for a coding job. Practice applying rules to documentation is a crucial bridge between learning terms and working independently.
+
+## Certification and Licensure
+
+AHIMA offers the **Certified Coding Associate (CCA)** and **Certified Coding Specialist (CCS)** credentials. The CCS focuses on proficiency in classifying medical data and maintaining coding quality; AHIMA describes it as a progression for experienced coders. An employer may prefer or require a particular credential for its setting.
+
+Certification is a professional qualification, not a clinical license to diagnose or treat patients. A school's completion certificate also differs from an independently awarded professional credential. Before paying for training, check which certification it prepares students for, what the certifying organization actually requires, and how graduates gain supervised coding experience.
+
+## Salary, Entry-Level Earnings, and Job Outlook
+
+The [U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm) reports a **U.S. median annual wage of $51,140 in May 2025 for medical records specialists**. This broader category includes coders and other medical-records roles; it is not a salary survey limited to the exact title Clinical Coder. The median covers all experience levels and is not a starting salary.
+
+BLS projects **8% employment growth from 2025 to 2035** for that broader occupation. For entry-level comparisons, look at the actual setting, credential expectations, and whether experience with a particular specialty is required. An inpatient coding position requiring substantial experience is not a fair benchmark for a first coding job.
+
+## Specialties and Career Advancement
+
+A coder may build expertise in inpatient records, outpatient services, or a clinical specialty. With experience, possible directions include coding quality review, auditing, education, and supervision. The CCS credential is one way experienced coders demonstrate deeper proficiency.
+
+Other paths lead toward clinical documentation work or health information management, but those roles add responsibilities beyond code assignment. A strong next step depends on which work is most appealing: resolving detailed coding questions, helping colleagues improve, or managing the information process across an organization.
+
+## Benefits and Challenges of the Career
+
+Coding offers a healthcare career centered on information rather than direct treatment. Accurate classifications help organizations use clinical information consistently, and coded data can also support researchers and public-health work. It can be satisfying to make a complicated record understandable within an organized system.
+
+The challenges include ambiguous documentation, changing coding resources, and the need to remain accurate during repetitive work. A coder has to resist a plausible but unsupported answer. Students who enjoy getting the details right may appreciate that responsibility; those who want constant face-to-face activity may prefer a different healthcare role.
+
+## Career Connections and Related Occupations
+
+Medical records staff may handle record completeness, storage, access, and other information tasks. A clinical coder specializes in classifying the documented diagnoses and services. A billing role uses information in the payment process, but billing and coding are not identical activities.
+
+Health information administrators oversee broader information operations. Clinicians document and deliver care, while coders translate supported documentation into classifications. Understanding these boundaries helps explain why a coder may request clarification without taking over the clinician's responsibility to diagnose.
+
+## Could This Career Interest You?
+
+Do you enjoy finding the rule that fits a complicated case? Can you notice a missing detail without inventing it? Would you be comfortable asking for clarification when a quick answer would be easier?
+
+Try classifying a small collection of books or activities using written rules. Notice where two people might interpret the rules differently and how you would explain your decision. The exercise is much simpler than clinical coding, but it reveals whether you enjoy making information consistent and defensible.
+
+## Professional Associations
+
+The [American Health Information Management Association (AHIMA)](https://www.ahima.org/) provides education, certification, and professional resources for people who work with health information. Its coding credential pages help students understand the difference between introductory preparation and more advanced proficiency.
+
+Association resources are useful for exploring changes in coding practice and related careers. Membership, finishing a course, earning a certification, and being hired are separate steps; none should be assumed to automatically provide the others.
+
+## Bibliography & Sources
+
+Sources reviewed October 25, 2026.
+
+1. [O*NET — Medical Records Specialists](https://www.onetonline.org/link/summary/29-2072.00) — Occupational inclusion of coders; record classification, checking, and communication tasks.
+2. [CMS — ICD-10 Resources](https://www.cms.gov/medicare/coding-billing/icd-10-codes) — Current diagnosis and inpatient procedure classification resources and coding guidance.
+3. [BLS — Medical Records Specialists](https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm) — Broader occupational working conditions, education, U.S. May 2025 median, and 2025–35 projection.
+4. [AHIMA — Certified Coding Associate](https://www.ahima.org/certification-careers/certifications-overview/cca/) — CCA educational eligibility and recommended coding preparation.
+5. [AHIMA — Certified Coding Specialist](https://www.ahima.org/certification-careers/certifications-overview/ccs/) — Coding proficiency, data quality, advanced credential context, and uses of coded information.
+6. [HHS — Summary of the HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) — Protected health information and organizational responsibility for appropriate handling.
+7. [AHIMA — Professional Organization](https://www.ahima.org/) — Education, certification, and health information professional resources.

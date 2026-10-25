@@ -1,0 +1,101 @@
+[
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-1",
+    "organizationTitle": "O*NET \u2014 Medical Records Specialists",
+    "url": "https://www.onetonline.org/link/summary/29-2072.00",
+    "claimSupported": "Occupational inclusion of coders; record classification, checking, and communication tasks. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-2",
+    "organizationTitle": "CMS \u2014 ICD-10 Resources",
+    "url": "https://www.cms.gov/medicare/coding-billing/icd-10-codes",
+    "claimSupported": "Current diagnosis and inpatient procedure classification resources and coding guidance. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      2,
+      3,
+      5,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-3",
+    "organizationTitle": "BLS \u2014 Medical Records Specialists",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+    "claimSupported": "Broader occupational working conditions, education, U.S. May 2025 median, and 2025\u201335 projection.",
+    "sections": [
+      4,
+      6,
+      7,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-4",
+    "organizationTitle": "AHIMA \u2014 Certified Coding Associate",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/cca/",
+    "claimSupported": "CCA educational eligibility and recommended coding preparation.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-5",
+    "organizationTitle": "AHIMA \u2014 Certified Coding Specialist",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/ccs/",
+    "claimSupported": "Coding proficiency, data quality, advanced credential context, and uses of coded information.",
+    "sections": [
+      8,
+      10,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-6",
+    "organizationTitle": "HHS \u2014 Summary of the HIPAA Privacy Rule",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+    "claimSupported": "Protected health information and organizational responsibility for appropriate handling.",
+    "sections": [
+      4,
+      6
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicalcoder",
+    "sourceId": "clinicalcoder-7",
+    "organizationTitle": "AHIMA \u2014 Professional Organization",
+    "url": "https://www.ahima.org/",
+    "claimSupported": "Education, certification, and health information professional resources.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  }
+]

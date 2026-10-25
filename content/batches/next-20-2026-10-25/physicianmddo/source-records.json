@@ -1,0 +1,103 @@
+[
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-1",
+    "organizationTitle": "BLS — Physicians and Surgeons",
+    "url": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+    "claimSupported": "May 2025 grouped wage, 2025–35 outlook, settings and broad working conditions.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-2",
+    "organizationTitle": "O*NET — Family Medicine Physicians",
+    "url": "https://www.onetonline.org/link/summary/29-1215.00",
+    "claimSupported": "Family-medicine duties, communication and working relationships.",
+    "sections": [
+      2,
+      3,
+      5,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-3",
+    "organizationTitle": "AMA — What is residency?",
+    "url": "https://www.ama-assn.org/medical-residents/residency-life/what-residency",
+    "claimSupported": "Residency as supervised specialty preparation; typical three-to-seven-year range.",
+    "sections": [
+      7,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-4",
+    "organizationTitle": "AACOM — About Osteopathic Medicine",
+    "url": "https://www.aacom.org/become-a-doctor/about-osteopathic-medicine",
+    "claimSupported": "DO physician education, residency and practice across specialties.",
+    "sections": [
+      1,
+      7,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-5",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-2803",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_028_0000_article/065_028_0003_section/065_028_0003_k/",
+    "claimSupported": "Kansas authorization prerequisite for professions regulated by the Board of Healing Arts.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-6",
+    "organizationTitle": "AAMC — Careers in Medicine",
+    "url": "https://careersinmedicine.aamc.org/",
+    "claimSupported": "Specialty exploration and comparative career questions.",
+    "sections": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-physicianmddo",
+    "sourceId": "physicianmddo-7",
+    "organizationTitle": "AAMC — The Road to Becoming a Doctor",
+    "url": "https://www.aamc.org/media/36776/download",
+    "claimSupported": "Sequence of college, medical school, residency and optional fellowship.",
+    "sections": [
+      1,
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  }
+]

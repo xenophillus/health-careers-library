@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-veterinariantechnician",
+  "title": "Veterinarian Technician",
+  "sourceKey": "veterinariantechnician",
+  "sourceIndices": [
+    53
+  ],
+  "sourceTitle": "Veterinarian Technician",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory spelling retained. The professional role is veterinary technician, also listed as Veterinarian Technician in O*NET reported titles. No other inventory label merged."
+}

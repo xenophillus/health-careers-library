@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-veterinarian",
+  "title": "Veterinarian",
+  "sourceKey": "veterinarian",
+  "sourceIndices": [
+    52
+  ],
+  "sourceTitle": "Veterinarian",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; no other source label merged."
+}
