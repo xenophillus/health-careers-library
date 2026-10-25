@@ -77,5 +77,6 @@ export const careerEmoji = Object.freeze({
   'dental-assistant': '🦷',
   'sterile-processing-technician': '🧼',
   'medical-assistant': '📋',
-  'sonographer': '🖥️'
+  'sonographer': '🖥️',
+  'emt': '🚑'
 });
