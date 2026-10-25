@@ -24,8 +24,10 @@ try{
    note(tag+' unified salary range responds',(await page.locator('.rangevalue').nth(1).innerText()).includes('$40,000')&&(await page.locator('.rangevalue').nth(1).innerText()).includes('$80,000'));
    await page.evaluate(()=>window.resetFilters());
    const cards=page.locator('.careerCard');
-   note(tag+' has 16 unique career cards',await cards.count()===16);
+   note(tag+' has 6 revised career cards',await cards.count()===6);
    const labels=await cards.locator('h3').allInnerTexts();
+   note(tag+' retains reviewed Sonographer model',labels.some(x=>x==='Diagnostic Medical Sonographer'));
+   note(tag+' excludes trial-only careers',!labels.some(x=>['Veterinarian','Veterinary Technician','Radiologic Technologist','Registered Nurse','Respiratory Therapist','Medical Laboratory Scientist','Physician','Biomedical Engineer','Health Information Technician','Community Health Worker'].includes(x)));
    note(tag+' no repeated visible occupation names',new Set(labels).size===labels.length);
    note(tag+' one EMT listing',labels.filter(n=>n==='Emergency Medical Technician').length===1);
    note(tag+' no false zero-year/zero-salary placeholders',!(await page.locator('#results').innerText()).includes('$0')&&!(await page.locator('#results').innerText()).includes('~0 years'));
