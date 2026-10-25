@@ -12,7 +12,7 @@ const destination=path.join(root,'preview/assets');
 fs.cpSync(path.join(root,'assets'),destination,{recursive:true,force:true});
 fs.mkdirSync(path.join(destination,'data/drafts'),{recursive:true});
 const copyDraft=(id)=>fs.copyFileSync(path.join(root,'preview/drafts',id+'.js'),path.join(destination,'data/drafts',id+'.js'));
-const clean=s=>s.replace(/<[^>]*>/g,' ').replace(/&(?:amp|nbsp);/g,' ').replace(/\\s+/g,' ').trim();
+const clean=s=>s.replace(/<[^>]*>/g,' ').replace(/&(?:amp|nbsp);/g,' ').replace(/\s+/g,' ').trim();
 const careers=structuredClone(trialCareers);
 const ids=new Set(careers.map(c=>c.id));
 const aliases=new Map();
@@ -34,13 +34,13 @@ for(const draft of draftProfiles){
  else {if(ids.has(id))throw Error('Duplicate public ID '+id);ids.add(id);careers.push(entry);}
  info.push({id,draftId:draft.id,title:draft.title,sections:sections.length});
 }
-fs.writeFileSync(path.join(destination,'data/careers.js'),'// Development review build only; unpublished careers.\\nexport const careers = '+JSON.stringify(careers,null,2)+';\\n');
+fs.writeFileSync(path.join(destination,'data/careers.js'),'// Development review build only; unpublished careers.\nexport const careers = '+JSON.stringify(careers,null,2)+';\n');
 const original=fs.readFileSync(path.join(root,'assets/data/full-profiles.js'),'utf8');
-const imports=info.map((x,i)=>'import {sections as draftSections'+i+'} from \'./drafts/'+x.draftId+'.js\';').join('\\n');
-const additions=info.map((x,i)=>JSON.stringify(x.id)+': {careerId:'+JSON.stringify(x.id)+',intro:'+JSON.stringify(careers.find(y=>y.id===x.id).desc)+',tags:[\'Editorial draft\'],facts:[{label:\'Editorial status\',value:\'Unapproved\',detail:\'For review only\'}],sections:draftSections'+i+'}').join(',\\n');
+const imports=info.map((x,i)=>'import {sections as draftSections'+i+'} from \'./drafts/'+x.draftId+'.js\';').join('\n');
+const additions=info.map((x,i)=>JSON.stringify(x.id)+': {careerId:'+JSON.stringify(x.id)+',intro:'+JSON.stringify(careers.find(y=>y.id===x.id).desc)+',tags:[\'Editorial draft\'],facts:[{label:\'Editorial status\',value:\'Unapproved\',detail:\'For review only\'}],sections:draftSections'+i+'}').join(',\n');
 let reviewed=original.replace('// Profiles are editorially reviewed before being added to this registry.','// Unpublished editorial review build; NOT the public registry.');
-reviewed=imports+'\\n'+reviewed;
-reviewed=reviewed.replace(/export const fullProfiles = \\{/,'export const fullProfiles = {\\n'+additions+',');
+reviewed=imports+'\n'+reviewed;
+reviewed=reviewed.replace(/export const fullProfiles = \{/,'export const fullProfiles = {\n'+additions+',');
 fs.writeFileSync(path.join(destination,'data/full-profiles.js'),reviewed);
 let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 html=html.replace('<title>','<title>UNPUBLISHED REVIEW — ');
@@ -49,5 +49,5 @@ html=html.replace('</head>','<style>.preview-banner{padding:.85rem 1rem;backgrou
 html=html.replace('Early interactive prototype','Unpublished integrated review prototype');
 fs.writeFileSync(path.join(root,'preview/library.html'),html);
 fs.mkdirSync(path.join(root,'qa-results'),{recursive:true});
-fs.writeFileSync(path.join(root,'qa-results/integrated-careers.json'),JSON.stringify(info,null,2)+'\\n');
+fs.writeFileSync(path.join(root,'qa-results/integrated-careers.json'),JSON.stringify(info,null,2)+'\n');
 console.log('Built unpublished integrated library: '+info.length+' editorial drafts, '+careers.length+' unique cards.');
