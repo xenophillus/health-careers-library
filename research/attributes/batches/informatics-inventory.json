@@ -1,0 +1,373 @@
+[
+  {
+    "sourceTitle": "Admitting Clerk",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "admittingclerk",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Applied Researcher",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "appliedresearcher",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Cancer Registrar",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "cancerregistrar",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Certified Compliance Technician",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "certifiedcompliancetechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Account Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicalaccountmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Account Technician",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicalaccounttechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Coder",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicalcoder",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Data Miner",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicaldataminer",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Data Management Specialist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicaldatamanagementspecialist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Data Specialist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "clinicaldataspecialist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Community Services Specialist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "communityservicesspecialist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Data Quality Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "dataqualitymanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Decision Support Analyst",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "decisionsupportanalyst",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Epidemiologist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "epidemiologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Ethicist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "ethicist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Health Educator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healtheducator",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Health Information Administrator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healthinformationadministrator",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Health Information Technician",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healthinformationtechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Health Information Services",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healthinformationservices",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [
+      "Service/department label; verify specific occupation before writing"
+    ],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Healthcare Administrator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healthcareadministrator",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Healthcare Finance Professional",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "healthcarefinanceprofessional",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Information Privacy Officer",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "informationprivacyofficer",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Information Security Officer",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "informationsecurityofficer",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Managed Care Contract Analyst",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "managedcarecontractanalyst",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Illustrator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "medicalillustrator",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Information Technologist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "medicalinformationtechnologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Librarian",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "medicallibrarian",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Records Technician",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "medicalrecordstechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Transcriptionist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "medicaltranscriptionist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Patient Account Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "patientaccountmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Patient Account Technician",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "patientaccounttechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Patient Advocate",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "patientadvocate",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Patient Information Coordinator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "patientinformationcoordinator",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Project Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "projectmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Quality Management Specialist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "qualitymanagementspecialist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Quality Data Analyst",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "qualitydataanalyst",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Reimbursement Specialist",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "reimbursementspecialist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Risk Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "riskmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Unit Coordinator",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "unitcoordinator",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Utilization Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "utilizationmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Utilization Review Manager",
+    "sourcePathway": "Health Informatics",
+    "sourceKey": "utilizationreviewmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  }
+]

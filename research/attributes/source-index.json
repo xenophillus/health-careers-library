@@ -1,0 +1,2052 @@
+{
+  "https://www.onetonline.org/link/summary/29-1291.00": [
+    {
+      "id": "acupuncturist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/43-4111.00": [
+    {
+      "id": "admittingclerk",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "admittingclerk",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://cci-online.org/faqs/": [
+    {
+      "id": "advancedcardiacsonographeracs",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "advancedcardiacsonographeracs",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-1071.01": [
+    {
+      "id": "anesthesiologistassistant",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "anesthesiologistassistant",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "anesthesiologistassistant",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm": [
+    {
+      "id": "athletictrainer",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "athletictrainer",
+      "attribute": "emergencies",
+      "status": "core",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/audiologists.htm": [
+    {
+      "id": "audiologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "audiologist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm": [
+    {
+      "id": "behavioraldisordercounselor",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "behavioraldisordercounselor",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "substanceabusecounselor",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "substanceabusecounselor",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm": [
+    {
+      "id": "biochemist",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "biochemist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/19-1029.01": [
+    {
+      "id": "bioinformaticsscientist",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "bioinformaticsscientist",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "bioinformaticsscientist",
+      "attribute": "invent",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm": [
+    {
+      "id": "biomedicalclinicalengineer",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "biomedicalclinicalengineer",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "biomedicalclinicalengineer",
+      "attribute": "invent",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm": [
+    {
+      "id": "biomedicalclinicaltechnician",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "biomedicalclinicaltechnician",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "biomedicalclinicaltechnician",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/15-2041.01": [
+    {
+      "id": "biostatistician",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "biostatistician",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "biostatistician",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm": [
+    {
+      "id": "bloodbanktechnician",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicallaboratorytechnician",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "clinicallaboratorytechnician",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "medicallaboratoryscientist",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "medicallaboratoryscientist",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "medicallaboratorytechnician",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "medicallaboratorytechnician",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm": [
+    {
+      "id": "cancerregistrar",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "cancerregistrar",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "cancerregistrar",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicalinformationtechnologist",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "medicalinformationtechnologist",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm": [
+    {
+      "id": "cardiovasculartechnologist",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "cardiovasculartechnologist",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "electrocardiographicecgorekgtechnician",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/19-1029.02": [
+    {
+      "id": "cellbiologist",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "cellbiologist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "molecularbiologist",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "molecularbiologist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/": [
+    {
+      "id": "centralservicemanager",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "centralservicemanager",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/31-9093.00": [
+    {
+      "id": "centralserviceorsterileprocessingtechnician",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "centralserviceorsterileprocessingtechnician",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm": [
+    {
+      "id": "certifiednursingassistant",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "certifiednursingassistant",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "certifiednursingassistant",
+      "attribute": "personalCare",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://cci-online.org/credentials/certified-rhythm-analysis-technician/": [
+    {
+      "id": "certifiedrhythmanalysistechniciancrat",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "certifiedrhythmanalysistechniciancrat",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm": [
+    {
+      "id": "certifiedrnanesthetistcrna",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "nursepractitioner",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "nursepractitioner",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/chiropractors.htm": [
+    {
+      "id": "chiropractor",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "chiropractor",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm": [
+    {
+      "id": "clinicalcoder",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicalcoder",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/15-2051.02": [
+    {
+      "id": "clinicaldatamanagementassociateconsultant",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicaldatamanagementassociateconsultant",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicaldatamanagementspecialist",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicaldatamanagementspecialist",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicaldatamanagementspecialist",
+      "attribute": "patterns",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.ascpt.org/Resources/Knowledge-Center/What-is-Clinical-Pharmacology": [
+    {
+      "id": "clinicalpharmacologist",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "clinicalpharmacologist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.ssih.org/chsos": [
+    {
+      "id": "clinicalsimulatortechnician",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://acrpnet.org/2024/08/15/insights-into-the-clinical-research-associate-career-pathway": [
+    {
+      "id": "clinicaltrialsmonitor",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicaltrialsmonitor",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicaltrialsresearchassociate",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicaltrialsresearchassociate",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/11-9121.01": [
+    {
+      "id": "clinicaltrialsresearchcoordinator",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicaltrialsresearchcoordinator",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "clinicaltrialsresearchcoordinator",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm": [
+    {
+      "id": "communityhealthworker",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "communityhealthworker",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "communityhealthworker",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.asrt.org/main/standards-and-regulations/professional-practice/practice-standards-online": [
+    {
+      "id": "computertomographycttechnologist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "mammographer",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2011.01": [
+    {
+      "id": "cytogenetictechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "cytogenetictechnologist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "cytogenetictechnologist",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2011.02": [
+    {
+      "id": "cytotechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/dental-assistants.htm": [
+    {
+      "id": "dentalassistant",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dentalassistant",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm": [
+    {
+      "id": "dentalhygienist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dentalhygienist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm": [
+    {
+      "id": "dentallabtechnician",
+      "attribute": "make",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dentallabtechnician",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/dentists.htm": [
+    {
+      "id": "dentist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dentist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/diagnostic-medical-sonographers.htm": [
+    {
+      "id": "diagnosticmedicalsonographer",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "diagnosticmedicalsonographer",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "diagnosticmedicalsonographer",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/hemodialysis-technician/": [
+    {
+      "id": "dialysistechnician",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "dialysistechnician",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.anfponline.org/become-a-cdm/cdm-cfpp-credential": [
+    {
+      "id": "dietarymanager",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "dietarymanager",
+      "attribute": "plan",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2051.00": [
+    {
+      "id": "dietetictechnician",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dietetictechnician",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm": [
+    {
+      "id": "dietitiannutritionist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dietitiannutritionist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "nutritionistdietitian",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "nutritionistdietitian",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm": [
+    {
+      "id": "dosimetrist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "dosimetrist",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm": [
+    {
+      "id": "emergencymedicaltechnician",
+      "attribute": "emergencies",
+      "status": "core",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "emergencymedicaltechnician",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "paramedic",
+      "attribute": "emergencies",
+      "status": "core",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "paramedic",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm": [
+    {
+      "id": "epidemiologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "epidemiologist",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "epidemiologist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://asbh.org/certification/hcec-certification": [
+    {
+      "id": "ethicist",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm": [
+    {
+      "id": "exercisephysiologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "exercisephysiologist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/management/administrative-services-managers.htm": [
+    {
+      "id": "facilitiesmanager",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/19-1029.03": [
+    {
+      "id": "geneticist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "geneticist",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm": [
+    {
+      "id": "healtheducator",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "healtheducator",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm": [
+    {
+      "id": "healthinformationadministrator",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "healthinformationadministrator",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "healthcareadministrator",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "healthcareadministrator",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2072.00": [
+    {
+      "id": "healthinformationtechnician",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "healthinformationtechnician",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "healthinformationtechnician",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "medicalrecordstechnician",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicalrecordstechnician",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicalrecordstechnician",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm": [
+    {
+      "id": "healthcareeconomist",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "healthcareeconomist",
+      "attribute": "patterns",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "healthcareeconomist",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2011.04": [
+    {
+      "id": "histotechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "histotechnologist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "histotechnologist",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm": [
+    {
+      "id": "homehealthaide",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "homehealthaide",
+      "attribute": "personalCare",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "personalcareaide",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "personalcareaide",
+      "attribute": "personalCare",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/19-5011.00": [
+    {
+      "id": "industrialhygienist",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "industrialhygienist",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html": [
+    {
+      "id": "informationprivacyofficer",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/15-1212.00": [
+    {
+      "id": "informationsecurityofficer",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "informationsecurityofficer",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm": [
+    {
+      "id": "interpreter",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm": [
+    {
+      "id": "licensedpracticalnurse",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "licensedpracticalnurse",
+      "attribute": "wounds",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "licensedpracticalnurse",
+      "attribute": "personalCare",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm": [
+    {
+      "id": "magneticresonancemrtechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "magneticresonancemrtechnologist",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "magneticresonancemrtechnologist",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "radiologictechnician",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "radiologictechnician",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "radiologictechnician",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/details/49-9071.00": [
+    {
+      "id": "maintenanceengineer",
+      "attribute": "repair",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/massage-therapists.htm": [
+    {
+      "id": "massagetherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "massagetherapist",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/details/11-3061.00": [
+    {
+      "id": "materialsmanager",
+      "attribute": "details",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "materialsmanager",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "materialsmanager",
+      "attribute": "plan",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/medical-assistants.htm": [
+    {
+      "id": "medicalassistant",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicalassistant",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://ami.org/medical-illustration/learn-about-it/": [
+    {
+      "id": "medicalillustrator",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicalillustrator",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.mlanet.org/about-mla/about-the-profession/": [
+    {
+      "id": "medicallibrarian",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicallibrarian",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicallibrarian",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm": [
+    {
+      "id": "medicaltranscriptionist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "medicaltranscriptionist",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm": [
+    {
+      "id": "microbiologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "microbiologist",
+      "attribute": "experiment",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm": [
+    {
+      "id": "mortician",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "mortician",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2099.01": [
+    {
+      "id": "neurodiagnostictechnologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "neurodiagnostictechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm": [
+    {
+      "id": "nuclearmedicinetechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "nuclearmedicinetechnologist",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "nuclearmedicinetechnologist",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm": [
+    {
+      "id": "occupationaltherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "occupationaltherapist",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "occupationaltherapist",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm": [
+    {
+      "id": "occupationaltherapistassistant",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "occupationaltherapistassistant",
+      "attribute": "personalCare",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "occupationaltherapyassistant",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "occupationaltherapyassistant",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/opticians-dispensing.htm": [
+    {
+      "id": "ophthalmicdispensingoptician",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "ophthalmicdispensingoptician",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2057.00": [
+    {
+      "id": "ophthalmictechnician",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "ophthalmictechnician",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "ophthalmictechniciantechnologist",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/optometrists.htm": [
+    {
+      "id": "optometrist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "optometrist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.acvrep.org/certifications/coms-scope": [
+    {
+      "id": "orientationmobilityspecialist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm": [
+    {
+      "id": "orthotistprosthetist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "orthotistprosthetist",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "orthotistprosthetist",
+      "attribute": "make",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/29-2099.08": [
+    {
+      "id": "patientadvocate",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "patientadvocate",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.nhanow.com/certification/nha-certifications/certified-patient-care-technician-assistant-(cpct-a)": [
+    {
+      "id": "patientcaretechnicianpct",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "patientcaretechnicianpct",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "patientcaretechnicianpct",
+      "attribute": "personalCare",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/patient-navigator": [
+    {
+      "id": "patientnavigator",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.abcop.org/publication/section/scope-of-practice/v.-delineation-of-scopes-of-practice---abc-certified-pedorthist": [
+    {
+      "id": "pedorthist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "pedorthist",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "pedorthist",
+      "attribute": "make",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/pharmacists.htm": [
+    {
+      "id": "pharmacist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "pharmacist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.aspet.org/docs/default-source/education-files/explorepharmacology2026.pdf?sfvrsn=acf479d3_2": [
+    {
+      "id": "pharmacologist",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm": [
+    {
+      "id": "pharmacytechnician",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "pharmacytechnician",
+      "attribute": "digital",
+      "status": "regular",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/phlebotomists.htm": [
+    {
+      "id": "phlebotomist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "phlebotomist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "phlebotomist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "phlebotomist",
+      "attribute": "blood",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/physical-therapists.htm": [
+    {
+      "id": "physicaltherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "physicaltherapist",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "physicaltherapist",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm": [
+    {
+      "id": "physicaltherapyassistant",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "physicaltherapyassistant",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm": [
+    {
+      "id": "physicianmddo",
+      "attribute": "explain",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "physicianmddo",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "physicianmddo",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "psychiatrist",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "surgeon",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/physician-assistants.htm": [
+    {
+      "id": "physicianassistant",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "physicianassistant",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "physicianassistant",
+      "attribute": "wounds",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "physicianassistant",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/podiatrists.htm": [
+    {
+      "id": "podiatrist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "podiatrist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "podiatrist",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://aastweb.org/career/sleep-technologist/": [
+    {
+      "id": "polysomnographictechnologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "polysomnographictechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "polysomnographictechnologist",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm": [
+    {
+      "id": "projectmanager",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "projectmanager",
+      "attribute": "plan",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm": [
+    {
+      "id": "psychologist",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "psychologist",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "psychologist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/19-4099.01": [
+    {
+      "id": "qualityassurancetechnician",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "qualitycontroltechnician",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm": [
+    {
+      "id": "radiationtherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "radiationtherapist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "radiationtherapist",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm": [
+    {
+      "id": "recreationaltherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "recreationaltherapist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-cardiac-electrophysiology-specialist/": [
+    {
+      "id": "registeredcardiacelectrophysiologyspecialistrces",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredcardiacelectrophysiologyspecialistrces",
+      "attribute": "repair",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredcardiacelectrophysiologyspecialistrces",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-cardiac-sonographer/": [
+    {
+      "id": "registeredcardiacsonographerrcs",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredcardiacsonographerrcs",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-cardiovascular-invasive-specialist/": [
+    {
+      "id": "registeredcardiovascularinvasivespecialistrcis",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredcardiovascularinvasivespecialistrcis",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredcardiovascularinvasivespecialistrcis",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "registeredcardiovascularinvasivespecialistrcis",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-congenital-cardiac-sonographer/": [
+    {
+      "id": "registeredcongenitalcardiacsonographerrccs",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/registered-nurses.htm": [
+    {
+      "id": "registerednurse",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registerednurse",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registerednurse",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-phlebology-sonographer/": [
+    {
+      "id": "registeredphlebologysonographerrphs",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "registeredphlebologysonographerrphs",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://cci-online.org/credentials/registered-vascular-specialist/": [
+    {
+      "id": "registeredvascularspecialistrvs",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/13-1041.07": [
+    {
+      "id": "regulatoryaffairsspecialist",
+      "attribute": "organize",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "regulatoryaffairsspecialist",
+      "attribute": "plan",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm": [
+    {
+      "id": "rehabilitationcounselor",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "rehabilitationcounselor",
+      "attribute": "listen",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm": [
+    {
+      "id": "respiratorytherapist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "respiratorytherapist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "respiratorytherapist",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "respiratorytherapist",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.ashrm.org/about/hrm_overview": [
+    {
+      "id": "riskmanager",
+      "attribute": "patterns",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm": [
+    {
+      "id": "socialworker",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "socialworker",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "soft-interest-scoped"
+    },
+    {
+      "id": "socialworker",
+      "attribute": "emergencies",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm": [
+    {
+      "id": "speechlanguagepathologist",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "speechlanguagepathologist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm": [
+    {
+      "id": "surgicaltechnologist",
+      "attribute": "details",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "surgicaltechnologist",
+      "attribute": "wounds",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    },
+    {
+      "id": "surgicaltechnologist",
+      "attribute": "physicalAssistance",
+      "status": "regular",
+      "scoringUse": "optional-avoidance"
+    }
+  ],
+  "https://news.va.gov/97876/explore-new-ways-to-serve-veterans-in-telehealth-positions/": [
+    {
+      "id": "telehealthpresenter",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.acs.org/careers/chemical-sciences/fields/toxicology.html": [
+    {
+      "id": "toxicologist",
+      "attribute": "patterns",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "toxicologist",
+      "attribute": "evidence",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "toxicologist",
+      "attribute": "experiment",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/31-1132.00": [
+    {
+      "id": "transporttechnician",
+      "attribute": "physicalAssistance",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.onetonline.org/link/summary/43-6013.00": [
+    {
+      "id": "unitcoordinator",
+      "attribute": "organize",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "unitcoordinator",
+      "attribute": "digital",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.ncqa.org/programs/health-plans/utilization-management/": [
+    {
+      "id": "utilizationmanager",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    },
+    {
+      "id": "utilizationreviewmanager",
+      "attribute": "evidence",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/veterinarians.htm": [
+    {
+      "id": "veterinarian",
+      "attribute": "explain",
+      "status": "regular",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "veterinarian",
+      "attribute": "animalCare",
+      "status": "core",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "veterinarian",
+      "attribute": "wounds",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm": [
+    {
+      "id": "veterinariantechnician",
+      "attribute": "animalCare",
+      "status": "core",
+      "scoringUse": "soft-interest"
+    },
+    {
+      "id": "veterinariantechnician",
+      "attribute": "blood",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ],
+  "https://nbhwc.org/scope-of-practice/": [
+    {
+      "id": "wellnesscoach",
+      "attribute": "listen",
+      "status": "setting-dependent",
+      "scoringUse": "context-only"
+    }
+  ]
+}

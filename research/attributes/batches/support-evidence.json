@@ -1,0 +1,584 @@
+[
+  {
+    "id": "behavioraldisordercounselor",
+    "title": "Behavioral Disorder Counselor",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Substance abuse, behavioral disorder, and mental health counselors",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+      "note": "Combined BLS profile explicitly describes substance abuse and behavioral disorder counselors; not a single interchangeable credential."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting people",
+        "explanation": "Counselors listen to clients to understand their concerns.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Important Qualities: attention to clients' problems and values.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Counselors teach coping strategies to clients and families.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties and subtype discussion: coping skills and family education.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "biomedicalclinicalengineer",
+    "title": "Biomedical/Clinical Engineer",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Bioengineers and biomedical engineers, including clinical engineers",
+      "source": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+      "note": "Combined source explicitly identifies clinical engineers; design, support and research emphases vary."
+    },
+    "attributes": {
+      "invent": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "developing practical solutions",
+        "explanation": "This engineering group develops healthcare devices and systems.",
+        "source": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: device design; clinical engineers apply medical technology.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "experiment": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "testing ideas",
+        "explanation": "Some biomedical engineering projects test designs through experiments.",
+        "source": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: follow-up experiments.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "repair": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "practical troubleshooting",
+        "explanation": "Equipment-focused engineers may provide installation and technical support.",
+        "source": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: equipment support.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "biomedicalclinicaltechnician",
+    "title": "Biomedical/Clinical Technician",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Medical equipment repairers / biomedical equipment technicians",
+      "source": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+      "note": "BLS explicitly names biomedical equipment technicians; the chart's clinical-technician wording is broader and needs job-specific confirmation."
+    },
+    "attributes": {
+      "repair": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "practical troubleshooting",
+        "explanation": "Biomedical equipment technicians diagnose and repair device faults.",
+        "source": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: test, calibrate and repair equipment.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Equipment repair can involve diagnostic software and software updates.",
+        "source": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: specialized calibration software and updates.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Equipment technicians demonstrate how equipment operates.",
+        "source": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: explaining equipment operation.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "clinicalsimulatortechnician",
+    "title": "Clinical Simulator Technician",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Healthcare simulation operations specialist",
+      "source": "https://www.ssih.org/chsos",
+      "note": "SSH operations-specialist definition covers simulation technology work; title is not an exact credential match."
+    },
+    "attributes": {
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Simulation operations uses computer, audiovisual and network technology.",
+        "source": "https://www.ssih.org/chsos",
+        "confidence": "moderate",
+        "evidenceNote": "SSH CHSOS role definition: delivery using simulation technologies.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "centralservicemanager",
+    "title": "Central Service Manager",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Sterile Processing department manager",
+      "source": "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+      "note": "HSPA leadership role describes department management; chart title does not imply CHL certification."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Central service leadership coordinates staffing and department operations.",
+        "source": "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+        "confidence": "high",
+        "evidenceNote": "HSPA CHL role: daily operations and staffing.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Department leadership manages reporting and administrative information.",
+        "source": "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+        "confidence": "high",
+        "evidenceNote": "HSPA CHL role includes reporting and finance.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "centralserviceorsterileprocessingtechnician",
+    "title": "Central Service or Sterile Processing Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical equipment preparers / central sterile technicians",
+      "source": "https://www.onetonline.org/link/summary/31-9093.00",
+      "note": "O*NET reported titles explicitly include central-service and sterile-processing technicians; no blood-exposure inference from contaminated equipment."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Technicians inspect equipment and check supplies before use.",
+        "source": "https://www.onetonline.org/link/summary/31-9093.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET Tasks: examine equipment for disrepair; check supply expiration.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Technicians organize instrument trays and record sterilizer results.",
+        "source": "https://www.onetonline.org/link/summary/31-9093.00",
+        "confidence": "high",
+        "evidenceNote": "O*NET Tasks: instrument-tray organization and test-result recording.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "communityhealthworker",
+    "title": "Community Health Worker",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Community health workers",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+      "note": "Exact BLS occupation; clinical tasks differ by program."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Community health workers coach people and share health information.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS Duties: coaching, health resources and education.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting people",
+        "explanation": "Community health workers discuss people's health concerns and barriers to care.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS What They Do: discussing concerns and understanding community needs.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Community health workers coordinate care and access to resources.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS Duties: care coordination and case management.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "dietarymanager",
+    "title": "Dietary Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Certified Dietary Manager / foodservice management",
+      "source": "https://www.anfponline.org/become-a-cdm/cdm-cfpp-credential",
+      "note": "ANFP describes certified dietary managers; not every use of chart title proves certification or identical duties."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Dietary management includes organizing foodservice work teams.",
+        "source": "https://www.anfponline.org/become-a-cdm/cdm-cfpp-credential",
+        "confidence": "moderate",
+        "evidenceNote": "ANFP CDM role: managing work teams and operations.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Dietary managers document nutrition information and manage purchasing.",
+        "source": "https://www.anfponline.org/become-a-cdm/cdm-cfpp-credential",
+        "confidence": "moderate",
+        "evidenceNote": "ANFP CDM role: documentation and foodservice purchasing.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "dietaryaide",
+    "title": "Dietary Aide",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": "Multiple: food preparation workers; dietetic technicians; counter workers",
+      "source": "https://www.onetonline.org/link/summary/35-2021.00",
+      "note": "O*NET reports Dietary Aide under 35-2021.00, 29-2051.00 and 35-3023.00. No single task set assigned without workplace clarification.",
+      "additionalSources": [
+        "https://www.onetonline.org/link/summary/29-2051.00",
+        "https://www.onetonline.org/link/summary/35-3023.00"
+      ]
+    },
+    "attributes": {}
+  },
+  {
+    "id": "environmentalservices",
+    "title": "Environmental Services",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": "Healthcare environmental services department and staff",
+      "source": "https://www.ahe.org/membership/weare",
+      "note": "AHE describes departments and personnel covering cleaning, waste and linen work. Source label is not a specific occupation; no universal preference attributes assigned."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "facilitiesmanager",
+    "title": "Facilities Manager",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Facilities managers",
+      "source": "https://www.bls.gov/ooh/management/administrative-services-managers.htm",
+      "note": "BLS combined profile has an explicit facilities-manager subsection; use that subsection rather than unrelated records-manager duties."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Facilities managers coordinate projects and direct staff.",
+        "source": "https://www.bls.gov/ooh/management/administrative-services-managers.htm",
+        "confidence": "high",
+        "evidenceNote": "BLS facilities-manager subsection: project planning and staff direction.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "healthcareeconomist",
+    "title": "Healthcare Economist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Economists working on health topics",
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+      "note": "BLS explicitly includes health among economists' fields; the group does not establish healthcare-specialist schedules or exposure."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "Economists analyze data and forecast trends, including healthcare costs.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties and fields: data modeling, forecasting and healthcare costs.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Economic analysis uses statistical and modeling software.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: mathematical models and statistical software.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Economists present findings in reports and visual summaries.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties: tables, graphs and research publications.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "maintenanceengineer",
+    "title": "Maintenance Engineer",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Maintenance and repair workers, general",
+      "source": "https://www.onetonline.org/link/details/49-9071.00",
+      "note": "O*NET lists Maintenance Engineer as a reported title; chart does not identify a specific engineering specialty or licensing role."
+    },
+    "attributes": {
+      "repair": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "practical troubleshooting",
+        "explanation": "General maintenance work involves diagnosing faults and repairing equipment.",
+        "source": "https://www.onetonline.org/link/details/49-9071.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET core tasks: machine malfunction diagnosis and mechanical repair.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "industrialhygienist",
+    "title": "Industrial Hygienist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Occupational health and safety specialists",
+      "source": "https://www.onetonline.org/link/summary/19-5011.00",
+      "note": "O*NET lists Industrial Hygienist explicitly; broad safety tasks cannot establish universal duties in the specialty."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "Industrial hygiene work investigates workplace conditions and exposure hazards.",
+        "source": "https://www.onetonline.org/link/summary/19-5011.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET Tasks: evaluate environments, investigate ventilation and collect samples.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "explain": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Some industrial hygiene roles provide safety education.",
+        "source": "https://www.onetonline.org/link/summary/19-5011.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET group tasks include safety training.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "interpreter",
+    "title": "Interpreter",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Interpreters within interpreters and translators",
+      "source": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+      "note": "Only interpreter-specific spoken or signed communication evidence used; translator software duties are not transferred."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Interpreters help people understand messages across languages.",
+        "source": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS interpreter subsection: conveys spoken or signed messages; not independent clinical advice.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "materialsmanager",
+    "title": "Materials Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Purchasing managers",
+      "source": "https://www.onetonline.org/link/details/11-3061.00",
+      "note": "O*NET explicitly lists Materials Manager; scope varies across purchasing, inventory and logistics positions."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Purchasing managers coordinate staff who acquire and distribute supplies.",
+        "source": "https://www.onetonline.org/link/details/11-3061.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET core task: coordinate personnel buying and distributing materials.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Purchasing management includes checking orders and contracts.",
+        "source": "https://www.onetonline.org/link/details/11-3061.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET core task: review claims and contracts for policy compliance.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Purchasing managers maintain order and receipt records.",
+        "source": "https://www.onetonline.org/link/details/11-3061.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET core task: records of goods ordered and received.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "patientnavigator",
+    "title": "Patient Navigator",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Patient navigator",
+      "source": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/patient-navigator",
+      "note": "NCI definition covers navigation through care; clinical credentials and disease-specific tasks are not implied."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Navigators help patients get information and communicate with providers.",
+        "source": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/patient-navigator",
+        "confidence": "high",
+        "evidenceNote": "NCI definition: communication support for healthcare decisions.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  },
+  {
+    "id": "telehealthpresenter",
+    "title": "Telehealth Presenter",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Telehealth presenter duties within clinical roles",
+      "source": "https://news.va.gov/97876/explore-new-ways-to-serve-veterans-in-telehealth-positions/",
+      "note": "VA describes presenting as a function that LPNs may perform, not a stand-alone occupation with uniform clinical duties."
+    },
+    "attributes": {
+      "digital": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "VA telehealth presenters share information and images between patient and provider.",
+        "source": "https://news.va.gov/97876/explore-new-ways-to-serve-veterans-in-telehealth-positions/",
+        "confidence": "moderate",
+        "evidenceNote": "VA role example: virtual introductions and sharing information/images.",
+        "scope": "VA telehealth nursing example only; no inference about every telehealth presenter."
+      }
+    }
+  },
+  {
+    "id": "transporttechnician",
+    "title": "Transport Technician",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": "Possible patient transporter within Orderlies",
+      "source": "https://www.onetonline.org/link/summary/31-1132.00",
+      "note": "Chart label does not specify patient, equipment, specimen or ambulance transport. Orderlies are a candidate family, not a verified one-to-one match."
+    },
+    "attributes": {
+      "physicalAssistance": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "physical assistance with positioning",
+        "explanation": "Patient-transport assignments may involve helping patients onto beds or stretchers.",
+        "source": "https://www.onetonline.org/link/summary/31-1132.00",
+        "confidence": "moderate",
+        "evidenceNote": "O*NET Orderlies tasks describe lifting and transfer assistance.",
+        "scope": "Only if this label means patient transport; no hard exclusion, and no EMT/emergency inference."
+      }
+    }
+  },
+  {
+    "id": "substanceabusecounselor",
+    "title": "Substance Abuse Counselor",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Substance abuse, behavioral disorder, and mental health counselors",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+      "note": "Combined BLS profile explicitly describes substance abuse and behavioral disorder counselors; not a single interchangeable credential."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening and supporting people",
+        "explanation": "Counselors listen to clients to understand their concerns.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Important Qualities: attention to clients' problems and values.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Counselors teach coping strategies to clients and families.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+        "confidence": "moderate",
+        "evidenceNote": "BLS Duties and subtype discussion: coping skills and family education.",
+        "scope": "Typical duties described by the cited occupation source; soft interest cue, not an aptitude requirement or a universal work condition."
+      }
+    }
+  }
+]

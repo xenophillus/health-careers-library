@@ -1,0 +1,17 @@
+# Diagnostic attribute evidence — 2026-10-25
+
+Reviewed all 35 titles assigned after exact-title cross-pathway deduplication. This batch preserves every original ID and title. It is not a claim that these are 35 distinct occupations.
+
+Coverage: 35 mapping reviews; 32 titles with at least one sourced attribute; 68 attribute records (53 regular soft/routine duties and 15 setting-dependent records). Three titles have no verified preference attribute: the ambiguous CCT spelling, combined Genetic Counselor Histotechnician, and PET Technologist (role confirmed, but equipment use alone was not converted to digital-learning interest). Unrecorded attributes remain unknown, never absent.
+
+Method: opened BLS Occupational Outlook Handbook What They Do / Work Environment / Important Qualities sections; opened O*NET occupation-specific tasks; read CCI credential scope and examination matrices based on job-task analysis; read ASRT modality descriptions and AAST sleep-technologist template. URLs are recorded per mapping and per attribute in diagnostic-evidence.json. This is qualitative task evidence, not an O*NET numerical interest or work-context score. No aggregate score was treated as a requirement. A stated quality was converted only to a corresponding concrete task cue, not a student ability judgment.
+
+Mappings: exact occupational names and explicitly described specialties can use source-specific duties. BLS clinical lab occupations combine levels, and technician versus technologist is not silently equated. Ophthalmic Technician/Technologist spans two O*NET occupations, with only their shared history-recording duty used. Occupational Therapist Assistant is a qualified wording alias, and Nutritionist/Dietitian remains a combined group. Credentials retain exact credential scope, not a fabricated SOC match.
+
+Hard exclusions: only Phlebotomist blood is proposed as regular. All imaging patient assistance remains setting-dependent. RCIS/RCES task lists include bleeding management, and RCIS includes responding to emergencies, but exam coverage does not measure daily frequency; these remain setting-dependent and cannot hide a career. Blood specimens and tissue specimens do not imply visible wounds. Blood-borne-pathogen exposure and CPR certification alone do not establish routine blood or emergency work.
+
+Important unresolved source labels: CCI identifies Certified Cardiographic Technician, whereas inventory says Certified Cardiogenic Technician. Genetic Counselor Histotechnician appears combined; neither occupation's duties can safely be assigned until the source chart formatting is resolved. Both original labels are preserved.
+
+Evidence limits: AAST explicitly describes an employer-adaptable template. CCI matrices support task-domain soft cues, not universal task frequencies. Broader-group mappings cannot support exclusions. Workstyle pace, autonomy, interruption, and continuity remain unknown rather than extrapolated from titles. Digital cue for Nuclear Medicine Technologist concerns documented computer use, not proof that workers continually learn new software. No full articles, runtime, source inventory, or Sheets were edited.
+
+QA: JSON parsed successfully; exact ID/title coverage checked against assigned inventory; all 68 attribute records carry status, review date, source, confidence, evidence note, and scope. Independent source spot-check requested before integration.
