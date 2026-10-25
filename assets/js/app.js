@@ -1,10 +1,20 @@
 import { careers } from '../data/careers.js';
+import { assessment, careerMapView, mapResults } from './views/assessment.js';
+import {assessmentState,setAnswer,resetAssessment} from './assessment.js';
 import { state } from './state.js';
 import { $, money } from './dom.js';
 import { setCount, toggleFav as updateFavorite } from './favorites.js';
 import { home } from './views/home.js';
 import { library, resultMarkup } from './views/library.js';
 import { profile } from './views/profile.js';
+function answerInterest(id,value){setAnswer(id,value);const next=$('assessment-next');if(next)next.disabled=false;}
+function restartAssessment(){resetAssessment();route('assessment','1');}
+function refreshCareerMap(focus=false){const el=$('map-results');if(el)el.innerHTML=mapResults();if($('map-path'))$('map-path').value=assessmentState.path;if($('map-search'))$('map-search').value=assessmentState.query;if(focus)$('map-count')?.focus();}
+function filterCareerMap(key,value){if(!['query','path'].includes(key))return;assessmentState[key]=value;assessmentState.page=0;refreshCareerMap(key==='path');}
+function applyAnswerFilters(){assessmentState.showHidden=false;assessmentState.page=0;refreshCareerMap(true);}
+function showHiddenCareers(){assessmentState.showHidden=true;assessmentState.page=0;refreshCareerMap(true);}
+function resetCareerMap(){Object.assign(assessmentState,{query:'',path:'all',page:0,showHidden:true});refreshCareerMap(true);}
+function pageCareerMap(delta){assessmentState.page+=delta;refreshCareerMap(true);}
 function toggleFav(id) {
   updateFavorite(id);
   render();
@@ -58,22 +68,23 @@ function render(){
     history.replaceState(null,'','#library');
   }
   const app=$('app');
-  app.innerHTML=state.page==='home'?home():state.page==='profile'?profile():library();
+  app.innerHTML=state.page==='home'?home():state.page==='assessment'?assessment():state.page==='career-map'?careerMapView():state.page==='profile'?profile():library();
   navActive();
+  if(['assessment','career-map'].includes(state.page))$('assessment-heading')?.focus();
   if(state.page==='library'||state.page==='favorites')renderResults()
 }
 // Inline template handlers use these explicit entry points; module internals stay private.
 Object.assign(window, {
-  state, route, render, renderResults, updateRange, resetFilters, toggleFav
+  state, route, render, renderResults, updateRange, resetFilters, toggleFav, answerInterest, restartAssessment, filterCareerMap, resetCareerMap, pageCareerMap, showHiddenCareers, applyAnswerFilters
 });
 const hash=location.hash.replace(/^#/,'').split('/');
-if(['home','library','favorites','profile'].includes(hash[0])){
+if(['home','library','favorites','profile','assessment','career-map'].includes(hash[0])){
   state.page=hash[0];
   state.id=hash[1]||null
 }render();
 window.addEventListener('hashchange',()=>{
   const h=location.hash.replace(/^#/,'').split('/');
-  if(['home','library','favorites','profile'].includes(h[0])&&(h[0]!==state.page||h[1]!==state.id)){
+  if(['home','library','favorites','profile','assessment','career-map'].includes(h[0])&&(h[0]!==state.page||h[1]!==state.id)){
     state.page=h[0];
     state.id=h[1]||null;
     state.section='overview';

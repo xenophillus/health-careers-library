@@ -54,3 +54,19 @@ This extraction preserves behavior rather than adding unrelated fixes:
 - Rich checklist markup uses `hcl-checkicon`, while its existing CSS targets `checkicon`.
 - The sonographer bibliography contains a double-escaped query string; its content is preserved as requested.
 - Search covers names, pathways, descriptions, and tags, but not the dedicated skills field.
+
+## Full-map interest explorer
+
+Open `#assessment` for the 10-question, memory-only interest filter or `#career-map` to browse without answering. The complete `docs/launch-careers.json` inventory contains 192 pathway appearances grouped into 182 exact source titles. Article readiness and production-wave priority never control inclusion. The map includes source labels, specialties, and overlapping titles; it is not 182 confirmed distinct occupations.
+
+Two explicit “Not for me right now” answers hide a pathway. An entry is hidden only when every one of its source pathways is hidden. Missing, skipped, unsure, or mixed answers keep the pathway open. Show every entry restores hidden results without changing answers; Apply my answer filters narrows again. Remaining entries sort by strongest pathway-interest score and then alphabetically. These editorial mappings are not a validated aptitude instrument. No assessment answers are persisted, uploaded, placed in URLs, or sent to analytics.
+
+`assets/data/career-map.js` is generated with `node scripts/build-career-map.mjs`. Preserve the original titles and all pathway appearances when updating the ledger; do not silently merge aliases or split ambiguous labels. Career details use explicit routes and source links. Only the existing Sonographer article is linked as a local full article; unapproved draft modules remain unregistered. External keyword searches are labeled as searches, not exact occupation mappings. `assets/data/assessment.js` holds brief source-linked introductions, independently of filtering.
+
+Run `node --test scripts/*.test.mjs` and `node scripts/validate-profiles.mjs`. For browser QA only, install `playwright@1.56.1` without adding site dependencies, install its Chromium browser, serve the repository over HTTP, and run:
+
+```sh
+ASSESSMENT_BASE_URL=http://127.0.0.1:4173/ node scripts/qa-assessment.mjs
+```
+
+If using an existing Chromium, set `CHROMIUM_EXECUTABLE_PATH` to its executable. Browser evidence is written under ignored `qa-results/assessment/`. The test opens every map entry at desktop/mobile widths and covers uncertain answers, all-hidden recovery, applying filters again, backward navigation, keyboard selection, reset, and no answer storage/upload.

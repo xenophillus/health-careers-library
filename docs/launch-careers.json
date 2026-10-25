@@ -1,0 +1,1848 @@
+{
+  "source": {
+    "title": "Health Science Pathways and Sample Career Specialties",
+    "publisher": "National Consortium for Health Science Education (NCHSE)",
+    "updated": "May 2024",
+    "localSource": "User-provided Health-Science-Career-May-2024-revisions-2 (1).pdf",
+    "page": 1
+  },
+  "purpose": "exhaustive chart listing with separately prioritized production wave; not a statement about merit or occupational importance",
+  "progress": "No entries approved for final launch yet; existing model article remains under review",
+  "statusValues": [
+    "not_started",
+    "draft",
+    "fact_check",
+    "qa",
+    "approved"
+  ],
+  "records": [
+    {
+      "sourceTitle": "Acupuncturist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "acupuncturist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Anesthesiologist Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "anesthesiologistassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Art/Music/Dance Therapist(s)",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "artmusicdancetherapists",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Athletic Trainer",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "athletictrainer",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Audiologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "audiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Certified Nursing Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "certifiednursingassistant",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Certified RN Anesthetist (CRNA)",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "certifiedrnanesthetistcrna",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Chiropractor",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "chiropractor",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dental Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dentalassistant",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dental Hygienist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dentalhygienist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dental Lab Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dentallabtechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dentist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dentist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dialysis Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dialysistechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dietitian/Nutritionist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dietitiannutritionist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dietetic Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dietetictechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dosimetrist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "dosimetrist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Emergency Medical Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "emergencymedicaltechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Home Health Aide",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "homehealthaide",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Kinesiotherapist/Kinesiologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "kinesiotherapistkinesiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Licensed Practical Nurse",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "licensedpracticalnurse",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Massage Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "massagetherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "medicalassistant",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Mortician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "mortician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Nurse Practitioner",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "nursepractitioner",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Occupational Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "occupationaltherapist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Occupational Therapy Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "occupationaltherapyassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Ophthalmic Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "ophthalmictechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Orientation & Mobility Specialist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "orientationmobilityspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Orthotist/Prosthetist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "orthotistprosthetist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Paramedic",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "paramedic",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Care Technician (PCT)",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "patientcaretechnicianpct",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pedorthist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "pedorthist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Personal Care Aide",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "personalcareaide",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmacist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "pharmacist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmacy Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "pharmacytechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physical Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "physicaltherapist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physical Therapy Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "physicaltherapyassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physician (MD/DO)",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "physicianmddo",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physician Assistant",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "physicianassistant",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Podiatrist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "podiatrist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Psychologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "psychologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Psychiatrist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "psychiatrist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Radiation Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "radiationtherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Recreational Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "recreationaltherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Nurse",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "registerednurse",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Rehabilitation Counselor",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "rehabilitationcounselor",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Respiratory Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "respiratorytherapist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Social Worker",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "socialworker",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Speech Language Pathologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "speechlanguagepathologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Surgeon",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "surgeon",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Surgical Technologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "surgicaltechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Veterinarian",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "veterinarian",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Veterinarian Technician",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "veterinariantechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Wellness Coach",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "wellnesscoach",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Advanced Cardiac Sonographer (ACS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "advancedcardiacsonographeracs",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Audiologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "audiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Blood Bank Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "bloodbanktechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Cardiovascular Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "cardiovasculartechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Certified Cardiogenic Technician (CCT)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "certifiedcardiogenictechniciancct",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Certified Rhythm Analysis Technician (CRAT)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "certifiedrhythmanalysistechniciancrat",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Laboratory Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "clinicallaboratorytechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Computer Tomography (CT) Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "computertomographycttechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Cytogenetic Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "cytogenetictechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Cytotechnologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "cytotechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Diagnostic Medical Sonographer",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "diagnosticmedicalsonographer",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Electrocardiographic (ECG or EKG) Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "electrocardiographicecgorekgtechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Neurodiagnostic Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "neurodiagnostictechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Exercise Physiologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "exercisephysiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Genetic Counselor Histotechnician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "geneticcounselorhistotechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [
+        "Chart text appears to combine titles; verify source formatting before separating into occupations"
+      ],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Histotechnologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "histotechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Magnetic Resonance (MR) Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "magneticresonancemrtechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Mammographer",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "mammographer",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Laboratory Scientist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "medicallaboratoryscientist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Laboratory Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "medicallaboratorytechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Nuclear Medicine Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "nuclearmedicinetechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Nurse Practitioner",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "nursepractitioner",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Nutritionist/Dietitian",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "nutritionistdietitian",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Occupational Therapist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "occupationaltherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Occupational Therapist Assistant",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "occupationaltherapistassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Ophthalmic Technician/Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "ophthalmictechniciantechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Ophthalmic Dispensing Optician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "ophthalmicdispensingoptician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Optometrist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "optometrist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Phlebotomist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "phlebotomist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physical Therapist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "physicaltherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Physical Therapy Assistant",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "physicaltherapyassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Polysomnographic Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "polysomnographictechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Positron Emission Tomography (PET) Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "positronemissiontomographypettechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Radiologic Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "radiologictechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Congenital Cardiac Sonographer (RCCS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredcongenitalcardiacsonographerrccs",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Cardiac Electrophysiology Specialist (RCES)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredcardiacelectrophysiologyspecialistrces",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Cardiovascular Invasive Specialist (RCIS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredcardiovascularinvasivespecialistrcis",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Cardiac Sonographer (RCS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredcardiacsonographerrcs",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Phlebology Sonographer (RPhS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredphlebologysonographerrphs",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Registered Vascular Specialist (RVS)",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "registeredvascularspecialistrvs",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Respiratory Therapist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "respiratorytherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Admitting Clerk",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "admittingclerk",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Applied Researcher",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "appliedresearcher",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Cancer Registrar",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "cancerregistrar",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Certified Compliance Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "certifiedcompliancetechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Account Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicalaccountmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Account Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicalaccounttechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Coder",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicalcoder",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Data Miner",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicaldataminer",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Data Management Specialist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Data Specialist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "clinicaldataspecialist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Community Services Specialist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "communityservicesspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Data Quality Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "dataqualitymanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Decision Support Analyst",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "decisionsupportanalyst",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Epidemiologist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "epidemiologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Ethicist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "ethicist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Health Educator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healtheducator",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Health Information Administrator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healthinformationadministrator",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Health Information Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healthinformationtechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Health Information Services",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healthinformationservices",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [
+        "Service/department label; verify specific occupation before writing"
+      ],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Healthcare Administrator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healthcareadministrator",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Healthcare Finance Professional",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "healthcarefinanceprofessional",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Information Privacy Officer",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "informationprivacyofficer",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Information Security Officer",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "informationsecurityofficer",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Managed Care Contract Analyst",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "managedcarecontractanalyst",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Assistant",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Illustrator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalillustrator",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Information Technologist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalinformationtechnologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Librarian",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicallibrarian",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Records Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalrecordstechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Transcriptionist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicaltranscriptionist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Account Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "patientaccountmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Account Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "patientaccounttechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Advocate",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "patientadvocate",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Information Coordinator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "patientinformationcoordinator",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Project Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "projectmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Quality Management Specialist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "qualitymanagementspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Quality Data Analyst",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "qualitydataanalyst",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Reimbursement Specialist",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "reimbursementspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Risk Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "riskmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Unit Coordinator",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "unitcoordinator",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Utilization Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "utilizationmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Utilization Review Manager",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "utilizationreviewmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Behavioral Disorder Counselor",
+      "sourcePathway": "Support Services",
+      "sourceKey": "behavioraldisordercounselor",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Engineer",
+      "sourcePathway": "Support Services",
+      "sourceKey": "biomedicalclinicalengineer",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Technician",
+      "sourcePathway": "Support Services",
+      "sourceKey": "biomedicalclinicaltechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Simulator Technician",
+      "sourcePathway": "Support Services",
+      "sourceKey": "clinicalsimulatortechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Central Service Manager",
+      "sourcePathway": "Support Services",
+      "sourceKey": "centralservicemanager",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Central Service or Sterile Processing Technician",
+      "sourcePathway": "Support Services",
+      "sourceKey": "centralserviceorsterileprocessingtechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Community Health Worker",
+      "sourcePathway": "Support Services",
+      "sourceKey": "communityhealthworker",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dietary Manager",
+      "sourcePathway": "Support Services",
+      "sourceKey": "dietarymanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Dietary Aide",
+      "sourcePathway": "Support Services",
+      "sourceKey": "dietaryaide",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Environmental Services",
+      "sourcePathway": "Support Services",
+      "sourceKey": "environmentalservices",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [
+        "Service/department label; verify specific occupation before writing"
+      ],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Facilities Manager",
+      "sourcePathway": "Support Services",
+      "sourceKey": "facilitiesmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Healthcare Administrator",
+      "sourcePathway": "Support Services",
+      "sourceKey": "healthcareadministrator",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Healthcare Economist",
+      "sourcePathway": "Support Services",
+      "sourceKey": "healthcareeconomist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Maintenance Engineer",
+      "sourcePathway": "Support Services",
+      "sourceKey": "maintenanceengineer",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Industrial Hygienist",
+      "sourcePathway": "Support Services",
+      "sourceKey": "industrialhygienist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Interpreter",
+      "sourcePathway": "Support Services",
+      "sourceKey": "interpreter",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Materials Manager",
+      "sourcePathway": "Support Services",
+      "sourceKey": "materialsmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Patient Navigator",
+      "sourcePathway": "Support Services",
+      "sourceKey": "patientnavigator",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Telehealth Presenter",
+      "sourcePathway": "Support Services",
+      "sourceKey": "telehealthpresenter",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Transport Technician",
+      "sourcePathway": "Support Services",
+      "sourceKey": "transporttechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Substance Abuse Counselor",
+      "sourcePathway": "Support Services",
+      "sourceKey": "substanceabusecounselor",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biochemist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biochemist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Bioinformatics Associate",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "bioinformaticsassociate",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Bioinformatics Scientist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "bioinformaticsscientist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Bioinformatics Specialist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "bioinformaticsspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biomedical Chemist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biomedicalchemist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Engineer",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biomedicalclinicalengineer",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Technician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biomedicalclinicaltechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biostatistician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biostatistician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Biotechnician Assistant",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "biotechnicianassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Cell Biologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "cellbiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Data Management Associate/Consultant",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "clinicaldatamanagementassociateconsultant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Pharmacologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "clinicalpharmacologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Trials Monitor",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "clinicaltrialsmonitor",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Trials Research Associate",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "clinicaltrialsresearchassociate",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Clinical Trials Research Coordinator",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Geneticist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "geneticist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Laboratory Assistant-Genetics",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "laboratoryassistantgenetics",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Laboratory Technician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "laboratorytechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Medical Editor/Writer",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "medicaleditorwriter",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Microbiologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "microbiologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Molecular Biologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "molecularbiologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmaceutical/Clinical Project Manager",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "pharmaceuticalclinicalprojectmanager",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmaceutical Sales Representative",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "pharmaceuticalsalesrepresentative",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmaceutical Scientist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "pharmaceuticalscientist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Pharmacologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "pharmacologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Product Safety Associate/Scientist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "productsafetyassociatescientist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Process Development Associate/Scientist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "processdevelopmentassociatescientist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Processing Technician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "processingtechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Quality Assurance Technician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "qualityassurancetechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Quality Control Technician",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "qualitycontroltechnician",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Regulatory Affairs Specialist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "regulatoryaffairsspecialist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Research Assistant",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "researchassistant",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Research Scientist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "researchscientist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceTitle": "Toxicologist",
+      "sourcePathway": "Biotechnology Research and Development",
+      "sourceKey": "toxicologist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "duplicatePathwayListings": [
+    {
+      "sourceTitle": "Audiologist",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Medical Assistant",
+      "pathways": [
+        "Therapeutic Services",
+        "Health Informatics"
+      ]
+    },
+    {
+      "sourceTitle": "Nurse Practitioner",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Occupational Therapist",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Physical Therapist",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Physical Therapy Assistant",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Respiratory Therapist",
+      "pathways": [
+        "Therapeutic Services",
+        "Diagnostic Services"
+      ]
+    },
+    {
+      "sourceTitle": "Healthcare Administrator",
+      "pathways": [
+        "Health Informatics",
+        "Support Services"
+      ]
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Engineer",
+      "pathways": [
+        "Support Services",
+        "Biotechnology Research and Development"
+      ]
+    },
+    {
+      "sourceTitle": "Biomedical/Clinical Technician",
+      "pathways": [
+        "Support Services",
+        "Biotechnology Research and Development"
+      ]
+    }
+  ],
+  "counts": {
+    "Therapeutic Services": {
+      "all": 54,
+      "priority": 22
+    },
+    "Diagnostic Services": {
+      "all": 41,
+      "priority": 14
+    },
+    "Health Informatics": {
+      "all": 42,
+      "priority": 10
+    },
+    "Support Services": {
+      "all": 21,
+      "priority": 7
+    },
+    "Biotechnology Research and Development": {
+      "all": 34,
+      "priority": 7
+    }
+  }
+}

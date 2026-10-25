@@ -2,13 +2,21 @@ name: Career profile structure checks
 on:
   pull_request:
     paths:
-      - 'assets/data/**'
+      - 'assets/**'
+      - 'index.html'
+      - 'docs/launch-careers.json'
+      - 'scripts/assessment*'
+      - 'scripts/build-career-map.mjs'
       - 'scripts/validate-profiles*'
       - '.github/workflows/profile-check.yml'
   push:
     branches: [main]
     paths:
-      - 'assets/data/**'
+      - 'assets/**'
+      - 'index.html'
+      - 'docs/launch-careers.json'
+      - 'scripts/assessment*'
+      - 'scripts/build-career-map.mjs'
       - 'scripts/validate-profiles*'
       - '.github/workflows/profile-check.yml'
 jobs:
@@ -20,4 +28,4 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/validate-profiles.mjs
-      - run: node --test scripts/validate-profiles.test.mjs
+      - run: node --test scripts/*.test.mjs
