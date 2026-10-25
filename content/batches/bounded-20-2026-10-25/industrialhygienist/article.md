@@ -89,15 +89,9 @@ The Board for Global EHS Credentialing administers the CIH credential. Associati
 Sources checked October 25, 2026.
 
 1. [AIHA — Discover Industrial Hygiene](https://www.aiha.org/ih-careers/discover-industrial-hygiene) — Profession, hazards, diverse employers and CIH distinction.
-
 2. [AIHA — ARECC decision-making framework](https://www.aiha.org/blog/arecc-getting-the-right-things-done-right-every-day) — Anticipation, recognition, exposure evaluation, controls and confirmation of protection.
-
 3. [BLS — Occupational Health and Safety Specialists and Technicians](https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm) — Broad specialist occupation: May 2025 U.S. median $90,150; specialist-group growth 18% for 2025–2035; education and conditions.
-
 4. [BGC — CIH Eligibility Checklist, December 2022](https://gobgc.org/wp-content/uploads/2022/03/CIH-Eligibility-Checklist-2022-12-05.pdf) — Academic, industrial-hygiene coursework, ethics, experience and references; dated checklist, consult current handbook.
-
 5. [AIHA — About AIHA](https://www.aiha.org/about-aiha) — Association purpose and occupational/environmental health and safety community.
-
 6. [CDC/NIOSH — About NIOSH](https://www.cdc.gov/niosh/index.html) — Worker safety and health research context.
-
 7. [BGC — CIH Applicant Information](https://gobgc.org/applicants_CIH/) — Current credential authority and application destination.

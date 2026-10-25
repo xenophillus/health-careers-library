@@ -117,11 +117,11 @@
     },
     {
       "sourceKey": "industrialhygienist",
-      "pages": 5,
+      "pages": 4,
       "all15SectionStartsPresent": true,
       "blankPages": 0
     }
   ],
-  "totalPages": 84,
+  "totalPages": 83,
   "limitations": "Automated section-start and blank-page checks cover all20. Manual visual sampling covers CNA/CDM first+last pages; not every page or final production image layout."
 }

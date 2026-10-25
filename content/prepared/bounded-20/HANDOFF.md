@@ -6,7 +6,7 @@ This content-only review branch is based on the latest fetched `development/libr
 
 -20 complete15-section articles;300 section rows,141 original source records and468 section-specific source export rows.
 - All20 articles independently read and primary claims spot-checked; eight additional Kansas statutory checks recorded. This is bounded review, not an exhaustive legal opinion.
-- Local standalone preview passed1440px/375px navigation and overflow checks. Each article printed to Letter PDF:84pages total, all300 section headings/openings retained, no blank pages. CNA/CDM first and last pages visually sampled. Production integration and final image pagination remain separate.
+- Local standalone preview passed1440px/375px navigation and overflow checks. Each article printed to Letter PDF:83pages total, all300 section headings/openings retained, no blank pages. CNA/CDM first and last pages visually sampled. Production integration and final image pagination remain separate.
 - Useful licensed images are optional. Clean text-only presentation is valid; unsuitable or unverified imagery is not a blanket article hold. Seven useful selections have parent cloud-browser visual/right checks; preserve exact captions and role/date limits. See parent-cleared-replacements.json and individual media records.
 
 Start at [REVIEW.md](REVIEW.md), [source/render checkpoint](source-render-checkpoint.json), [print QA](print-qa.json) and [standalone review](review.html). Older report snapshots preserve what was known when produced; follow-up checkpoints supersede initial blanket image/print statuses.

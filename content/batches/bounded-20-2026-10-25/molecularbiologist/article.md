@@ -89,11 +89,7 @@ Scientific societies can introduce students to the range of work behind a broad 
 Sources checked October 25, 2026.
 
 1. [O*NET — Molecular and Cellular Biologists](https://www.onetonline.org/link/summary/19-1029.02) — Exact reported title Molecular Biologist; tasks, preparation and broader Biological Scientists, All Other wage mapping; 2025 U.S. median $98,920 and 2025–2035 group growth 5–6%.
-
 2. [NHGRI — Genetics and Molecular Biology Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Genetics-Molecular-Biology-Branch) — Research using genetic/genomic technologies to understand genomes and disease mechanisms.
-
 3. [ASBMB — Exploring Careers in Biochemistry and Molecular Biology](https://www.asbmb.org/getmedia/f7c551d5-682e-44b1-a7a3-0cb3bcef9eac/asbmb-career-brochure-2017.pdf) — Career preparation and range of scientific paths; brochure is dated 2017, not current wage evidence.
-
 4. [BLS — Biochemists and Biophysicists](https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm) — Education and working conditions in a related scientific research field.
-
 5. [ASBMB — Professional society](https://www.asbmb.org/) — Scientific community, publications and professional development.

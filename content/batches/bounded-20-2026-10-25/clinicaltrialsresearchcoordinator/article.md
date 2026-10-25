@@ -89,13 +89,8 @@ These organizations can help students explore research roles and career terminol
 Sources checked October 25, 2026.
 
 1. [O*NET — Clinical Research Coordinators](https://www.onetonline.org/link/summary/11-9121.01) — Coordinator tasks, preparation category and broad Natural Sciences Managers wage mapping.
-
 2. [FDA — Informed Consent guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/informed-consent) — Guidance for investigators, sponsors and institutional review boards on research informed consent.
-
 3. [ACRP — CCRC Certification](https://acrpnet.org/certification/crc-certification) — Experience-based CCRC eligibility: 3,000 qualifying hours; full criteria in policy manual.
-
 4. [ACRP — Professional resources](https://acrpnet.org/) — Clinical research education and certification organization.
-
 5. [BLS — Natural Sciences Managers](https://www.bls.gov/ooh/management/natural-sciences-managers.htm) — Broad management occupation; its national wage is not a coordinator-specific salary.
-
 6. [SOCRA — Society of Clinical Research Associates](https://www.socra.org/) — Professional association and education/certification resources.

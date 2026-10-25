@@ -1,4 +1,4 @@
-> Current checkpoint:20 complete drafts; images optional; source/editorial and standalone desktop/mobile/84-page print QA completed. See [HANDOFF.md](HANDOFF.md). No publication approval or canonical writes.
+> Current checkpoint:20 complete drafts; useful images optional; actual repository importer and desktop/mobile checks pass;83-page print check passes. [HANDOFF](HANDOFF.md) · [Latest parent image corrections](parent-image-followup-2.json). Draft review only.
 
 # Bounded batch of 20 — review index
 
@@ -30,8 +30,3 @@ Read `qa-report.json`, `independent-review.json`, and each profile’s source/me
 | `toxicologist` | Toxicologist | [Article](../../batches/bounded-20-2026-10-25/toxicologist/article.md) · [Sources](../../batches/bounded-20-2026-10-25/toxicologist/source-records.json) · [QA](../../batches/bounded-20-2026-10-25/toxicologist/qa.md) · [Media](../../batches/bounded-20-2026-10-25/toxicologist/media-evidence.json) |
 | `molecularbiologist` | Molecular Biologist | [Article](../../batches/bounded-20-2026-10-25/molecularbiologist/article.md) · [Sources](../../batches/bounded-20-2026-10-25/molecularbiologist/source-records.json) · [QA](../../batches/bounded-20-2026-10-25/molecularbiologist/qa.md) · [Media](../../batches/bounded-20-2026-10-25/molecularbiologist/media-evidence.json) |
 | `industrialhygienist` | Industrial Hygienist | [Article](../../batches/bounded-20-2026-10-25/industrialhygienist/article.md) · [Sources](../../batches/bounded-20-2026-10-25/industrialhygienist/source-records.json) · [QA](../../batches/bounded-20-2026-10-25/industrialhygienist/qa.md) · [Media](../../batches/bounded-20-2026-10-25/industrialhygienist/media-evidence.json) |
-
-
-Follow-up: [source/render checkpoint](source-render-checkpoint.json) and [parent image review](parent-image-review-update.json) supersede initial source, image and rendering statuses. Standalone review is [review.html](review.html). Further image candidates are in the four image-search JSON files. Next20 IDs are reserved only; no new authoring or remote writes.
-
-Image rule clarified: useful licensed imagery is optional, not mandatory per profile. Clean text-only presentation is acceptable. Current standalone print QA passed20profiles/84pages; see print-qa.json. New parent-cleared pharmacist, RT and industrial-hygienist replacements are recorded in parent-cleared-replacements.json.

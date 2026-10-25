@@ -89,15 +89,9 @@ The American Board of Toxicology has a different role: it administers profession
 Sources checked October 25, 2026.
 
 1. [NIEHS — Toxicology](https://www.niehs.nih.gov/health/topics/science/toxicology) — Dose, exposure route, susceptibility, safety research and alternatives to animal testing.
-
 2. [Society of Toxicology — Becoming a Toxicologist](https://www.toxicology.org/careers/toxicologist/becomeTox.asp) — Education from support roles to advanced scientific careers; science and research preparation.
-
 3. [NIEHS — Division of Translational Toxicology](https://www.niehs.nih.gov/research/atniehs/dtt) — Multidisciplinary environmental-health research and collaboration.
-
 4. [American Board of Toxicology — 2026 Candidate Handbook](https://www.abtox.org/wp-content/uploads/2026/02/ABT-Candidate-Handbook-2026.pdf) — Professional certification, education/experience review and examination.
-
 5. [BLS — Medical Scientists](https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm) — May 2025 U.S. median $103,410 for medical scientists except epidemiologists; contextual research group, not all toxicologists.
-
 6. [AAFS — Careers in Toxicology](https://www.aafs.org/careers-toxicology) — Forensic toxicology distinction and scientific education.
-
 7. [Society of Toxicology — Professional resources](https://www.toxicology.org/) — Career and salary-survey resources, meetings and education.

@@ -1,23 +1,19 @@
 {
-  "scope": "In-memory rendering of self-authored standalone editorial HTML; no browser filesystem navigation, production runtime or deployment",
-  "fileNavigationAttempt": "file URL blocked by browser policy; not retried",
-  "checks": [
+  "scope": "Actual repository importer HTML in standalone editorial shell; no runtime registration or external requests",
+  "profiles": 20,
+  "sections": 300,
+  "viewports": [
     {
-      "viewport": 1440,
-      "articles": 20,
-      "sections": 300,
-      "all20NavigationTargets": "pass",
-      "horizontalOverflow": false
+      "width": 1440,
+      "navigation": "20 anchors exercised",
+      "overflow": false
     },
     {
-      "viewport": 375,
-      "articles": 20,
-      "sections": 300,
-      "all20NavigationTargets": "pass",
-      "horizontalOverflow": false
+      "width": 375,
+      "navigation": "20 anchors exercised",
+      "overflow": false
     }
   ],
-  "externalRequests": [],
-  "consoleErrors": [],
-  "printCss": "Navigation hidden; print styles applied. Full pagination not manually inspected."
+  "pageErrors": [],
+  "externalRequests": []
 }

@@ -89,13 +89,8 @@ Association membership, a training certificate and RAC certification have differ
 Sources checked October 25, 2026.
 
 1. [O*NET — Regulatory Affairs Specialists](https://www.onetonline.org/link/summary/13-1041.07) — Specialist duties and mapping to the broader Compliance Officers wage group.
-
 2. [FDA — Classify Your Medical Device](https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device) — Risk-based device classes and baseline controls.
-
 3. [FDA — Overview of Device Regulation](https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation) — Different controls and pathways for medical devices.
-
 4. [RAPS — Regulatory Affairs Certification](https://www.raps.org/certify-advance/credentials/rac.html) — RAC-Drugs and RAC-Devices, education/experience eligibility and examination.
-
 5. [BLS — Compliance Officers](https://www.bls.gov/ooh/business-and-financial/compliance-officers.htm) — May 2025 U.S. median $80,730 for broad compliance-officer category.
-
 6. [RAPS — Professional society](https://www.raps.org/) — Professional education, publications and regulatory community.
