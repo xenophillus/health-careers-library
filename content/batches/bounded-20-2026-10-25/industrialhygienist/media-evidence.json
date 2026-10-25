@@ -1,5 +1,5 @@
 {
-  "status": "license_metadata_checked_pixels_missing",
+  "status": "Useful authentic replacement visually and rights-verified by parent; source/role/date context required",
   "verifiedDate": "2026-10-25",
   "assets": [
     {
@@ -17,5 +17,19 @@
       "localFile": null,
       "publicationStatus": "Not inserted; visual inspection and final caption/alt review pending"
     }
-  ]
+  ],
+  "parentClearedReplacement": {
+    "sourceKey": "industrialhygienist",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_(40924705483).jpg",
+    "publicImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_%2840924705483%29.jpg",
+    "credit": "PEO ACWA",
+    "date": "2019",
+    "caption": "Posed occupational portrait of an industrial hygienist in the Blue Grass Chemical Agent-Destruction Pilot Plant boiler room,2019. This is not active sampling.",
+    "license": "CC BY2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "provenanceLimit": "Commons Flickr review preserves license; original Flickr now404."
+  }
 }

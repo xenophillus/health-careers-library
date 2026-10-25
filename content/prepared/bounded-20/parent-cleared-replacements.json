@@ -1,0 +1,44 @@
+[
+  {
+    "sourceKey": "pharmacist",
+    "sourceUrl": "https://www.dvidshub.net/image/9395601/6th-mdss-pharmacy-promotes-mission-readiness",
+    "publicImageUrl": "https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2511/9395601/1000w_q95.jpg",
+    "credit": "U.S. Air Force photo by Airman 1st Class Autumn Lindor",
+    "date": "2025-10-20",
+    "caption": "Pharmacist Kenzier McIntyre trains pharmacy intern Sindi Begaj at MacDill Air Force Base in October2025. The white-coated person is the intern, not the pharmacist.",
+    "license": "Public domain",
+    "rightsUrl": "https://www.dvidshub.net/about/copyright",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "reuseConditions": "Preserve current DVIDS nonendorsement statement and applicable privacy/publicity caveats; do not imply military endorsement."
+  },
+  {
+    "sourceKey": "respiratorytherapist",
+    "sourceUrl": "https://www.dvidshub.net/image/9283668/comprehensive-medical-readiness-program-skills-rodeo-promotes-medically-ready-force",
+    "publicImageUrl": "https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2508/9283668/1000w_q95.jpg",
+    "credit": "U.S. Air Force photo by Kemberly Groue",
+    "date": "2025-08-26",
+    "caption": "Respiratory therapist Cassandra Waibel demonstrates respiratory-care techniques to nurses during mannequin training at Keesler Air Force Base in August2025.",
+    "license": "Public domain",
+    "rightsUrl": "https://www.dvidshub.net/about/copyright",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "reuseConditions": "Preserve current DVIDS nonendorsement statement and applicable privacy/publicity caveats; do not imply military endorsement."
+  },
+  {
+    "sourceKey": "industrialhygienist",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_(40924705483).jpg",
+    "publicImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_%2840924705483%29.jpg",
+    "credit": "PEO ACWA",
+    "date": "2019",
+    "caption": "Posed occupational portrait of an industrial hygienist in the Blue Grass Chemical Agent-Destruction Pilot Plant boiler room,2019. This is not active sampling.",
+    "license": "CC BY2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "provenanceLimit": "Commons Flickr review preserves license; original Flickr now404."
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "status": "missing_verified_image",
+  "status": "Useful authentic replacement visually and rights-verified by parent; source/role/date context required",
   "checkedDate": "2026-10-25",
   "imageIncluded": false,
   "pixelsObtained": false,
@@ -21,5 +21,19 @@
     "Verify original image-specific provenance and suitability",
     "Write accurate final caption, alt text and attribution after visual review"
   ],
-  "parentFollowup": "Parent cloud-browser assessment: only bare college attribution and484x294 original; hold pending stronger provenance and quality assessment. Do not duplicate parent check."
+  "parentFollowup": "Parent cloud-browser assessment: only bare college attribution and484x294 original; hold pending stronger provenance and quality assessment. Do not duplicate parent check.",
+  "parentClearedReplacement": {
+    "sourceKey": "respiratorytherapist",
+    "sourceUrl": "https://www.dvidshub.net/image/9283668/comprehensive-medical-readiness-program-skills-rodeo-promotes-medically-ready-force",
+    "publicImageUrl": "https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2508/9283668/1000w_q95.jpg",
+    "credit": "U.S. Air Force photo by Kemberly Groue",
+    "date": "2025-08-26",
+    "caption": "Respiratory therapist Cassandra Waibel demonstrates respiratory-care techniques to nurses during mannequin training at Keesler Air Force Base in August2025.",
+    "license": "Public domain",
+    "rightsUrl": "https://www.dvidshub.net/about/copyright",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "reuseConditions": "Preserve current DVIDS nonendorsement statement and applicable privacy/publicity caveats; do not imply military endorsement."
+  }
 }

@@ -31,3 +31,5 @@ Read `qa-report.json`, `independent-review.json`, and each profile’s source/me
 
 
 Follow-up: [source/render checkpoint](source-render-checkpoint.json) and [parent image review](parent-image-review-update.json) supersede initial source, image and rendering statuses. Standalone review is [review.html](review.html). Further image candidates are in the four image-search JSON files. Next20 IDs are reserved only; no new authoring or remote writes.
+
+Image rule clarified: useful licensed imagery is optional, not mandatory per profile. Clean text-only presentation is acceptable. Current standalone print QA passed20profiles/84pages; see print-qa.json. New parent-cleared pharmacist, RT and industrial-hygienist replacements are recorded in parent-cleared-replacements.json.

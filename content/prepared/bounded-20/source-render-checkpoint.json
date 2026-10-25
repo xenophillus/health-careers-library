@@ -10,9 +10,15 @@
   },
   "sourceSupplement": "supplemental-source-remediation.json records8direct statutory checks.",
   "renderQA": "render-qa.json: locally generated standalone HTML tested in-memory in Chromium at1440px/375px,20article anchors and300sections, no horizontal overflow or externalrequests or pageerrors. This is not production runtime rendering; images not embedded; fullprintpagination not inspected.",
-  "imageQA": "Parent inspected8images across7profiles. Five profiles have suitable contextual images including replacementMLS; pharmacist provenance qualified; newRTcandidate awaitsvisualreview. Additional12role candidates researched, withCDM/regulatory contextual limits. No candidate inserted or published.",
-  "nextBatch": "next-batch-reservation.json reserves20exactIDs,22appearances; no nextbatch authoring begun.",
+  "imageQA": "Seven profiles now have parent-cleared useful image selections, including new pharmacist/RT/IH replacements. Other profiles may use clean text-only presentation; candidate exploration is optional, not a blanket hold.",
+  "nextBatch": "Current20 source/editorial/render/print checkpoint complete within stated scope. Parent instructed continuation into next reserved20; separate branch/files.",
   "remoteWrites": 0,
   "canonicalWrites": 0,
-  "approvalFlagsChanged": 0
+  "approvalFlagsChanged": 0,
+  "imagePolicy": "Optional when educationally useful, not mandatory per profile. Text-only presentation is acceptable and not a release blocker solely for lacking a photo. Supersedes initial all-images-required interpretation.",
+  "imagePolicyEvidence": [
+    "AGENTS.md: Use photographs, illustrations, diagrams, timelines, tables, and cards when each adds educational value; do not decorate merely to fill space.",
+    "PROJECT_DECISIONS.md: Use authentic, relevant images when they deepen understanding."
+  ],
+  "printQA": "20individual Letter PDFs,84pages; all300section headings and opening passages present,no blankpages; CNA/CDM first+last pages manually inspected and legible. Production-image pagination not tested."
 }

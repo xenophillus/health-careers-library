@@ -1,0 +1,127 @@
+{
+  "scope": "Standalone text-only editorial preview; Chromium Letter PDF for each of20 articles. Not production runtime.",
+  "profiles": [
+    {
+      "sourceKey": "certifiednursingassistant",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "dentist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "pharmacist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "pages": 5,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "epidemiologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "interpreter",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "patientnavigator",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "pages": 5,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "regulatoryaffairsspecialist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "toxicologist",
+      "pages": 5,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "pages": 5,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    }
+  ],
+  "totalPages": 84,
+  "limitations": "Automated section-start and blank-page checks cover all20. Manual visual sampling covers CNA/CDM first+last pages; not every page or final production image layout."
+}
