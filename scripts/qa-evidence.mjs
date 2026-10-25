@@ -1,0 +1,16 @@
+import {chromium} from 'playwright';import assert from 'node:assert/strict';import fs from 'node:fs';
+const out='qa-results/assessment';fs.mkdirSync(out,{recursive:true});const checks=[];const check=(name,ok)=>{assert.ok(ok,name);checks.push(name)};
+const browser=await chromium.launch({executablePath:process.env.CHROMIUM_EXECUTABLE_PATH||undefined});
+try {for(const width of [1365,390]) {const page=await browser.newPage({viewport:{width,height:900}});await page.goto(process.env.ASSESSMENT_BASE_URL+'#assessment');await page.locator('#assessment-heading').waitFor();
+  await page.evaluate(()=>window.route('assessment','13'));await page.locator('input[value="2"]').check();
+  await page.getByRole('button',{name:'Explore with my answers so far',exact:true}).click();await page.locator('#map-search').fill('Bioinformatics Scientist');
+  await page.getByText('How documented duties connect to your answers',{exact:true}).click();
+  check(width+' positive duty has source explanation',await page.locator('.map-card').innerText().then(x=>x.includes('Tasks you would enjoy'))&&await page.locator('.map-card a[href*="onetonline.org"]').count()>0);
+  await page.getByRole('button',{name:'Clear answers and restart',exact:true}).click();await page.evaluate(()=>window.route('assessment','19'));await page.locator('input[value="2"]').check();
+  await page.getByRole('button',{name:'Explore with my answers so far',exact:true}).click();await page.locator('#map-search').fill('Biomedical/Clinical Engineer');
+  await page.getByText('How documented duties connect to your answers',{exact:true}).click();
+  check(width+' broader-group evidence is visibly qualified',await page.locator('.map-card').innerText().then(x=>x.includes('Related occupational group, not confirmed for every role.')&&x.includes('Source occupation: Bioengineers and biomedical engineers, including clinical engineers')));
+  await page.screenshot({path:out+`/evidence-scoped-${width}.png`});
+  await page.locator('#map-search').fill('Genetic Counselor Histotechnician');
+  check(width+' unknown title has no invented duty match',await page.locator('.map-card').innerText().then(x=>x.includes('career-specific duties have not been mapped yet'))&&await page.locator('.map-card details').count()===0);
+await page.close();}}finally{await browser.close();}fs.writeFileSync(out+'/evidence-browser-qa.json',JSON.stringify(checks,null,2));console.log('PASS '+checks.length+' duty evidence browser checks');

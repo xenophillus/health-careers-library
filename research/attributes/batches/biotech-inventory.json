@@ -1,0 +1,290 @@
+[
+  {
+    "sourceTitle": "Biochemist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "biochemist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Bioinformatics Associate",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "bioinformaticsassociate",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Bioinformatics Scientist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "bioinformaticsscientist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Bioinformatics Specialist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "bioinformaticsspecialist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Biomedical Chemist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "biomedicalchemist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Biostatistician",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "biostatistician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Biotechnician Assistant",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "biotechnicianassistant",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Cell Biologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "cellbiologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Data Management Associate/Consultant",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "clinicaldatamanagementassociateconsultant",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Pharmacologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "clinicalpharmacologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Trials Monitor",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "clinicaltrialsmonitor",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Trials Research Associate",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "clinicaltrialsresearchassociate",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Trials Research Coordinator",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "clinicaltrialsresearchcoordinator",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Geneticist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "geneticist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Laboratory Assistant-Genetics",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "laboratoryassistantgenetics",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Laboratory Technician",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "laboratorytechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Medical Editor/Writer",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "medicaleditorwriter",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Microbiologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "microbiologist",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Molecular Biologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "molecularbiologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Pharmaceutical/Clinical Project Manager",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "pharmaceuticalclinicalprojectmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Pharmaceutical Sales Representative",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "pharmaceuticalsalesrepresentative",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Pharmaceutical Scientist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "pharmaceuticalscientist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Pharmacologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "pharmacologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Product Safety Associate/Scientist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "productsafetyassociatescientist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Process Development Associate/Scientist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "processdevelopmentassociatescientist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Processing Technician",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "processingtechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Quality Assurance Technician",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "qualityassurancetechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Quality Control Technician",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "qualitycontroltechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Regulatory Affairs Specialist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "regulatoryaffairsspecialist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Research Assistant",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "researchassistant",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Research Scientist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "researchscientist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Toxicologist",
+    "sourcePathway": "Biotechnology Research and Development",
+    "sourceKey": "toxicologist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  }
+]

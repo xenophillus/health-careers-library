@@ -1,0 +1,947 @@
+[
+  {
+    "id": "admittingclerk",
+    "title": "Admitting Clerk",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Interviewers, Except Eligibility and Loan",
+      "source": "https://www.onetonline.org/link/summary/43-4111.00",
+      "note": "Admissions Clerk and Admitting Representative are listed titles; broad group also includes survey interviewers. Only healthcare-relevant tasks retained."
+    },
+    "attributes": {
+      "details": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Check collected information for completeness and accuracy.",
+        "source": "https://www.onetonline.org/link/summary/43-4111.00",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Interviewers, Except Eligibility and Loan group; confirm this interpretation for the particular position."
+      },
+      "explain": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Help patients with forms and questions in admissions-related positions.",
+        "source": "https://www.onetonline.org/link/summary/43-4111.00",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Interviewers, Except Eligibility and Loan group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "appliedresearcher",
+    "title": "Applied Researcher",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+      "note": "Discipline and methods are unspecified; cannot equate all applied research with laboratory experiments or epidemiology."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "cancerregistrar",
+    "title": "Cancer Registrar",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Cancer registrars",
+      "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+      "note": "BLS includes a specific cancer-registrar paragraph, rather than merely aggregate group tasks."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Check cancer records and pathology reports for completeness and accuracy.",
+        "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Cancer registrars; typical duties, not every employer."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Maintain cancer registry information.",
+        "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Cancer registrars; typical duties, not every employer."
+      },
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "Analyze cancer-patient information in registry databases.",
+        "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Cancer registrars; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "certifiedcompliancetechnician",
+    "title": "Certified Compliance Technician",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": "https://www.onetonline.org/link/summary/13-1041.07",
+      "note": "Certification issuer and occupation are unspecified; regulatory-affairs specialist is not a verified alias."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "clinicalaccountmanager",
+    "title": "Clinical Account Manager",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Account can mean client relationships, billing, or financial oversight; HFMA distinguishes multiple finance specialties."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "clinicalaccounttechnician",
+    "title": "Clinical Account Technician",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Exact title and account function remain unresolved; finance pathways do not establish duties for this title."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "clinicalcoder",
+    "title": "Clinical Coder",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical coders",
+      "source": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+      "note": "Clinical coder interpreted as medical coder; BLS explicitly describes coding within this broader records profile. NHS England independently uses the exact Clinical coder title for reviewing patient notes and recording alphanumeric codes. This corroborates the duty/title connection only; UK training or employment rules are not transferred to U.S. roles.",
+      "supportingSource": "https://www.stepintothenhs.nhs.uk/careers/clinical-coder"
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Review patient information to assign appropriate codes.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical coders; typical duties, not every employer."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Classify diagnoses and procedures with clinical codes.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical coders; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "clinicaldataminer",
+    "title": "Clinical Data Miner",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.onetonline.org/link/summary/15-2051.02",
+      "note": "No exact occupation match established; data mining is not automatically the full Clinical Data Managers role."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "clinicaldatamanagementspecialist",
+    "title": "Clinical Data Management Specialist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Clinical Data Managers",
+      "source": "https://www.onetonline.org/link/summary/15-2051.02",
+      "note": "Clinical data management specialist is related to this group, but is not an exact listed title or guaranteed managerial scope."
+    },
+    "attributes": {
+      "details": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "The group checks clinical data and resolves errors or omissions.",
+        "source": "https://www.onetonline.org/link/summary/15-2051.02",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Clinical Data Managers group; confirm this interpretation for the particular position."
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "The group processes and files clinical information.",
+        "source": "https://www.onetonline.org/link/summary/15-2051.02",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Clinical Data Managers group; confirm this interpretation for the particular position."
+      },
+      "patterns": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "The group analyzes clinical data and reports trends.",
+        "source": "https://www.onetonline.org/link/summary/15-2051.02",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Clinical Data Managers group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "clinicaldataspecialist",
+    "title": "Clinical Data Specialist",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.onetonline.org/link/summary/15-2051.02",
+      "note": "Could concern trial data, electronic records, registry, or documentation; no exact match established."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "communityservicesspecialist",
+    "title": "Community Services Specialist",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+      "note": "Service population and work function unspecified; not safely interchangeable with health educator or social worker."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "dataqualitymanager",
+    "title": "Data Quality Manager",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.onetonline.org/link/summary/15-2051.02",
+      "note": "Data domain and management scope unspecified; clinical data manager profile is only a candidate."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "decisionsupportanalyst",
+    "title": "Decision Support Analyst",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Could mean finance, business intelligence, or clinical decision-support systems; no exact occupational mapping."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "epidemiologist",
+    "title": "Epidemiologist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Epidemiologists",
+      "source": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+      "note": "Exact occupational profile."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "Analyze population data to investigate disease patterns.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Epidemiologists; typical duties, not every employer."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "Use research information to investigate causes of health problems.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Epidemiologists; typical duties, not every employer."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Communicate research findings to practitioners and the public.",
+        "source": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Epidemiologists; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "ethicist",
+    "title": "Ethicist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Healthcare ethics consultants",
+      "source": "https://asbh.org/certification/hcec-certification",
+      "note": "Ethicist can include research, teaching, or clinical consultation. This cue applies only to healthcare consultation."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "Healthcare ethics consultants assess factual information and analyze ethical questions.",
+        "source": "https://asbh.org/certification/hcec-certification",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Healthcare ethics consultants group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "healtheducator",
+    "title": "Health Educator",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Health Education Specialists",
+      "source": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+      "note": "Health educator corresponds to the education-specialist role described here."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Develop materials and programs that teach health topics.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health Education Specialists; typical duties, not every employer."
+      },
+      "patterns": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "Analyze community data to improve programs.",
+        "source": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health Education Specialists; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "healthinformationadministrator",
+    "title": "Health Information Administrator",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Health information managers",
+      "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+      "note": "BLS describes health information managers specifically; administrator can denote different levels of responsibility."
+    },
+    "attributes": {
+      "details": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Health information managers oversee completeness and accuracy of patient-record databases.",
+        "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health information managers group; confirm this interpretation for the particular position."
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "The described specialty manages access to patient-record databases.",
+        "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health information managers group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "healthinformationtechnician",
+    "title": "Health Information Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical Records Specialists",
+      "source": "https://www.onetonline.org/link/summary/29-2072.00",
+      "note": "O*NET explicitly lists this title among reported titles; do not conflate technician with technologist."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Review records for accuracy and completeness.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Compile and maintain patient records.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Enter patient information into computer systems.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "healthinformationservices",
+    "title": "Health Information Services",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+      "note": "Service/department label, not a defined individual occupation; preserve the source review flag."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "healthcareadministrator",
+    "title": "Healthcare Administrator",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical and Health Services Managers",
+      "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+      "note": "BLS explicitly identifies healthcare administrator as an alternate title."
+    },
+    "attributes": {
+      "plan": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Coordinate health services and create staff schedules.",
+        "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical and Health Services Managers; typical duties, not every employer."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Keep records of facility services.",
+        "source": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical and Health Services Managers; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "healthcarefinanceprofessional",
+    "title": "Healthcare Finance Professional",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Umbrella covering revenue cycle, reimbursement, budgeting, compliance, financing and analytics; no universal task assignment."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "informationprivacyofficer",
+    "title": "Information Privacy Officer",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "HIPAA privacy official",
+      "source": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+      "note": "The HHS administrative requirements define the privacy-official function, not a complete occupation or all officer duties."
+    },
+    "attributes": {
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "The designated privacy official develops and implements privacy policies and procedures.",
+        "source": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "HIPAA privacy official group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "informationsecurityofficer",
+    "title": "Information Security Officer",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Information Security Analysts",
+      "source": "https://www.onetonline.org/link/summary/15-1212.00",
+      "note": "O*NET lists Information Security Officer; officer seniority may differ. Computer incidents are not medical emergencies."
+    },
+    "attributes": {
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Update security systems and configure access controls.",
+        "source": "https://www.onetonline.org/link/summary/15-1212.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Information Security Analysts; typical duties, not every employer."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Train users about information security.",
+        "source": "https://www.onetonline.org/link/summary/15-1212.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Information Security Analysts; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "managedcarecontractanalyst",
+    "title": "Managed Care Contract Analyst",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "HFMA documents contracting as a specialty but does not establish this exact role or its regular tasks."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "medicalillustrator",
+    "title": "Medical Illustrator",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Medical illustrators",
+      "source": "https://ami.org/medical-illustration/learn-about-it/",
+      "note": "Professional-association description of medical illustration; producing digital imagery is not automatically hands-on model making."
+    },
+    "attributes": {
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Turn complex medical information into understandable visual explanations.",
+        "source": "https://ami.org/medical-illustration/learn-about-it/",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical illustrators; typical duties, not every employer."
+      },
+      "digital": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Computer graphics and animation are part of the field; individual media vary.",
+        "source": "https://ami.org/medical-illustration/learn-about-it/",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical illustrators; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "medicalinformationtechnologist",
+    "title": "Medical Information Technologist",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Health Information Technologists and Medical Registrars",
+      "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+      "note": "Related healthcare-systems title; exact equivalence is not established."
+    },
+    "attributes": {
+      "digital": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "The related group supports computerized healthcare information systems.",
+        "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health Information Technologists and Medical Registrars group; confirm this interpretation for the particular position."
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "The group updates clinical databases; confirm the duties of this position.",
+        "source": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health Information Technologists and Medical Registrars group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "medicallibrarian",
+    "title": "Medical Librarian",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Health sciences librarians",
+      "source": "https://www.mlanet.org/about-mla/about-the-profession/",
+      "note": "Medical Library Association describes this profession and its varied settings."
+    },
+    "attributes": {
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Catalog and organize health-information collections for access.",
+        "source": "https://www.mlanet.org/about-mla/about-the-profession/",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health sciences librarians; typical duties, not every employer."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Teach people how to find and evaluate health information.",
+        "source": "https://www.mlanet.org/about-mla/about-the-profession/",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health sciences librarians; typical duties, not every employer."
+      },
+      "evidence": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "Evaluate research and deliver authoritative information.",
+        "source": "https://www.mlanet.org/about-mla/about-the-profession/",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health sciences librarians; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "medicalrecordstechnician",
+    "title": "Medical Records Technician",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Medical Records Specialists",
+      "source": "https://www.onetonline.org/link/summary/29-2072.00",
+      "note": "O*NET explicitly lists this title among reported titles; do not conflate technician with technologist."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Review records for accuracy and completeness.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      },
+      "organize": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Compile and maintain patient records.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Enter patient information into computer systems.",
+        "source": "https://www.onetonline.org/link/summary/29-2072.00",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Records Specialists; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "medicaltranscriptionist",
+    "title": "Medical Transcriptionist",
+    "mapping": {
+      "status": "exact",
+      "occupation": "Medical Transcriptionists",
+      "source": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
+      "note": "Exact occupation. Listening to dictation is not evidence for the interpersonal listen question."
+    },
+    "attributes": {
+      "details": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "checking details",
+        "explanation": "Find errors and missing information in medical reports.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Transcriptionists; typical duties, not every employer."
+      },
+      "digital": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "Edit speech-recognition drafts and enter electronic reports.",
+        "source": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Medical Transcriptionists; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "patientaccountmanager",
+    "title": "Patient Account Manager",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Account-management scope varies; no title-specific authoritative task profile verified."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "patientaccounttechnician",
+    "title": "Patient Account Technician",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/career-resources/career-pathways/",
+      "note": "Revenue-cycle function and exact title mapping unresolved; do not equate with medical coding."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "patientadvocate",
+    "title": "Patient Advocate",
+    "mapping": {
+      "status": "alias",
+      "occupation": "Patient Representatives",
+      "source": "https://www.onetonline.org/link/summary/29-2099.08",
+      "note": "Patient Advocate is an explicitly reported O*NET title."
+    },
+    "attributes": {
+      "listen": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "listening to concerns",
+        "explanation": "Interview patients to identify problems with care.",
+        "source": "https://www.onetonline.org/link/summary/29-2099.08",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Patient Representatives; typical duties, not every employer."
+      },
+      "explain": {
+        "status": "regular",
+        "reviewedAt": "2026-10-25",
+        "label": "explaining information",
+        "explanation": "Explain healthcare policies, procedures, and services.",
+        "source": "https://www.onetonline.org/link/summary/29-2099.08",
+        "confidence": "high",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Patient Representatives; typical duties, not every employer."
+      }
+    }
+  },
+  {
+    "id": "patientinformationcoordinator",
+    "title": "Patient Information Coordinator",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.onetonline.org/link/summary/29-2099.08",
+      "note": "Could concern registration, records, or patient education; the Patient Representatives profile does not establish equivalence."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "projectmanager",
+    "title": "Project Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Project Management Specialists",
+      "source": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+      "note": "Cross-industry project-management group; health setting and seniority are unspecified."
+    },
+    "attributes": {
+      "plan": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "coordinating tasks",
+        "explanation": "Project specialists assign tasks and coordinate schedules and resources.",
+        "source": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Project Management Specialists group; confirm this interpretation for the particular position."
+      },
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "The group produces and organizes project documents.",
+        "source": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Project Management Specialists group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "qualitymanagementspecialist",
+    "title": "Quality Management Specialist",
+    "mapping": {
+      "status": "unresolved",
+      "occupation": null,
+      "source": "https://www.nahq.org/why-nahq/healthcare-quality-competency-framework/",
+      "note": "Healthcare quality competency framework fetch returned HTTP 403; no title-specific duties verified."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "qualitydataanalyst",
+    "title": "Quality Data Analyst",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://nahqu.nahq.org/Listing/NAHQ-Micro-Credentials-Health-Data-Analytics-200020",
+      "note": "NAHQ educational material describes data analytics but is not a verified mapping of this exact title."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "reimbursementspecialist",
+    "title": "Reimbursement Specialist",
+    "mapping": {
+      "status": "ambiguous",
+      "occupation": null,
+      "source": "https://www.hfma.org/education-events/certifications/",
+      "note": "Multiple reimbursement and coding credentials exist; this generic title does not identify which occupational function."
+    },
+    "attributes": {}
+  },
+  {
+    "id": "riskmanager",
+    "title": "Risk Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Health care risk managers",
+      "source": "https://www.ashrm.org/about/hrm_overview",
+      "note": "ASHRM explicitly says job descriptions vary by organization; no universal statistical or clinical duty claimed."
+    },
+    "attributes": {
+      "patterns": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "finding patterns in data",
+        "explanation": "Statistical analysis is one possible healthcare risk-management responsibility.",
+        "source": "https://www.ashrm.org/about/hrm_overview",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health care risk managers group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "unitcoordinator",
+    "title": "Unit Coordinator",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Health unit coordinators",
+      "source": "https://www.onetonline.org/link/summary/43-6013.00",
+      "note": "Unit Clerk and Ward Clerk appear in O*NET medical administrative titles; NAHUC confirms related health-unit roles. Generic Unit Coordinator is not automatically one occupation."
+    },
+    "attributes": {
+      "organize": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "organizing information",
+        "explanation": "Medical administrative staff maintain records and route documents.",
+        "source": "https://www.onetonline.org/link/summary/43-6013.00",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health unit coordinators group; confirm this interpretation for the particular position."
+      },
+      "digital": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "using digital tools",
+        "explanation": "They use office software to prepare medical records and reports.",
+        "source": "https://www.onetonline.org/link/summary/43-6013.00",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Health unit coordinators group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "utilizationmanager",
+    "title": "Utilization Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Utilization management professionals",
+      "source": "https://www.ncqa.org/programs/health-plans/utilization-management/",
+      "note": "NCQA describes organizational utilization-management services, not an exact individual job or a one-to-one occupation."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "In utilization review, relevant clinical information is assessed against evidence-based criteria.",
+        "source": "https://www.ncqa.org/programs/health-plans/utilization-management/",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Utilization management professionals group; confirm this interpretation for the particular position."
+      }
+    }
+  },
+  {
+    "id": "utilizationreviewmanager",
+    "title": "Utilization Review Manager",
+    "mapping": {
+      "status": "broader-group",
+      "occupation": "Utilization management professionals",
+      "source": "https://www.ncqa.org/programs/health-plans/utilization-management/",
+      "note": "NCQA describes organizational utilization-management services, not an exact individual job or a one-to-one occupation."
+    },
+    "attributes": {
+      "evidence": {
+        "status": "setting-dependent",
+        "reviewedAt": "2026-10-25",
+        "label": "evaluating evidence",
+        "explanation": "In utilization review, relevant clinical information is assessed against evidence-based criteria.",
+        "source": "https://www.ncqa.org/programs/health-plans/utilization-management/",
+        "confidence": "moderate",
+        "evidenceNote": "Paraphrase of source duties; task-to-preference connection is editorial, for soft ordering only.",
+        "scope": "Utilization management professionals group; confirm this interpretation for the particular position."
+      }
+    }
+  }
+]

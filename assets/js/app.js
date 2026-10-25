@@ -1,6 +1,6 @@
 import { careers } from '../data/careers.js';
-import { assessment, careerMapView, mapResults } from './views/assessment.js?v=preferences-2';
-import {assessmentState,setAnswer,setExclusion,restoreEntry,resetAssessment} from './assessment.js?v=preferences-2';
+import { assessment, careerMapView, mapResults } from './views/assessment.js?v=preferences-2-1';
+import {assessmentState,setAnswer,setExclusion,restoreEntry,resetAssessment} from './assessment.js?v=preferences-2-1';
 import { state } from './state.js';
 import { $, money } from './dom.js';
 import { setCount, toggleFav as updateFavorite } from './favorites.js';
@@ -13,7 +13,7 @@ function restoreCareer(id){restoreEntry(id);render();}
 function restartAssessment(){resetAssessment();route('assessment','1');}
 function refreshCareerMap(focus=false){const el=$('map-results');if(el)el.innerHTML=mapResults();if($('map-path'))$('map-path').value=assessmentState.path;if($('map-search'))$('map-search').value=assessmentState.query;if(focus)$('map-count')?.focus();}
 function filterCareerMap(key,value){if(!['query','path'].includes(key))return;assessmentState[key]=value;assessmentState.page=0;refreshCareerMap(key==='path');}
-function applyAnswerFilters(){assessmentState.showHidden=false;assessmentState.restoredIds=[];assessmentState.page=0;render();$('map-count')?.focus();}
+function applyAnswerFilters(){assessmentState.showHidden=false;assessmentState.page=0;render();$('map-count')?.focus();}
 function showHiddenCareers(){assessmentState.showHidden=true;assessmentState.page=0;refreshCareerMap(true);}
 function resetCareerMap(){Object.assign(assessmentState,{query:'',path:'all',page:0,showHidden:true});refreshCareerMap(true);}
 function pageCareerMap(delta){assessmentState.page+=delta;refreshCareerMap(true);}

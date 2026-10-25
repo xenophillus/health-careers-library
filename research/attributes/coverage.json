@@ -1,0 +1,41 @@
+{
+  "inventoryAppearances": 192,
+  "exactSourceTitles": 182,
+  "crossPathwayDuplicateTitles": 10,
+  "reviewedEntries": 182,
+  "attributesPerEntry": 25,
+  "verifiedAttributeRelationships": 188,
+  "settingDependentRelationships": 114,
+  "unknownAttributeRelationships": 4248,
+  "entriesWithVerifiedAttributes": 95,
+  "entriesWithAnySourcedEvidence": 142,
+  "hardExclusionEligibleRelationships": 17,
+  "scopedSoftInterestRelationships": 31,
+  "byPathway": {
+    "Therapeutic Services": {
+      "appearances": 54,
+      "entriesWithVerifiedAttributes": 45,
+      "entriesWithAnySourcedEvidence": 52
+    },
+    "Health Informatics": {
+      "appearances": 42,
+      "entriesWithVerifiedAttributes": 13,
+      "entriesWithAnySourcedEvidence": 24
+    },
+    "Diagnostic Services": {
+      "appearances": 41,
+      "entriesWithVerifiedAttributes": 30,
+      "entriesWithAnySourcedEvidence": 38
+    },
+    "Support Services": {
+      "appearances": 21,
+      "entriesWithVerifiedAttributes": 6,
+      "entriesWithAnySourcedEvidence": 19
+    },
+    "Biotechnology Research and Development": {
+      "appearances": 34,
+      "entriesWithVerifiedAttributes": 9,
+      "entriesWithAnySourcedEvidence": 19
+    }
+  }
+}

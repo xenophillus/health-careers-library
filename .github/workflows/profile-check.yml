@@ -6,6 +6,8 @@ on:
       - 'index.html'
       - 'docs/launch-careers.json'
       - 'scripts/assessment*'
+      - 'research/attributes/**'
+      - 'scripts/sync-career-attributes.mjs'
       - 'scripts/build-career-map.mjs'
       - 'scripts/validate-profiles*'
       - '.github/workflows/profile-check.yml'
@@ -16,6 +18,8 @@ on:
       - 'index.html'
       - 'docs/launch-careers.json'
       - 'scripts/assessment*'
+      - 'research/attributes/**'
+      - 'scripts/sync-career-attributes.mjs'
       - 'scripts/build-career-map.mjs'
       - 'scripts/validate-profiles*'
       - '.github/workflows/profile-check.yml'
@@ -28,4 +32,4 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/validate-profiles.mjs
-      - run: node --test scripts/*.test.mjs
+      - run: node --test scripts/*.test.mjs research/attributes/evidence.test.mjs

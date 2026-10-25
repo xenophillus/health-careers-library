@@ -1,0 +1,184 @@
+[
+  {
+    "sourceTitle": "Behavioral Disorder Counselor",
+    "sourcePathway": "Support Services",
+    "sourceKey": "behavioraldisordercounselor",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Biomedical/Clinical Engineer",
+    "sourcePathway": "Support Services",
+    "sourceKey": "biomedicalclinicalengineer",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Biomedical/Clinical Technician",
+    "sourcePathway": "Support Services",
+    "sourceKey": "biomedicalclinicaltechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Clinical Simulator Technician",
+    "sourcePathway": "Support Services",
+    "sourceKey": "clinicalsimulatortechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Central Service Manager",
+    "sourcePathway": "Support Services",
+    "sourceKey": "centralservicemanager",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Central Service or Sterile Processing Technician",
+    "sourcePathway": "Support Services",
+    "sourceKey": "centralserviceorsterileprocessingtechnician",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Community Health Worker",
+    "sourcePathway": "Support Services",
+    "sourceKey": "communityhealthworker",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Dietary Manager",
+    "sourcePathway": "Support Services",
+    "sourceKey": "dietarymanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Dietary Aide",
+    "sourcePathway": "Support Services",
+    "sourceKey": "dietaryaide",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Environmental Services",
+    "sourcePathway": "Support Services",
+    "sourceKey": "environmentalservices",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [
+      "Service/department label; verify specific occupation before writing"
+    ],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Facilities Manager",
+    "sourcePathway": "Support Services",
+    "sourceKey": "facilitiesmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Healthcare Economist",
+    "sourcePathway": "Support Services",
+    "sourceKey": "healthcareeconomist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Maintenance Engineer",
+    "sourcePathway": "Support Services",
+    "sourceKey": "maintenanceengineer",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Industrial Hygienist",
+    "sourcePathway": "Support Services",
+    "sourceKey": "industrialhygienist",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Interpreter",
+    "sourcePathway": "Support Services",
+    "sourceKey": "interpreter",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Materials Manager",
+    "sourcePathway": "Support Services",
+    "sourceKey": "materialsmanager",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Patient Navigator",
+    "sourcePathway": "Support Services",
+    "sourceKey": "patientnavigator",
+    "productionWave": "priority",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Telehealth Presenter",
+    "sourcePathway": "Support Services",
+    "sourceKey": "telehealthpresenter",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Transport Technician",
+    "sourcePathway": "Support Services",
+    "sourceKey": "transporttechnician",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  },
+  {
+    "sourceTitle": "Substance Abuse Counselor",
+    "sourcePathway": "Support Services",
+    "sourceKey": "substanceabusecounselor",
+    "productionWave": "backlog",
+    "profileStatus": "not_started",
+    "reviewFlags": [],
+    "profileId": null
+  }
+]
