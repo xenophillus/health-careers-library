@@ -1,0 +1,33 @@
+{
+  "rule": "PROJECT_DECISIONS.md: Use authentic, relevant images when they deepen understanding; no section should exist merely because a component is available. LIBRARY_LAUNCH_PLAN.md: useful licensed images when available.",
+  "reviewDate": "2026-10-25",
+  "unacquiredCandidates": "No uninspected or access-limited candidate is licensed for inclusion by this decision. No access restriction bypassed.",
+  "textOnly": {
+    "biochemist": "Protein-experiment prose explains molecular research; an insulin model is optional enrichment.",
+    "biomedical-clinical-engineer": "Design and hospital technology-management examples explain the engineer role without a misleading technician photograph.",
+    "biomedical-clinical-technician": "Equipment inspection, troubleshooting and service records are concrete; a photo cannot resolve the two-pathway title ambiguity.",
+    "biostatistician": "Study planning, missing observations and uncertainty are explained; historical Nightingale imagery is optional context.",
+    "cancer-registrar": "Casefinding and abstracting examples explain registry work without decorative specialist software diagrams.",
+    "community-health-worker": "Transportation barriers, referral follow-through and relationships supply concrete examples; disputed-license or differently scoped overseas clinical images are unnecessary.",
+    "health-information-technologist": "Inconsistent-report example explains systems and data quality better than an old tablet image; exact title alias remains unresolved.",
+    "licensed-practical-nurse": "Nursing-facility example explains observation, reporting, assigned care and supervision without a historical Haiti photograph.",
+    "medical-records-specialist": "Record-quality and missing-report examples explain the work; uninspected historical paper-file imagery is unnecessary.",
+    "medical-transcriptionist": "Uncertain audio and editing examples explain the occupation more clearly than generic headset imagery.",
+    "microbiologist": "Research, clinical testing and public-health workflows are distinguished; an uninspected colorized micrograph is optional.",
+    "mri-technologist": "Magnetic fields, screening, acquisition and the radiologist's interpretive role are clear without a sample scan.",
+    "occupational-therapist": "Everyday participation and task/environment adaptation are explained; a hand-brace photo could overemphasize one specialty.",
+    "phlebotomist": "Identification, labeling, collection and handling explain the career; procedural needle instruction is outside scope.",
+    "physical-therapist": "Movement evaluation, individualized treatment and reassessment distinguish the role; a portrait adds little information.",
+    "radiologic-technologist": "General radiography, image acquisition and interpretation boundaries are explicit; a chest image does not establish credentials.",
+    "registered-nurse": "Assessment, planning, action and evaluation are explained through a care sequence; historical shipboard imagery is unnecessary.",
+    "surgical-technologist": "Sterile field, counts, instruments and first-assistant distinctions are explained; an uninspected historical operation could obscure the role."
+  },
+  "illustrated": {
+    "athletic-trainer": "Existing inspected public-domain image; exact wheelchair-basketball/trials context and creator retained.",
+    "dental-assistant": "Existing inspected licensed training image; blood-pressure measurement context and creator retained.",
+    "emergency-medical-technician": "Existing inspected public-domain EMS image; paramedic/corpsman identities stated, not relabeled as EMTs.",
+    "medical-assistant": "Existing inspected public-domain corpsman image; shared vital-sign task and Navy identity stated.",
+    "sterile-processing-technician": "Existing inspected public-domain demonstration image; context does not claim ideal clinical PPE.",
+    "paramedic": "Verified byte-identical reuse of EMS image; actual identities, task context, credit and no-endorsement notice retained."
+  }
+}

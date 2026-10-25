@@ -1,0 +1,1244 @@
+{
+  "cases": 96,
+  "sectionInstances": 1440,
+  "fullPDFs": 48,
+  "failures": 0,
+  "results": [
+    {
+      "id": "athletic-trainer",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Athletic trainer examining a competitor's hand at a wheelchair basketball event",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/athletic-trainer.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "sterile-processing-technician",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "A medical staff member demonstrates wrapped instrument packages during a sterile-processing demonstration.",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/sterile-processing-technician.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "dental-assistant",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "A person in Wake Tech scrubs measures another person\u2019s blood pressure beside a dental chair.",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 1.4981273408239701,
+        "source": "assets/images/careers/dental-assistant.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal"
+      },
+      "fails": []
+    },
+    {
+      "id": "emergency-medical-technician",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-assistant",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Navy hospital corpsman taking a patient\u2019s temperature during an outreach clinic",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 1.5056461731493098,
+        "source": "assets/images/careers/medical-assistant.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "biochemist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biostatistician",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "cancer-registrar",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "community-health-worker",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "health-information-technologist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-records-specialist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-transcriptionist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "microbiologist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "mri-technologist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "occupational-therapist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "paramedic",
+      "surface": "simple",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 824,
+        "height": 440,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "phlebotomist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "physical-therapist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "registered-nurse",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "surgical-technologist",
+      "surface": "simple",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "athletic-trainer",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Athletic trainer examining a competitor's hand at a wheelchair basketball event",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.328125,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/athletic-trainer.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "sterile-processing-technician",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "A medical staff member demonstrates wrapped instrument packages during a sterile-processing demonstration.",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.328125,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/sterile-processing-technician.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "dental-assistant",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "A person in Wake Tech scrubs measures another person\u2019s blood pressure beside a dental chair.",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.578125,
+        "naturalRatio": 1.4981273408239701,
+        "source": "assets/images/careers/dental-assistant.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "emergency-medical-technician",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 408.09375,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-assistant",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Navy hospital corpsman taking a patient\u2019s temperature during an outreach clinic",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 200.578125,
+        "naturalRatio": 1.5056461731493098,
+        "source": "assets/images/careers/medical-assistant.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "biochemist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biostatistician",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "cancer-registrar",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "community-health-worker",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "health-information-technologist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "medical-records-specialist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "medical-transcriptionist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "microbiologist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "mri-technologist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "occupational-therapist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "paramedic",
+      "surface": "simple",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 408.09375,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "phlebotomist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "physical-therapist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "registered-nurse",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "surgical-technologist",
+      "surface": "simple",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "athletic-trainer",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Athletic trainer examining a competitor's hand at a wheelchair basketball event",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 640,
+        "height": 426.65625,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/athletic-trainer.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "sterile-processing-technician",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "A medical staff member demonstrates wrapped instrument packages during a sterile-processing demonstration.",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 640,
+        "height": 426.65625,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/sterile-processing-technician.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "dental-assistant",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "A person in Wake Tech scrubs measures another person\u2019s blood pressure beside a dental chair.",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal",
+        "fit": "contain",
+        "width": 640,
+        "height": 427.1875,
+        "naturalRatio": 1.4981273408239701,
+        "source": "assets/images/careers/dental-assistant.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal"
+      },
+      "fails": []
+    },
+    {
+      "id": "emergency-medical-technician",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 640,
+        "height": 440,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-assistant",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Navy hospital corpsman taking a patient\u2019s temperature during an outreach clinic",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 640,
+        "height": 425.0625,
+        "naturalRatio": 1.5056461731493098,
+        "source": "assets/images/careers/medical-assistant.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "biochemist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "biostatistician",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "cancer-registrar",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "community-health-worker",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "health-information-technologist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-records-specialist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-transcriptionist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "microbiologist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "mri-technologist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "occupational-therapist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "paramedic",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 640,
+        "height": 440,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 1,
+        "imageFit": "contain",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement."
+      },
+      "fails": []
+    },
+    {
+      "id": "phlebotomist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "physical-therapist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "registered-nurse",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "surgical-technologist",
+      "surface": "integrated",
+      "width": 1365,
+      "figure": null,
+      "print": {
+        "sections": 15,
+        "visible": true,
+        "draft": true,
+        "images": 0,
+        "imageFit": null
+      },
+      "fails": []
+    },
+    {
+      "id": "athletic-trainer",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Athletic trainer examining a competitor's hand at a wheelchair basketball event",
+        "caption": "An athletic trainer examines a participant\u2019s hand during wheelchair basketball at the 2012 Marine Corps Trials.\n\nPhoto: Anthony Lazzaro / U.S. Marine Corps \u00b7 Public domain (U.S. government) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.328125,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/athletic-trainer.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "sterile-processing-technician",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "A medical staff member demonstrates wrapped instrument packages during a sterile-processing demonstration.",
+        "caption": "U.S. Air Force medical personnel demonstrate central sterile processing at Incirlik Air Base, T\u00fcrkiye, on August 8, 2025.\n\nPhoto: Staff Sgt. Brieana E. Bolfing / U.S. Air Force \u00b7 Public domain in the United States (official U.S. Air Force photograph) \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.328125,
+        "naturalRatio": 1.5,
+        "source": "assets/images/careers/sterile-processing-technician.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "dental-assistant",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "A person in Wake Tech scrubs measures another person\u2019s blood pressure beside a dental chair.",
+        "caption": "Blood-pressure practice in a dental assisting training setting at Wake Technical Community College.\n\nPhoto: waketechcc / Wake Technical Community College \u00b7 CC0 1.0 Universal",
+        "fit": "contain",
+        "width": 302,
+        "height": 201.578125,
+        "naturalRatio": 1.4981273408239701,
+        "source": "assets/images/careers/dental-assistant.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "emergency-medical-technician",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "A paramedic and a Navy corpsman check ambulance equipment during a ride-along program in Twentynine Palms, California, in June 2025. Equipment readiness is also part of EMT work.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 408.09375,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "medical-assistant",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Navy hospital corpsman taking a patient\u2019s temperature during an outreach clinic",
+        "caption": "Navy hospital corpsman Philip Ganaban checks a patient\u2019s vital signs during a 2007 outreach visit in Belize. Taking vital signs is also a task in medical assisting.\n\nPhoto: Steven King / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 200.578125,
+        "naturalRatio": 1.5056461731493098,
+        "source": "assets/images/careers/medical-assistant.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "biochemist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "biostatistician",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "cancer-registrar",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "community-health-worker",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "health-information-technologist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "medical-records-specialist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "medical-transcriptionist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "microbiologist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "mri-technologist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "occupational-therapist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "paramedic",
+      "surface": "integrated",
+      "width": 390,
+      "figure": {
+        "loaded": true,
+        "alt": "Paramedic and Navy corpsman checking equipment beside an ambulance stretcher",
+        "caption": "Paramedic Anthony Estrada (right) checks ambulance equipment with Navy corpsman Jessica Sanderson during a 2025 ride-along in Twentynine Palms, California.\n\nPhoto: Christopher Jones / U.S. Navy \u00b7 Public domain in the United States: official U.S. Navy work \u00b7 U.S. government imagery does not imply endorsement.",
+        "fit": "contain",
+        "width": 302,
+        "height": 408.09375,
+        "naturalRatio": 0.74,
+        "source": "assets/images/careers/emt.webp"
+      },
+      "fails": []
+    },
+    {
+      "id": "phlebotomist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "physical-therapist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "radiologic-technologist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "registered-nurse",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    },
+    {
+      "id": "surgical-technologist",
+      "surface": "integrated",
+      "width": 390,
+      "figure": null,
+      "fails": []
+    }
+  ]
+}

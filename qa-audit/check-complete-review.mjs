@@ -1,0 +1,31 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+import {careers} from './review-24/assets/data/careers.js';
+import {fullProfiles} from './review-24/assets/data/full-profiles.js';
+import {draftProfiles} from './review-24/drafts/manifest.js';
+import {careerMedia,draftToPublicId} from './review-24/assets/data/career-integrity.js';
+import {PROFILE_SECTION_NAMES} from '../assets/data/profile-standard.js';
+import {summarizeIntroduction} from '../scripts/review-summary.mjs';
+const receipt=JSON.parse(fs.readFileSync('qa-audit/complete-review-manifest.json'));
+assert.equal(draftProfiles.length,24);assert.equal(careers.length,25);assert.equal(new Set(careers.map(c=>c.id)).size,25);
+assert.equal(receipt.illustrated.length,6);assert.equal(receipt.textOnly.length,18);assert.equal(receipt.publicationApprovals,0);
+const claimCoverage=[];let sourceCount=0;
+for(const p of draftProfiles){
+ const id=draftToPublicId[p.id]||p.id;const full=fullProfiles[id];
+ assert.deepEqual(full.sections.map(s=>s.name),PROFILE_SECTION_NAMES,p.id);
+ assert.equal(full.facts[0].value,'Unapproved');
+ const intro=full.sections[0].html.replace(/<[^>]*>/g,' ').replace(/&(?:amp|nbsp);/g,' ').replace(/\s+/g,' ').trim();
+ assert.equal(full.intro,intro,p.id);assert.equal(careers.find(c=>c.id===id).desc,summarizeIntroduction(intro),p.id);
+ assert.equal(Boolean(careerMedia[id]),receipt.illustrated.includes(p.id),p.id);
+ const sources=JSON.parse(fs.readFileSync(`content/batches/2026-10-25/${p.id}/source-records.json`));sourceCount+=sources.length;
+ const mapped=new Set(sources.flatMap(s=>s.sectionNumbers||s.sections||[]));
+ for(const n of [...Array(12)].map((_,i)=>i+1).concat(14))assert.ok(mapped.has(n),p.id+' required factual section '+n);
+ claimCoverage.push({id:p.id,sourceCount:sources.length,requiredFactualSections:'1–12 and 14 mapped',reflection: mapped.has(13)?'Mapped editorial synthesis':'Original reflection, not an empirical claim; no fabricated citation required'});
+}
+assert.equal(sourceCount,273);
+const disputed=receipt.profiles.filter(p=>['biomedical-clinical-technician','health-information-technologist','radiologic-technologist'].includes(p.id));
+assert.equal(disputed.reduce((n,p)=>n+p.sourceAppearances.length,0),4);
+assert.match(fullProfiles['biomedical-clinical-technician'].intro,/equipment service/);
+assert.match(fullProfiles['health-information-technologist'].intro,/related occupation/);
+assert.match(fullProfiles['radiologic-technologist'].intro,/Limited-scope/);
+fs.writeFileSync('qa-audit/complete-claim-coverage.json',JSON.stringify({sourceCount,sections:360,claims:claimCoverage},null,2)+'\n');
+console.log('PASS: 24 drafts, 360 sections, 273 source records; all factual sections mapped; four disputed-title appearances preserved; six verified-photo and eighteen text-only presentations.');
