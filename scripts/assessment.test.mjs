@@ -2,70 +2,78 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {careerMap} from '../assets/data/career-map.js';
-import {questions,pathways,rankCareers,pathwayScores,setAnswer,resetAssessment,assessmentState} from '../assets/js/assessment.js';
+import {careerAttributes} from '../assets/data/career-attributes.js?v=preferences-2';
+import {questions,answerOptions,pathways,rankCareers,pathwayScores,setAnswer,setExclusion,restoreEntry,resetAssessment,assessmentState,filterCareerEntries} from '../assets/js/assessment.js?v=preferences-2';
+import {assessment} from '../assets/js/views/assessment.js?v=preferences-2';
+import {state} from '../assets/js/state.js';
 const ledger=JSON.parse(fs.readFileSync(new URL('../docs/launch-careers.json',import.meta.url)));
-test('all 192 source appearances preserved across 182 exact titles',()=>{
+const hidden=(a,e=[],restored=[])=>filterCareerEntries(a,e,restored).filter(c=>c.hidden).map(c=>c.id).sort();
+test('all192 appearances and182 exact titles retained without article/wave exclusions',()=>{
  assert.equal(careerMap.length,182);assert.equal(new Set(careerMap.map(c=>c.id)).size,182);
- const pairs=careerMap.flatMap(c=>c.appearances.map(a=>a.sourceTitle+'|'+a.sourcePathway)).sort();
- assert.deepEqual(pairs,ledger.records.map(r=>r.sourceTitle+'|'+r.sourcePathway).sort());
-});
-test('pathway appearance counts, cross-listed titles and ambiguous labels retained',()=>{
+ assert.deepEqual(careerMap.flatMap(c=>c.appearances.map(a=>a.sourceTitle+'|'+a.sourcePathway)).sort(),ledger.records.map(r=>r.sourceTitle+'|'+r.sourcePathway).sort());
  assert.deepEqual(pathways.map(p=>careerMap.filter(c=>c.pathways.includes(p)).length),[54,41,42,21,34]);
  assert.equal(careerMap.filter(c=>c.pathways.length===2).length,10);assert.equal(careerMap.filter(c=>c.reviewFlags.length).length,3);
 });
-test('every source entry included for every pure-pathway preference, regardless article or wave',()=>{
- for(const path of pathways){
-  const answers=Object.fromEntries(questions.map(q=>[q.id,q.path===path?2:-1]));
-  const results=rankCareers(answers);assert.equal(results.length,182);
-  assert.deepEqual(new Set(results.map(c=>c.id)),new Set(careerMap.map(c=>c.id)));
-  const top=results.filter(c=>c.score===2);assert.deepEqual(new Set(top.map(c=>c.id)),new Set(careerMap.filter(c=>c.pathways.includes(path)).map(c=>c.id)));
- }
+test('25 distinct questions in five groups, each with neutral option',()=>{
+ assert.equal(questions.length,25);assert.equal(new Set(questions.map(q=>q.id)).size,25);
+ const counts={};for(const q of questions){counts[q.group]=(counts[q.group]||0)+1;assert.ok((q.options||answerOptions).some(([v])=>v===0));}
+ assert.deepEqual(Object.values(counts),[5,5,5,5,5]);
 });
-test('not sure and skipped are neutral, not dislike; no fabricated positive matches',()=>{
- const neutral=Object.fromEntries(questions.map(q=>[q.id,0]));
- assert.ok(rankCareers(neutral).every(c=>c.score===0&&c.reasons.length===0));
- assert.deepEqual(rankCareers({}),rankCareers(neutral));
- const negative=Object.fromEntries(questions.map(q=>[q.id,-1]));assert.ok(rankCareers(negative).every(c=>c.score===-1&&c.reasons.length===0));
+test('all skipped, unsure, or ordinary negative keeps every source entry eligible',()=>{
+ for(const value of [0,-1]){const answers=Object.fromEntries(questions.map(q=>[q.id,value]));assert.deepEqual(hidden(answers),[]);assert.equal(filterCareerEntries(answers).length,182);}
+ assert.deepEqual(hidden({}),[]);
 });
-test('multi-pathway entries use strongest pathway without duplicate boost',()=>{
- const answers={research:2,develop:2};const ranked=rankCareers(answers);
- assert.equal(ranked.find(c=>c.id==='biomedicalclinicalengineer').score,2);
- assert.ok(ranked.find(c=>c.id==='biomedicalclinicalengineer').pathways.length===2);
- assert.equal(pathwayScores(answers)[0].path,pathways[4]);
+test('blood avoidance never excludes a pathway or unverified occupational exposure',()=>{
+ assert.deepEqual(hidden({blood:-1},['blood']),['phlebotomist']);
+ for(const id of ['registerednurse','medicallaboratoryscientist','medicallaboratorytechnician','diagnosticmedicalsonographer','geneticcounselorhistotechnician'])assert.equal(filterCareerEntries({blood:-1},['blood']).find(c=>c.id===id).hidden,false);
 });
-test('changing answers changes order and reset discards all answers',()=>{
- setAnswer('care',2);setAnswer('data',-1);setAnswer('invalid',2);setAnswer('care',99);
- assert.equal(assessmentState.answers.care,2);assert.ok(!Object.hasOwn(assessmentState.answers,'invalid'));
- assert.notEqual(rankCareers({care:2,'support-patient':2})[0].matchedPath,rankCareers({research:2,develop:2})[0].matchedPath);
- resetAssessment();assert.deepEqual(assessmentState.answers,{});
+test('only explicit checked emergency exclusion hides EMT and paramedic',()=>{
+ assert.deepEqual(hidden({emergencies:-1}),[]);
+ assert.deepEqual(hidden({emergencies:-1},['emergencies']),['emergencymedicaltechnician','paramedic']);
+ assert.deepEqual(hidden({emergencies:0},['emergencies']),[]);
+ assert.deepEqual(hidden({emergencies:2},['emergencies']),[]);
 });
-
-import {filterCareerEntries,hiddenPathways} from '../assets/js/assessment.js';
-test('explicit paired dislikes hide pathway entries; uncertainty never falsely excludes',()=>{
- assert.equal(hiddenPathways({care:-1}).length,0);
- assert.equal(hiddenPathways({care:-1,'support-patient':0}).length,0);
- const rows=filterCareerEntries({care:-1,'support-patient':-1});
- assert.equal(rows.length,182);
- assert.equal(rows.find(c=>c.id==='veterinarian').hidden,true);
- assert.equal(rows.find(c=>c.id==='respiratorytherapist').hidden,false,'cross-listed diagnostic pathway keeps option open');
- assert.deepEqual(rows.find(c=>c.id==='veterinarian').hiddenReasons,['Therapeutic Services']);
+test('both exposure rules preserve all entries and allow restoring one independently',()=>{
+ const a={blood:-1,emergencies:-1},e=['blood','emergencies'];
+ assert.deepEqual(hidden(a,e),['emergencymedicaltechnician','paramedic','phlebotomist']);
+ assert.deepEqual(hidden(a,e,['paramedic']),['emergencymedicaltechnician','phlebotomist']);assert.equal(filterCareerEntries(a,e).length,182);
 });
-test('even every disliked pathway retains full inventory for reversible show-all',()=>{
- const answers=Object.fromEntries(questions.map(q=>[q.id,-1]));const rows=filterCareerEntries(answers);
- assert.equal(rows.filter(c=>c.hidden).length,182);assert.equal(rows.length,182);
- assert.equal(filterCareerEntries({}).filter(c=>!c.hidden).length,182);
+test('comfort is not enthusiasm: comfortable answers do not boost clinical careers',()=>{
+ const neutral=filterCareerEntries({}).map(c=>[c.id,c.score]);
+ assert.deepEqual(filterCareerEntries({blood:2,emergencies:2,wounds:2,positioning:2,'personal-care':2}).map(c=>[c.id,c.score]),neutral);
 });
-
-import {assessment} from '../assets/js/views/assessment.js';
-import {state} from '../assets/js/state.js';
-test('progress describes completion, including neutral skips, without claiming answers',()=>{
- const oldPage=state.page,oldId=state.id;
- try {
-  state.page='assessment';state.id='results';resetAssessment();
-  assert.match(assessment(),/0 of 10 questions completed \(including any skipped\)/);
-  for(const q of questions)setAnswer(q.id,0);
-  const html=assessment();
-  assert.match(html,/10 of 10 questions completed \(including any skipped\)/);
-  assert.doesNotMatch(html,/questions answered/);
- } finally {resetAssessment();state.page=oldPage;state.id=oldId;}
+test('unmapped workday preferences do not invent career-level fit',()=>{
+ assert.deepEqual(rankCareers({team:2,pace:-1,variety:2,focus:2,location:-1}),rankCareers({}));
+});
+test('ordinary comfort avoidance only lowers documented regular duties, unknown stays unchanged',()=>{
+ const a=filterCareerEntries({}),b=filterCareerEntries({blood:-1});
+ assert.ok(b.find(c=>c.id==='phlebotomist').score<a.find(c=>c.id==='phlebotomist').score);
+ assert.equal(b.find(c=>c.id==='registerednurse').score,a.find(c=>c.id==='registerednurse').score);
+ assert.equal(b.find(c=>c.id==='medicallaboratoryscientist').score,a.find(c=>c.id==='medicallaboratoryscientist').score);
+});
+test('animal preference supports veterinary care, not inferred animal research',()=>{
+ const rows=rankCareers({animals:2});assert.ok(rows.find(c=>c.id==='veterinarian').interestMatches.length);
+ assert.ok(rows.find(c=>c.id==='veterinariantechnician').interestMatches.length);
+ assert.equal(rows.find(c=>c.id==='laboratoryassistantgenetics').interestMatches.length,0);
+});
+test('multi-pathway roles use strongest normalized pathway without duplicate boost',()=>{
+ const a={experiment:2,invent:2,evidence:2,make:2};const scores=pathwayScores(a);const c=rankCareers(a).find(c=>c.id==='biomedicalclinicalengineer');
+ assert.equal(c.score,Math.max(...scores.filter(s=>c.pathways.includes(s.path)).map(s=>s.score)));
+ assert.equal(rankCareers(a).filter(x=>x.id===c.id).length,1);
+});
+test('each source-confirmed attribute has provenance and no phantom inventory ID',()=>{
+ for(const [id,attrs] of Object.entries(careerAttributes)){assert.ok(careerMap.some(c=>c.id===id));for(const e of Object.values(attrs)){assert.ok(['core','regular','setting-dependent','unknown'].includes(e.status));assert.match(e.source,/^https:\/\/www\.bls\.gov\//);assert.ok(e.reviewedAt&&e.explanation);}}
+});
+test('optional exclusions start unchecked and clear when preference changes',()=>{
+ resetAssessment();setAnswer('blood',-1);assert.deepEqual(assessmentState.exclusions,[]);setExclusion('blood',true);assert.deepEqual(assessmentState.exclusions,['blood']);
+ restoreEntry('phlebotomist');assert.deepEqual(assessmentState.restoredIds,['phlebotomist']);
+ setAnswer('blood',0);assert.deepEqual(assessmentState.exclusions,[]);setExclusion('blood',true);assert.deepEqual(assessmentState.exclusions,[]);
+ setAnswer('invalid',2);setAnswer('blood',99);assert.equal(assessmentState.answers.blood,0);resetAssessment();assert.deepEqual(assessmentState.restoredIds,[]);
+});
+test('progress is dynamic and includes skips without claiming they were answers',()=>{
+ const old={page:state.page,id:state.id};try{state.page='assessment';state.id='results';resetAssessment();assert.match(assessment(),/0 of 25 questions completed/);questions.forEach(q=>setAnswer(q.id,0));assert.match(assessment(),/25 of 25 questions completed \(including any skipped\)/);assert.doesNotMatch(assessment(),/questions answered/);}finally{resetAssessment();Object.assign(state,old);}
+});
+test('entry and changed assessment modules use one release version',()=>{
+ const root=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');assert.match(root,/app\.js\?v=preferences-2/);
+ for(const f of ['app.js','views/assessment.js'])assert.match(fs.readFileSync(new URL('../assets/js/'+f,import.meta.url),'utf8'),/assessment\.js\?v=preferences-2/);
 });

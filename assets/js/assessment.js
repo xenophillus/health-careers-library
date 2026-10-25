@@ -1,35 +1,48 @@
 import {careerMap} from '../data/career-map.js';
 export const pathways=['Therapeutic Services','Diagnostic Services','Health Informatics','Support Services','Biotechnology Research and Development'];
-export const questions=[
- {id:'care',path:pathways[0],title:'Help people or animals recover and stay well',detail:'Think about taking part in treatment, rehabilitation, or ongoing care.',reason:'treatment and recovery'},
- {id:'support-patient',path:pathways[0],title:'Work directly with people receiving care',detail:'Think about listening, explaining, and helping someone through a care plan.',reason:'direct care and communication'},
- {id:'investigate',path:pathways[1],title:'Gather evidence to help understand a health problem',detail:'Think about images, samples, measurements, or test results.',reason:'investigating health problems'},
- {id:'precise',path:pathways[1],title:'Use precise tools to observe and measure',detail:'Think about careful testing, checking results, and noticing details.',reason:'precise observations and testing'},
- {id:'information',path:pathways[2],title:'Organize information so others can use it',detail:'Think about health records, documentation, coding, or information systems.',reason:'organizing health information'},
- {id:'data',path:pathways[2],title:'Use data and technology to improve decisions',detail:'Think about finding patterns, improving information quality, or protecting records.',reason:'health data and information systems'},
- {id:'operations',path:pathways[3],title:'Keep healthcare services running smoothly',detail:'Think about equipment, supplies, facilities, food services, or daily operations.',reason:'supporting healthcare operations'},
- {id:'safe',path:pathways[3],title:'Make healthcare environments safe and dependable',detail:'Think about checking systems, solving practical problems, and supporting the care team.',reason:'safe and dependable environments'},
- {id:'research',path:pathways[4],title:'Explore scientific questions and new possibilities',detail:'Think about experiments, biological processes, or investigating how something works.',reason:'scientific research'},
- {id:'develop',path:pathways[4],title:'Develop and test new healthcare solutions',detail:'Think about improving a product, device, process, or scientific technique.',reason:'developing and testing new solutions'}
-];
-export const answerOptions=[[-1,'Not for me right now'],[0,'Not sure yet'],[1,'Interested'],[2,'Very interested']];
+import {questions,answerOptions} from '../data/assessment-questions.js?v=preferences-2';
+import {careerAttributes} from '../data/career-attributes.js?v=preferences-2';
+export {questions,answerOptions};
 // Memory only: refreshing clears answers. No accounts, answer storage, requests or analytics.
-export const assessmentState={answers:{},query:'',path:'all',page:0,showHidden:false};
-export function setAnswer(id,value){if(questions.some(q=>q.id===id)&&[-1,0,1,2].includes(value))assessmentState.answers[id]=value;}
-export function resetAssessment(){Object.assign(assessmentState,{answers:{},query:'',path:'all',page:0,showHidden:false});}
+export const assessmentState={answers:{},exclusions:[],restoredIds:[],query:'',path:'all',page:0,showHidden:false};
+export function setAnswer(id,value){
+ const q=questions.find(q=>q.id===id);
+ if(q&&(q.options||answerOptions).some(([v])=>v===value)){
+  assessmentState.answers[id]=value;
+  if(q.exclusionLabel&&value!==-1)assessmentState.exclusions=assessmentState.exclusions.filter(x=>x!==q.attribute);
+ }
+}
+export function setExclusion(attribute,enabled){
+ const q=questions.find(q=>q.attribute===attribute&&q.exclusionLabel);
+ assessmentState.exclusions=assessmentState.exclusions.filter(x=>x!==attribute);
+ if(q&&enabled&&assessmentState.answers[q.id]===-1){assessmentState.exclusions.push(attribute);assessmentState.restoredIds=assessmentState.restoredIds.filter(id=>!careerAttributes[id]?.[attribute]);}
+}
+export function restoreEntry(id){if(careerMap.some(c=>c.id===id)&&!assessmentState.restoredIds.includes(id))assessmentState.restoredIds.push(id);}
+export function resetAssessment(){Object.assign(assessmentState,{answers:{},exclusions:[],restoredIds:[],query:'',path:'all',page:0,showHidden:false});}
 export function pathwayScores(answers){return pathways.map(path=>{
- const qs=questions.filter(q=>q.path===path);
- return {path,score:qs.reduce((sum,q)=>sum+([-1,0,1,2].includes(answers[q.id])?answers[q.id]:0),0)/qs.length,
+ const qs=questions.filter(q=>q.weights?.[path]);
+ const total=qs.reduce((n,q)=>n+q.weights[path],0);
+ return {path,score:total?qs.reduce((sum,q)=>sum+q.weights[path]*([-1,0,1,2].includes(answers[q.id])?answers[q.id]:0),0)/total:0,
  reasons:qs.filter(q=>answers[q.id]>0).map(q=>q.reason),tradeoffs:qs.filter(q=>answers[q.id]===-1).map(q=>q.reason)};
 }).sort((a,b)=>b.score-a.score||a.path.localeCompare(b.path));}
 export function rankCareers(answers){
  const scores=pathwayScores(answers);
- return careerMap.map(c=>{const best=scores.find(s=>c.pathways.includes(s.path));return {...c,score:best.score,matchedPath:best.path,reasons:best.reasons,tradeoffs:best.tradeoffs};})
+ return careerMap.map(c=>{const best=scores.find(s=>c.pathways.includes(s.path));const interestMatches=questions.filter(q=>q.matching==='interest'&&careerAttributes[c.id]?.[q.attribute]&&answers[q.id]>0).map(q=>careerAttributes[c.id][q.attribute]);
+ const interestAdjustment=questions.filter(q=>q.matching==='interest'&&['core','regular'].includes(careerAttributes[c.id]?.[q.attribute]?.status)).reduce((sum,q)=>sum+([-1,1,2].includes(answers[q.id])?answers[q.id]*0.5:0),0);
+ return {...c,score:best.score+interestAdjustment,matchedPath:best.path,reasons:best.reasons,tradeoffs:best.tradeoffs,interestMatches};})
  .sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title));
 }
-// Conservative, reversible pathway filtering: partial/uncertain answers never exclude.
-export function hiddenPathways(answers){return pathways.filter(path=>questions.filter(q=>q.path===path).every(q=>answers[q.id]===-1));}
-export function filterCareerEntries(answers){
- const hidden=hiddenPathways(answers);
- return rankCareers(answers).map(c=>({...c,hidden:c.pathways.every(path=>hidden.includes(path)),hiddenReasons:c.pathways.filter(path=>hidden.includes(path))}));
+export function avoidancePreferences(answers,exclusions=[]){return questions.filter(q=>q.matching==='comfort'&&answers[q.id]===-1).map(q=>({...q,mustAvoid:!!q.exclusionLabel&&exclusions.includes(q.attribute)}));}
+export function filterCareerEntries(answers,exclusions=[],restoredIds=[]){
+ const preferences=avoidancePreferences(answers,exclusions);
+ return rankCareers(answers).map(c=>{
+  const evidence=careerAttributes[c.id]||{};
+  const known=preferences.filter(q=>['core','regular'].includes(evidence[q.attribute]?.status));
+  const hidden=known.filter(q=>q.mustAvoid).map(q=>({attribute:q.attribute,...evidence[q.attribute]}));
+  const cautions=known.filter(q=>!q.mustAvoid).map(q=>({attribute:q.attribute,...evidence[q.attribute]}));
+  const settingNotes=preferences.filter(q=>evidence[q.attribute]?.status==='setting-dependent').map(q=>evidence[q.attribute]);
+  return {...c,hidden:hidden.length>0&&!restoredIds.includes(c.id),restored:hidden.length>0&&restoredIds.includes(c.id),hiddenReasons:hidden.map(x=>x.label),exclusions:hidden,cautions,settingNotes,
+   unknownPreferences:preferences.filter(q=>!['core','regular'].includes(evidence[q.attribute]?.status)).map(q=>q.attributeLabel),
+   score:c.score-cautions.length*0.5};
+ }).sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title));
 }
