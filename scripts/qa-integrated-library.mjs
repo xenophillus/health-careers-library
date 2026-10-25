@@ -32,6 +32,10 @@ try{
    note(tag+' one EMT listing',labels.filter(n=>n==='Emergency Medical Technician').length===1);
    note(tag+' no false zero-year/zero-salary placeholders',!(await page.locator('#results').innerText()).includes('$0')&&!(await page.locator('#results').innerText()).includes('~0 years'));
    note(tag+' no horizontal overflow',await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+2));
+   const photos=page.locator('.career-photo');
+   note(tag+' six career photographs present',await photos.count()===6);
+   note(tag+' career photographs load',await photos.evaluateAll(images=>images.every(image=>image.complete&&image.naturalWidth>0)));
+
    for(const draft of draftProfiles){
     const id=draftToPublicId[draft.id]||draft.id;
     await page.evaluate(id=>window.route('profile',id),id);
