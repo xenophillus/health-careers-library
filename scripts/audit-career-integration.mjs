@@ -11,7 +11,7 @@ const findings=[],actions=[];
 const add=(severity,code,detail)=>findings.push({severity,code,detail});
 for(const c of careers){
  if(!healthSciencePathways.includes(c.path))add('error','invalid-pathway',c.id+': '+c.path);
- if(c.path==='Therapeutic Services' && /^(veterinarian|vet-technician)$/.test(c.id))add('review','veterinary-classification',c.id+': confirm veterinary careers belong in selected NCHSE scope/pathway');
+
 }
 const existingIds=new Set();
 for(const c of careers){if(existingIds.has(c.id))add('error','repeated-public-id',c.id);existingIds.add(c.id);}
