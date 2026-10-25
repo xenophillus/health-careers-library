@@ -15,3 +15,11 @@ Validation on this exact development-based checkout:
 - Independent read-only review:75 source sections match both generated module copies; all image/input hashes match; exactly5 source folders and manifests; preview-root relative paths valid; original EMT ambulance icon preserved.
 
 No automatic publication approval follows from these checks. The existing manual Sheet sync can replace simple-preview modules; reconcile canonical content and regenerate the integrated preview before running it. Existing short intro excerpts are preserved. Live established-alias status is verified after the ordinary development-branch deployment; this document does not claim a protected browser verification or authorize a temporary share link.
+
+## Consolidated live-review repairs
+
+- Card summaries now stop at a sentence or word boundary and show an ellipsis when shortened. All five integrated profile headers retain the complete overview introduction.
+- Adjacent numbered bibliography entries separated by blank lines now form one ordered list. EMT and Medical Assistant no longer restart every reference at 1. Existing source text and links are unchanged; Sterile Processing retains its authored unordered bibliography.
+- Article media is deliberately contextual: select **Duties and Responsibilities**, then scroll below the duties prose. Both simple and integrated readers display the verified image, caption, attribution, license link, and applicable no-endorsement notice there. Overview does not show a hero image. Full-article print includes that image and all 15 sections.
+- Regression checks cover all five full introductions, readable card boundaries, bibliography list continuity and link preservation. Chromium checks cover desktop/mobile, both readers, all 15 tabs, loaded contextual images and credits, and full PDF output with draft labels.
+- Root production assets and index remain unchanged. This is a draft-review repair; no publication approval or canonical Sheet synchronization is implied.
