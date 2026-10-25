@@ -21,3 +21,10 @@ export const draftPathways = Object.freeze({
 // Approved media must use a repository-relative image and documented rights.
 // Empty catalog intentionally falls back to existing emoji until licensed images are added.
 export const careerMedia = Object.freeze({});
+
+// Approved visual associations for incoming profiles.
+export const careerEmoji = Object.freeze({
+  'athletic-trainer': '🏈',
+  'medical-assistant': '📋',
+  'sonographer': '🖥️'
+});
