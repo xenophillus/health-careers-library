@@ -2,6 +2,9 @@
 
 **Status: Development only. Publication has not been authorized by this document.**
 
+## Revised-only development catalog
+The development library contains the five full editorial drafts and the revised Sonographer model. Eleven original trial-only listings are excluded. The public main branch stays unchanged until publication approval.
+
 ## Existing versus incoming
 | Incoming article | Canonical public ID | Action | NCHSE pathway |
 |---|---|---|---|
