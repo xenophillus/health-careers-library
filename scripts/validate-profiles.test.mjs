@@ -10,7 +10,7 @@ const makeProfile = () => ({
   tags: ['Care'],
   facts: [{ label: 'Pathway', value: 'Therapeutic Services' }],
   sections: PROFILE_SECTION_NAMES.map((name, i) => ({
-    id: `section-${i}`, name, html: i === 13
+    id: `section-${i}`, name, html: i === 14
       ? '<ol><li><a href="https://www.bls.gov/">BLS</a></li></ol>'
       : '<p>Career-specific research will be inserted here.</p>'
   }))
@@ -18,7 +18,7 @@ const makeProfile = () => ({
 test('accepts the complete standard', () => assert.deepEqual(validateProfiles({ sample: makeProfile() }, career), []));
 test('rejects a missing tab', () => {
   const p = makeProfile(); p.sections.splice(4, 1);
-  assert.ok(validateProfiles({ sample: p }, career).some(e => e.includes('expected 14')));
+  assert.ok(validateProfiles({ sample: p }, career).some(e => e.includes('expected 15')));
 });
 test('rejects a renamed tab', () => {
   const p = makeProfile(); p.sections[1].name = 'Other Duties';
