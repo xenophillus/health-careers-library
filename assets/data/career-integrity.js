@@ -25,6 +25,8 @@ export const careerMedia = Object.freeze({});
 // Approved visual associations for incoming profiles.
 export const careerEmoji = Object.freeze({
   'athletic-trainer': '🏈',
+  'dental-assistant': '🦷',
+  'sterile-processing-technician': '🧼',
   'medical-assistant': '📋',
   'sonographer': '🖥️'
 });
