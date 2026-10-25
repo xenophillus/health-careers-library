@@ -19,3 +19,6 @@ The prepared articles use the requested current 15-section editorial standard: P
 Each article directory contains editable `sections.json`, a readable `article.md`, exact-title metadata, source records, image evidence, and author QA. Run `python3 content/prepare_bounded20.py` from the repository root to regenerate this batch’s prepared outputs. The script performs local preparation only.
 
 Before integration, reconcile any overlapping work from the original content task, re-read live canonical IDs and content, compare source/media records, and complete remaining reviews. Do not blindly append the prepared rows. No canonical writes, runtime/assessment changes, article registration, approval changes, merges, or deployments are included. No personal email is used.
+
+
+Follow-up: [source/render checkpoint](source-render-checkpoint.json) and [parent image review](parent-image-review-update.json) supersede initial source, image and rendering statuses. Standalone review is [review.html](review.html). Further image candidates are in the four image-search JSON files. Next20 IDs are reserved only; no new authoring or remote writes.

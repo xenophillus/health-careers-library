@@ -15,3 +15,6 @@ Branch: `content/bounded-20-profiles`, based on main `23161b6cf3c815a45d2318f609
 All changes are additive under `content/`; no canonical Sheet, runtime, assessment, approval flags, registration, merge or deployment changed. No email used. No remote branch or draft PR was opened: existing repository automation creates deployment previews, and deployment was excluded from this task. A local draft description is provided in [DRAFT_PR.md](DRAFT_PR.md).
 
 The portable Git bundle and patch are returned separately with the final commit. Parent can fetch the bundle into a review ref, inspect the content-only commit, and cherry-pick after duplicate reconciliation. Before any canonical integration, read live IDs/rows/content and preserve concurrent edits. The CSV files are proposals, not append instructions or write receipts. Complete remaining image/source and rendered review before student publication; full library work beyond these 20 titles remains outstanding.
+
+
+Follow-up: [source/render checkpoint](source-render-checkpoint.json) and [parent image review](parent-image-review-update.json) supersede initial source, image and rendering statuses. Standalone review is [review.html](review.html). Further image candidates are in the four image-search JSON files. Next20 IDs are reserved only; no new authoring or remote writes.

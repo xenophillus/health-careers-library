@@ -1,0 +1,23 @@
+{
+  "scope": "In-memory rendering of self-authored standalone editorial HTML; no browser filesystem navigation, production runtime or deployment",
+  "fileNavigationAttempt": "file URL blocked by browser policy; not retried",
+  "checks": [
+    {
+      "viewport": 1440,
+      "articles": 20,
+      "sections": 300,
+      "all20NavigationTargets": "pass",
+      "horizontalOverflow": false
+    },
+    {
+      "viewport": 375,
+      "articles": 20,
+      "sections": 300,
+      "all20NavigationTargets": "pass",
+      "horizontalOverflow": false
+    }
+  ],
+  "externalRequests": [],
+  "consoleErrors": [],
+  "printCss": "Navigation hidden; print styles applied. Full pagination not manually inspected."
+}

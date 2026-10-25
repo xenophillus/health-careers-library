@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-25",
+  "evidenceOrigin": "Parent delegated cloud-browser QA report in this conversation; not local pixel acquisition",
+  "profiles": [
+    {
+      "sourceKey": "dentalhygienist",
+      "disposition": "Suitable",
+      "finding": "2024 Wake Tech simulated lesson: learner works on dental mannequin beside instructor. CC0/Flickr review confirmed.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "disposition": "Suitable with honest posed caption",
+      "finding": "2019 posed laboratory portrait; CC BY4.0 verified. Do not imply an active experiment.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "dentist",
+      "disposition": "Suitable with context",
+      "finding": "Clear image; retain2009 military context.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "disposition": "Suitable historical training only",
+      "finding": "Clear1998 training image; parent worker checking newer2019 alternative. Do not duplicate.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "pharmacist",
+      "disposition": "Qualified provenance",
+      "finding": "Pixels inspected; Commons image-specific public-domain statement. Original NCI verification unavailable; primary provenance not cleared.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "disposition": "Replacement suitable with month/year caption",
+      "finding": "DVIDS9364294: named medical laboratory scientist JoeMidiri pipetting; parent verified actual pixels and public-domain rights. CaptionOctober2025; original login-required, not acquired.",
+      "publicationApprovalChanged": false
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "disposition": "Hold; replacement search authorized",
+      "finding": "Pixels inspected; weak source provenance and small resolution. New official-source replacement search underway.",
+      "publicationApprovalChanged": false
+    }
+  ],
+  "pending": "Exact remaining caption/credit handoff from parent; new RT public-domain candidate8725814 awaiting visual check.",
+  "imagesInspectedByParent": 8,
+  "profilesWithPixelReview": 7
+}
