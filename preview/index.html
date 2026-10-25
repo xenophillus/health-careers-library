@@ -56,7 +56,7 @@ async function selectCareer(id){
  try{
   const module=await import('./drafts/'+encodeURIComponent(id)+'.js');
   if(current!==revision)return;
-  if(!Array.isArray(module.sections)||module.sections.length!==14)throw Error('Expected 14 career sections.');
+  if(!Array.isArray(module.sections)||module.sections.length!==15)throw Error('Expected 15 career sections.');
   const sections=module.sections;
   sections.forEach((section,i)=>{
    const button=document.createElement('button');button.type='button';
