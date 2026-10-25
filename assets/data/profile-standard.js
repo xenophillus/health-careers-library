@@ -14,5 +14,6 @@ export const PROFILE_SECTION_NAMES = Object.freeze([
   'Benefits and Challenges of the Career',
   'Career Connections and Related Occupations',
   'Could This Career Interest You?',
+  'Professional Associations',
   'Bibliography & Sources'
 ]);
