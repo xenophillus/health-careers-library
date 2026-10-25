@@ -270,3 +270,8 @@ body{background:#fff}
 @media(max-width:700px){.hero-career-grid{min-height:340px;grid-template-rows:repeat(2,minmax(145px,1fr))}.hero-careers{padding:12px}.hero-career-caption strong{font-size:12px}.hero-career-main .hero-career-caption strong{font-size:15px}}
 @media(max-width:390px){.hero-career-grid{grid-template-columns:1fr;grid-template-rows:repeat(3,185px)}.hero-career-main{grid-row:auto}.hero-career button{min-height:185px}}
 @media(prefers-reduced-motion:reduce){.hero-career img{transition:none}.hero-career button:hover img{transform:none}}
+
+/* Approved profession imagery; cards remain legible with emoji fallback. */
+.career-photo{width:100%;max-height:170px;aspect-ratio:16/9;object-fit:cover;display:block;border-radius:13px;background:#eaf2f1}
+.profile-career-photo{width:100%;max-height:340px;aspect-ratio:16/9;object-fit:cover;border-radius:16px;margin:1rem 0 1.4rem;background:#eaf2f1}
+@media print{.career-photo,.profile-career-photo{max-height:160px}}
