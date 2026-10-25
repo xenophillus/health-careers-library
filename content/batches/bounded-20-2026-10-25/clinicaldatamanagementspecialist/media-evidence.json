@@ -1,6 +1,6 @@
 {
   "reviewDate": "2026-10-25",
-  "status": "missing_verified_image",
+  "status": "Deliberate text-only; reviewed candidate held",
   "selectedImage": null,
   "authenticOccupationalPhotoIncluded": false,
   "licenseVerification": "No selected image license cleared",
@@ -21,5 +21,8 @@
       "decision": "Not selected"
     }
   ],
-  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft.",
+  "decision": "HOLD_TEXT_ONLY",
+  "reason": "Primary authorship/official-duty provenance unestablished; dense historical diagram unsuitable.",
+  "nextAction": "No image required for this profile."
 }

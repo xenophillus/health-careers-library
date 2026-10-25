@@ -1,18 +1,35 @@
 {
-  "reviewDate": "2026-10-25",
-  "status": "missing_verified_image",
-  "selectedImage": null,
-  "authenticOccupationalPhotoIncluded": false,
-  "licenseVerification": "No selected image license cleared",
-  "pixelVerification": "No image pixels acquired or visually verified",
-  "attempts": [
-    {
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Mike_Enzi",
-      "result": "Search found a 2005 bill-signing photograph related to patient navigation legislation, not navigator duties.",
-      "licenseStatus": "Not checked because irrelevant",
-      "pixelStatus": "Not downloaded; rejected from description",
-      "decision": "Not selected"
-    }
-  ],
-  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+  "sourceKey": "patientnavigator",
+  "sourceUrl": "https://www.dvidshub.net/image/9940972/mcc-nurse-navigators",
+  "publicImageUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9940972/1000w_q95.jpg",
+  "credit": "Ricardo J. Reyes / Walter Reed National Military Medical Center",
+  "license": "Public domain in the United States",
+  "rightsUrl": "https://www.dvidshub.net/about/copyright",
+  "caption": "Nurse navigator Karrie Hilton reviews patient-education materials with a coworker in a posed scene at Walter Reed, September 15, 2026. No patients were photographed. This is an example of nurse navigation; not all patient navigators are nurses.",
+  "alt": "A nurse navigator holds printed education materials while discussing them with a seated coworker.",
+  "decision": "PASS",
+  "verification": "Actual pixels and image-specific source/license inspected by parent cloud-browser QA worker; exact metadata supplied in delegated task.",
+  "originalDownloadObtained": false,
+  "placement": "Standalone illustrated review figure; preserve full composition, no crop",
+  "nonEndorsement": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "reuseLimits": "Educational public-release context only; no additional patient consent, model release, credentials or endorsement inferred.",
+  "photographerProfileName": "Ricardo Reyes-Guevara",
+  "priorEvidence": {
+    "reviewDate": "2026-10-25",
+    "status": "missing_verified_image",
+    "selectedImage": null,
+    "authenticOccupationalPhotoIncluded": false,
+    "licenseVerification": "No selected image license cleared",
+    "pixelVerification": "No image pixels acquired or visually verified",
+    "attempts": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Mike_Enzi",
+        "result": "Search found a 2005 bill-signing photograph related to patient navigation legislation, not navigator duties.",
+        "licenseStatus": "Not checked because irrelevant",
+        "pixelStatus": "Not downloaded; rejected from description",
+        "decision": "Not selected"
+      }
+    ],
+    "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft."
+  }
 }

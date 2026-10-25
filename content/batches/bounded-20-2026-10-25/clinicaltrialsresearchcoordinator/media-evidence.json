@@ -1,6 +1,23 @@
 {
-  "status": "missing",
-  "verifiedDate": "2026-10-25",
-  "reason": "No occupation-specific authentic image with verified license and visually inspected pixels selected. No unverified or AI-generated image inserted.",
-  "assets": []
+  "sourceKey": "clinicaltrialsresearchcoordinator",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clinical_Trial_Admissions_Coordinator_with_Study_Volunteer_(45116549061).jpg",
+  "publicImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Clinical_Trial_Admissions_Coordinator_with_Study_Volunteer_%2845116549061%29.jpg",
+  "credit": "NIAID",
+  "license": "CC BY 2.0",
+  "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "caption": "An NIAID clinical-trial admissions coordinator collects information from a study volunteer to create a medical record, 2018.",
+  "alt": "An admissions coordinator leans across a desk to point at paperwork while a seated study volunteer holds a pen.",
+  "decision": "PASS",
+  "verification": "Actual pixels and image-specific source/license inspected by parent cloud-browser QA worker; exact metadata supplied in delegated task.",
+  "originalDownloadObtained": false,
+  "placement": "Standalone illustrated review figure; preserve full composition, no crop",
+  "nonEndorsement": "",
+  "reuseLimits": "Educational public-release context only; no additional patient consent, model release, credentials or endorsement inferred.",
+  "provenanceLimit": "Commons archived Flickr license review verified; original Flickr now 404. No current primary Flickr verification claimed.",
+  "priorEvidence": {
+    "status": "missing",
+    "verifiedDate": "2026-10-25",
+    "reason": "No occupation-specific authentic image with verified license and visually inspected pixels selected. No unverified or AI-generated image inserted.",
+    "assets": []
+  }
 }

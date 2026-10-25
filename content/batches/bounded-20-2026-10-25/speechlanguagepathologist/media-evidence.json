@@ -1,5 +1,5 @@
 {
-  "status": "missing_verified_image",
+  "status": "Deliberate text-only; reviewed candidate held",
   "checkedDate": "2026-10-25",
   "imageIncluded": false,
   "pixelsObtained": false,
@@ -20,5 +20,8 @@
     "Obtain and inspect actual pixels",
     "Verify original image-specific provenance and suitability",
     "Write accurate final caption, alt text and attribution after visual review"
-  ]
+  ],
+  "decision": "HOLD_TEXT_ONLY",
+  "reason": "Actual image shows assessment toys only, no person; source caption does not match visible subject.",
+  "nextAction": "No image required for this profile."
 }

@@ -1,6 +1,8 @@
 {
-  "status": "missing",
+  "status": "Deliberate text-only; reviewed candidate held",
   "verifiedDate": "2026-10-25",
-  "reason": "No occupation-specific authentic image with verified license and visually inspected pixels selected. No unverified or AI-generated image inserted.",
-  "assets": []
+  "reason": "1960s government chemist is not a suitable modern regulatory-affairs occupational image.",
+  "assets": [],
+  "decision": "HOLD_TEXT_ONLY",
+  "nextAction": "No image required for this profile."
 }
