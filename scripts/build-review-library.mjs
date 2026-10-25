@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {pathToFileURL} from 'node:url';
-import {careers as trialCareers} from '../assets/data/careers.js';
+import {careers as revisedCareers} from '../assets/data/careers.js';
 import {draftProfiles} from '../preview/drafts/manifest.js';
 import {draftToPublicId,draftPathways,careerEmoji} from '../assets/data/career-integrity.js';
 
@@ -13,7 +13,7 @@ fs.cpSync(path.join(root,'assets'),destination,{recursive:true,force:true});
 fs.mkdirSync(path.join(destination,'data/drafts'),{recursive:true});
 const copyDraft=(id)=>fs.copyFileSync(path.join(root,'preview/drafts',id+'.js'),path.join(destination,'data/drafts',id+'.js'));
 const clean=s=>s.replace(/<[^>]*>/g,' ').replace(/&(?:amp|nbsp);/g,' ').replace(/\s+/g,' ').trim();
-const careers=structuredClone(trialCareers);
+const careers=structuredClone(revisedCareers);
 const ids=new Set(careers.map(c=>c.id));
 const aliases=new Map();
 const info=[];
