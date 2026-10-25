@@ -1,3 +1,4 @@
+import { careers } from '../data/careers.js';
 import { state } from './state.js';
 import { $, money } from './dom.js';
 import { setCount, toggleFav as updateFavorite } from './favorites.js';
@@ -52,6 +53,10 @@ function resetFilters(){
   render()
 }
 function render(){
+  if(state.page==='profile'&&!careers.some(c=>c.id===state.id)){
+    state.page='library';state.id=null;state.section='overview';
+    history.replaceState(null,'','#library');
+  }
   const app=$('app');
   app.innerHTML=state.page==='home'?home():state.page==='profile'?profile():library();
   navActive();
@@ -71,6 +76,7 @@ window.addEventListener('hashchange',()=>{
   if(['home','library','favorites','profile'].includes(h[0])&&(h[0]!==state.page||h[1]!==state.id)){
     state.page=h[0];
     state.id=h[1]||null;
+    state.section='overview';
     render()
   }
 })
