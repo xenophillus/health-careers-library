@@ -1,0 +1,36 @@
+{
+  "basis": "Repository proposals based on 8638950; not canonical Sheet synchronization",
+  "publicationApprovals": 0,
+  "profiles": [
+    {
+      "id": "athletic-trainer",
+      "sectionsSha256": "05dad04599ae84580288476dace0bebede481bebd15a6d142bab6599f4a1f418",
+      "imageSha256": "10096ef7b85149b8a64d8d4a6d4fb6586f55238675647255b0592bd8d87c4eb9",
+      "evidencePath": "content/batches/2026-10-25/athletic-trainer/media.json"
+    },
+    {
+      "id": "sterile-processing-technician",
+      "sectionsSha256": "c2fea215a7a09e64d4e0bbeb73f6e28accc98387f5ff48ee6fb20a099d946714",
+      "imageSha256": "4e8f9247eb4faf8916f3dec4f58a57c752abeb247ddc06a3339787cad14210d7",
+      "evidencePath": "content/batches/2026-10-25/sterile-processing-technician/media-evidence.json"
+    },
+    {
+      "id": "dental-assistant",
+      "sectionsSha256": "c980bffdfbd86bbe58546e90f81f35ef8b455039717d0f7f73bf48e7b9c99d8f",
+      "imageSha256": "cfa1e8404a9fc5e8b0a66d07a115f5d6d2a109907f28f1e5851c815d55c41646",
+      "evidencePath": "content/batches/2026-10-25/dental-assistant/media-evidence.json"
+    },
+    {
+      "id": "emergency-medical-technician",
+      "sectionsSha256": "a9639814dd853614fbcb86096e63e9a4571238df469ce1344bac049e3df5ae0e",
+      "imageSha256": "3b8d575767344f4a26cb56aecb67ef1301397a50d570b399a34e30eee8bb7d20",
+      "evidencePath": "content/batches/2026-10-25/emergency-medical-technician/media-review.json"
+    },
+    {
+      "id": "medical-assistant",
+      "sectionsSha256": "d4558acdc3b5cd220895d2f7912281d3c6e44d4a0633c9eaeb600d38502b4b0f",
+      "imageSha256": "ef8dcd29507ac231dafa5687c0c472e6e3b529bbf6bc47f414dfe5cd9b9daca7",
+      "evidencePath": "content/batches/2026-10-25/medical-assistant/media-review.json"
+    }
+  ]
+}
