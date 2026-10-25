@@ -10,6 +10,14 @@ export const healthSciencePathways = Object.freeze([
   'Support Services',
   'Biotechnology Research and Development'
 ]);
+// Editorial draft pathways based on NCHSE Health Science Career Specialties (May 2024).
+export const draftPathways = Object.freeze({
+  'athletic-trainer': 'Therapeutic Services',
+  'dental-assistant': 'Therapeutic Services',
+  'medical-assistant': 'Therapeutic Services',
+  'emergency-medical-technician': 'Therapeutic Services',
+  'sterile-processing-technician': 'Support Services'
+});
 // Approved media must use a repository-relative image and documented rights.
 // Empty catalog intentionally falls back to existing emoji until licensed images are added.
 export const careerMedia = Object.freeze({});
