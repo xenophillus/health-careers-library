@@ -3,6 +3,13 @@ on:
   pull_request:
     paths:
       - 'assets/data/**'
+      - 'preview/**'
+      - 'content/batches/**'
+      - 'scripts/build-prepared-review.mjs'
+      - 'scripts/build-review-library.mjs'
+      - 'scripts/review-summary*'
+      - 'scripts/review-media.mjs'
+      - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
       - 'scripts/check-draft-isolation.mjs'
@@ -11,6 +18,13 @@ on:
     branches: [main, development/library-launch-build]
     paths:
       - 'assets/data/**'
+      - 'preview/**'
+      - 'content/batches/**'
+      - 'scripts/build-prepared-review.mjs'
+      - 'scripts/build-review-library.mjs'
+      - 'scripts/review-summary*'
+      - 'scripts/review-media.mjs'
+      - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
       - 'scripts/import-profile*'
       - 'scripts/check-draft-isolation.mjs'
@@ -25,4 +39,4 @@ jobs:
           node-version: '22'
       - run: node scripts/check-draft-isolation.mjs
       - run: node scripts/validate-profiles.mjs
-      - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs
+      - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs scripts/review-summary.test.mjs
