@@ -13,3 +13,10 @@ test('bare bibliography URLs are clickable',()=>{const html=markdownToHtml('1. U
 test('explicit Markdown links are not double-linked',()=>{const html=markdownToHtml('[BLS](https://www.bls.gov/)');assert.equal((html.match(/<a /g)||[]).length,1);});
 test('HTML is escaped in source cells',()=>assert.doesNotMatch(markdownToHtml('<img src=x onerror=alert(1)>'),/<img /));
 test('empty article section fails',()=>{const copy=sample.map(x=>[...x]);copy[2][3]='';assert.throws(()=>convertRows(copy,'test','example'),/Empty section/);});
+test('blank lines between bibliography entries preserve a single numbered list and links',()=>{
+ const html=markdownToHtml('1. First source. https://www.bls.gov/\n\n2. Second source. https://www.kslegislature.gov/\n\n3. Third source.');
+ assert.equal((html.match(/<ol>/g)||[]).length,1);
+ assert.equal((html.match(/<li>/g)||[]).length,3);
+ assert.equal((html.match(/<a /g)||[]).length,2);
+ assert.match(html,/Third source/);
+});

@@ -25,11 +25,17 @@ const {chromium}=require('playwright');
    if(await nav.nth(i).getAttribute('aria-current')!=='true')fails.push('selection '+i);
    if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2))fails.push('overflow section '+i);
   }
+  const bibliography=page.locator(surface==='simple'?'#section-content':'.full-career-profile .content');
+  const lists=await bibliography.locator('ol').count();
+  if(lists>1)fails.push('bibliography must use one contiguous ordered list');
+  if(await bibliography.locator('ol > li, ul > li').count()<2)fails.push('bibliography entries');
   await nav.nth(1).click();
   const screenBody=page.locator(surface==='simple'?'#section-content':'.full-career-profile .content');
   await screenBody.locator('.review-career-figure img').waitFor();
   const figure=await screenBody.locator('.review-career-figure').evaluate(f=>{const i=f.querySelector('img'),r=i.getBoundingClientRect();return {loaded:i.complete&&i.naturalWidth>0,alt:i.alt,caption:f.querySelector('figcaption').innerText,fit:getComputedStyle(i).objectFit,width:r.width,height:r.height,source:i.getAttribute('src')};});
   if(!figure.loaded||!figure.alt||figure.caption.length<80||figure.fit!=='contain')fails.push('image context/load');
+  await page.evaluate(()=>window.scrollTo(0,0));
+  await page.waitForTimeout(150);
   await page.screenshot({path:`${out}/${p.id}-${surface}-${width}.png`,fullPage:true});
   // Keyboard-operate the next section, then return to Duties.
   await nav.nth(2).focus();await page.keyboard.press('Enter');
