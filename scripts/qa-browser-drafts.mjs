@@ -21,7 +21,7 @@ try{
    page.on('pageerror',error=>errors.push(error.message));
    const url=base+'?career='+encodeURIComponent(profile.id);
    try{
-    const response=await page.goto(url,{waitUntil:'networkidle',timeout:30000});
+    const response=await page.goto(url,{waitUntil:'domcontentloaded',timeout:30000});
     record(profile.id,device.name,'Page HTTP response',response?.status()===200,response?.status());
     const nav=page.locator('#section-menu button');
     await nav.first().waitFor({state:'visible',timeout:10000});
@@ -31,7 +31,7 @@ try{
     for(let index=0;index<15;index++){
      await nav.nth(index).click();
      const selected=nav.nth(index);
-     const heading=(await selected.innerText()).replace(/^\\d+\\.\\s*/,'').trim();
+     const heading=(await selected.innerText()).replace(/^[0-9]+[.] +/,'').trim();
      const displayed=(await page.locator('#section-content h2').innerText()).trim();
      const isActive=(await selected.getAttribute('aria-current'))==='true';
      const hasBody=(await page.locator('#section-content .preview-body').innerText()).trim().length>20;
