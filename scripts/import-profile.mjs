@@ -25,9 +25,9 @@ export function convertRows(rows,workingId,websiteId){
  const ix={id:column('Working Profile ID','Profile ID'),number:column('Section Number'),title:column('Section Title'),body:column('Content (HTML or Markdown)','Content (Markdown)')};
  if(Object.values(ix).some(x=>x===undefined))throw Error('Required columns are missing');
  const selected=rows.slice(1).filter(r=>r[ix.id]===workingId);
- if(selected.length!==14)throw Error(`Expected 14 sections; found ${selected.length}`);
+ if(selected.length!==15)throw Error(`Expected 15 sections; found ${selected.length}`);
  selected.sort((a,b)=>Number(a[ix.number])-Number(b[ix.number]));
  return selected.map((r,i)=>{if(Number(r[ix.number])!==i+1||r[ix.title]!==PROFILE_SECTION_NAMES[i])throw Error(`Incorrect section at position ${i+1}`);const body=r[ix.body]?.trim();if(!body)throw Error(`Empty section ${i+1}`);return {id:`${websiteId}-section-${i+1}`,name:r[ix.title],html:markdownToHtml(body)};});
 }
 export function writeDraft(sections,filename){fs.mkdirSync(path.dirname(filename),{recursive:true});fs.writeFileSync(filename,'// UNAPPROVED DRAFT — never register automatically.\nexport const sections = '+JSON.stringify(sections,null,2)+';\n');}
-if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1])).href){const [csv,workingId,websiteId,output]=process.argv.slice(2);if(!csv||!workingId||!websiteId||!output){console.error('Usage: node scripts/import-profile.mjs sections.csv workingId websiteId output.js');process.exit(2);}const sections=convertRows(parseCSV(fs.readFileSync(csv,'utf8')),workingId,websiteId);writeDraft(sections,output);console.log('Wrote 14-section unapproved draft: '+output);}
+if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1])).href){const [csv,workingId,websiteId,output]=process.argv.slice(2);if(!csv||!workingId||!websiteId||!output){console.error('Usage: node scripts/import-profile.mjs sections.csv workingId websiteId output.js');process.exit(2);}const sections=convertRows(parseCSV(fs.readFileSync(csv,'utf8')),workingId,websiteId);writeDraft(sections,output);console.log('Wrote 15-section unapproved draft: '+output);}
