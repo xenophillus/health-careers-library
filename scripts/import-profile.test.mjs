@@ -9,7 +9,7 @@ test('missing tab fails',()=>assert.throws(()=>convertRows(sample.slice(0,-1),'t
 test('renamed tab fails',()=>{const copy=sample.map(x=>[...x]);copy[2][2]='Wrong';assert.throws(()=>convertRows(copy,'test','example'),/Incorrect section/);});
 test('safe basic Markdown',()=>{assert.match(markdownToHtml('<script>'),/&lt;script&gt;/);assert.match(markdownToHtml('[Source](https://www.bls.gov/)'),/href="https:\/\/www.bls.gov\//);});
 
-test('bare bibliography URLs are clickable',()=>{const html=markdownToHtml('1. U.S. agency. https://www.bls.gov/ooh/healthcare/');assert.match(html,/<a href="https:\/\/www.bls.gov\/ooh\/healthcare\/">/);assert.equal((html.match(/<a /g)||[]).length,1);});
+test('bare bibliography URLs are clickable',()=>{const html=markdownToHtml('1. U.S. agency. https://www.bls.gov/ooh/healthcare/');assert.match(html,/<a href="https:\/\/www.bls.gov\/ooh\/healthcare\/"(?:\s|>)/);assert.equal((html.match(/<a /g)||[]).length,1);});
 test('explicit Markdown links are not double-linked',()=>{const html=markdownToHtml('[BLS](https://www.bls.gov/)');assert.equal((html.match(/<a /g)||[]).length,1);});
 test('HTML is escaped in source cells',()=>assert.doesNotMatch(markdownToHtml('<img src=x onerror=alert(1)>'),/<img /));
 test('empty article section fails',()=>{const copy=sample.map(x=>[...x]);copy[2][3]='';assert.throws(()=>convertRows(copy,'test','example'),/Empty section/);});
