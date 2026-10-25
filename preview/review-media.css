@@ -1,0 +1,3 @@
+
+/* Review figures retain the entire verified image and its context. */
+.review-career-figure{margin:1.5rem 0;break-inside:avoid}.review-career-figure img{display:block;width:100%;height:auto;max-height:440px;object-fit:contain}.review-career-figure figcaption{line-height:1.5;font-size:.9rem;overflow-wrap:anywhere}.review-career-figure a{text-decoration:underline}.careerCard .review-career-figure{margin:0;min-width:0;flex:1}.careerCard .review-career-figure img{max-height:220px}.careerCard .review-career-figure figcaption{font-size:.8rem}@media print{.review-career-figure img{max-height:60mm}.preview-banner{display:block!important}}

@@ -1,0 +1,148 @@
+[
+  {
+    "sourceId": "AT-01",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      1,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+    ],
+    "organizationTitle": "U.S. Bureau of Labor Statistics — Athletic Trainers",
+    "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+    "claimSupported": "National May 2025 median $62,520; lower tenth below $48,180 and upper tenth above $88,760; 2025–2035 growth 13% versus 3% all occupations; about 2,400 annual openings. Occupational settings, work schedules, qualities and advancement.",
+    "publicationDate": "May 2025 wages; 2025–2035 projections",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25; pay and projection sections inspected."
+  },
+  {
+    "sourceId": "AT-02",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      1,
+      2,
+      10,
+      12
+    ],
+    "organizationTitle": "NATA — Athletic Training",
+    "url": "https://www.nata.org/about/athletic-training",
+    "claimSupported": "Profession includes prevention, examination, diagnosis, treatment and rehabilitation; work under physician direction or collaboration and state rules; distinction from personal training.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25."
+  },
+  {
+    "sourceId": "AT-03",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      2,
+      3,
+      5,
+      6,
+      13
+    ],
+    "organizationTitle": "O*NET OnLine — Athletic Trainers (29-9091.00)",
+    "url": "https://www.onetonline.org/link/summary/29-9091.00",
+    "claimSupported": "Tasks include initial assessment, progress reports, physician collaboration in rehabilitation, taping/bracing, cleaning, documentation, supplies and emergency plans. Workday is an author-created illustration of these tasks, not an observed shift.",
+    "publicationDate": "Updated 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25. Do not treat reported job-title synonyms or task examples as legal scope."
+  },
+  {
+    "sourceId": "AT-04",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      1,
+      7,
+      8
+    ],
+    "organizationTitle": "CAATE — Professional Programs",
+    "url": "https://caate.net/Programs/Professional",
+    "claimSupported": "New entrants follow graduate professional education; undergraduate professional programs stopped enrolling after fall 2022; accredited program search.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25."
+  },
+  {
+    "sourceId": "AT-05",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      7
+    ],
+    "organizationTitle": "University of New England — MS in Athletic Training",
+    "url": "https://www.une.edu/wchp/graduate-program",
+    "claimSupported": "Institutional example of 24-month master’s after bachelor’s and integrated five-year 3+2 route. Six years is arithmetic for a four-year bachelor’s plus two-year master’s, not a measured national average.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25."
+  },
+  {
+    "sourceId": "AT-06",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "BOC — Candidates",
+    "url": "https://bocatc.org/candidates/",
+    "claimSupported": "CAATE program completion, examination and final documentation; certification does not guarantee state licensure.",
+    "publicationDate": "2026–2027 candidate information",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25; final transcript and emergency cardiac care requirements independently inspected in Complete Your File section."
+  },
+  {
+    "sourceId": "AT-07",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "BOC — Athletic Trainer Life Cycle",
+    "url": "https://bocatc.org/athletic-trainer-life-cycle-2/",
+    "claimSupported": "Renewal includes continuing education, continuous emergency cardiac care certification, renewal fee and standards compliance.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25; intentionally no fragile numeric renewal quotas in article."
+  },
+  {
+    "sourceId": "AT-08",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-6906",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_069_0000_article/065_069_0006_section/065_069_0006_k/",
+    "claimSupported": "Kansas license application; subsection (d) practice protocol; subsection (f) narrow visiting-team exemption supports avoiding an absolute license claim.",
+    "publicationDate": "2026 published statutes; 2025 amendment",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25."
+  },
+  {
+    "sourceId": "AT-09",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas State Board of Healing Arts — Athletic Trainer Practice Protocol",
+    "url": "https://www.ksbha.ks.gov/home/showpublisheddocument/256/638972537066270000",
+    "claimSupported": "Separate protocol for each delegating MD/DO/DC; clinician and athletic trainer signatures.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Parent read-only researcher verified official PDF 2026-10-25. This worker’s web and curl retrieval returned 403; not independently reverified here."
+  },
+  {
+    "sourceId": "AT-10",
+    "workingProfileId": "hcl-athletictrainer",
+    "sectionNumbers": [
+      14
+    ],
+    "organizationTitle": "NATA — About",
+    "url": "https://www.nata.org/about",
+    "claimSupported": "Professional association role; education, professional resources and networking.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Directly opened 2026-10-25."
+  }
+]

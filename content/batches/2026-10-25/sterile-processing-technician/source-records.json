@@ -1,0 +1,242 @@
+[
+  {
+    "sourceId": "SPT-01",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "U.S. Bureau of Labor Statistics — Medical equipment preparers",
+    "url": "https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm",
+    "sections": [
+      7,
+      9
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Medical equipment preparers entry reports high school diploma/equivalent and moderate-term on-the-job training; 2025 employment 79,900; May 2025 median $47,700; 2025–35 growth 11%, 8,700 additional jobs. Broader category, not a sterile-processing-only estimate.",
+    "operation": "replace_existing_after_compare",
+    "baselineRecord": [
+      "SPT-01",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "9",
+      "U.S. Bureau of Labor Statistics — Medical Equipment Preparers",
+      "https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm",
+      "2025 median wage $47,700, 2025–2035 projected growth 11%, high school entry and on-the-job training",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  },
+  {
+    "sourceId": "SPT-02",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "O*NET OnLine — Medical Equipment Preparers (31-9093.00)",
+    "url": "https://www.onetonline.org/link/summary/31-9093.00",
+    "sections": [
+      2,
+      4,
+      5,
+      6,
+      11
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Occupation includes instrument cleaning and sterilization, equipment checks, records, distribution, attention to detail, manual tasks and work context. Updated 2026.",
+    "operation": "replace_existing_after_compare",
+    "baselineRecord": [
+      "SPT-02",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "9",
+      "O*NET — Medical Equipment Preparers",
+      "https://www.onetonline.org/link/summary/31-9093.00",
+      "Occupation tasks, knowledge, employment conditions and wage grouping",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  },
+  {
+    "sourceId": "SPT-08",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "FDA — Reprocessing of Reusable Medical Devices",
+    "url": "https://www.fda.gov/medical-devices/products-and-medical-procedures/reprocessing-reusable-medical-devices",
+    "sections": [
+      1,
+      2
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Reprocessing is multistep cleaning followed by disinfection or sterilization; retained soil can undermine later processing. Follow device labeling.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-09",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "CDC — Recommendations for Disinfection and Sterilization",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html",
+    "sections": [
+      2,
+      3,
+      6
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Cleaning before high-level disinfection/sterilization, protective equipment, monitoring and records; supports illustrative problems, not a universal daily schedule. Page Dec 7 2023 summarizes 2008 guideline.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-10",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "CDC — Sterilizing Practices",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/sterilizing-practices.html",
+    "sections": [
+      1,
+      2,
+      4
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Separate decontamination from clean packaging/storage; inspection, packaging, processing and monitoring all contribute to safe delivery. Page Nov 28 2023; avoid using old facility numerical specifications.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-03",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "HSPA — Certified Registered Central Service Technician",
+    "url": "https://myhspa.org/certification/certification-overview/certified-registered-central-service-technician-crcst/",
+    "sections": [
+      7,
+      8
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Exam plus 400 documented hours; full route hours within prior five years, provisional documentation within six months; paid or volunteer; HSPA does not provide placement.",
+    "operation": "replace_existing_after_compare",
+    "baselineRecord": [
+      "SPT-03",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "8",
+      "HSPA — CRCST certification",
+      "https://myhspa.org/certification/certification-overview/certified-registered-central-service-technician-crcst/",
+      "400 required experience hours and certification examination routes",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  },
+  {
+    "sourceId": "SPT-05",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "CBSPD — SPD Technician Certification Exam",
+    "url": "https://www.cbspd.net/tech/",
+    "sections": [
+      4,
+      8,
+      14
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Four alternate eligibility routes; course grade at least 70 is an eligibility route, not certification by itself; passing exam required. Facility settings include hospitals, clinics, dental offices and surgery centers.",
+    "operation": "replace_existing_after_compare",
+    "baselineRecord": [
+      "SPT-05",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "8",
+      "CBSPD — CSPDT Technician Certification",
+      "https://www.cbspd.net/tech/",
+      "Alternative eligibility routes and credentialing requirements",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  },
+  {
+    "sourceId": "SPT-11",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "HSPA — Certified Instrument Specialist",
+    "url": "https://myhspa.org/certification/certification-overview/certified-instrument-specialist-cis/",
+    "sections": [
+      10
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Full current CRCST plus 200 additional hands-on hours and exam; article omits detailed hour breakdown.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-12",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "HSPA — Certified Endoscope Reprocessor",
+    "url": "https://myhspa.org/certification/certification-overview/certified-endoscope-reprocessor-cer/",
+    "sections": [
+      10,
+      12
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Standalone credential without CRCST prerequisite; three months qualifying experience and exam; reprocessing includes device testing, cleaning, disinfection/sterilization and storage.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-06",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "HSPA — Certified Healthcare Leader",
+    "url": "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+    "sections": [
+      10
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Management domains include staffing, finance, compliance and communication. Page announces October 2026 eligibility changes while retaining old text; profile deliberately does not state experience eligibility.",
+    "operation": "replace_existing_after_compare",
+    "baselineRecord": [
+      "SPT-06",
+      "hcl-centralserviceorsterileprocessingtechnician",
+      "10",
+      "HSPA — Certified Healthcare Leader",
+      "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+      "Advancement credential",
+      "",
+      "2026-10-23",
+      "Research checked — editorial verification pending"
+    ]
+  },
+  {
+    "sourceId": "SPT-13",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "HSPA — Who We Are",
+    "url": "https://myhspa.org/about/who-we-are/",
+    "sections": [
+      1,
+      11,
+      14
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Association offers education, professional development, certification and advocacy for sterile-processing personnel.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-14",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "BLS — Surgical Assistants and Technologists",
+    "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+    "sections": [
+      12
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Operating-room preparation and intraoperative assistance distinguish surgical technology from central processing.",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "SPT-15",
+    "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+    "title": "BLS — Medical Equipment Repairers",
+    "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+    "sections": [
+      12
+    ],
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "evidence": "Repairers install, maintain and repair patient-care equipment; distinguish from reprocessing.",
+    "operation": "append_if_not_present_after_fresh_read"
+  }
+]

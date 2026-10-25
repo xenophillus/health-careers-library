@@ -1,0 +1,167 @@
+[
+  {
+    "sourceId": "MA-BLS-WAGE",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — Medical Assistants: Pay",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+    "claimSupported": "U.S. annual median $45,690; lower 10% <$36,050; upper 10% >$59,310, May 2025. Not entry-level estimates.",
+    "publicationDate": "May 2025 wage reference period",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-BLS-OUTLOOK",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — Medical Assistants: Job Outlook",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+    "claimSupported": "13% projected employment growth 2025–2035;109,700 average annual openings includes replacement and growth.",
+    "publicationDate": "2025–2035 projection period",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-BLS-WORK",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13
+    ],
+    "organizationTitle": "BLS — Medical Assistants: duties, environment, preparation",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+    "claimSupported": "Clinical/administrative mix, state-dependent tasks, confidentiality, outpatient settings, standing or computer work, certificate/associate/on-job routes, distinction from physician assistant. Workday is illustrative synthesis.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-ONET",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      10,
+      11,
+      13
+    ],
+    "organizationTitle": "O*NET — Medical Assistants 31-9092.00",
+    "url": "https://www.onetonline.org/link/summary/31-9092.00",
+    "claimSupported": "Rooms, histories, vitals, scheduling, records, supplies, specimen handling and computer work. Task list is occupational description not Kansas procedure authority.",
+    "publicationDate": "Updated 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-AAMA-ROLE",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      1,
+      2,
+      10,
+      11
+    ],
+    "organizationTitle": "AAMA — Medical Assisting",
+    "url": "https://www.aama-ntl.org/medical-assisting",
+    "claimSupported": "Role combines clinical and administrative work; continuing education and development.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-AAMA-ELIGIBILITY",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      7,
+      8
+    ],
+    "organizationTitle": "AAMA — CMA Exam Eligibility",
+    "url": "https://www.aama-ntl.org/certification/eligibility",
+    "claimSupported": "CAAHEP/ABHES route; practicum completion verified by program; previous CMA, educator and alternative pathways.  Not all programs automatically confer eligibility.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-KANSAS-DELEGATION",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      2,
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A.65-28,127",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_028_0000_article/065_028_0127_section/065_028_0127_k/",
+    "claimSupported": "Subsection(a)(3)–(6): competence, lawful scope and other legal/regulatory limits of delegated acts. Does not provide an MA-specific procedure checklist.",
+    "publicationDate": "Current code accessed 2026-10-25",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-KANSAS-NURSING",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      2,
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A.65-1165",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_011_0000_article/065_011_0065_section/065_011_0065_k/",
+    "claimSupported": "Nursing procedures delegated by a licensed nurse to an unlicensed person must be supervised; degree depends on listed factors. Does not establish universal onsite supervision.",
+    "publicationDate": "Current code accessed 2026-10-25",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-KDHE-KALHD",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "KDHE/KALHD — Public Health Scope of Practice Toolkit",
+    "url": "https://www.kalhd.org/wp-content/uploads/2025/04/PH-Scope-of-Practice-UPDATED-4.4.25.pdf",
+    "claimSupported": "Pages 5–6: medical assistants not required to be certified; no Kansas MA licensing agency; employer may require certification. Procedure permissions quoted from AAMA are explicitly nonbinding interpretations, not adopted here.",
+    "publicationDate": "Revised April 2025",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-AAMA-ABOUT",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      14
+    ],
+    "organizationTitle": "AAMA — About",
+    "url": "https://www.aama-ntl.org/about",
+    "claimSupported": "Association mission supports education, certification and advocacy for medical assistants.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "MA-FUTURE-LAW",
+    "workingProfileId": "hcl-medicalassistant",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "Kansas 2026 Session Laws — Chapter 36, HB 2702",
+    "url": "https://www.sos.ks.gov/publications/sessionlaws/2026/Chapter-36-HB-2702.html",
+    "claimSupported": "Internal currency check only: section 3 amends 65-28,127; section 14 sets January 1,2027 effective date. New collaborating terminology not operative 2026-10-25.",
+    "publicationDate": "2026; effective 2027-01-01",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  }
+]
