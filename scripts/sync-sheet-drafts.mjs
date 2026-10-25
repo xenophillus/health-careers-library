@@ -62,13 +62,13 @@ console.log(`Exported ${count} complete unapproved profile drafts. No published 
 const media=await sheet('Media','A1:J2000');
 const mediaRows=media.slice(1);
 const currentCatalog=JSON.parse(fs.readFileSync('assets/data/career-images.json','utf8'));
-const bySrc=new Map(currentCatalog.map(item=>[item.src,item]));
+
 const activeMedia=[];
 for(const row of mediaRows){
  const [mediaId,workingId,section,src,alt,caption,credit,license,sourceUrl,verificationStatus]=row;
  if(!mediaId||!workingId||!src||!sourceUrl)continue;
  if(String(section).trim()!=='1')continue; // only the primary career-card photograph
- if(!/^assets\\/images\\/careers\\/[a-z0-9-]+\\.webp$/.test(src))continue;
+ if(!src.startsWith('assets/images/careers/') || !src.endsWith('.webp'))continue;
  if(!sourceUrl.startsWith('https://commons.wikimedia.org/wiki/File:'))continue;
  const matching=profiles.slice(1).find(p=>p[id]===workingId);
  if(!matching)continue;
@@ -76,7 +76,6 @@ for(const row of mediaRows){
  if(!websiteId)continue;
  const canonical=websiteId==='emergency-medical-technician'?'emt':websiteId;
  if(src!=='assets/images/careers/'+canonical+'.webp')continue;
- const prior=bySrc.get(src);
  const file=decodeURIComponent(sourceUrl.split('/File:')[1]).replace(/_/g,' ');
  const item={id:canonical,file,credit,alt,license,sourceUrl,src,verificationStatus:verificationStatus||'Needs verification'};
  if(!item.alt||!item.credit||!item.license)continue;
@@ -87,5 +86,5 @@ for(const item of activeMedia){
  if(seenMedia.has(item.id))throw Error('Duplicate primary media for '+item.id);
  seenMedia.add(item.id);
 }
-fs.writeFileSync('assets/data/career-images.json',JSON.stringify(activeMedia,null,2)+'\\n');
+fs.writeFileSync('assets/data/career-images.json',JSON.stringify(activeMedia,null,2)+'\n');
 console.log('Synchronized '+activeMedia.length+' primary career images from Media sheet.');
