@@ -15,6 +15,14 @@ try{
    const response=await page.goto(base+'library.html#library',{waitUntil:'domcontentloaded'});
    await page.locator('.careerCard').first().waitFor({timeout:12000});
    note(tag+' loads',response.status()===200);
+   note(tag+' one track per range filter',await page.locator('.dual-range').count()===2);
+   await page.locator('#ymin').evaluate(el=>{el.value='4';el.dispatchEvent(new Event('input',{bubbles:true}));});
+   await page.locator('#ymax').evaluate(el=>{el.value='6';el.dispatchEvent(new Event('input',{bubbles:true}));});
+   note(tag+' unified schooling range responds',await page.locator('.rangevalue').first().innerText()==='4–6 years');
+   await page.locator('#smin').evaluate(el=>{el.value='40000';el.dispatchEvent(new Event('input',{bubbles:true}));});
+   await page.locator('#smax').evaluate(el=>{el.value='80000';el.dispatchEvent(new Event('input',{bubbles:true}));});
+   note(tag+' unified salary range responds',(await page.locator('.rangevalue').nth(1).innerText()).includes('$40,000')&&(await page.locator('.rangevalue').nth(1).innerText()).includes('$80,000'));
+   await page.evaluate(()=>window.resetFilters());
    const cards=page.locator('.careerCard');
    note(tag+' has 16 unique career cards',await cards.count()===16);
    const labels=await cards.locator('h3').allInnerTexts();
