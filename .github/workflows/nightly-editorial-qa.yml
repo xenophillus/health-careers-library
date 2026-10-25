@@ -22,6 +22,8 @@ jobs:
           SHEET_ID: 1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: node scripts/sync-sheet-drafts.mjs
+      - name: Build integrated unpublished career library
+        run: node scripts/build-review-library.mjs
       - name: Validate draft conversion and production isolation
         run: |
           node --test scripts/import-profile.test.mjs
@@ -57,7 +59,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/data/drafts/ preview/drafts/ preview/styles.css
+          git add assets/data/drafts/ preview/drafts/ preview/styles.css preview/library.html preview/assets/
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh unpublished editorial drafts"
             git push origin HEAD:development/library-launch-build
