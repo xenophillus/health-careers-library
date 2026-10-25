@@ -1,0 +1,23 @@
+{
+  "src": null,
+  "caption": null,
+  "alt": null,
+  "credit": "Tiffany Trojca / U.S. Air Force",
+  "license": "Public domain in the United States; official U.S. Air Force work",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Biomedical_Equipment_Technicians_DVIDS152922.jpg#Licensing",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biomedical_Equipment_Technicians_DVIDS152922.jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "reviewDate": "2026-10-25",
+  "status": "candidate_acquisition_blocked_text_only_fallback",
+  "evidence": [
+    "Commons description identifies Christopher Brown as a biomedical equipment technician cleaning a CT machine at Joint Base Balad, Iraq; source and official-duty public-domain tag rechecked.",
+    "Ordinary GET https://upload.wikimedia.org/wikipedia/commons/e/e9/Biomedical_Equipment_Technicians_DVIDS152922.jpg returned Tunnel connection failed: 403 Forbidden. No bytes saved; no retry/bypass."
+  ],
+  "limits": [
+    "Actual pixels and final alt text unverified; no selected image.",
+    "Description date is 2008 while EXIF is 2009. Omit date until resolved. Do not label task calibration or engineering design.",
+    "Original DVIDS page was inaccessible via web tool in this follow-up."
+  ],
+  "recommendation": "Use text-only while acquisition remains blocked. This candidate could add useful equipment/service context if later acquired and visually checked, but do not make an image slot mandatory or claim it installed."
+}

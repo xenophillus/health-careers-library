@@ -241,7 +241,7 @@ hcl-biomedicalclinicaltechnician,1,Career Overview,"Biomedical equipment technic
 
 A technician has to understand both a device’s technical operation and why its performance matters in care. A machine that powers on may still measure incorrectly, fail intermittently or have a damaged component. Testing and service records help establish whether it is ready for use.
 
-The combined title Biomedical/Clinical Technician is used here for the healthcare-equipment service role, commonly called a biomedical equipment technician or BMET. Clinical laboratory testing is a different occupation. The word “clinical” in a department name does not by itself describe what a technician does.",Fact check,Unapproved proposed content; review evidence in repository batch.
+This profile focuses on healthcare-equipment service, commonly called biomedical equipment technology or BMET work. [AAMI describes healthcare technology management](https://aami.org/focus-area/healthcare-technology-management/) as work that keeps medical technology safe and functional. A biomedical equipment technician may service a laboratory analyzer without performing tests on patient specimens. Laboratory and biotechnology technician roles have different duties and preparation; the title Biomedical/Clinical Technician alone does not establish that these roles are interchangeable.",Fact check,Unapproved proposed content; review evidence in repository batch.
 hcl-biomedicalclinicaltechnician,2,Duties and Responsibilities,"Equipment service combines planned maintenance with investigation of reported problems.
 
 - **Inspection and testing:** Examine condition, check function and compare measurements with the applicable procedures and specifications.
@@ -716,7 +716,9 @@ hcl-emergencymedicaltechnician,15,Bibliography & Sources,"1. [BLS — EMTs and P
 9. [Kansas Secretary of State — KBEMS regulations](https://www.kssos.org/publications/Register/Volume-43/Issues/Issue-42/10-17-24-52587.html). Accessed October 25, 2026.
 
 10. [NAEMT — Overview](https://www.naemt.org/about-naemt/about-NAEMT). Accessed October 25, 2026.",Fact check,Unapproved proposed content; review evidence in repository batch.
-hcl-medicalinformationtechnologist,1,Career Overview,"Health information technologists connect healthcare work with the information systems and data that support it. They help organizations make electronic information dependable and useful: a system must capture the right information, allow appropriate access, and produce reports people can interpret.
+hcl-medicalinformationtechnologist,1,Career Overview,"Medical information work includes several careers involving healthcare data and computer systems. This profile explores the related occupation of **health information technologist**, described by [BLS](https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm). A position advertised as Medical Information Technologist should be compared by its duties and qualifications; the title alone does not establish an identical role.
+
+Health information technologists connect healthcare work with the information systems and data that support it. They help organizations make electronic information dependable and useful: a system must capture the right information, allow appropriate access, and produce reports people can interpret.
 
 The work can emphasize electronic health record implementation, staff support, or analysis of clinical data. It differs from maintaining an individual chart or coding a single encounter. A technologist may investigate why a whole set of records is incomplete or help a team change the way information is collected. The goal is better use of information in healthcare, not direct patient treatment.",Fact check,Unapproved proposed content; review evidence in repository batch.
 hcl-medicalinformationtechnologist,2,Duties and Responsibilities,"Major responsibilities combine healthcare understanding with information-system work:
@@ -750,7 +752,7 @@ hcl-medicalinformationtechnologist,8,Certification and Licensure,"Employers may 
 
 HIMSS offers the Certified Associate in Healthcare Information and Management Systems (CAHIMS) credential for foundational health information and technology knowledge. Its coverage concerns supporting technology and healthcare workflows; it is not a clinical license.
 
-AHIMA offers health information credentials for different roles. The RHIT, for example, has specific HIM education requirements and is not automatically available after any health informatics program. Earning a technology or information credential does not confer authority to diagnose, prescribe, or provide other licensed clinical care.",Fact check,Unapproved proposed content; review evidence in repository batch.
+AHIMA offers health information credentials for different roles. The RHIT, for example, has specific HIM education requirements and is not automatically available after any health informatics program. It is not a universal requirement for health information technology jobs; students should match a credential to the particular role. Earning a technology or information credential does not confer authority to diagnose, prescribe, or provide other licensed clinical care.",Fact check,Unapproved proposed content; review evidence in repository batch.
 hcl-medicalinformationtechnologist,9,"Salary, Entry-Level Earnings, and Job Outlook","BLS reports a **May 2025 national median annual wage of $68,020 for Health Information Technologists and Medical Registrars**. This is a combined occupational group, not a salary survey limited to information-system technologists or to workers with the title Medical Information Technologist.
 
 For that combined group, BLS projects **16% employment growth from 2025 to 2035**, with approximately **3,000 openings per year**, on average. The median includes workers at different experience levels and is not starting pay. Compare an actual job's duties and required education with the statistical group before using these figures to evaluate a career path.",Fact check,Unapproved proposed content; review evidence in repository batch.
@@ -1124,7 +1126,7 @@ hcl-microbiologist,15,Bibliography & Sources,"All sources accessed October 25, 2
 
 - [BLS: Microbiologists, Occupational Outlook Handbook](https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm) — national pay, outlook and typical preparation.
 - [O*NET: Microbiologists, 19-1022.00](https://www.onetonline.org/link/summary/19-1022.00) — occupational tasks and capabilities.
-- [ASM: Careers in Microbiology and the Microbial Sciences](https://asm.org/articles/2018/november/careers-in-microbiology-and-the-microbial-sciences) — education and research career routes; older wage examples are not used here.
+- [ASM: Careers in Microbiology and the Microbial Sciences](https://asm.org/articles/2018/november/careers-in-microbiology-and-the-microbial-sciences) — education and research career routes.
 - [ASM: Clinical and Public Health Microbiology Careers](https://asm.org/careers-in-clinical-public-health-microbiology) — clinical testing, public-health work and professional resources.
 - [ASM: Certification in the Clinical Microbiology Laboratory](https://asm.org/articles/2023/march/how-to-become-certified-in-the-clinical-microbiolo) — clinical credential context.
 - [ASM: Reference and Non-Reference Microbiology Laboratories](https://asm.org/articles/2023/june/working-in-a-reference-non-reference-microbiology) — settings and advancement examples.
@@ -1261,7 +1263,7 @@ AOTA is distinct from ACOTE, which accredits education programs; NBCOT, which pr
 hcl-occupationaltherapist,15,Bibliography & Sources,"References accessed October 25, 2026.
 
 1. [BLS — Occupational Therapists](https://www.bls.gov/ooh/healthcare/occupational-therapists.htm).
-2. [O*NET — Occupational Therapists29-1122.00](https://www.onetonline.org/link/summary/29-1122.00).
+2. [O*NET — Occupational Therapists 29-1122.00](https://www.onetonline.org/link/summary/29-1122.00).
 3. [AOTA — What Is Occupational Therapy?](https://www.aota.org/about/what-is-ot).
 4. [AOTA — School-Based Settings](https://www.aota.org/practice/practice-settings/schools-early-intervention-community-education/schools).
 5. [AOTA — Mental Health and Well-Being](https://www.aota.org/practice/clinical-topics/mental-health).
@@ -1499,7 +1501,9 @@ hcl-physicaltherapist,15,Bibliography & Sources,"References accessed October 25,
 10. [CDC/NIOSH — Safe Patient Handling and Mobility](https://www.cdc.gov/niosh/healthcare/sphm/index.html).",Fact check,Unapproved proposed content; review evidence in repository batch.
 hcl-radiologictechnician,1,Career Overview,"Radiologic technologists create images that help physicians investigate injuries and illness. In general radiography, they use X-rays to record structures inside the body. The work combines patient care, anatomy, equipment operation, and careful evaluation of image quality. A well-positioned image can answer a clinical question that an unclear image cannot.
 
-Radiographers are part of the Diagnostic Services pathway. They prepare and perform the examination; a radiologist is the physician who interprets the images. Radiography is one branch of medical imaging, alongside fields such as MRI, nuclear medicine, and ultrasound. [ARRT’s radiography overview](https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography) explains this entry point into imaging work.",Fact check,Unapproved proposed content; review evidence in repository batch.
+Radiographers are part of the Diagnostic Services pathway. They prepare and perform the examination; a radiologist is the physician who interprets the images. Radiography is one branch of medical imaging, alongside fields such as MRI, nuclear medicine, and ultrasound. [ARRT’s radiography overview](https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography) explains this entry point into imaging work.
+
+[O*NET lists Radiologic Technician and Radiographer among reported job titles](https://www.onetonline.org/link/summary/29-2034.00). This profile focuses on general X-ray radiography. Limited-scope X-ray work can have different education and legal limits; it should not be treated as equivalent preparation. CT, mammography, PET, and radiation therapy are distinct areas with their own preparation and responsibilities, rather than qualifications automatically included in a general radiography role.",Fact check,Unapproved proposed content; review evidence in repository batch.
 hcl-radiologictechnician,2,Duties and Responsibilities,"The goal is to obtain the requested images safely and accurately. Responsibilities include:
 
 - **Preparation:** Check the request and patient information, explain the examination, and identify needs that affect positioning or communication.

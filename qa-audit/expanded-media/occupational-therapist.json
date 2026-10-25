@@ -1,0 +1,28 @@
+{
+  "src": null,
+  "caption": "Occupational therapist Joan Margulies adjusts a custom-fitted hand brace for a patient at Walter Reed in March 2026.",
+  "alt": "Occupational therapist adjusting a patient’s hand brace",
+  "credit": "Ann Brandstadter / Walter Reed National Military Medical Center",
+  "license": "Public domain in the United States; DVIDS official-government photograph",
+  "licenseUrl": "https://www.dvidshub.net/about/copyright",
+  "sourceUrl": "https://www.dvidshub.net/image/9599856/occupational-therapy-drives-warrior-readiness-walter-reed",
+  "sha256": null,
+  "placementSection": 1,
+  "evidence": "DVIDS photo 9599856, VIRIN 260320-D-KL921-1056; 2700 × 1800. Caption explicitly identifies Margulies as an occupational therapist. Taken March 20, 2026; posted April 7, 2026. Gallery ordinal is inconsistent, so identity uses photo ID and VIRIN. Independently re-read source identity and public-domain statement with web tools on 2026-10-25. LPN source was readable via search result after initial web open error; RN/surgical via Commons file descriptions; OT/PT via DVIDS individual pages.",
+  "limits": [
+    "No downloaded image; pixel inspection and final alt/caption fit remain pending. Text above is provisional based on source caption, not visual verification.",
+    "Ordinary urllib GET to sourceUrl failed at execution proxy with Tunnel connection failed: 403 Forbidden. No source HTML/image bytes written. No bypass or retry attempted after current failure.",
+    "Retain historical date and setting; do not imply the pictured person or military endorses this library.",
+    "DVIDS copyright policy retains privacy/publicity rights and requires non-endorsement display; image integration must carry the notice."
+  ],
+  "requiredNonEndorsementText": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "reuseConditionsUrl": "https://www.dvidshub.net/about/copyright",
+  "status": "blocked-acquisition-and-pixel-review",
+  "downloadOutcome": {
+    "action": "Ordinary source-page GET preparatory to image acquisition",
+    "target": "https://www.dvidshub.net/image/9599856/occupational-therapy-drives-warrior-readiness-walter-reed",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "failed; no bytes saved; image GET not reached"
+  },
+  "approved": false
+}

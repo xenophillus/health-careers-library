@@ -4,13 +4,15 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Editorial Career Previews — Health Careers Library</title>
 <link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="./review-media.css">
 <style>
 .preview-banner{padding:.9rem 1rem;background:#fff3d6;color:#4c3600;border-bottom:2px solid #e8ae3b;text-align:center;font-weight:700}
 .preview-head{margin:2rem auto 1rem}.preview-head h1{margin:.4rem 0}.preview-layout{display:grid;grid-template-columns:minmax(210px,290px) minmax(0,1fr);gap:1.25rem;margin:1.3rem auto 2rem}
 .preview-menu{display:flex;flex-direction:column;gap:.35rem}.preview-menu button{padding:.7rem;text-align:left;border:1px solid #d1d8dd;border-radius:7px;background:transparent;color:inherit;cursor:pointer}.preview-menu button[aria-current="true"]{border-color:#177d80;background:#d7f1ec;font-weight:bold;color:#123c3e}
 .preview-content{min-width:0}.preview-content p{line-height:1.7}.preview-content a{overflow-wrap:anywhere}.preview-selector{padding:.6rem;max-width:100%;width:100%;margin:.3rem 0}.preview-meta{color:#58666c}.preview-error{padding:1rem;border:1px solid #b44;border-radius:8px}
 @media(max-width:750px){.preview-layout{grid-template-columns:1fr}.preview-menu{max-height:220px;overflow:auto}}
-@media print{.preview-banner,.preview-menu,.preview-selector,.preview-select-label{display:none}.preview-layout{display:block}}
+.preview-print-all{display:none}
+@media print{.preview-menu,.preview-selector,.preview-select-label,.preview-layout{display:none}.preview-print-all{display:block}.preview-banner{display:block!important}.preview-print-all h2{break-after:avoid}.preview-print-all a{overflow-wrap:anywhere}}
 </style>
 </head>
 <body>
@@ -19,7 +21,7 @@
 <header class="preview-head">
   <span class="tag">Editorial review</span>
   <h1 id="career-title">Career draft previews</h1>
-  <p class="intro">Review complete career profiles imported from the editorial spreadsheet.</p>
+  <p class="intro">Review prepared repository proposals. These are not a fresh canonical spreadsheet export.</p>
   <label class="preview-select-label" for="career-select"><strong>Choose a career draft</strong></label>
   <select class="preview-selector" id="career-select" aria-label="Choose a career draft"></select>
   <p class="preview-meta" id="career-meta">These drafts are not part of the public career library.</p>
@@ -28,9 +30,12 @@
   <nav class="preview-menu panel" id="section-menu" aria-label="Career article sections"></nav>
   <article class="profileCard content preview-content" id="section-content" aria-live="polite"></article>
 </div>
+<article class="preview-print-all" id="print-all" aria-hidden="true"></article>
 </main>
 <script type="module">
 import {draftProfiles} from './drafts/manifest.js';
+import {careerMedia,draftToPublicId} from './assets/data/career-integrity.js';
+import {renderReviewMedia} from './assets/js/views/review-media.js';
 const selector=document.getElementById('career-select');
 const menu=document.getElementById('section-menu');
 const content=document.getElementById('section-content');
@@ -38,11 +43,12 @@ const title=document.getElementById('career-title');
 const meta=document.getElementById('career-meta');
 const lookup=new Map(draftProfiles.map(x=>[x.id,x]));
 let revision=0;
+let photo='';
 function selectSection(sections,index){
  const selected=sections[index];if(!selected)return;
  content.replaceChildren();
  const heading=document.createElement('h2');heading.textContent=selected.name;
- const body=document.createElement('div');body.className='preview-body';body.innerHTML=selected.html;
+ const body=document.createElement('div');body.className='preview-body';body.innerHTML=selected.html+(index===1?photo:'');
  content.append(heading,body);
  [...menu.children].forEach((button,i)=>button.setAttribute('aria-current',String(i===index)));
 }
@@ -58,6 +64,9 @@ async function selectCareer(id){
   if(current!==revision)return;
   if(!Array.isArray(module.sections)||module.sections.length!==15)throw Error('Expected 15 career sections.');
   const sections=module.sections;
+  photo=renderReviewMedia(careerMedia[draftToPublicId[id]||id]);
+  const print=document.getElementById('print-all');print.replaceChildren();
+  sections.forEach((section,i)=>{const item=document.createElement('section');const heading=document.createElement('h2');heading.textContent=section.name;const body=document.createElement('div');body.innerHTML=section.html+(i===1?photo:'');item.append(heading,body);print.append(item);});
   sections.forEach((section,i)=>{
    const button=document.createElement('button');button.type='button';
    button.textContent=(i+1)+'. '+section.name;

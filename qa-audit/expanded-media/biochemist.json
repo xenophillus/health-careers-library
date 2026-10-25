@@ -1,0 +1,35 @@
+{
+  "profile": "biochemist",
+  "src": null,
+  "caption": "A molecular model of an insulin hexamer, created from the experimentally determined structure PDB 1AI0. Biochemists study how molecular structure relates to biological function. Model: Isaac Yonemoto, CC BY 2.5.",
+  "alt": "Computer-rendered molecular model of an insulin hexamer",
+  "credit": "Isaac Yonemoto / Wikimedia Commons, CC BY 2.5",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:InsulinHexamer.jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "status": "blocked_asset_acquisition",
+  "publicationApproved": false,
+  "verifiedDate": "2026-10-25",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/InsulinHexamer.jpg",
+  "changes": "No downloaded image or derivative created. Caption/alt remain provisional until pixel inspection.",
+  "evidence": {
+    "method": "Individual source page and license text freshly read via web tool; ordinary original-file GET attempted once in current execution environment.",
+    "source": "Commons record identifies NMR structure1AI0; primary structure record https://www.rcsb.org/structure/1ai0 confirms human insulin hexamer and NMR data. This is a molecular visualization, not a microscope photograph or AI-generated image.",
+    "visualInspection": "Not completed: no image bytes received.",
+    "downloadLog": "qa-audit/expanded-media/science-download-log.json"
+  },
+  "limits": [
+    "Pending permitted asset acquisition, actual-pixel inspection and full-aspect-ratio desktop/mobile/print rendering.",
+    "No occupation mapping or public article approval made.",
+    "Source 380×398 pixels; use small explanatory figure, not full-width hero.",
+    "CC BY 2.5 requires credit/license link; disclose modifications if later made. Commons current image is a 2011 crop by Ras67 of Isaac Yonemoto artwork."
+  ],
+  "blocker": {
+    "action": "Download original and inspect pixels",
+    "target": "https://upload.wikimedia.org/wikipedia/commons/0/0d/InsulinHexamer.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "Denied by network proxy; no asset created; not retried or bypassed."
+  }
+}

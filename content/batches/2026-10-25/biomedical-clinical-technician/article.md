@@ -10,7 +10,7 @@ Biomedical equipment technicians help keep medical equipment dependable. They in
 
 A technician has to understand both a device’s technical operation and why its performance matters in care. A machine that powers on may still measure incorrectly, fail intermittently or have a damaged component. Testing and service records help establish whether it is ready for use.
 
-The combined title Biomedical/Clinical Technician is used here for the healthcare-equipment service role, commonly called a biomedical equipment technician or BMET. Clinical laboratory testing is a different occupation. The word “clinical” in a department name does not by itself describe what a technician does.
+This profile focuses on healthcare-equipment service, commonly called biomedical equipment technology or BMET work. [AAMI describes healthcare technology management](https://aami.org/focus-area/healthcare-technology-management/) as work that keeps medical technology safe and functional. A biomedical equipment technician may service a laboratory analyzer without performing tests on patient specimens. Laboratory and biotechnology technician roles have different duties and preparation; the title Biomedical/Clinical Technician alone does not establish that these roles are interchangeable.
 
 ## Duties and Responsibilities
 

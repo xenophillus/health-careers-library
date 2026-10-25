@@ -1,0 +1,35 @@
+{
+  "profile": "radiologic-technologist",
+  "src": null,
+  "caption": "Chest radiograph: an example of the diagnostic images acquired in radiography.",
+  "alt": "Chest X-ray showing the lungs, ribs, and central chest structures.",
+  "credit": "Mikael Häggström",
+  "license": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Normal_posteroanterior_(PA)_chest_radiograph_(X-ray).jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "status": "blocked_asset_acquisition",
+  "publicationApproved": false,
+  "verifiedDate": "2026-10-25",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg",
+  "changes": "No downloaded image or derivative created. Caption/alt remain provisional until pixel inspection.",
+  "evidence": {
+    "method": "Individual source page and license text freshly read via web tool; ordinary original-file GET attempted once in current execution environment.",
+    "source": "June 28, 2017; Commons uploader identifies own work; CC0 record inspected. No patient biography or diagnosis should be reproduced in caption.",
+    "visualInspection": "Not completed: no image bytes received.",
+    "downloadLog": "qa-audit/expanded-media/science-download-log.json"
+  },
+  "limits": [
+    "Pending permitted asset acquisition, actual-pixel inspection and full-aspect-ratio desktop/mobile/print rendering.",
+    "No occupation mapping or public article approval made.",
+    "CC0 individual-file declaration verified. Do not reproduce patient age, history or diagnosis from source.",
+    "Radiologic title/alias mapping remains for parent and user; no alias decision made."
+  ],
+  "blocker": {
+    "action": "Download original and inspect pixels",
+    "target": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "Denied by network proxy; no asset created; not retried or bypassed."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "src": null,
+  "caption": "Registered nurse Jenni Hoermann works with an interpreter to explain care aboard USNS Mercy during Pacific Partnership 2012.",
+  "alt": "Registered nurse and interpreter speaking with a patient aboard a hospital ship",
+  "credit": "Stephen M. Votaw / U.S. Navy",
+  "license": "Public domain in the United States; official-duty U.S. government work",
+  "licenseUrl": "https://www.dvidshub.net/about/copyright",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yesi_Paat,_center_left,_an_interpreter_with_Hope_Worldwide,_translates_instructions_from_Jenni_Hoermann,_left,_a_registered_nurse_with_the_Latter-day_Saint_Charities,_to_an_Indonesian_patient_before_entering_an_120603-N-GW695-001.jpg",
+  "sha256": null,
+  "placementSection": 1,
+  "evidence": "Commons explicitly identifies the nurse, interpreter and photographer, and applies U.S. government public-domain licensing. VIRIN 120603-N-GW695-001. This is a 2012 humanitarian setting, not a typical U.S. hospital shift. Independently re-read source identity and public-domain statement with web tools on 2026-10-25. LPN source was readable via search result after initial web open error; RN/surgical via Commons file descriptions; OT/PT via DVIDS individual pages.",
+  "limits": [
+    "No downloaded image; pixel inspection and final alt/caption fit remain pending. Text above is provisional based on source caption, not visual verification.",
+    "Ordinary urllib GET to sourceUrl failed at execution proxy with Tunnel connection failed: 403 Forbidden. No source HTML/image bytes written. No bypass or retry attempted after current failure.",
+    "Retain historical date and setting; do not imply the pictured person or military endorses this library.",
+    "DVIDS copyright policy retains privacy/publicity rights and requires non-endorsement display; image integration must carry the notice."
+  ],
+  "requiredNonEndorsementText": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "reuseConditionsUrl": "https://www.dvidshub.net/about/copyright",
+  "status": "blocked-acquisition-and-pixel-review",
+  "downloadOutcome": {
+    "action": "Ordinary source-page GET preparatory to image acquisition",
+    "target": "https://commons.wikimedia.org/wiki/File:Yesi_Paat,_center_left,_an_interpreter_with_Hope_Worldwide,_translates_instructions_from_Jenni_Hoermann,_left,_a_registered_nurse_with_the_Latter-day_Saint_Charities,_to_an_Indonesian_patient_before_entering_an_120603-N-GW695-001.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "failed; no bytes saved; image GET not reached"
+  },
+  "approved": false
+}

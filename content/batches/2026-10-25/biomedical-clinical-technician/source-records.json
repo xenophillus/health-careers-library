@@ -2,14 +2,14 @@
   {
     "sourceId": "BCT-01",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "BLS \u2014 Medical Equipment Repairers",
+    "title": "BLS — Medical Equipment Repairers",
     "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
     "sections": [
       4,
       7,
       9
     ],
-    "evidence": "May2025 median61,660;10th38,490;90th98,280;2025\u201335growth13%;8,200 annual openings; associate/certificate or alternate experience/training routes.",
+    "evidence": "May2025 median61,660;10th38,490;90th98,280;2025–35growth13%;8,200 annual openings; associate/certificate or alternate experience/training routes.",
     "accessed": "2026-10-25",
     "verification": "Primary source read",
     "operation": "append_if_not_present_after_fresh_read"
@@ -17,7 +17,7 @@
   {
     "sourceId": "BCT-02",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "O*NET \u2014 Medical Equipment Repairers",
+    "title": "O*NET — Medical Equipment Repairers",
     "url": "https://www.onetonline.org/link/summary/49-9062.00",
     "sections": [
       1,
@@ -36,7 +36,7 @@
   {
     "sourceId": "BCT-03",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "ACCE \u2014 Clinical Engineer Defined",
+    "title": "ACCE — Clinical Engineer Defined",
     "url": "https://accenet.org/about/Pages/ClinicalEngineer.aspx",
     "sections": [
       10,
@@ -51,7 +51,7 @@
   {
     "sourceId": "BCT-04",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "AAMI \u2014 Healthcare Technology Management",
+    "title": "AAMI — Healthcare Technology Management",
     "url": "https://aami.org/focus-area/healthcare-technology-management/",
     "sections": [
       1,
@@ -59,7 +59,7 @@
       10,
       14
     ],
-    "evidence": "HTM manages and repairs technology with clinicians; safety, security, interoperability and functionality.",
+    "evidence": "HTM manages and repairs technology with clinicians; safety, security, interoperability and functionality. Supports equipment-service article scope only, not exact equivalence of all Biomedical/Clinical Technician source appearances.",
     "accessed": "2026-10-25",
     "verification": "Primary source read",
     "operation": "append_if_not_present_after_fresh_read"
@@ -67,7 +67,7 @@
   {
     "sourceId": "BCT-05",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "AAMI \u2014 Certified Biomedical Equipment Technician",
+    "title": "AAMI — Certified Biomedical Equipment Technician",
     "url": "https://aami.org/certifications/cbet/",
     "sections": [
       5,
@@ -81,7 +81,7 @@
   {
     "sourceId": "BCT-06",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "AAMI \u2014 Certified Associate in Biomedical Technology",
+    "title": "AAMI — Certified Associate in Biomedical Technology",
     "url": "https://aami.org/certifications/cabt/",
     "sections": [
       8
@@ -94,7 +94,7 @@
   {
     "sourceId": "BCT-07",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "AAMI \u2014 Certifications",
+    "title": "AAMI — Certifications",
     "url": "https://aami.org/certifications/",
     "sections": [
       8,
@@ -108,7 +108,7 @@
   {
     "sourceId": "BCT-08",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "FDA \u2014 Cybersecurity",
+    "title": "FDA — Cybersecurity",
     "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
     "sections": [
       4,
@@ -122,7 +122,7 @@
   {
     "sourceId": "BCT-09",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "FDA \u2014 Human Factors and Medical Devices",
+    "title": "FDA — Human Factors and Medical Devices",
     "url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/human-factors-and-medical-devices",
     "sections": [
       2,
@@ -136,7 +136,7 @@
   {
     "sourceId": "BCT-LAB",
     "workingProfileId": "hcl-biomedicalclinicaltechnician",
-    "title": "BLS \u2014 Clinical Laboratory Technologists and Technicians",
+    "title": "BLS — Clinical Laboratory Technologists and Technicians",
     "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
     "sections": [
       12

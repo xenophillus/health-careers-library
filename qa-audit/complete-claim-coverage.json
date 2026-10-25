@@ -1,0 +1,150 @@
+{
+  "sourceCount": 273,
+  "sections": 360,
+  "claims": [
+    {
+      "id": "athletic-trainer",
+      "sourceCount": 10,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "sterile-processing-technician",
+      "sourceCount": 13,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "dental-assistant",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "emergency-medical-technician",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "medical-assistant",
+      "sourceCount": 11,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "biochemist",
+      "sourceCount": 11,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "sourceCount": 10,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "biostatistician",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "cancer-registrar",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "community-health-worker",
+      "sourceCount": 14,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "health-information-technologist",
+      "sourceCount": 10,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "sourceCount": 14,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "medical-records-specialist",
+      "sourceCount": 9,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "medical-transcriptionist",
+      "sourceCount": 9,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "microbiologist",
+      "sourceCount": 11,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "mri-technologist",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "occupational-therapist",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "paramedic",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "phlebotomist",
+      "sourceCount": 8,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    },
+    {
+      "id": "physical-therapist",
+      "sourceCount": 10,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "radiologic-technologist",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "registered-nurse",
+      "sourceCount": 13,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Original reflection, not an empirical claim; no fabricated citation required"
+    },
+    {
+      "id": "surgical-technologist",
+      "sourceCount": 12,
+      "requiredFactualSections": "1–12 and 14 mapped",
+      "reflection": "Mapped editorial synthesis"
+    }
+  ]
+}

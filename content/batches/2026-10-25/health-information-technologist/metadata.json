@@ -2,7 +2,7 @@
   "workingProfileId": "hcl-medicalinformationtechnologist",
   "proposedWebsiteId": "health-information-technologist",
   "displayTitle": "Medical Information Technologist",
-  "articleScope": "Health information technologist; proposed interpretation of source title, subject to mapping review",
+  "articleScope": "Related health information technologist occupation, explicitly distinguished from an unproven exact alias for Medical Information Technologist.",
   "sourceAppearances": [
     {
       "inventoryIndex": 121,
@@ -11,13 +11,13 @@
       "sourceKey": "medicalinformationtechnologist"
     }
   ],
-  "mappingStatus": "Proposed mapping only; source label is not independently established as an exact alias",
+  "mappingStatus": "Related-occupation scope documented; exact source-title alias unresolved. No additional alias or accepted-appearance credit.",
   "unresolvedRelatedLabels": [
     "Clinical Data Specialist",
     "Clinical Data Management Specialist",
     "Health Information Technician"
   ],
-  "status": "Draft \u2014 source-backed, not approved",
+  "status": "Draft — source-backed, not approved",
   "coverageCredit": {
     "draftedExactTitles": 1,
     "approvedExactTitles": 0,

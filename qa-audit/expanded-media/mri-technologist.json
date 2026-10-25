@@ -1,0 +1,35 @@
+{
+  "profile": "mri-technologist",
+  "src": null,
+  "caption": "One image from a head MRI examination, illustrating the kind of images acquired by MRI technologists.",
+  "alt": "MRI image through the head showing the brain and eyes.",
+  "credit": "Ptrump16",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "status": "blocked_asset_acquisition",
+  "publicationApproved": false,
+  "verifiedDate": "2026-10-25",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MRI_Scan_General_Illustration.jpg",
+  "changes": "No downloaded image or derivative created. Caption/alt remain provisional until pixel inspection.",
+  "evidence": {
+    "method": "Individual source page and license text freshly read via web tool; ordinary original-file GET attempted once in current execution environment.",
+    "source": "February 6, 2022; Commons identifies own work by Ptrump16; CC BY-SA4 license inspected. Preserve attribution, license link and change statement; derivative adaptations must retain compatible share-alike license.",
+    "visualInspection": "Not completed: no image bytes received.",
+    "downloadLog": "qa-audit/expanded-media/science-download-log.json"
+  },
+  "limits": [
+    "Pending permitted asset acquisition, actual-pixel inspection and full-aspect-ratio desktop/mobile/print rendering.",
+    "No occupation mapping or public article approval made.",
+    "CC BY-SA 4.0: attribution, license link and change statement; any adaptation must retain compatible share-alike licensing.",
+    "Clinical illustration only; no diagnosis or patient identity implied."
+  ],
+  "blocker": {
+    "action": "Download original and inspect pixels",
+    "target": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MRI_Scan_General_Illustration.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "Denied by network proxy; no asset created; not retried or bypassed."
+  }
+}

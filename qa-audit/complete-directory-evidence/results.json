@@ -1,0 +1,772 @@
+[
+  {
+    "width": 1365,
+    "titles": [
+      "Athletic Trainer",
+      "Biochemist",
+      "Biomedical Equipment Technician (scoped profile)",
+      "Biomedical/Clinical Engineer",
+      "Biostatistician",
+      "Cancer Registrar",
+      "Central Service or Sterile Processing Technician",
+      "Community Health Worker",
+      "Dental Assistant",
+      "Diagnostic Medical Sonographer",
+      "Emergency Medical Technician",
+      "Health Information Technologist (related occupation)",
+      "Licensed Practical Nurse",
+      "Magnetic Resonance (MR) Technologist",
+      "Medical Assistant",
+      "Medical Records Technician",
+      "Medical Transcriptionist",
+      "Microbiologist",
+      "Occupational Therapist",
+      "Paramedic",
+      "Phlebotomist",
+      "Physical Therapist",
+      "Radiologic Technician",
+      "Registered Nurse",
+      "Surgical Technologist"
+    ],
+    "checks": [
+      {
+        "id": "athletic-trainer",
+        "title": "Athletic Trainer",
+        "found": [
+          "Athletic Trainer"
+        ],
+        "heading": "🏈 Athletic Trainer",
+        "broken": [],
+        "backQuery": "Athletic Trainer",
+        "favoriteId": "athletic-trainer"
+      },
+      {
+        "id": "sterile-processing-technician",
+        "title": "Central Service or Sterile Processing Technician",
+        "found": [
+          "Central Service or Sterile Processing Technician"
+        ],
+        "heading": "🧼 Central Service or Sterile Processing Technician",
+        "broken": [],
+        "backQuery": "Central Service or Sterile Processing Technician",
+        "favoriteId": "sterile-processing-technician"
+      },
+      {
+        "id": "dental-assistant",
+        "title": "Dental Assistant",
+        "found": [
+          "Dental Assistant"
+        ],
+        "heading": "🦷 Dental Assistant",
+        "broken": [],
+        "backQuery": "Dental Assistant",
+        "favoriteId": "dental-assistant"
+      },
+      {
+        "id": "emergency-medical-technician",
+        "title": "Emergency Medical Technician",
+        "found": [
+          "Emergency Medical Technician"
+        ],
+        "heading": "🚑 Emergency Medical Technician",
+        "broken": [],
+        "backQuery": "Emergency Medical Technician",
+        "favoriteId": "emt"
+      },
+      {
+        "id": "medical-assistant",
+        "title": "Medical Assistant",
+        "found": [
+          "Medical Assistant"
+        ],
+        "heading": "📋 Medical Assistant",
+        "broken": [],
+        "backQuery": "Medical Assistant",
+        "favoriteId": "medical-assistant"
+      },
+      {
+        "id": "biochemist",
+        "title": "Biochemist",
+        "found": [
+          "Biochemist"
+        ],
+        "heading": "🏥 Biochemist",
+        "broken": [],
+        "backQuery": "Biochemist",
+        "favoriteId": "biochemist"
+      },
+      {
+        "id": "biomedical-clinical-engineer",
+        "title": "Biomedical/Clinical Engineer",
+        "found": [
+          "Biomedical/Clinical Engineer"
+        ],
+        "heading": "🏥 Biomedical/Clinical Engineer",
+        "broken": [],
+        "backQuery": "Biomedical/Clinical Engineer",
+        "favoriteId": "biomedical-clinical-engineer"
+      },
+      {
+        "id": "biomedical-clinical-technician",
+        "title": "Biomedical Equipment Technician (scoped profile)",
+        "found": [
+          "Biomedical Equipment Technician (scoped profile)"
+        ],
+        "heading": "🏥 Biomedical Equipment Technician (scoped profile)",
+        "broken": [],
+        "backQuery": "Biomedical Equipment Technician (scoped profile)",
+        "favoriteId": "biomedical-clinical-technician"
+      },
+      {
+        "id": "biostatistician",
+        "title": "Biostatistician",
+        "found": [
+          "Biostatistician"
+        ],
+        "heading": "🏥 Biostatistician",
+        "broken": [],
+        "backQuery": "Biostatistician",
+        "favoriteId": "biostatistician"
+      },
+      {
+        "id": "cancer-registrar",
+        "title": "Cancer Registrar",
+        "found": [
+          "Cancer Registrar"
+        ],
+        "heading": "🏥 Cancer Registrar",
+        "broken": [],
+        "backQuery": "Cancer Registrar",
+        "favoriteId": "cancer-registrar"
+      },
+      {
+        "id": "community-health-worker",
+        "title": "Community Health Worker",
+        "found": [
+          "Community Health Worker"
+        ],
+        "heading": "🏥 Community Health Worker",
+        "broken": [],
+        "backQuery": "Community Health Worker",
+        "favoriteId": "community-health-worker"
+      },
+      {
+        "id": "health-information-technologist",
+        "title": "Health Information Technologist (related occupation)",
+        "found": [
+          "Health Information Technologist (related occupation)"
+        ],
+        "heading": "🏥 Health Information Technologist (related occupation)",
+        "broken": [],
+        "backQuery": "Health Information Technologist (related occupation)",
+        "favoriteId": "health-information-technologist"
+      },
+      {
+        "id": "licensed-practical-nurse",
+        "title": "Licensed Practical Nurse",
+        "found": [
+          "Licensed Practical Nurse"
+        ],
+        "heading": "🏥 Licensed Practical Nurse",
+        "broken": [],
+        "backQuery": "Licensed Practical Nurse",
+        "favoriteId": "licensed-practical-nurse"
+      },
+      {
+        "id": "medical-records-specialist",
+        "title": "Medical Records Technician",
+        "found": [
+          "Medical Records Technician"
+        ],
+        "heading": "🏥 Medical Records Technician",
+        "broken": [],
+        "backQuery": "Medical Records Technician",
+        "favoriteId": "medical-records-specialist"
+      },
+      {
+        "id": "medical-transcriptionist",
+        "title": "Medical Transcriptionist",
+        "found": [
+          "Medical Transcriptionist"
+        ],
+        "heading": "🏥 Medical Transcriptionist",
+        "broken": [],
+        "backQuery": "Medical Transcriptionist",
+        "favoriteId": "medical-transcriptionist"
+      },
+      {
+        "id": "microbiologist",
+        "title": "Microbiologist",
+        "found": [
+          "Microbiologist"
+        ],
+        "heading": "🏥 Microbiologist",
+        "broken": [],
+        "backQuery": "Microbiologist",
+        "favoriteId": "microbiologist"
+      },
+      {
+        "id": "mri-technologist",
+        "title": "Magnetic Resonance (MR) Technologist",
+        "found": [
+          "Magnetic Resonance (MR) Technologist"
+        ],
+        "heading": "🏥 Magnetic Resonance (MR) Technologist",
+        "broken": [],
+        "backQuery": "Magnetic Resonance (MR) Technologist",
+        "favoriteId": "mri-technologist"
+      },
+      {
+        "id": "occupational-therapist",
+        "title": "Occupational Therapist",
+        "found": [
+          "Occupational Therapist"
+        ],
+        "heading": "🏥 Occupational Therapist",
+        "broken": [],
+        "backQuery": "Occupational Therapist",
+        "favoriteId": "occupational-therapist"
+      },
+      {
+        "id": "paramedic",
+        "title": "Paramedic",
+        "found": [
+          "Paramedic"
+        ],
+        "heading": "🏥 Paramedic",
+        "broken": [],
+        "backQuery": "Paramedic",
+        "favoriteId": "paramedic"
+      },
+      {
+        "id": "phlebotomist",
+        "title": "Phlebotomist",
+        "found": [
+          "Phlebotomist"
+        ],
+        "heading": "🏥 Phlebotomist",
+        "broken": [],
+        "backQuery": "Phlebotomist",
+        "favoriteId": "phlebotomist"
+      },
+      {
+        "id": "physical-therapist",
+        "title": "Physical Therapist",
+        "found": [
+          "Physical Therapist"
+        ],
+        "heading": "🏥 Physical Therapist",
+        "broken": [],
+        "backQuery": "Physical Therapist",
+        "favoriteId": "physical-therapist"
+      },
+      {
+        "id": "radiologic-technologist",
+        "title": "Radiologic Technician",
+        "found": [
+          "Radiologic Technician"
+        ],
+        "heading": "🏥 Radiologic Technician",
+        "broken": [],
+        "backQuery": "Radiologic Technician",
+        "favoriteId": "radiologic-technologist"
+      },
+      {
+        "id": "registered-nurse",
+        "title": "Registered Nurse",
+        "found": [
+          "Registered Nurse"
+        ],
+        "heading": "🏥 Registered Nurse",
+        "broken": [],
+        "backQuery": "Registered Nurse",
+        "favoriteId": "registered-nurse"
+      },
+      {
+        "id": "surgical-technologist",
+        "title": "Surgical Technologist",
+        "found": [
+          "Surgical Technologist"
+        ],
+        "heading": "🏥 Surgical Technologist",
+        "broken": [],
+        "backQuery": "Surgical Technologist",
+        "favoriteId": "surgical-technologist"
+      }
+    ],
+    "pathways": [
+      {
+        "path": "Diagnostic Services",
+        "got": [
+          "Diagnostic Medical Sonographer",
+          "Magnetic Resonance (MR) Technologist",
+          "Phlebotomist",
+          "Radiologic Technician"
+        ],
+        "expected": [
+          "Diagnostic Medical Sonographer",
+          "Magnetic Resonance (MR) Technologist",
+          "Phlebotomist",
+          "Radiologic Technician"
+        ]
+      },
+      {
+        "path": "Therapeutic Services",
+        "got": [
+          "Athletic Trainer",
+          "Dental Assistant",
+          "Emergency Medical Technician",
+          "Licensed Practical Nurse",
+          "Medical Assistant",
+          "Occupational Therapist",
+          "Paramedic",
+          "Physical Therapist",
+          "Registered Nurse",
+          "Surgical Technologist"
+        ],
+        "expected": [
+          "Athletic Trainer",
+          "Dental Assistant",
+          "Emergency Medical Technician",
+          "Medical Assistant",
+          "Licensed Practical Nurse",
+          "Occupational Therapist",
+          "Paramedic",
+          "Physical Therapist",
+          "Registered Nurse",
+          "Surgical Technologist"
+        ]
+      },
+      {
+        "path": "Support Services",
+        "got": [
+          "Biomedical Equipment Technician (scoped profile)",
+          "Biomedical/Clinical Engineer",
+          "Central Service or Sterile Processing Technician",
+          "Community Health Worker"
+        ],
+        "expected": [
+          "Central Service or Sterile Processing Technician",
+          "Biomedical/Clinical Engineer",
+          "Biomedical Equipment Technician (scoped profile)",
+          "Community Health Worker"
+        ]
+      },
+      {
+        "path": "Biotechnology Research and Development",
+        "got": [
+          "Biochemist",
+          "Biostatistician",
+          "Microbiologist"
+        ],
+        "expected": [
+          "Biochemist",
+          "Biostatistician",
+          "Microbiologist"
+        ]
+      },
+      {
+        "path": "Health Informatics",
+        "got": [
+          "Cancer Registrar",
+          "Health Information Technologist (related occupation)",
+          "Medical Records Technician",
+          "Medical Transcriptionist"
+        ],
+        "expected": [
+          "Cancer Registrar",
+          "Health Information Technologist (related occupation)",
+          "Medical Records Technician",
+          "Medical Transcriptionist"
+        ]
+      }
+    ],
+    "fails": [],
+    "errors": []
+  },
+  {
+    "width": 390,
+    "titles": [
+      "Athletic Trainer",
+      "Biochemist",
+      "Biomedical Equipment Technician (scoped profile)",
+      "Biomedical/Clinical Engineer",
+      "Biostatistician",
+      "Cancer Registrar",
+      "Central Service or Sterile Processing Technician",
+      "Community Health Worker",
+      "Dental Assistant",
+      "Diagnostic Medical Sonographer",
+      "Emergency Medical Technician",
+      "Health Information Technologist (related occupation)",
+      "Licensed Practical Nurse",
+      "Magnetic Resonance (MR) Technologist",
+      "Medical Assistant",
+      "Medical Records Technician",
+      "Medical Transcriptionist",
+      "Microbiologist",
+      "Occupational Therapist",
+      "Paramedic",
+      "Phlebotomist",
+      "Physical Therapist",
+      "Radiologic Technician",
+      "Registered Nurse",
+      "Surgical Technologist"
+    ],
+    "checks": [
+      {
+        "id": "athletic-trainer",
+        "title": "Athletic Trainer",
+        "found": [
+          "Athletic Trainer"
+        ],
+        "heading": "🏈 Athletic Trainer",
+        "broken": [],
+        "backQuery": "Athletic Trainer",
+        "favoriteId": "athletic-trainer"
+      },
+      {
+        "id": "sterile-processing-technician",
+        "title": "Central Service or Sterile Processing Technician",
+        "found": [
+          "Central Service or Sterile Processing Technician"
+        ],
+        "heading": "🧼 Central Service or Sterile Processing Technician",
+        "broken": [],
+        "backQuery": "Central Service or Sterile Processing Technician",
+        "favoriteId": "sterile-processing-technician"
+      },
+      {
+        "id": "dental-assistant",
+        "title": "Dental Assistant",
+        "found": [
+          "Dental Assistant"
+        ],
+        "heading": "🦷 Dental Assistant",
+        "broken": [],
+        "backQuery": "Dental Assistant",
+        "favoriteId": "dental-assistant"
+      },
+      {
+        "id": "emergency-medical-technician",
+        "title": "Emergency Medical Technician",
+        "found": [
+          "Emergency Medical Technician"
+        ],
+        "heading": "🚑 Emergency Medical Technician",
+        "broken": [],
+        "backQuery": "Emergency Medical Technician",
+        "favoriteId": "emt"
+      },
+      {
+        "id": "medical-assistant",
+        "title": "Medical Assistant",
+        "found": [
+          "Medical Assistant"
+        ],
+        "heading": "📋 Medical Assistant",
+        "broken": [],
+        "backQuery": "Medical Assistant",
+        "favoriteId": "medical-assistant"
+      },
+      {
+        "id": "biochemist",
+        "title": "Biochemist",
+        "found": [
+          "Biochemist"
+        ],
+        "heading": "🏥 Biochemist",
+        "broken": [],
+        "backQuery": "Biochemist",
+        "favoriteId": "biochemist"
+      },
+      {
+        "id": "biomedical-clinical-engineer",
+        "title": "Biomedical/Clinical Engineer",
+        "found": [
+          "Biomedical/Clinical Engineer"
+        ],
+        "heading": "🏥 Biomedical/Clinical Engineer",
+        "broken": [],
+        "backQuery": "Biomedical/Clinical Engineer",
+        "favoriteId": "biomedical-clinical-engineer"
+      },
+      {
+        "id": "biomedical-clinical-technician",
+        "title": "Biomedical Equipment Technician (scoped profile)",
+        "found": [
+          "Biomedical Equipment Technician (scoped profile)"
+        ],
+        "heading": "🏥 Biomedical Equipment Technician (scoped profile)",
+        "broken": [],
+        "backQuery": "Biomedical Equipment Technician (scoped profile)",
+        "favoriteId": "biomedical-clinical-technician"
+      },
+      {
+        "id": "biostatistician",
+        "title": "Biostatistician",
+        "found": [
+          "Biostatistician"
+        ],
+        "heading": "🏥 Biostatistician",
+        "broken": [],
+        "backQuery": "Biostatistician",
+        "favoriteId": "biostatistician"
+      },
+      {
+        "id": "cancer-registrar",
+        "title": "Cancer Registrar",
+        "found": [
+          "Cancer Registrar"
+        ],
+        "heading": "🏥 Cancer Registrar",
+        "broken": [],
+        "backQuery": "Cancer Registrar",
+        "favoriteId": "cancer-registrar"
+      },
+      {
+        "id": "community-health-worker",
+        "title": "Community Health Worker",
+        "found": [
+          "Community Health Worker"
+        ],
+        "heading": "🏥 Community Health Worker",
+        "broken": [],
+        "backQuery": "Community Health Worker",
+        "favoriteId": "community-health-worker"
+      },
+      {
+        "id": "health-information-technologist",
+        "title": "Health Information Technologist (related occupation)",
+        "found": [
+          "Health Information Technologist (related occupation)"
+        ],
+        "heading": "🏥 Health Information Technologist (related occupation)",
+        "broken": [],
+        "backQuery": "Health Information Technologist (related occupation)",
+        "favoriteId": "health-information-technologist"
+      },
+      {
+        "id": "licensed-practical-nurse",
+        "title": "Licensed Practical Nurse",
+        "found": [
+          "Licensed Practical Nurse"
+        ],
+        "heading": "🏥 Licensed Practical Nurse",
+        "broken": [],
+        "backQuery": "Licensed Practical Nurse",
+        "favoriteId": "licensed-practical-nurse"
+      },
+      {
+        "id": "medical-records-specialist",
+        "title": "Medical Records Technician",
+        "found": [
+          "Medical Records Technician"
+        ],
+        "heading": "🏥 Medical Records Technician",
+        "broken": [],
+        "backQuery": "Medical Records Technician",
+        "favoriteId": "medical-records-specialist"
+      },
+      {
+        "id": "medical-transcriptionist",
+        "title": "Medical Transcriptionist",
+        "found": [
+          "Medical Transcriptionist"
+        ],
+        "heading": "🏥 Medical Transcriptionist",
+        "broken": [],
+        "backQuery": "Medical Transcriptionist",
+        "favoriteId": "medical-transcriptionist"
+      },
+      {
+        "id": "microbiologist",
+        "title": "Microbiologist",
+        "found": [
+          "Microbiologist"
+        ],
+        "heading": "🏥 Microbiologist",
+        "broken": [],
+        "backQuery": "Microbiologist",
+        "favoriteId": "microbiologist"
+      },
+      {
+        "id": "mri-technologist",
+        "title": "Magnetic Resonance (MR) Technologist",
+        "found": [
+          "Magnetic Resonance (MR) Technologist"
+        ],
+        "heading": "🏥 Magnetic Resonance (MR) Technologist",
+        "broken": [],
+        "backQuery": "Magnetic Resonance (MR) Technologist",
+        "favoriteId": "mri-technologist"
+      },
+      {
+        "id": "occupational-therapist",
+        "title": "Occupational Therapist",
+        "found": [
+          "Occupational Therapist"
+        ],
+        "heading": "🏥 Occupational Therapist",
+        "broken": [],
+        "backQuery": "Occupational Therapist",
+        "favoriteId": "occupational-therapist"
+      },
+      {
+        "id": "paramedic",
+        "title": "Paramedic",
+        "found": [
+          "Paramedic"
+        ],
+        "heading": "🏥 Paramedic",
+        "broken": [],
+        "backQuery": "Paramedic",
+        "favoriteId": "paramedic"
+      },
+      {
+        "id": "phlebotomist",
+        "title": "Phlebotomist",
+        "found": [
+          "Phlebotomist"
+        ],
+        "heading": "🏥 Phlebotomist",
+        "broken": [],
+        "backQuery": "Phlebotomist",
+        "favoriteId": "phlebotomist"
+      },
+      {
+        "id": "physical-therapist",
+        "title": "Physical Therapist",
+        "found": [
+          "Physical Therapist"
+        ],
+        "heading": "🏥 Physical Therapist",
+        "broken": [],
+        "backQuery": "Physical Therapist",
+        "favoriteId": "physical-therapist"
+      },
+      {
+        "id": "radiologic-technologist",
+        "title": "Radiologic Technician",
+        "found": [
+          "Radiologic Technician"
+        ],
+        "heading": "🏥 Radiologic Technician",
+        "broken": [],
+        "backQuery": "Radiologic Technician",
+        "favoriteId": "radiologic-technologist"
+      },
+      {
+        "id": "registered-nurse",
+        "title": "Registered Nurse",
+        "found": [
+          "Registered Nurse"
+        ],
+        "heading": "🏥 Registered Nurse",
+        "broken": [],
+        "backQuery": "Registered Nurse",
+        "favoriteId": "registered-nurse"
+      },
+      {
+        "id": "surgical-technologist",
+        "title": "Surgical Technologist",
+        "found": [
+          "Surgical Technologist"
+        ],
+        "heading": "🏥 Surgical Technologist",
+        "broken": [],
+        "backQuery": "Surgical Technologist",
+        "favoriteId": "surgical-technologist"
+      }
+    ],
+    "pathways": [
+      {
+        "path": "Diagnostic Services",
+        "got": [
+          "Diagnostic Medical Sonographer",
+          "Magnetic Resonance (MR) Technologist",
+          "Phlebotomist",
+          "Radiologic Technician"
+        ],
+        "expected": [
+          "Diagnostic Medical Sonographer",
+          "Magnetic Resonance (MR) Technologist",
+          "Phlebotomist",
+          "Radiologic Technician"
+        ]
+      },
+      {
+        "path": "Therapeutic Services",
+        "got": [
+          "Athletic Trainer",
+          "Dental Assistant",
+          "Emergency Medical Technician",
+          "Licensed Practical Nurse",
+          "Medical Assistant",
+          "Occupational Therapist",
+          "Paramedic",
+          "Physical Therapist",
+          "Registered Nurse",
+          "Surgical Technologist"
+        ],
+        "expected": [
+          "Athletic Trainer",
+          "Dental Assistant",
+          "Emergency Medical Technician",
+          "Medical Assistant",
+          "Licensed Practical Nurse",
+          "Occupational Therapist",
+          "Paramedic",
+          "Physical Therapist",
+          "Registered Nurse",
+          "Surgical Technologist"
+        ]
+      },
+      {
+        "path": "Support Services",
+        "got": [
+          "Biomedical Equipment Technician (scoped profile)",
+          "Biomedical/Clinical Engineer",
+          "Central Service or Sterile Processing Technician",
+          "Community Health Worker"
+        ],
+        "expected": [
+          "Central Service or Sterile Processing Technician",
+          "Biomedical/Clinical Engineer",
+          "Biomedical Equipment Technician (scoped profile)",
+          "Community Health Worker"
+        ]
+      },
+      {
+        "path": "Biotechnology Research and Development",
+        "got": [
+          "Biochemist",
+          "Biostatistician",
+          "Microbiologist"
+        ],
+        "expected": [
+          "Biochemist",
+          "Biostatistician",
+          "Microbiologist"
+        ]
+      },
+      {
+        "path": "Health Informatics",
+        "got": [
+          "Cancer Registrar",
+          "Health Information Technologist (related occupation)",
+          "Medical Records Technician",
+          "Medical Transcriptionist"
+        ],
+        "expected": [
+          "Cancer Registrar",
+          "Health Information Technologist (related occupation)",
+          "Medical Records Technician",
+          "Medical Transcriptionist"
+        ]
+      }
+    ],
+    "fails": [],
+    "errors": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "reviewDate": "2026-10-25",
+  "basis": "Parent-supplied independent source research; local scope correction only",
+  "sourceInventoryEvidence": {
+    "url": "https://healthscienceconsortium.org/wp-content/uploads/2024/10/Health-Science-Career-May-2024-revisions-2.pdf",
+    "finding": "NCHSE lists the titles and pathway appearances, not definitions establishing exact aliases."
+  },
+  "occupationalSource": "https://www.onetonline.org/link/summary/29-2034.00",
+  "disposition": "Evidence-supported general-radiographer crosswalk; not publication approval or limited-scope/modality equivalence.",
+  "preservedSourceAppearanceFields": [
+    "sourcePathways",
+    "sourceRecords",
+    "sourceTitles"
+  ],
+  "publicationDecision": "None; existing approval flags unchanged",
+  "limitations": "No canonical Sheet write or accepted full-library coverage claim."
+}

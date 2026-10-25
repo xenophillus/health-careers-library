@@ -107,7 +107,7 @@ AOTA is distinct from ACOTE, which accredits education programs; NBCOT, which pr
 References accessed October 25, 2026.
 
 1. [BLS — Occupational Therapists](https://www.bls.gov/ooh/healthcare/occupational-therapists.htm).
-2. [O*NET — Occupational Therapists29-1122.00](https://www.onetonline.org/link/summary/29-1122.00).
+2. [O*NET — Occupational Therapists 29-1122.00](https://www.onetonline.org/link/summary/29-1122.00).
 3. [AOTA — What Is Occupational Therapy?](https://www.aota.org/about/what-is-ot).
 4. [AOTA — School-Based Settings](https://www.aota.org/practice/practice-settings/schools-early-intervention-community-education/schools).
 5. [AOTA — Mental Health and Well-Being](https://www.aota.org/practice/clinical-topics/mental-health).

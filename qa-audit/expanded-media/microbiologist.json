@@ -1,0 +1,35 @@
+{
+  "profile": "microbiologist",
+  "src": null,
+  "caption": "Digitally colorized scanning electron micrograph of Staphylococcus aureus bacteria, created in 2001. Color was added digitally to show microscopic structure. Source: CDC / Janice Haney Carr, PHIL 11157, available free from CDC. Use does not imply endorsement by CDC or the U.S. government.",
+  "alt": "Digitally colorized electron micrograph of clustered, round Staphylococcus aureus bacteria",
+  "credit": "CDC / Janice Haney Carr; CDC PHIL11157",
+  "license": "Public domain per CDC PHIL record; attribution and agency reuse terms apply",
+  "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+  "sourceUrl": "https://wwwn.cdc.gov/phil/details.aspx?pid=11157",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "status": "blocked_asset_acquisition",
+  "publicationApproved": false,
+  "verifiedDate": "2026-10-25",
+  "downloadUrl": "https://wwwn.cdc.gov/phil///PHIL_Images/11157/11157_lores.jpg",
+  "changes": "No downloaded image or derivative created. Caption/alt remain provisional until pixel inspection.",
+  "evidence": {
+    "method": "Individual source page and license text freshly read via web tool; ordinary original-file GET attempted once in current execution environment.",
+    "source": "CDC PHIL 11157 identifies 2001 digitally colorized SEM, CDC/Arduino provider, Janice Haney Carr credit and attribution/free-source conditions; agency terms checked.",
+    "visualInspection": "Not completed: no image bytes received.",
+    "downloadLog": "qa-audit/expanded-media/science-download-log.json"
+  },
+  "limits": [
+    "Pending permitted asset acquisition, actual-pixel inspection and full-aspect-ratio desktop/mobile/print rendering.",
+    "No occupation mapping or public article approval made.",
+    "Preserve colorization label; do not imply natural color or microscope photograph at naked-eye scale.",
+    "CDC terms require attribution, free-source statement and prominent non-endorsement disclaimer; do not change substantive image content."
+  ],
+  "blocker": {
+    "action": "Download original and inspect pixels",
+    "target": "https://wwwn.cdc.gov/phil///PHIL_Images/11157/11157_lores.jpg",
+    "reason": "Tunnel connection failed: 403 Forbidden",
+    "outcome": "Denied by network proxy; no asset created; not retried or bypassed."
+  }
+}

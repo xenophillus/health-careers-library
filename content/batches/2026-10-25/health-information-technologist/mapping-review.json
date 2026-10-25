@@ -1,0 +1,15 @@
+{
+  "reviewDate": "2026-10-25",
+  "basis": "Parent-supplied independent source research; local scope correction only",
+  "sourceInventoryEvidence": {
+    "url": "https://healthscienceconsortium.org/wp-content/uploads/2024/10/Health-Science-Career-May-2024-revisions-2.pdf",
+    "finding": "NCHSE lists the titles and pathway appearances, not definitions establishing exact aliases."
+  },
+  "occupationalSource": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+  "disposition": "Related-occupation scope documented; exact source-title alias unresolved. No additional alias or accepted-appearance credit.",
+  "preservedSourceAppearanceFields": [
+    "sourceAppearances"
+  ],
+  "publicationDecision": "None; existing approval flags unchanged",
+  "limitations": "No canonical Sheet write or accepted full-library coverage claim."
+}

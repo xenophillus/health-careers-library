@@ -1,0 +1,23 @@
+{
+  "src": null,
+  "caption": null,
+  "alt": null,
+  "credit": "CDC, National Program of Cancer Registries",
+  "license": "Unresolved asset-specific reuse check; CDC general policy is not proof that every image is public domain",
+  "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+  "sourceUrl": "https://www.cdc.gov/national-program-cancer-registries/registry-plus/data-flow-diagrams.html",
+  "sha256": null,
+  "placementSection": "Duties and Responsibilities",
+  "reviewDate": "2026-10-25",
+  "status": "candidate_acquisition_blocked_text_only_recommended",
+  "evidence": [
+    "CDC page dated May 19, 2026 provides an authentic Registry Plus data-flow diagram and an accessible text description. It distinguishes reporting sources and central-registry processing.",
+    "Ordinary GET https://www.cdc.gov/national-program-cancer-registries/media/data-flow-to-Registry-Plus-diagram-sq.jpg returned Tunnel connection failed: 403 Forbidden; no bytes saved.",
+    "CDC agency-materials policy permits most public-domain content but explicitly notes contractor/third-party image exceptions, requires credit, nonendorsement, unchanged substantive content and free-source notice."
+  ],
+  "limits": [
+    "Pixels not inspected; any embedded credit or third-party restriction unknown. Do not mark public domain merely because hosted by CDC.",
+    "Diagram covers named software products and data formats; likely more specialized than this high-school career introduction."
+  ],
+  "recommendation": "Retain text-only: casefinding/abstracting list and worked discrepancy example explain registrar reasoning better than a software architecture graphic. Keep CDC page as optional further reading; do not embed unverified image."
+}

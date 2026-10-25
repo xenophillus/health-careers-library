@@ -99,7 +99,7 @@ All sources accessed October 25, 2026.
 
 - [BLS: Microbiologists, Occupational Outlook Handbook](https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm) — national pay, outlook and typical preparation.
 - [O*NET: Microbiologists, 19-1022.00](https://www.onetonline.org/link/summary/19-1022.00) — occupational tasks and capabilities.
-- [ASM: Careers in Microbiology and the Microbial Sciences](https://asm.org/articles/2018/november/careers-in-microbiology-and-the-microbial-sciences) — education and research career routes; older wage examples are not used here.
+- [ASM: Careers in Microbiology and the Microbial Sciences](https://asm.org/articles/2018/november/careers-in-microbiology-and-the-microbial-sciences) — education and research career routes.
 - [ASM: Clinical and Public Health Microbiology Careers](https://asm.org/careers-in-clinical-public-health-microbiology) — clinical testing, public-health work and professional resources.
 - [ASM: Certification in the Clinical Microbiology Laboratory](https://asm.org/articles/2023/march/how-to-become-certified-in-the-clinical-microbiolo) — clinical credential context.
 - [ASM: Reference and Non-Reference Microbiology Laboratories](https://asm.org/articles/2023/june/working-in-a-reference-non-reference-microbiology) — settings and advancement examples.

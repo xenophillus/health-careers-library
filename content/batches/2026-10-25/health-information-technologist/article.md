@@ -6,6 +6,8 @@
 
 ## Career Overview
 
+Medical information work includes several careers involving healthcare data and computer systems. This profile explores the related occupation of **health information technologist**, described by [BLS](https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm). A position advertised as Medical Information Technologist should be compared by its duties and qualifications; the title alone does not establish an identical role.
+
 Health information technologists connect healthcare work with the information systems and data that support it. They help organizations make electronic information dependable and useful: a system must capture the right information, allow appropriate access, and produce reports people can interpret.
 
 The work can emphasize electronic health record implementation, staff support, or analysis of clinical data. It differs from maintaining an individual chart or coding a single encounter. A technologist may investigate why a whole set of records is incomplete or help a team change the way information is collected. The goal is better use of information in healthcare, not direct patient treatment.
@@ -61,7 +63,7 @@ Employers may prefer or require professional certification, but there is no sing
 
 HIMSS offers the Certified Associate in Healthcare Information and Management Systems (CAHIMS) credential for foundational health information and technology knowledge. Its coverage concerns supporting technology and healthcare workflows; it is not a clinical license.
 
-AHIMA offers health information credentials for different roles. The RHIT, for example, has specific HIM education requirements and is not automatically available after any health informatics program. Earning a technology or information credential does not confer authority to diagnose, prescribe, or provide other licensed clinical care.
+AHIMA offers health information credentials for different roles. The RHIT, for example, has specific HIM education requirements and is not automatically available after any health informatics program. It is not a universal requirement for health information technology jobs; students should match a credential to the particular role. Earning a technology or information credential does not confer authority to diagnose, prescribe, or provide other licensed clinical care.
 
 ## Salary, Entry-Level Earnings, and Job Outlook
 

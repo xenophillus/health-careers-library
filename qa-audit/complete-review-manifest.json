@@ -1,0 +1,738 @@
+{
+  "scope": "24 prepared drafts; separate local review surface, not deployed",
+  "publicationApprovals": 0,
+  "illustrated": [
+    "athletic-trainer",
+    "sterile-processing-technician",
+    "dental-assistant",
+    "emergency-medical-technician",
+    "medical-assistant",
+    "paramedic"
+  ],
+  "textOnly": [
+    "biochemist",
+    "biomedical-clinical-engineer",
+    "biomedical-clinical-technician",
+    "biostatistician",
+    "cancer-registrar",
+    "community-health-worker",
+    "health-information-technologist",
+    "licensed-practical-nurse",
+    "medical-records-specialist",
+    "medical-transcriptionist",
+    "microbiologist",
+    "mri-technologist",
+    "occupational-therapist",
+    "phlebotomist",
+    "physical-therapist",
+    "radiologic-technologist",
+    "registered-nurse",
+    "surgical-technologist"
+  ],
+  "profiles": [
+    {
+      "id": "athletic-trainer",
+      "title": "Athletic Trainer",
+      "sha256": "05dad04599ae84580288476dace0bebede481bebd15a6d142bab6599f4a1f418",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 4,
+          "sourceTitle": "Athletic Trainer",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "athletictrainer",
+          "workingProfileId": "hcl-athletictrainer",
+          "batchFolder": "athletic-trainer",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "biochemist",
+      "title": "Biochemist",
+      "sha256": "281803d1c5734333d56b0126e7defd017bbc7ea5ccfcf4cf9125f4685bc1c2ef",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 159,
+          "sourceTitle": "Biochemist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "biochemist",
+          "workingProfileId": "hcl-biochemist",
+          "batchFolder": "biochemist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "biomedical-clinical-engineer",
+      "title": "Biomedical/Clinical Engineer",
+      "sha256": "0a2f22047e7db1ddf85b4391304d78177794a8637ae39d0831a44751cb2f5a25",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 139,
+          "sourceTitle": "Biomedical/Clinical Engineer",
+          "sourcePathway": "Support Services",
+          "sourceKey": "biomedicalclinicalengineer",
+          "workingProfileId": "hcl-biomedicalclinicalengineer",
+          "batchFolder": "biomedical-clinical-engineer",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        },
+        {
+          "sourceIndex": 164,
+          "sourceTitle": "Biomedical/Clinical Engineer",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "biomedicalclinicalengineer",
+          "workingProfileId": "hcl-biomedicalclinicalengineer",
+          "batchFolder": "biomedical-clinical-engineer",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "biomedical-clinical-technician",
+      "title": "Biomedical/Clinical Technician",
+      "sha256": "5c3471fca18b4993a8fef45b630abad65b222d849513f027d907d9214f216df0",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 140,
+          "sourceTitle": "Biomedical/Clinical Technician",
+          "sourcePathway": "Support Services",
+          "sourceKey": "biomedicalclinicaltechnician",
+          "workingProfileId": "hcl-biomedicalclinicaltechnician",
+          "batchFolder": "biomedical-clinical-technician",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        },
+        {
+          "sourceIndex": 165,
+          "sourceTitle": "Biomedical/Clinical Technician",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "biomedicalclinicaltechnician",
+          "workingProfileId": "hcl-biomedicalclinicaltechnician",
+          "batchFolder": "biomedical-clinical-technician",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Equipment-service scope only; two original appearances retained; exact mapping unresolved"
+    },
+    {
+      "id": "biostatistician",
+      "title": "Biostatistician",
+      "sha256": "01c54ddbee267a8a85399118acfa0a3b2596f6d92b60b510acc67bc025d25867",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 166,
+          "sourceTitle": "Biostatistician",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "biostatistician",
+          "workingProfileId": "hcl-biostatistician",
+          "batchFolder": "biostatistician",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "cancer-registrar",
+      "title": "Cancer Registrar",
+      "sha256": "60bac0a1d5b93ae3808ac3597438698bf5c3670460a7f798b930f1411cc85e8e",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 98,
+          "sourceTitle": "Cancer Registrar",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "cancerregistrar",
+          "workingProfileId": "hcl-cancerregistrar",
+          "batchFolder": "cancer-registrar",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "community-health-worker",
+      "title": "Community Health Worker",
+      "sha256": "6cf180e69577edf950b41918999fcae88e4a5bdc0a0e62abed7039cf38f8c68e",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 144,
+          "sourceTitle": "Community Health Worker",
+          "sourcePathway": "Support Services",
+          "sourceKey": "communityhealthworker",
+          "workingProfileId": "hcl-communityhealthworker",
+          "batchFolder": "community-health-worker",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "dental-assistant",
+      "title": "Dental Assistant",
+      "sha256": "c980bffdfbd86bbe58546e90f81f35ef8b455039717d0f7f73bf48e7b9c99d8f",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 9,
+          "sourceTitle": "Dental Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "dentalassistant",
+          "workingProfileId": "hcl-dentalassistant",
+          "batchFolder": "dental-assistant",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "emergency-medical-technician",
+      "title": "Emergency Medical Technician",
+      "sha256": "a9639814dd853614fbcb86096e63e9a4571238df469ce1344bac049e3df5ae0e",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 17,
+          "sourceTitle": "Emergency Medical Technician",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "emergencymedicaltechnician",
+          "workingProfileId": "hcl-emergencymedicaltechnician",
+          "batchFolder": "emergency-medical-technician",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "health-information-technologist",
+      "title": "Medical Information Technologist",
+      "sha256": "d71e124c2bd04ed37736e869103db0002a7e0fe736234f9bf98518e457bd6780",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 122,
+          "sourceTitle": "Medical Information Technologist",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "medicalinformationtechnologist",
+          "workingProfileId": "hcl-medicalinformationtechnologist",
+          "batchFolder": "health-information-technologist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Related occupation; exact alias unresolved; no exact-title coverage credit"
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "title": "Licensed Practical Nurse",
+      "sha256": "7671f96bd583f1dc739073ed3fe5e2aee0cc7f500ed9d98b3f75e8e3b6a48af4",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 20,
+          "sourceTitle": "Licensed Practical Nurse",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "licensedpracticalnurse",
+          "workingProfileId": "hcl-licensedpracticalnurse",
+          "batchFolder": "licensed-practical-nurse",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "medical-assistant",
+      "title": "Medical Assistant",
+      "sha256": "d4558acdc3b5cd220895d2f7912281d3c6e44d4a0633c9eaeb600d38502b4b0f",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 22,
+          "sourceTitle": "Medical Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "medicalassistant",
+          "workingProfileId": "hcl-medicalassistant",
+          "batchFolder": "medical-assistant",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        },
+        {
+          "sourceIndex": 120,
+          "sourceTitle": "Medical Assistant",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "medicalassistant",
+          "workingProfileId": "hcl-medicalassistant",
+          "batchFolder": "medical-assistant",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "medical-records-specialist",
+      "title": "Medical Records Technician",
+      "sha256": "746908158a5de4b84adafe81a36aff166eb1bb0f4a27881770d4bf26ee5154cc",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 124,
+          "sourceTitle": "Medical Records Technician",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "medicalrecordstechnician",
+          "workingProfileId": "hcl-medicalrecordstechnician",
+          "batchFolder": "medical-records-specialist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "medical-transcriptionist",
+      "title": "Medical Transcriptionist",
+      "sha256": "b7942733a9e9b27af9c84b21ceb0d85dc366d8c69ed00b29ac3784a69b8bff63",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 125,
+          "sourceTitle": "Medical Transcriptionist",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "medicaltranscriptionist",
+          "workingProfileId": "hcl-medicaltranscriptionist",
+          "batchFolder": "medical-transcriptionist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "microbiologist",
+      "title": "Microbiologist",
+      "sha256": "cfef16c422e556373b687d9330d86a74bf761fe0945cd787fafb33d850e87a73",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 178,
+          "sourceTitle": "Microbiologist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "microbiologist",
+          "workingProfileId": "hcl-microbiologist",
+          "batchFolder": "microbiologist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "mri-technologist",
+      "title": "Magnetic Resonance (MR) Technologist",
+      "sha256": "d9482b1302d316da28cdd23d8a4c9b783a7bb5ec3128796c23ccb0c23abd6391",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 71,
+          "sourceTitle": "Magnetic Resonance (MR) Technologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "magneticresonancemrtechnologist",
+          "workingProfileId": "hcl-magneticresonancemrtechnologist",
+          "batchFolder": "mri-technologist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "occupational-therapist",
+      "title": "Occupational Therapist",
+      "sha256": "e57f8c0861a002568545e4c80c5f86009a50186a839c407701361d9c861fc02f",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 25,
+          "sourceTitle": "Occupational Therapist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "occupationaltherapist",
+          "workingProfileId": "hcl-occupationaltherapist",
+          "batchFolder": "occupational-therapist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        },
+        {
+          "sourceIndex": 78,
+          "sourceTitle": "Occupational Therapist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "occupationaltherapist",
+          "workingProfileId": "hcl-occupationaltherapist",
+          "batchFolder": "occupational-therapist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "paramedic",
+      "title": "Paramedic",
+      "sha256": "648166382ae0cb5a001c69b10872903af4c8ead979bea241804bcde96a89d13e",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 30,
+          "sourceTitle": "Paramedic",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "paramedic",
+          "workingProfileId": "hcl-paramedic",
+          "batchFolder": "paramedic",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "phlebotomist",
+      "title": "Phlebotomist",
+      "sha256": "30186059fd5f2b9467265a1971981b379960bfa60562f9bca411f4cbb0ba400d",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 83,
+          "sourceTitle": "Phlebotomist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "phlebotomist",
+          "workingProfileId": "hcl-phlebotomist",
+          "batchFolder": "phlebotomist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "physical-therapist",
+      "title": "Physical Therapist",
+      "sha256": "40200fdb36d64fa96c11b640d020faad26c8fd9d9e96c69a13c95faa42ade704",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 36,
+          "sourceTitle": "Physical Therapist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "physicaltherapist",
+          "workingProfileId": "hcl-physicaltherapist",
+          "batchFolder": "physical-therapist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        },
+        {
+          "sourceIndex": 84,
+          "sourceTitle": "Physical Therapist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "physicaltherapist",
+          "workingProfileId": "hcl-physicaltherapist",
+          "batchFolder": "physical-therapist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "radiologic-technologist",
+      "title": "Radiologic Technician",
+      "sha256": "e10609d75a5d2fc34eeeed11decee8b0ca94523d0a418aaa321a7c74314a335b",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 88,
+          "sourceTitle": "Radiologic Technician",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "radiologictechnician",
+          "workingProfileId": "hcl-radiologictechnician",
+          "batchFolder": "radiologic-technologist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Supported general-radiographer crosswalk; excludes limited-scope X-ray equivalence"
+    },
+    {
+      "id": "registered-nurse",
+      "title": "Registered Nurse",
+      "sha256": "7a13bc4a7533a3b4724c865926617c8a2a6a4b808824869e8f5fc6ca9eedcb97",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 45,
+          "sourceTitle": "Registered Nurse",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "registerednurse",
+          "workingProfileId": "hcl-registerednurse",
+          "batchFolder": "registered-nurse",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "sterile-processing-technician",
+      "title": "Central Service or Sterile Processing Technician",
+      "sha256": "c2fea215a7a09e64d4e0bbeb73f6e28accc98387f5ff48ee6fb20a099d946714",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 143,
+          "sourceTitle": "Central Service or Sterile Processing Technician",
+          "sourcePathway": "Support Services",
+          "sourceKey": "centralserviceorsterileprocessingtechnician",
+          "workingProfileId": "hcl-centralserviceorsterileprocessingtechnician",
+          "batchFolder": "sterile-processing-technician",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    },
+    {
+      "id": "surgical-technologist",
+      "title": "Surgical Technologist",
+      "sha256": "9c279041a0631b414545a53ca560e8b86981f902bd60c12785536414352a9792",
+      "sectionCount": 15,
+      "sourceAppearances": [
+        {
+          "sourceIndex": 51,
+          "sourceTitle": "Surgical Technologist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "surgicaltechnologist",
+          "workingProfileId": "hcl-surgicaltechnologist",
+          "batchFolder": "surgical-technologist",
+          "authoredDraftPresent": true,
+          "mappingStatus": "Proposed exact-title link via canonical Career Profiles; occupation boundary/aliases require separate review",
+          "sectionCheck": "15 sections pass",
+          "sourceCheck": "Claim records present; see individual verification limits",
+          "imageCheck": "See per-profile media evidence; not globally cleared",
+          "editorialCheck": "Independent final approval pending",
+          "functionalCheck": "Pending integration; runtime owner",
+          "publicationApproval": "Not approved"
+        }
+      ],
+      "ownerApproval": "Pending",
+      "mapping": "Retain original inventory mapping"
+    }
+  ]
+}

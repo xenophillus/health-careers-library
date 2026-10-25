@@ -1,0 +1,72 @@
+[
+  {
+    "id": "paramedic",
+    "width": 1365,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "width": 1365,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "cancer-registrar",
+    "width": 1365,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "medical-records-specialist",
+    "width": 1365,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "medical-transcriptionist",
+    "width": 1365,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "paramedic",
+    "width": 390,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "biomedical-clinical-engineer",
+    "width": 390,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "cancer-registrar",
+    "width": 390,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "medical-records-specialist",
+    "width": 390,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  },
+  {
+    "id": "medical-transcriptionist",
+    "width": 390,
+    "aside": 0,
+    "tabs": 15,
+    "overflow": false
+  }
+]

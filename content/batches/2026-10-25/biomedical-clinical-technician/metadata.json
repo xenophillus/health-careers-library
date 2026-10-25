@@ -7,8 +7,9 @@
     "Biotechnology Research and Development"
   ],
   "sourceAppearanceCount": 2,
-  "scope": "Proposed equipment-service interpretation of grouped label, aligned with BMET/medical equipment repairers. Clinical laboratory/biotechnology bench technician meanings remain unresolved and are not silently mapped.",
+  "scope": "Equipment-service scope: biomedical equipment technology / medical equipment repair. Both original pathway appearances preserved; no exact equivalence with clinical laboratory or biotechnology bench technician work asserted.",
   "editorialStatus": "research_draft_not_approved",
   "approved": false,
-  "sectionCount": 15
+  "sectionCount": 15,
+  "mappingStatus": "Scoped draft supported; exact grouped-title meaning and biotechnology appearance remain unresolved."
 }
