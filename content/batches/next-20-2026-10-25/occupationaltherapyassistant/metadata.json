@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-occupationaltherapyassistant",
+  "title": "Occupational Therapy Assistant",
+  "sourceKey": "occupationaltherapyassistant",
+  "sourceIndices": [
+    26
+  ],
+  "sourceTitle": "Occupational Therapy Assistant",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title retained. Occupational Therapist Assistant is a separately listed source label and is not silently merged into this draft."
+}

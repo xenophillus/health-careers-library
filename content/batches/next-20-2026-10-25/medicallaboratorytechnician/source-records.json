@@ -1,0 +1,117 @@
+[
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-1",
+    "organizationTitle": "BLS — Clinical Laboratory Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+    "claimSupported": "Laboratory roles, settings, demands, May 2025 U.S. combined-group wage, and 2025–2035 outlook.",
+    "sections": [
+      1,
+      4,
+      6,
+      9,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-2",
+    "organizationTitle": "ASCLS — Scope of Practice and Personnel Standards",
+    "url": "https://ascls.org/scope-of-practice/",
+    "claimSupported": "Professional responsibilities, personnel education distinctions, quality and career progression.",
+    "sections": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-3",
+    "organizationTitle": "O*NET — Medical and Clinical Laboratory Technicians",
+    "url": "https://www.onetonline.org/link/summary/29-2012.00",
+    "claimSupported": "Testing, equipment, quality control, work context, communication and recordkeeping.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-4",
+    "organizationTitle": "CMS — Assessing Personnel Competency",
+    "url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/clia_compbrochure_508.pdf",
+    "claimSupported": "Moderate/high-complexity testing competency, observation, reporting and quality records.",
+    "sections": [
+      3,
+      8,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-5",
+    "organizationTitle": "ASCLS — Becoming a Clinical Laboratory Professional",
+    "url": "https://ascls.org/how-do-i-become-a-laboratory-professional/",
+    "claimSupported": "Science preparation, MLT education, clinical experience, and career pathways.",
+    "sections": [
+      5,
+      7,
+      10,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-6",
+    "organizationTitle": "ASCP — Medical Laboratory Technician",
+    "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/MLT",
+    "claimSupported": "Route 1 associate-or-credit requirement together with recent accredited MLT program; credentialing.",
+    "sections": [
+      7,
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-7",
+    "organizationTitle": "KDHE — CLIA Laboratory Certification",
+    "url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen",
+    "claimSupported": "Kansas CLIA administration and laboratory certification.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-medicallaboratorytechnician",
+    "sourceId": "medicallaboratorytechnician-source-8",
+    "organizationTitle": "American Society for Clinical Laboratory Science",
+    "url": "https://ascls.org/",
+    "claimSupported": "Professional education, communities and career resources.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  }
+]

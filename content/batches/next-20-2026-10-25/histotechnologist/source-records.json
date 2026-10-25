@@ -1,0 +1,129 @@
+[
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-1",
+    "organizationTitle": "National Society for Histotechnology — About Histotechnology",
+    "url": "https://www.nsh.org/about/about-histotechnology",
+    "claimSupported": "Tissue preparation, staining, professional skills, pathologist relationship, and modern methods.",
+    "sections": [
+      1,
+      2,
+      5,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-2",
+    "organizationTitle": "O*NET — Histotechnologists, 29-2011.04",
+    "url": "https://www.onetonline.org/link/summary/29-2011.04",
+    "claimSupported": "Tissue tasks, troubleshooting, quality checks, work context and advancement.",
+    "sections": [
+      1,
+      2,
+      3,
+      6,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-3",
+    "organizationTitle": "ASCP — HTL, Scientist in Histotechnology",
+    "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/HTL",
+    "claimSupported": "Current credential name, Route 1 academic and accredited-program requirements, practice areas and credential distinctions.",
+    "sections": [
+      3,
+      5,
+      7,
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-4",
+    "organizationTitle": "Mayo Clinic — Histology Technician",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/histology-technician/",
+    "claimSupported": "Shared histology laboratory settings and tissue-preparation context; technician education is not substituted for HTL requirements.",
+    "sections": [
+      4,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-5",
+    "organizationTitle": "BLS — Clinical Laboratory Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+    "claimSupported": "Broad laboratory settings, roles, national May 2025 group wage and 2025–2035 projection.",
+    "sections": [
+      4,
+      9,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-6",
+    "organizationTitle": "NSH — Resources",
+    "url": "https://www.nsh.org/Resources/",
+    "claimSupported": "Laboratory health and safety resources.",
+    "sections": [
+      6
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-7",
+    "organizationTitle": "CMS — CLIA",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "claimSupported": "Federal clinical laboratory quality regulation, distinct from individual certification.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-8",
+    "organizationTitle": "KDHE — CLIA Laboratory Certification",
+    "url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen",
+    "claimSupported": "Kansas CLIA administration by Laboratory Improvement Program Office.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-histotechnologist",
+    "sourceId": "histotechnologist-source-9",
+    "organizationTitle": "National Society for Histotechnology",
+    "url": "https://www.nsh.org/home",
+    "claimSupported": "Professional education, publications and society resources.",
+    "sections": [
+      13,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  }
+]

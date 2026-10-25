@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-radiationtherapist",
+  "title": "Radiation Therapist",
+  "sourceTitle": "Radiation Therapist",
+  "sourceKey": "radiationtherapist",
+  "sourceIndices": [
+    43
+  ],
+  "sourcePathways": [
+    "Therapeutic Services"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact Radiation Therapist inventory title; not radiography, dosimetry or radiation oncology."
+}

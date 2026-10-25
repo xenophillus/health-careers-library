@@ -1,0 +1,122 @@
+[
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-1",
+    "organizationTitle": "BLS — Cardiovascular Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
+    "claimSupported": "National May 2025 group wage, 2025–2035 outlook, education, settings and role distinctions.",
+    "sections": [
+      1,
+      4,
+      7,
+      9,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-2",
+    "organizationTitle": "Mayo Clinic — Cardiovascular Invasive Specialist",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/",
+    "claimSupported": "Invasive role, team duties, skills and advancement; supports illustrative workflow synthesis.",
+    "sections": [
+      1,
+      3,
+      5,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-3",
+    "organizationTitle": "O*NET — Cardiovascular Technologists and Technicians",
+    "url": "https://www.onetonline.org/link/summary/29-2031.00",
+    "claimSupported": "Occupational-group tasks and work context; supports duties, tradeoff and reflection synthesis.",
+    "sections": [
+      2,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-4",
+    "organizationTitle": "Mayo Clinic — Minnesota program",
+    "url": "https://college.mayo.edu/academics/health-sciences-education/cardiovascular-invasive-specialist-minnesota/",
+    "claimSupported": "Named 21-month program example, clinical preparation and accreditation.",
+    "sections": [
+      7,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-5",
+    "organizationTitle": "CCI — RCIS",
+    "url": "https://cci-online.org/credentials/registered-cardiovascular-invasive-specialist/",
+    "claimSupported": "RCIS specialty and accredited-program eligibility pathway.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-6",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-7303",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+    "claimSupported": "Radiologic-technology license requirement subject to statutory exceptions.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-7",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-7304",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/",
+    "claimSupported": "Exemptions, including specified supervised arrangements; not a determination of individual eligibility.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-8",
+    "organizationTitle": "CCI — Credential categories",
+    "url": "https://cci-online.org/credentials/get-credentialed/",
+    "claimSupported": "Distinct invasive, electrophysiology and other cardiovascular credentials.",
+    "sections": [
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-cardiovasculartechnologist",
+    "sourceId": "cardiovasculartechnologist-source-9",
+    "organizationTitle": "CCI — Professional societies",
+    "url": "https://cci-online.org/professional-societies-organizations/",
+    "claimSupported": "Professional communities and distinction from credentialing.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  }
+]

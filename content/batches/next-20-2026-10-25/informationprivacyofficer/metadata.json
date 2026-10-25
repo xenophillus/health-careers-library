@@ -1,0 +1,15 @@
+{
+  "title": "Information Privacy Officer",
+  "sourceTitle": "Information Privacy Officer",
+  "sourceKey": "informationprivacyofficer",
+  "workingProfileId": "hcl-informationprivacyofficer",
+  "sourceIndices": [
+    117
+  ],
+  "sourcePathways": [
+    "Health Informatics"
+  ],
+  "mapping": "Inventory sourceIndex 117, exact title Information Privacy Officer. Healthcare privacy-program role, including HIPAA-designated privacy official where applicable; not a universal standalone occupation or clinical license. Distinct from IT security, legal counsel, and broader Health Information Administrator. No exact SOC wage equivalence asserted.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Prepared editorial draft; no publication or canonical action"
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-1",
+    "organizationTitle": "FDA — Computed Tomography",
+    "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/computed-tomography-ct",
+    "claimSupported": "CT technology, uses, radiation and optimization principles.",
+    "sections": [
+      1,
+      5,
+      6,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-2",
+    "organizationTitle": "RadiologyInfo — Body CT",
+    "url": "https://www.radiologyinfo.org/en/info/bodyct",
+    "claimSupported": "CT applications, contrast preparation and radiologist interpretation; reviewed June 2026.",
+    "sections": [
+      1,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-3",
+    "organizationTitle": "ASRT — Computed Tomography Practice Standards",
+    "url": "https://www.asrt.org/docs/default-source/practice-standards/ps_computedtomography.pdf?sfvrsn=9e076d0_24",
+    "claimSupported": "Professional workflow, quality and patient responsibilities; supports illustrative day and reflective synthesis.",
+    "sections": [
+      2,
+      3,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-4",
+    "organizationTitle": "ARRT — CT Postprimary Pathway",
+    "url": "https://www.arrt.org/pages/resources/earn-additional-credentials/earn-additional-credentials-postprimary/computed-tomography",
+    "claimSupported": "CT settings, patient care, supporting credentials, structured education, clinical experience, ethics and examination.",
+    "sections": [
+      3,
+      4,
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-5",
+    "organizationTitle": "BLS — Radiologic and MRI Technologists",
+    "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+    "claimSupported": "Work setting and physical demands; radiologic technologists/technicians May 2025 national group wage and 2025–2035 projection.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-6",
+    "organizationTitle": "ASRT — Careers in Radiologic Technology",
+    "url": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+    "claimSupported": "Imaging disciplines, preparation, career development and association resources.",
+    "sections": [
+      5,
+      10,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-7",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-7303",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+    "claimSupported": "Radiologic technology licensure requirement subject to statutory exceptions.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-8",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-7304",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/",
+    "claimSupported": "Exemptions including specified supervised personnel; bounded legal summary.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  },
+  {
+    "workingProfileId": "hcl-computertomographycttechnologist",
+    "sourceId": "computertomographycttechnologist-source-9",
+    "organizationTitle": "ARRT — CT Credential",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/computed-tomography",
+    "claimSupported": "Credential purpose and postprimary pathway; separate from professional association.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source content retrieved and bounded claims checked; independent editorial review pending."
+  }
+]

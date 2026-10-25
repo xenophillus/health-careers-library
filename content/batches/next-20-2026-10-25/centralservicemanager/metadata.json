@@ -1,0 +1,15 @@
+{
+  "title": "Central Service Manager",
+  "sourceTitle": "Central Service Manager",
+  "sourceKey": "centralservicemanager",
+  "workingProfileId": "hcl-centralservicemanager",
+  "sourceIndices": [
+    142
+  ],
+  "sourcePathways": [
+    "Support Services"
+  ],
+  "mapping": "Inventory sourceIndex 142, exact title Central Service Manager. Interpreted as healthcare central service/sterile processing leadership, supported by HSPA central service history and CHL role. Not merged with sterile processing technician, general supply-chain manager, or facilities manager. No technician wage used for manager.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Prepared editorial draft; no publication or canonical action"
+}
