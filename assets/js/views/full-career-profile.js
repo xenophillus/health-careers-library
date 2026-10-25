@@ -12,7 +12,7 @@ export function fullCareerProfile(profileData){
   const current=sections.find(x=>x.id===state.section)||sections[0];
   const fav=favorites.includes(c.id);
   const media=careerMedia[c.id];
-  const photo=media ? `<figure class="career-figure"><img class="profile-career-photo" src="${esc(media.src)}" alt="${esc(media.alt)}"><figcaption>${esc(media.credit)}</figcaption></figure>` : '';
+  const photo=media ? `<figure class="career-figure"><img class="profile-career-photo" src="${esc(media.src)}" alt="${esc(media.alt)}"><figcaption>Photo: <a href="${esc(media.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(media.credit)}</a> · ${esc(media.license)}</figcaption></figure>` : '';
   const menus=sections.map(s=>`<button class="${current.id===s.id?'active':''}" onclick="state.section='${s.id}';render();" aria-current="${current.id===s.id?'true':'false'}">${esc(s.name)}</button>`).join('');
   const allContent=sections.map(s=>`<section class="print-section"><h2>${esc(s.name)}</h2>${s.html}</section>`).join('');
   const facts=profileData.facts.map(f=>`<div class="fact"><label>${esc(f.label)}</label><b>${esc(f.value)}</b>${f.detail?`<small>${esc(f.detail)}</small>`:''}</div>`).join('');
