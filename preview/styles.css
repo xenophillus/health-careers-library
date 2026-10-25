@@ -270,3 +270,24 @@ body{background:#fff}
 @media(max-width:700px){.hero-career-grid{min-height:340px;grid-template-rows:repeat(2,minmax(145px,1fr))}.hero-careers{padding:12px}.hero-career-caption strong{font-size:12px}.hero-career-main .hero-career-caption strong{font-size:15px}}
 @media(max-width:390px){.hero-career-grid{grid-template-columns:1fr;grid-template-rows:repeat(3,185px)}.hero-career-main{grid-row:auto}.hero-career button{min-height:185px}}
 @media(prefers-reduced-motion:reduce){.hero-career img{transition:none}.hero-career button:hover img{transform:none}}
+
+/* Approved profession imagery; cards remain legible with emoji fallback. */
+.career-photo{width:100%;max-height:170px;aspect-ratio:16/9;object-fit:cover;display:block;border-radius:13px;background:#eaf2f1}
+.profile-career-photo{width:100%;max-height:340px;aspect-ratio:16/9;object-fit:cover;border-radius:16px;margin:1rem 0 1.4rem;background:#eaf2f1}
+@media print{.career-photo,.profile-career-photo{max-height:160px}}
+
+.career-visual{position:relative;max-width:100%}.career-emoji-overlay{position:absolute;left:.5rem;bottom:.5rem;padding:.15rem .35rem;background:rgba(255,255,255,.93);border-radius:.65rem;font-size:1.7rem;line-height:1.35;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+
+/* Accessible two-thumb range filters. Native range inputs support touch and keyboard. */
+.dual-range{position:relative;height:42px;margin:10px 3px 14px;display:flex;align-items:center;touch-action:pan-y}
+.dual-range-track{position:absolute;left:0;right:0;height:7px;border-radius:99px;background:linear-gradient(to right,#d6e3e3 0%,#d6e3e3 var(--range-start),var(--teal) var(--range-start),var(--teal) var(--range-end),#d6e3e3 var(--range-end),#d6e3e3 100%);pointer-events:none}
+.dual-range input[type=range]{position:absolute;left:0;top:0;width:100%;height:42px;margin:0;padding:0;appearance:none;-webkit-appearance:none;background:transparent;pointer-events:none;cursor:pointer}
+.dual-range input[type=range]::-webkit-slider-runnable-track{height:7px;background:transparent}
+.dual-range input[type=range]::-moz-range-track{height:7px;background:transparent}
+.dual-range input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:20px;height:26px;border:2px solid white;border-radius:7px;background:var(--teal);box-shadow:0 1px 6px #18314855;margin-top:-10px;pointer-events:auto;cursor:grab}
+.dual-range input[type=range]::-moz-range-thumb{width:18px;height:24px;border:2px solid white;border-radius:7px;background:var(--teal);box-shadow:0 1px 6px #18314855;pointer-events:auto;cursor:grab}
+.dual-range input[type=range]:focus-visible{outline:none}
+.dual-range input[type=range]:focus-visible::-webkit-slider-thumb{outline:3px solid #f0a18b;outline-offset:3px}
+.dual-range input[type=range]:focus-visible::-moz-range-thumb{outline:3px solid #f0a18b;outline-offset:3px}
+.dual-range input[type=range]:last-child{z-index:1}
+.dual-range input[type=range]:focus{z-index:2}
