@@ -1,7 +1,7 @@
 // Reconcile public trial careers with unpublished drafts before promotion.
 import fs from 'node:fs';
 import {careers} from '../assets/data/careers.js';
-import {draftToPublicId,healthSciencePathways,careerMedia} from '../assets/data/career-integrity.js';
+import {draftToPublicId,healthSciencePathways,draftPathways,careerMedia} from '../assets/data/career-integrity.js';
 import {draftProfiles} from '../preview/drafts/manifest.js';
 
 const normalize=s=>String(s).toLowerCase().replace(/[^a-z0-9]/g,'');
@@ -18,13 +18,17 @@ for(const c of careers){if(existingIds.has(c.id))add('error','repeated-public-id
 const used=new Set();
 for(const draft of draftProfiles){
  const canonical=draftToPublicId[draft.id]||draft.id;
+ const expectedPath=draftPathways[draft.id];
+ if(!expectedPath)add('error','draft-pathway-unmapped',draft.id);
+ if(!healthSciencePathways.includes(expectedPath))add('error','draft-pathway-invalid',draft.id+': '+expectedPath);
  const byTitle=existingByTitle.get(normalize(draft.title));
  const byId=existingById.get(canonical);
+ if(byId&&byId.path!==expectedPath)add('error','pathway-conflict',canonical+': public '+byId.path+' vs expected '+expectedPath);
  if(byTitle&&byId&&byTitle.id!==byId.id)add('error','identity-conflict',draft.id+' mapped to '+byId.id+' but title matches '+byTitle.id);
  if(byTitle&&!byId)add('error','unmapped-duplicate',draft.id+' duplicates '+byTitle.id+' without canonical mapping');
  if(used.has(canonical))add('error','draft-collision',canonical);
  used.add(canonical);
- actions.push({draft:draft.id,publicId:canonical,mode:byId?'upgrade-existing':'add-new',existingTitle:byId?.name||null});
+ actions.push({draft:draft.id,publicId:canonical,mode:byId?'upgrade-existing':'add-new',pathway:expectedPath,existingTitle:byId?.name||null});
  if(!careerMedia[canonical])add('review','image-pending',canonical+': no approved, credited image yet');
 }
 for(const [id,media] of Object.entries(careerMedia)){
