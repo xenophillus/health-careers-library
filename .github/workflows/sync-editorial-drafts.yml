@@ -6,13 +6,13 @@ permissions:
 jobs:
   sync:
     if: github.ref == 'refs/heads/development/library-launch-build'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: development/library-launch-build
           persist-credentials: true
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: '22'
       - name: Fetch in-review spreadsheet rows
