@@ -22,6 +22,8 @@ jobs:
           SHEET_ID: 1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: node scripts/sync-sheet-drafts.mjs
+      - name: Generate media registry from editorial spreadsheet
+        run: node scripts/generate-career-media.mjs
       - name: Download licensed career photographs
         run: |
           python3 -m pip install --user Pillow
@@ -67,7 +69,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/data/drafts/ assets/images/careers/ preview/drafts/ preview/styles.css preview/library.html preview/assets/
+          git add assets/data/drafts/ assets/data/career-images.json assets/data/career-integrity.js assets/images/careers/ preview/drafts/ preview/styles.css preview/library.html preview/assets/
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh unpublished editorial drafts"
             git push origin HEAD:development/library-launch-build
