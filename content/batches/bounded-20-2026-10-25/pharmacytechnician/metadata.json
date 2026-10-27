@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-pharmacytechnician",
+  "title": "Pharmacy Technician",
+  "sourceKey": "pharmacytechnician",
+  "sourceIndices": [
+    35
+  ],
+  "sourceTitle": "Pharmacy Technician",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; clinical profile does not merge other inventory labels."
+}

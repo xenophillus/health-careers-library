@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-industrialhygienist",
+  "title": "Industrial Hygienist",
+  "sourceTitle": "Industrial Hygienist",
+  "sourceKey": "industrialhygienist",
+  "sourceIndices": [
+    152
+  ],
+  "sourcePathways": [
+    "Support Services"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact Industrial Hygienist inventory title, scoped as exposure-prevention profession. Broader occupational health/safety wages and specialist-group projections explicitly identified."
+}

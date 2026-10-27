@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-physicianassistant",
+  "title": "Physician Assistant",
+  "sourceTitle": "Physician Assistant",
+  "sourceKey": "physicianassistant",
+  "sourceIndices": [
+    39
+  ],
+  "sourcePathways": [
+    "Therapeutic Services"
+  ],
+  "mapping": "Exact inventory title retained. Physician associate terminology is acknowledged without changing inventory identity or claiming a legal title change.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Proposed only; no Sheet read or write by this batch"
+}

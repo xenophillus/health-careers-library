@@ -1,0 +1,109 @@
+[
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-1",
+    "organizationTitle": "National Cancer Institute — Patient Navigator",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/patient-navigator",
+    "claimSupported": "Definition; guidance through care, appointments, communication and support services.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-2",
+    "organizationTitle": "CDC — Patient Navigation",
+    "url": "https://www.cdc.gov/cancer/php/interventions/patient-navigation.html",
+    "claimSupported": "Patient barriers, delivery modes, supervision, location and program planning; updated September 17, 2026. Section 13 is author-synthesized reflection about follow-up and identifying transportation, caregiving, and communication barriers, grounded in CDC navigation duties and barrier examples; not a source-authored or validated professional assessment.",
+    "sections": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-3",
+    "organizationTitle": "ACCC — Patient Navigation",
+    "url": "https://www.accc-cancer.org/education-and-resources/practice-management-operations/fundamentals/comprehensive-care/patient-navigation",
+    "claimSupported": "Nurse/social-work/nonclinical navigator distinction, appropriate role boundaries, program needs.",
+    "sections": [
+      1,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-4",
+    "organizationTitle": "American Cancer Society — ACS LION",
+    "url": "https://www.cancer.org/health-care-professionals/resources-for-professionals/patient-navigator-training.html",
+    "claimSupported": "Nonclinical oncology navigation education; no universal mandate or reimbursement claim imported.",
+    "sections": [
+      7,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-5",
+    "organizationTitle": "AONN+ Foundation for Learning",
+    "url": "https://www.aonnffl.org/",
+    "claimSupported": "Separate nurse and patient navigator certification programs.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-6",
+    "organizationTitle": "AONN+",
+    "url": "https://aonnonline.org/",
+    "claimSupported": "Professional organization and affiliated credentialing body.",
+    "sections": [
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-patientnavigator",
+    "sourceId": "patientnavigator-7",
+    "organizationTitle": "President's Cancer Panel — Achieving Equity in Cancer Care",
+    "url": "https://prescancerpanel.cancer.gov/reports-meetings/enhancing-patient-navigation-2024/achieving-equity-cancer-care",
+    "claimSupported": "Navigation addresses barriers and connects multidisciplinary care; no causal outcome percentage asserted.",
+    "sections": [
+      1,
+      11,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  }
+]

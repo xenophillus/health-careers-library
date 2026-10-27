@@ -1,0 +1,425 @@
+{
+  "reviewDate": "2026-10-25",
+  "reviewer": "independent clinical reviewer (separate from authors)",
+  "scope": "Read complete article text and media record for each listed profile; independently check selected credential statements against primary sources. Root independently checks wages. Not an exhaustive line-by-line fact check, legal determination, image clearance, rendered QA, or publication approval.",
+  "profiles": [
+    {
+      "sourceKey": "respiratorytherapist",
+      "editorialStatus": "15 sections read; substantive career-specific accessible draft; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Ventilator support requires repeated patient assessment",
+        "Hospital handoff and pulmonary-function lab contrast",
+        "Credential transition rather than timeless exam pathway"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "NBRC awards RRT; current TMC/CSE route has announced January 2027 transition; national credential is distinct from state licensing",
+        "urls": [
+          "https://www.nbrc.org/examinations/rrt/",
+          "https://www.nbrc.org/nbrcexaminations/"
+        ],
+        "evidence": "Primary RRT page retrieved; it shows current examinations and RT outline effective January 2027. Kansas application details not independently cleared."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Respiratory_therapist_at_Baystate_Health_NICU.jpg"
+        ],
+        "licenseStatus": "Independent Commons-page declaration/provenance check completed; full clearance missing",
+        "licenseAsDeclared": "CC BY 2.5",
+        "pixelsStatus": "Missing. Author per-file download attempts returned tunnel403; independent web thumbnail/image clicks yielded URL-only responses, no viewable pixels.",
+        "outcome": "Not cleared for integration",
+        "limitations": [
+          "Commons identifies respiratory therapist in neonatal intensive care. Source credit lacks original institutional image URL; that provenance chain needs confirmation.",
+          "Actual visual inspection, final caption and alt text pending"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Kansas detailed licensing application requirements not reviewed; article intentionally makes only bounded board/profession distinction",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "9b35c2dad0ce13ec1f09ed925e23a464d3b4efcae235f8360b969dc14748347d",
+      "reviewedSectionsSha256": "774f90c67a8ed31bdb2ce43e95f75f107710ab1789aa1bef6db2c653c647d3e2",
+      "reviewedMediaSha256": "d301e78ff9583a13da622ce8fb888f371ebe90881f6e893a0b8a4abac452078f"
+    },
+    {
+      "sourceKey": "certifiednursingassistant",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Personal-care dignity and observation versus diagnosis",
+        "Illustrative long-term-care shift",
+        "Nurse-aide versus nursing and medication-aide pathways"
+      ],
+      "credentialCheck": {
+        "status": "supported with stated access limits",
+        "claim": "Kansas training directory lists CNA 90-hour courses; instructional hours distinguished from calendar duration",
+        "urls": [
+          "https://www.kdads.ks.gov/licensing-policy/health-occupations-credentialing/all-training-courses-continuing-education",
+          "https://www.kdads.ks.gov/licensing-policy/health-occupations-credentialing"
+        ],
+        "evidence": "Official search-index text supports 90-hour listing and agency role; direct KDADS page returned 403. No full Kansas checklist independently verified."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [],
+        "licenseStatus": "No candidate selected; rejected Honduras outreach candidate is not cleared",
+        "pixelsStatus": "Missing; no selected pixels to inspect",
+        "outcome": "Not cleared for integration; visual review and final alt text missing",
+        "limitations": []
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Kansas direct source retrieval blocked (403); full legal checklist not verified",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "cf55d9b3870978c1b805dbb67aaffa9504f97307e2e3d690959f7640652f487b",
+      "reviewedSectionsSha256": "81b05e4caf928189274c9bdad59a5ffd2eb3bbf9b9cf15f57a2f76c585af35e3",
+      "reviewedMediaSha256": "32f00a8ac19a28ee273629713fff4fd63e81bbc4569b3b549cc00bcad07653f4"
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Prevention and patient-specific home-care adaptation",
+        "Detailed close clinical work and part-time earnings implications",
+        "Entry-level versus degree-completion education"
+      ],
+      "credentialCheck": {
+        "status": "supported with stated access limits",
+        "claim": "State license required; Kansas Dental Board responsible for Kansas applications",
+        "urls": [
+          "https://www.adha.org/students/becoming-a-dental-hygienist/",
+          "https://www.dental.ks.gov/hygienists/applications"
+        ],
+        "evidence": "ADHA current licensure overview retrieved. Kansas official indexed application text supports board application role, but direct Kansas page returned 403; detailed checklist not claimed."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Dental_Hygiene-19.jpg"
+        ],
+        "licenseStatus": "Independently retrieved Commons page and read explicit license/provenance statement; see limitations",
+        "pixelsStatus": "Independent web thumbnail requests returned URL-only responses, no viewable pixels; author local download blocked by network tunnel403",
+        "outcome": "Not cleared for integration; visual review and final alt text missing",
+        "limitations": [
+          "CC0 statement and Flickr review recorded on Commons; image depicts an education setting, not necessarily licensed practitioners"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Kansas direct source retrieval blocked (403); full legal checklist not verified",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "64fa91e0b997fac327689e60827ae90c3c24810a1102601478f66727d7df084e",
+      "reviewedSectionsSha256": "4deb6e0afc52cf214a4a05465198297d435b99bd6c1c18a776e42d0087bc0058",
+      "reviewedMediaSha256": "0a6ae88aa22c3e7bb035d8b7a995e8d63fca47f4b3a26762bc6ba2c697864325"
+    },
+    {
+      "sourceKey": "dentist",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Treatment planning and explaining alternatives",
+        "Employee versus practice-owner responsibilities",
+        "General-dentist versus overall dentist wage scope"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "Dental licensure framework includes education, written examination and clinical assessment",
+        "urls": [
+          "https://www.ada.org/resources/careers/licensure"
+        ],
+        "evidence": "ADA licensure overview directly retrieved and supports three-component framework; Kansas board-specific full requirements not cleared."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:GI_at_Guantanamo_visits_the_dentist.JPG"
+        ],
+        "licenseStatus": "Independently retrieved Commons page and read explicit license/provenance statement; see limitations",
+        "pixelsStatus": "Independent web thumbnail requests returned URL-only responses, no viewable pixels; author local download blocked by network tunnel403",
+        "outcome": "Not cleared for integration; visual review and final alt text missing",
+        "limitations": [
+          "US Army public-domain statement read; military clinical context and 2009 date must remain explicit; Commons summary author/date fields transposed, descriptive caption supplies creator/date"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Detailed Kansas licensing checklist not independently reviewed",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "5ca8b10424859f56eee8e49bbfaa5143770fda414fbd6304b7624de6fc6f25ff",
+      "reviewedSectionsSha256": "b48495ba5c7bfa0039d1a1781977ac7c3bf62ef5eca01e8da1212a2dfb1970fa",
+      "reviewedMediaSha256": "d8876b0fc37ae0ef5d8899c2e0fe5a4ced56bc11ff6529e5451c69f4b829f72f"
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Communication and swallowing, including AAC",
+        "Rehabilitation versus school illustrative work",
+        "Daily function rather than clinic task performance"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "CCC-SLP standards include qualifying graduate program/candidacy, clinical experience, examination and Clinical Fellowship",
+        "urls": [
+          "https://www.asha.org/certification/2020-slp-certification-standards/"
+        ],
+        "evidence": "Current ASHA standards directly retrieved; graduate preparation, clinical experience, examination, fellowship and maintenance covered. Article distinguishes national credential from state authorization."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Student_doing_speech_therapy%28GN08932%29.jpg"
+        ],
+        "licenseStatus": "Independent Commons-page declaration/provenance check completed; full clearance missing",
+        "licenseAsDeclared": "CC0 1.0",
+        "pixelsStatus": "Missing. Author per-file download attempts returned tunnel403; independent web thumbnail/image clicks yielded URL-only responses, no viewable pixels.",
+        "outcome": "Not cleared for integration",
+        "limitations": [
+          "Historical image, not suitable as an unlabeled contemporary workday photograph. Prefer a current licensed image or clearly date a historical use.",
+          "Actual visual inspection, final caption and alt text pending"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Detailed Kansas licensing checklist not independently reviewed",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "66c6fb2b765bc63addcc2711b21583bc657822fa5796bc0a3c76137bcdef266f",
+      "reviewedSectionsSha256": "d0dfa130af9f26768f1d3ad876259976519000943789067f0b2ba45872aa7177",
+      "reviewedMediaSha256": "227e0e3c9d31c44096af0fdac8a268742055f00bedbf207cc24e40a63d99755a"
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "editorialStatus": "15 sections read; substantive career-specific prose; inventory framing corrected and read back",
+      "distinctiveDetails": [
+        "PA versus medical-assistant distinction",
+        "Generalist education and specialty adaptation",
+        "Follow-up responsibility and interpretation of clinical evidence"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "PANCE eligibility requires graduation from an entry-level ARC-PA-accredited PA program; national certification distinct from state licensure",
+        "urls": [
+          "https://www.nccpa.net/become-certified/"
+        ],
+        "evidence": "NCCPA current page directly retrieved; accredited-program eligibility and PA-C credential supported."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:US_Navy_050930-N-6843I-024_U.S._Navy_Ens._Frank_Percy%2C_right%2C_a_physician%27s_assistant_observes_corpsmen_prepare_a_patient_for_a_Computerized_Tomography_%28CT%29_scan.jpg"
+        ],
+        "licenseStatus": "Independent Commons-page declaration/provenance check completed; full clearance missing",
+        "licenseAsDeclared": "U.S. federal government public domain",
+        "pixelsStatus": "Missing. Author per-file download attempt returned tunnel403; independent web thumbnail click failed with Internal Error. No pixels inspected.",
+        "outcome": "Not cleared for integration",
+        "limitations": [
+          "Archive identifies PA observing CT preparation at Navy Trauma Training Center; cannot depict routine independent scan operation by a PA. Original Navy ID retained; no visual review yet.",
+          "Actual visual inspection, final caption and alt text pending"
+        ]
+      },
+      "correctionsRequired": [
+        {
+          "section": 14,
+          "issue": "Internal editorial framing: The library retains the inventory title Physician Assistant",
+          "requestedFix": "Replace with natural explanation that students may encounter both physician assistant and physician associate; retain inventory mapping in metadata only",
+          "status": "resolved; replacement read back in article and sections"
+        }
+      ],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Full Kansas legal requirements not independently cleared",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "ed74ce4d2219724812665cf217e3a29a6a76eea5cbe01f48dbdeddd668104cda",
+      "reviewedSectionsSha256": "a55d3264e9dfb4b66d07fcfcccceab2e6820a21e6bfc5f5e3aac16653d72dbcd",
+      "reviewedMediaSha256": "d3378d931782bbe441c391faf6ecdb9f89e013ec13a2c7a6d2376d8be2e13cf7"
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "editorialStatus": "15 sections read; substantive career-specific prose; optional stronger primary source sent to author",
+      "distinctiveDetails": [
+        "Discrepancy checking rather than guessing",
+        "Community versus hospital medication distribution",
+        "Training eligibility alternatives separated from state registration"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "PTCB recognized program OR 500 hours equivalent experience; Kansas technician registration and certification-exam requirement",
+        "urls": [
+          "https://ptcb.org/credentials/certification/certified-pharmacy-technician/",
+          "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_016_0000_article/065_016_0063_section/065_016_0063_k/"
+        ],
+        "evidence": "PTCB eligibility directly retrieved. Kansas statute 65-1663(a),(k) directly retrieved, supports registration and post-July2017 exam requirement. Board page returns 403; official indexed text agrees with stated narrow claim."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Airman_first_Class_(A1C)_George_Brown,_left,_and_A1C_Kevin_Johnson,_pharmacy_technicians,_fill_prescriptions_using_the_Composite_Health_Care_System_(CHCS),_a_computer_network_that_links_various_medical_F-3006-SPT-93-000001-XX-0049.jpg"
+        ],
+        "licenseStatus": "Independently retrieved Commons page and read explicit license/provenance statement; see limitations",
+        "pixelsStatus": "Independent web thumbnail requests returned URL-only responses, no viewable pixels; author local download blocked by network tunnel403",
+        "outcome": "Not cleared for integration; visual review and final alt text missing",
+        "limitations": [
+          "US military public-domain statement read; historical pharmacy equipment needs historical caption; modern photo preferred"
+        ]
+      },
+      "correctionsRequired": [],
+      "sourceImprovements": [
+        {
+          "request": "Add accessible primary statute to source records/bibliography",
+          "status": "resolved; statute added to bibliography and source record"
+        }
+      ],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Full Kansas application checklist and exam timing not independently reviewed",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "b87be93c213579e89a8d2aada206a49044cebbf8b6d94f56fc15ede61971b6c9",
+      "reviewedSectionsSha256": "038649d512219b48dd4f312e73564e6721a7577d2f4fa4974580b97c1079d647",
+      "reviewedMediaSha256": "93e71f1739d3cf6bf507e6b80a95c187822a43baadd79a115b1b36d9b770c5b5"
+    },
+    {
+      "sourceKey": "pharmacist",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Medication appropriateness and patient understanding",
+        "Community versus hospital work",
+        "PharmD distinguished from technician and pharmaceutical-science pathways"
+      ],
+      "credentialCheck": {
+        "status": "supported with stated access limits",
+        "claim": "PharmD professional preparation follows prerequisite study with different program structures; ACPE accredits PharmD; degree differs from licensure",
+        "urls": [
+          "https://www.aacp.org/resource/pharmd-program-structures",
+          "https://www.acpe-accredit.org/program/pharmd-program-accreditation/",
+          "https://nabp.pharmacy/programs/examinations/naplex/"
+        ],
+        "evidence": "AACP program structures, ACPE accreditation and NABP examination/licensure distinction directly retrieved; no uniform full-route duration claimed."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Woman_consults_with_pharmacist.jpg"
+        ],
+        "licenseStatus": "Independently retrieved Commons page and read explicit license/provenance statement; see limitations",
+        "pixelsStatus": "Independent web thumbnail requests returned URL-only responses, no viewable pixels; author local download blocked by network tunnel403",
+        "outcome": "Not cleared for integration; visual review and final alt text missing",
+        "limitations": [
+          "Commons explicit author-release/reuse-none text read; NCI originating record request returned502, so originating-record verification remains missing"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Full Kansas application checklist not independently reviewed",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "eb42ef91093ca49eed1c85310090b0cf7b788672921f706d5e07e34c34de47da",
+      "reviewedSectionsSha256": "e56c064739173ae2a7706690ee5b742657ef3923e74a867745f711bb1eef3d8e",
+      "reviewedMediaSha256": "da414d3ebd4a1893bfc808c368aed47f411466b1a8ac1b1e321fa39cee120be2"
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "editorialStatus": "15 sections read; substantive occupation-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Radiopharmaceutical function imaging distinct from ordinary x-rays",
+        "Patient preparation and technical quality checks",
+        "Certificate prerequisite distinction and imaging-role boundaries"
+      ],
+      "credentialCheck": {
+        "status": "supported with stated access limits",
+        "claim": "CNMT program-graduate route requires qualifying education/examination; Kansas regulatory radiologic-technologist category includes nuclear medicine",
+        "urls": [
+          "https://www.nmtcb.org/exams/nuclear-medicine/",
+          "https://www.ksbha.ks.gov/departments/general-counsel/general-counsel-faqs/radiologic-technology"
+        ],
+        "evidence": "NMTCB current instructions directly retrieved. Kansas official indexed FAQ supports radiologic-technologist licensing/category statement, but direct board page returns 403."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:CNX_Chem_21_00_NuclearMed.png"
+        ],
+        "licenseStatus": "Commons CC BY4.0 declaration read; OpenStax component provenance and authentic-photo suitability unresolved",
+        "licenseAsDeclared": "CC BY 4.0",
+        "pixelsStatus": "Missing. Author per-file download attempts returned tunnel403; independent web thumbnail/image clicks yielded URL-only responses, no viewable pixels.",
+        "outcome": "Not cleared for integration",
+        "limitations": [
+          "Commons says textbook image/illustration but caption missing. Component photo attribution and actual occupational content unresolved; do not treat as verified authentic occupational photo.",
+          "Actual visual inspection, final caption and alt text pending"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Full Kansas application checklist not independently reviewed",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "ff78c8d53ceff979424069ca57a63a3fe8a4404724b753905f44d4a0b8a0d3fc",
+      "reviewedSectionsSha256": "da4f3eb5c3d3877c3373808b8774c3d97ac63a4fb0ca67d7ea4f01c32a84fab3",
+      "reviewedMediaSha256": "443cc1424f4060657ebe38889460718e19175bf0eb19397670e858aafeacf49a"
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "editorialStatus": "15 sections read; substantive career-specific readable prose; no required prose corrections identified in this spot-check",
+      "distinctiveDetails": [
+        "Specimen quality and troubleshooting before releasing results",
+        "Patient-testing versus research roles",
+        "MLS certification separated from CLIA laboratory authorization",
+        "Broad lab wage group explicitly not MLS-only"
+      ],
+      "credentialCheck": {
+        "status": "supported",
+        "claim": "ASCP MLS Route 1 includes baccalaureate degree plus NAACLS-accredited MLS program within eligibility period; other routes differ",
+        "urls": [
+          "https://www.ascp.org/boc/explore-credentials/view-all-credentials/MLS"
+        ],
+        "evidence": "Current ASCP Route 1 directly retrieved; specifies qualifying baccalaureate and NAACLS MLS program within past five years. Article avoids unsupported universal-certification or Kansas-license-absence claim."
+      },
+      "mediaCheck": {
+        "imageIncluded": false,
+        "candidatePages": [
+          "https://commons.wikimedia.org/wiki/File:Medical_Laboratory_Scientist_US_NIH.jpg"
+        ],
+        "licenseStatus": "Unverified federal authorship; read Commons public-domain tag and explicit NIH commercial-image warning, insufficient image-specific evidence",
+        "licenseAsDeclared": "Public domain claim; federal authorship not independently established",
+        "pixelsStatus": "Missing. Author per-file download attempts returned tunnel403; independent web thumbnail/image clicks yielded URL-only responses, no viewable pixels.",
+        "outcome": "Not cleared for integration",
+        "limitations": [
+          "Commons warns NIH also uses commercial images. Original image-specific federal authorship not confirmed; public-domain label alone is insufficient.",
+          "Actual visual inspection, final caption and alt text pending"
+        ]
+      },
+      "correctionsRequired": [],
+      "remainingGaps": [
+        "Verified authentic occupational image absent",
+        "Full state-specific legal/employer requirements not independently cleared",
+        "Rendered integration and publication review pending"
+      ],
+      "reviewedArticleSha256": "44c6496beb65a94fdbd41e1030a5d5773e5d5230c980770eb01e159bc6d35dc8",
+      "reviewedSectionsSha256": "7dd914d7d5ca3ac951b2918108a2c9d8113d6ba034a416387049115a5c550406",
+      "reviewedMediaSha256": "d010b08b50e627479686812fbb7e1a6e5e960f658f8c80fb12a17816887b291b"
+    }
+  ],
+  "reviewedProfiles": 10,
+  "summary": {
+    "completeArticlesRead": 10,
+    "credentialSpotChecks": 10,
+    "mediaRecordsReviewed": 10,
+    "selectedCandidateLicensePagesRead": 9,
+    "imagesVisuallyVerified": 0,
+    "unresolvedRequiredTextCorrections": 0,
+    "publicationApprovalsGranted": 0,
+    "note": "All author media gaps preserved. One internal inventory-reference sentence corrected; stronger Kansas pharmacy technician statute added. No approval flags changed."
+  }
+}

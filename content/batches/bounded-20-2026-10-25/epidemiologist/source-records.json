@@ -1,0 +1,103 @@
+[
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-1",
+    "organizationTitle": "BLS — Epidemiologists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+    "claimSupported": "U.S. May 2025 median; 2025–35 outlook; typical graduate preparation and employers.",
+    "sections": [
+      4,
+      7,
+      9,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-2",
+    "organizationTitle": "CDC — Conducting a Field Investigation",
+    "url": "https://www.cdc.gov/field-epi-manual/php/chapters/field-investigation.html",
+    "claimSupported": "Confirming an outbreak, case counting, comparisons, and collaboration; basis of illustrative example. Section 13 is author-synthesized reflection about comparisons, causal uncertainty, and contextual questions, grounded in CDC investigation methods; the exercise is not quoted from CDC or presented as a validated professional assessment.",
+    "sections": [
+      1,
+      2,
+      3,
+      6,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-3",
+    "organizationTitle": "O*NET — Epidemiologists",
+    "url": "https://www.onetonline.org/link/summary/19-1041.00",
+    "claimSupported": "Research, analytic, reporting, program, and collaboration responsibilities.",
+    "sections": [
+      2,
+      5,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-4",
+    "organizationTitle": "CSTE — Applied Epidemiology Competencies",
+    "url": "https://aecs.cste.org/",
+    "claimSupported": "Professional knowledge/skills framework, not clinical licensure.",
+    "sections": [
+      5,
+      8,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-5",
+    "organizationTitle": "CSTE Fellowship — Core Activities and Competencies",
+    "url": "https://cstefellows.org/competencies-activites/",
+    "claimSupported": "Competency-based supervised professional development.",
+    "sections": [
+      7,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-6",
+    "organizationTitle": "CDC — Initiating Operations",
+    "url": "https://www.cdc.gov/field-epi-manual/php/chapters/initiating-operations.html",
+    "claimSupported": "Operational planning and public-health questions in field response.",
+    "sections": [
+      3,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-epidemiologist",
+    "sourceId": "epidemiologist-7",
+    "organizationTitle": "CSTE — Applied Epidemiology",
+    "url": "https://www.cste.org/page/appliedEpi",
+    "claimSupported": "Applied epidemiology workforce and skill development.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source search excerpt retrieved; full page not independently inspected."
+  }
+]

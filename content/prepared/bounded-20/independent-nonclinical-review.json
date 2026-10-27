@@ -1,0 +1,311 @@
+{
+  "reviewDate": "2026-10-25",
+  "reviewer": "independent nonclinical reviewer",
+  "scope": "Independent primary-source spot-check and full 15-section editorial read for ten assigned drafts, with separate media verification; not exhaustive factual/legal review or publication approval.",
+  "profiles": [
+    {
+      "sourceKey": "epidemiologist",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+          "finding": "Typical entry education is at least a master\u2019s; May 2025 U.S. median $87,220 and 2025\u201335 growth 19%.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 article sections. Substantive occupation-specific prose, concrete illustrative day, distinct scope, and wage date/geography/group labels. No major factual issue identified in sampled claims.",
+      "mediaReview": {
+        "license": "No selected image cleared. Reviewed final author candidate/access records.",
+        "pixels": "Missing: no image acquired or visually inspected.",
+        "publicationImageStatus": "not ready",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/epidemiologist/media-evidence.json",
+        "independentCandidateCheck": {
+          "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=30821",
+          "finding": "Primary PHIL record retrieved; 1964 epidemiology course group, CDC/Dr. H.G. Scott, public-domain reuse/attribution text. Author rejects as insufficiently relevant. No pixels viewed."
+        }
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent BLS education/licensure/pay/outlook spot-check; not line-by-line verification of every cited source.",
+      "errorsFixed": [],
+      "errorsPending": [],
+      "correctionVerification": "No corrections requested."
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+          "finding": "BLS management group May 2025 U.S. median $123,860 and 2025\u201335 growth 24%; all-state nursing-home administrator licensure is distinct from generic management jobs.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 article sections. Substantive occupation-specific prose, concrete illustrative day, distinct scope, and wage date/geography/group labels. No major factual issue identified in sampled claims.",
+      "mediaReview": {
+        "license": "No selected image cleared. Reviewed final author candidate/access records.",
+        "pixels": "Missing: no image acquired or visually inspected.",
+        "publicationImageStatus": "not ready",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/healthcareadministrator/media-evidence.json"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent BLS education/licensure/pay/outlook spot-check; not line-by-line verification of every cited source.",
+      "errorsFixed": [
+        "Bibliography #5 contains editorial process phrasing about scope of asserted Kansas facts."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Re-read changed sections/bibliography after author revision; requested editorial-process wording removed."
+    },
+    {
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.onetonline.org/link/summary/15-2051.02",
+          "finding": "Clinical Data Managers tasks include database design/validation, data queries and data management plans. Wage figures belong to broader Data Scientists group.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://scdm.org/ccdm-certification/",
+          "finding": "CCDM degree and experience routes in article match official SCDM requirements.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 sections. Substantive occupational workflow, useful role boundaries, and no invented exact-title salary. Concrete career reflection rather than filler.",
+      "mediaReview": {
+        "license": "No selected image cleared. Reviewed final author candidate/access records.",
+        "pixels": "Missing: no image acquired or visually inspected.",
+        "publicationImageStatus": "not ready",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/clinicaldatamanagementspecialist/media-evidence.json"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent primary-source scope and credential spot-check. No exhaustive all-claims review.",
+      "errorsFixed": [
+        "Remove editorial process language from salary section and/or bibliography; keep evidence limits in QA."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Re-read changed sections/bibliography after author revision; requested editorial-process wording removed."
+    },
+    {
+      "sourceKey": "interpreter",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+          "finding": "May 2025 U.S. median $60,170 belongs to all interpreters/translators, not healthcare interpreters alone.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://cchicertification.org/certifications/eligibility/",
+          "finding": "CCHI age 18, diploma/equivalent, minimum 40 hours healthcare training and language proficiency independently confirmed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 sections. Substantive occupational workflow, useful role boundaries, and no invented exact-title salary. Concrete career reflection rather than filler.",
+      "mediaReview": {
+        "license": "No selected image cleared. Reviewed final author candidate/access records.",
+        "pixels": "Missing: no image acquired or visually inspected.",
+        "publicationImageStatus": "not ready",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/interpreter/media-evidence.json",
+        "independentCandidateCheck": {
+          "url": "https://commons.wikimedia.org/wiki/File:One_size_doesn't_fit_all_140807-F-LX971-169.jpg",
+          "finding": "Commons retrieved; specific USAF official-duty public-domain license and Cohen Young credit confirmed. Procedure-centered military setting explains rejection; no pixels viewed."
+        }
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent primary-source scope and credential spot-check. No exhaustive all-claims review.",
+      "errorsFixed": [],
+      "errorsPending": [],
+      "correctionVerification": "No corrections requested."
+    },
+    {
+      "sourceKey": "patientnavigator",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/patient-navigator",
+          "finding": "NCI defines guidance across screening, diagnosis, treatment and follow-up, communication and access to appointments/support.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://www.aonnffl.org/",
+          "finding": "Separate oncology nurse and patient navigator credentials confirmed; no interchangeable clinical authority claimed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 sections. Substantive occupational workflow, useful role boundaries, and no invented exact-title salary. Concrete career reflection rather than filler.",
+      "mediaReview": {
+        "license": "No selected image cleared. Reviewed final author candidate/access records.",
+        "pixels": "Missing: no image acquired or visually inspected.",
+        "publicationImageStatus": "not ready",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/patientnavigator/media-evidence.json"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent primary-source scope and credential spot-check. No exhaustive all-claims review.",
+      "errorsFixed": [
+        "Remove editorial process language from salary section and/or bibliography; keep evidence limits in QA."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Re-read changed sections/bibliography after author revision; requested editorial-process wording removed."
+    },
+    {
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://acrpnet.org/certification/crc-certification",
+          "finding": "ACRP CCRC eligibility page specifies 3,000 qualifying verifiable work hours, with full criteria in policy manual; not a universal entry license.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://www.onetonline.org/link/summary/11-9121.01",
+          "finding": "Reported coordinator titles and participant/record coordination duties confirmed; broad manager wages not represented as exact coordinator salary.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 article sections. Substantive occupation-specific explanations and illustrative workflow; clear distinctions between certification, clinical authority, and occupational wage group. No correction required in sampled claims.",
+      "mediaReview": {
+        "license": "missing: no candidate or asset selected in author record",
+        "pixels": "missing: no image downloaded or viewed",
+        "publicationImageStatus": "not ready"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent primary-source credential and occupational mapping spot-check. Not exhaustive review of all bibliography claims.",
+      "errorsFixed": [
+        "Removed salary section closing internal process sentence; accurate pay-group explanation preserved."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Salary section re-read after author revision."
+    },
+    {
+      "sourceKey": "regulatoryaffairsspecialist",
+      "status": "independent editorial and source spot-check complete; images missing",
+      "claimsChecked": [
+        {
+          "url": "https://www.onetonline.org/link/summary/13-1041.07",
+          "finding": "O*NET confirms regulatory submission/process duties; 2025 median $80,730 belongs to Compliance Officers, a broader group.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://www.raps.org/certify-advance/credentials/rac.html",
+          "finding": "RAC Drugs/Devices and bachelor+3, master+2, doctorate+1, or ten-year experience routes confirmed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Read all 15 article sections. Substantive occupation-specific explanations and illustrative workflow; clear distinctions between certification, clinical authority, and occupational wage group. No correction required in sampled claims.",
+      "mediaReview": {
+        "license": "missing: no candidate or asset selected in author record",
+        "pixels": "missing: no image downloaded or viewed",
+        "publicationImageStatus": "not ready"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full prose read; independent primary-source credential and occupational mapping spot-check. Not exhaustive review of all bibliography claims.",
+      "errorsFixed": [],
+      "errorsPending": []
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "status": "independent editorial and primary-source spot-check complete; image verification incomplete",
+      "claimsChecked": [
+        {
+          "url": "https://www.onetonline.org/link/summary/19-1029.02",
+          "finding": "Molecular Biologist is an explicit reported title; 2025 median $98,920 belongs to Biological Scientists, All Other, not exact title.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        }
+      ],
+      "editorialReview": "Substantive, occupation-specific explanations, concrete illustrative day, clear scientific/clinical boundaries, and precise broader wage categories. No major factual error identified in sampled claims.",
+      "mediaReview": {
+        "publicationImageStatus": "not ready",
+        "license": "Candidate license/provenance page independently retrieved",
+        "pixels": "Missing: no visually inspected pixels; author/root attempts reported proxy403 for selected candidates",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/molecularbiologist/media-evidence.json",
+        "independentCandidateCheck": {
+          "url": "https://commons.wikimedia.org/wiki/File:Working_days_of_a_molecular_biologist.jpg",
+          "finding": "Own-work declaration, Kelbin Vasiliy creator, February12 2019 capture and CC BY4.0 confirmed. License requires credit/link/change notice; no visual inspection completed."
+        }
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full 15-section prose read; independent primary-source scope, wage-group and selected credential spot-check. No exhaustive all-claims or jurisdictional review.",
+      "errorsFixed": [
+        "Remove internal editorial no-wage-imported wording in bibliography #4."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Bibliography #4 re-read after revision; process language removed."
+    },
+    {
+      "sourceKey": "toxicologist",
+      "status": "independent editorial and primary-source spot-check complete; image verification incomplete",
+      "claimsChecked": [
+        {
+          "url": "https://www.toxicology.org/careers/toxicologist/becomeTox.asp",
+          "finding": "SOT career education source retrieved; associate/bachelor pathways can lead to support roles rather than independent research leadership.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://www.abtox.org/wp-content/uploads/2026/02/ABT-Candidate-Handbook-2026.pdf",
+          "finding": "2026 handbook retrieved; education/experience eligibility, application review and examination sections confirmed.",
+          "retrieval": "Primary source PDF retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+          "finding": "May 2025 U.S. $103,410 broad medical-scientist median confirmed; article labels this contextual, not exact toxicology wage.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Substantive, occupation-specific explanations, concrete illustrative day, clear scientific/clinical boundaries, and precise broader wage categories. No major factual error identified in sampled claims.",
+      "mediaReview": {
+        "publicationImageStatus": "not ready",
+        "license": "No asset selected",
+        "pixels": "Missing: no visually inspected pixels; author/root attempts reported proxy403 for selected candidates",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/toxicologist/media-evidence.json"
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full 15-section prose read; independent primary-source scope, wage-group and selected credential spot-check. No exhaustive all-claims or jurisdictional review.",
+      "errorsFixed": [],
+      "errorsPending": []
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "status": "independent editorial and primary-source spot-check complete; image verification incomplete",
+      "claimsChecked": [
+        {
+          "url": "https://www.aiha.org/ih-careers/discover-industrial-hygiene",
+          "finding": "AIHA describes workplace exposure/hazard recognition, risk evaluation and protective recommendations; distinct from cleaning services.",
+          "retrieval": "primary source page retrieved through web tool on 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm",
+          "finding": "May2025 U.S. specialist median $90,150 and 2025\u201335 specialist growth18% independently confirmed; article updated to specialist-only growth.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "editorialReview": "Substantive, occupation-specific explanations, concrete illustrative day, clear scientific/clinical boundaries, and precise broader wage categories. No major factual error identified in sampled claims.",
+      "mediaReview": {
+        "publicationImageStatus": "not ready",
+        "license": "Candidate license/provenance page independently retrieved",
+        "pixels": "Missing: no visually inspected pixels; author/root attempts reported proxy403 for selected candidates",
+        "reviewedAuthorMediaFile": "content/batches/bounded-20-2026-10-25/industrialhygienist/media-evidence.json",
+        "independentCandidateCheck": {
+          "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=6796",
+          "finding": "Primary record confirms 1998 Philippines industrial-hygiene course pump calibration; copyright field provides public-domain reuse/attribution terms. No visual inspection completed."
+        }
+      },
+      "correctionsNeeded": [],
+      "reviewScope": "Full 15-section prose read; independent primary-source scope, wage-group and selected credential spot-check. No exhaustive all-claims or jurisdictional review.",
+      "errorsFixed": [
+        "Replaced accurately labeled combined-group19% projection with closer specialist-group18% projection."
+      ],
+      "errorsPending": [],
+      "correctionVerification": "Re-read salary section after author revision; matches BLS specialist row."
+    }
+  ],
+  "reviewComplete": true,
+  "draftsRead": 10,
+  "unresolvedEditorialCorrections": 0,
+  "publicationReadyCount": 0,
+  "remainingLimitations": [
+    "Every image remains absent or visually unverified; no candidate is publication-cleared.",
+    "Independent checks sampled key scope/credential/pay claims and read full prose; they do not establish exhaustive line-by-line source/legal verification.",
+    "Exact-title/local starting pay remains absent where not established; broadened statistical proxies are labeled.",
+    "Rendered/browser QA not performed because these are unregistered editorial drafts."
+  ]
+}

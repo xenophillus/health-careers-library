@@ -1,0 +1,79 @@
+{
+  "scope": "Parent-requested permitted alternative primary-source research after initial handoff. No denied endpoint retried or bypassed; no remote writes.",
+  "records": [
+    {
+      "sourceKey": "respiratorytherapist",
+      "statute": "65-5506",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_055_0000_article/065_055_0006_section/065_055_0006_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Board-approved education, examination and fees support state licensing distinction.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "statute": "65-1455",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_014_0000_article/065_014_0055_section/065_014_0055_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Board-approved school and examination support licensing framework; complete current checklist not reviewed.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "dentist",
+      "statute": "65-1426",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_014_0000_article/065_014_0026_section/065_014_0026_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Statutory application qualifications and education; exceptions exist and administrative checklist remains open.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "statute": "65-6505",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_065_0000_article/065_065_0005_section/065_065_0005_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Graduate preparation, practicum, postgraduate experience and exam framework, subject to statutory exceptions.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "statute": "65-3506",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_035_0000_article/065_035_0006_section/065_035_0006_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "BACHA established within KDADS; does not establish a license for all healthcare management.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "statute": "65-28a04",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_028a_0000_article/065_028a_0004_section/065_028a_0004_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Kansas board licensing authority and approved education or statutory military route, examination and application information.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "pharmacist",
+      "statute": "65-1631",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_016_0000_article/065_016_0031_section/065_016_0031_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Kansas pharmacist licensure and statutory qualification routes; current administrative exam options not completely reviewed.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "statute": "65-7303",
+      "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+      "verifiedDate": "2026-10-25",
+      "status": "Direct primary statute page retrieved via web tool",
+      "claimSupported": "Subsections d4/d5 directly support radiologic technology license plus ARRT/NMTCB credential distinctions.",
+      "limit": "Does not verify every current application form, regulation, fee, exception or employer requirement."
+    }
+  ],
+  "cnaRemaining": "Secretary of State regulation collection indexed but direct web open returned Internal Error; not counted as verified.",
+  "imageCorrection": "Only some original URLs were individually attempted. Clinical-A shared status cites Dental_Hygiene-19.jpg proxy403; do not generalize that request outcome to all four clinical-A originals. All11 proposed image URLs handed to parent for permitted cloud-browser inspection. Nine profiles have candidate-search gaps, not blanket network blocks."
+}

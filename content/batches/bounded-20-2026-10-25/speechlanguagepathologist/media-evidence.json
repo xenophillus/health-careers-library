@@ -1,0 +1,27 @@
+{
+  "status": "Deliberate text-only; reviewed candidate held",
+  "checkedDate": "2026-10-25",
+  "imageIncluded": false,
+  "pixelsObtained": false,
+  "visualReview": "not performed",
+  "licenseVerified": false,
+  "candidate": {
+    "filePage": "https://commons.wikimedia.org/wiki/File:Student_doing_speech_therapy%28GN08932%29.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Student_doing_speech_therapy%28GN08932%29.jpg",
+    "creatorAsListed": "State Government Photographer / History Trust of South Australia",
+    "licenseAsListed": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseDeclarationChecked": true,
+    "dateAsListed": "circa 1945",
+    "provenanceLimit": "Historical image, not suitable as an unlabeled contemporary workday photograph. Prefer a current licensed image or clearly date a historical use."
+  },
+  "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "remaining": [
+    "Obtain and inspect actual pixels",
+    "Verify original image-specific provenance and suitability",
+    "Write accurate final caption, alt text and attribution after visual review"
+  ],
+  "decision": "HOLD_TEXT_ONLY",
+  "reason": "Actual image shows assessment toys only, no person; source caption does not match visible subject.",
+  "nextAction": "No image required for this profile."
+}

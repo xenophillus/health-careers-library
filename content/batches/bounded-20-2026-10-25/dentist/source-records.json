@@ -1,0 +1,113 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "U.S. Bureau of Labor Statistics — Dentists",
+    "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+    "claimSupported": "National May 2025 median, stated outlook if included, settings, education and occupation-level context. Not verified entry-level or Kansas pay.",
+    "sections": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "verificationStatus": "Retrieved official OOH page via web on 2026-10-25.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET OnLine — Dentists, General",
+    "url": "https://www.onetonline.org/link/summary/29-1021.00",
+    "claimSupported": "Occupational definition, tasks, work context and skills; day-in-life is an original illustrative scenario, not an observed worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      12,
+      13
+    ],
+    "verificationStatus": "Retrieved official occupation page via web on 2026-10-25.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-1",
+    "organizationTitle": "American Dental Association — High School and College Students",
+    "url": "https://www.ada.org/resources/careers/high-school-and-college-students",
+    "claimSupported": "Undergraduate preparation, DDS/DMD equivalence and dental-school pathway.",
+    "sections": [
+      7
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-2",
+    "organizationTitle": "ADA — Licensure Overview",
+    "url": "https://www.ada.org/resources/careers/licensure",
+    "claimSupported": "Education, written examination and clinical assessment components of dental licensure.",
+    "sections": [
+      8
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-3",
+    "organizationTitle": "Kansas Dental Board — Dentist applications",
+    "url": "https://www.dental.ks.gov/dentists/applications",
+    "claimSupported": "Kansas licensing authority and dentist application route.",
+    "sections": [
+      8
+    ],
+    "verificationStatus": "Official indexed text retrieved; direct page 403. Detailed state checklist not asserted.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-4",
+    "organizationTitle": "Commission on Dental Accreditation — Find a Program",
+    "url": "https://coda.ada.org/find-a-program",
+    "claimSupported": "Accredited dental and advanced dental education programs.",
+    "sections": [
+      7,
+      10
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-5",
+    "organizationTitle": "ADA — Career Pathways",
+    "url": "https://www.ada.org/resources/careers/career-pathways",
+    "claimSupported": "Dentistry and dental-team roles, practice options.",
+    "sections": [
+      1,
+      10,
+      12
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  },
+  {
+    "sourceId": "primary-6",
+    "organizationTitle": "American Dental Association",
+    "url": "https://www.ada.org/",
+    "claimSupported": "Clinical guidance, continuing education and professional advocacy.",
+    "sections": [
+      14
+    ],
+    "verificationStatus": "Retrieved official page.",
+    "workingProfileId": "hcl-dentist",
+    "verifiedDate": "2026-10-25"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-dentist",
+  "title": "Dentist",
+  "sourceKey": "dentist",
+  "sourceIndices": [
+    12
+  ],
+  "sourceTitle": "Dentist",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; clinical profile does not merge other inventory labels."
+}

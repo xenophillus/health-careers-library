@@ -1,0 +1,11 @@
+{
+  "scope": "Whitespace-only bibliography list compatibility with actual repository importer; no wording, source or claim changes.",
+  "profiles": [
+    "industrialhygienist",
+    "regulatoryaffairsspecialist",
+    "molecularbiologist",
+    "clinicaltrialsresearchcoordinator",
+    "toxicologist"
+  ],
+  "validation": "Whitespace-normalized old/new content asserted identical; CSV regenerated; source review snapshots retained as historical."
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "BLS — Nuclear Medicine Technologists",
+    "url": "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm",
+    "claimSupported": "May 2025 U.S. median, 2025–35 projections, settings, schedules and credential organizations.",
+    "sections": [
+      4,
+      6,
+      8,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "snmmi",
+    "organizationTitle": "SNMMI — Technologist Careers",
+    "url": "https://snmmi.org/Web/Web/About/About-Nuclear-Medicine-and-Medical-Imaging/Technologist---Careers-in-Nuclear-Medicine.aspx",
+    "claimSupported": "Radiopharmaceutical imaging, patient care, settings and career advancement.",
+    "sections": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET — Nuclear Medicine Technologists",
+    "url": "https://www.onetonline.org/link/summary/29-2033.00",
+    "claimSupported": "Imaging, monitoring, quality checks and records; basis for illustrative day and reflection.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "mayo",
+    "organizationTitle": "Mayo Clinic — Nuclear Medicine Technologist",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/nuclear-medicine-technologist/",
+    "claimSupported": "Patient care and technical skills; degree and certificate route distinctions.",
+    "sections": [
+      5,
+      6,
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "nmtcb",
+    "organizationTitle": "NMTCB — Program Graduate Application Instructions",
+    "url": "https://www.nmtcb.org/exams/nuclear-medicine/",
+    "claimSupported": "Qualifying professional education, clinical competencies and CNMT examination.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "kansas",
+    "organizationTitle": "Kansas Board of Healing Arts — Radiologic Technology FAQ",
+    "url": "https://www.ksbha.ks.gov/departments/general-counsel/general-counsel-faqs/radiologic-technology",
+    "claimSupported": "Kansas requires certified nuclear medicine technologists to hold radiologic technologist licensure.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official search-index exact FAQ answer checked; direct page HTTP 403. Full regulatory exceptions/application details remain pending.",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "team",
+    "organizationTitle": "ACR/RSNA RadiologyInfo — Nuclear Medicine Professions",
+    "url": "https://www.radiologyinfo.org/en/info/professions-nuclear-medicine",
+    "claimSupported": "Distinct physician, pharmacist, physicist and technologist responsibilities.",
+    "sections": [
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  },
+  {
+    "sourceId": "association",
+    "organizationTitle": "SNMMI — About SNMMI",
+    "url": "https://snmmi.org/Web/Web/About/About-SNMMI/Default.aspx",
+    "claimSupported": "Professional society and Technologist Section education role.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-nuclearmedicinetechnologist"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "baseBranch": "development/library-launch-build",
+  "baseCommit": "6df2c676dfa9802995a49da8cb774db974d2a9fa",
+  "headBranch": "content/bounded-20-review",
+  "scope": "Only content/ additions; preserves other work",
+  "reviewOnly": true,
+  "canonicalWrites": 0,
+  "approvalFlagsChanged": 0,
+  "publicationAuthorized": false
+}

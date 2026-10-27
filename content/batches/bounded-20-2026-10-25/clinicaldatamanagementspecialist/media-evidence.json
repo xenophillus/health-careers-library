@@ -1,0 +1,28 @@
+{
+  "reviewDate": "2026-10-25",
+  "status": "Deliberate text-only; reviewed candidate held",
+  "selectedImage": null,
+  "authenticOccupationalPhotoIncluded": false,
+  "licenseVerification": "No selected image license cleared",
+  "pixelVerification": "No image pixels acquired or visually verified",
+  "attempts": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clinical_Data_Elan_ATAC_8000_2_(15361246044).jpg",
+      "result": "Search result depicts laboratory equipment, not data management; title match misleading.",
+      "licenseStatus": "Not checked because irrelevant",
+      "pixelStatus": "Not downloaded; rejected from description",
+      "decision": "Not selected"
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Table_1_Clinical_variables_28-3_2022.png",
+      "result": "Search result describes a data table of unknown teaching context, not authentic occupational work.",
+      "licenseStatus": "Not checked; provenance and educational relevance unresolved",
+      "pixelStatus": "Not obtained",
+      "decision": "Not selected"
+    }
+  ],
+  "remainingGap": "Find an authentic educationally relevant image, verify original provenance and license, obtain pixels, visually inspect, and add accurate credit/caption/alt text before publication. No image is embedded in the draft.",
+  "decision": "HOLD_TEXT_ONLY",
+  "reason": "Primary authorship/official-duty provenance unestablished; dense historical diagram unsuitable.",
+  "nextAction": "No image required for this profile."
+}

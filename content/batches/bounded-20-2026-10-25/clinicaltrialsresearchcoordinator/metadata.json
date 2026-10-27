@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+  "title": "Clinical Trials Research Coordinator",
+  "sourceTitle": "Clinical Trials Research Coordinator",
+  "sourceKey": "clinicaltrialsresearchcoordinator",
+  "sourceIndices": [
+    173
+  ],
+  "sourcePathways": [
+    "Biotechnology Research and Development"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact inventory label Clinical Trials Research Coordinator mapped to O*NET Clinical Research Coordinators 11-9121.01. Does not cover monitors or investigators as aliases."
+}

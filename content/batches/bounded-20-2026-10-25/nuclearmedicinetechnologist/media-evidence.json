@@ -1,0 +1,40 @@
+{
+  "sourceKey": "nuclearmedicinetechnologist",
+  "sourceUrl": "https://www.dvidshub.net/image/5564838/nuclear-medicine",
+  "publicImageUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1907/5564838/1000w_q95.jpg",
+  "credit": "U.S. Navy / Chief Mass Communication Specialist Michael O'Day",
+  "license": "Public domain in the United States",
+  "rightsUrl": "https://www.dvidshub.net/about/copyright",
+  "caption": "Nuclear medicine supervisor Ronald Cruz performs a patient scan at Naval Medical Center San Diego, July 3, 2019.",
+  "alt": "A nuclear medicine professional holds a control beside a patient lying in a large imaging machine.",
+  "decision": "PASS",
+  "verification": "Actual pixels and image-specific source/license inspected by parent cloud-browser QA worker; exact metadata supplied in delegated task.",
+  "originalDownloadObtained": false,
+  "placement": "Standalone illustrated review figure; preserve full composition, no crop",
+  "nonEndorsement": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "reuseLimits": "Educational public-release context only; no additional patient consent, model release, credentials or endorsement inferred.",
+  "priorEvidence": {
+    "status": "missing_verified_image",
+    "checkedDate": "2026-10-25",
+    "imageIncluded": false,
+    "pixelsObtained": false,
+    "visualReview": "not performed",
+    "licenseVerified": false,
+    "candidate": {
+      "filePage": "https://commons.wikimedia.org/wiki/File:CNX_Chem_21_00_NuclearMed.png",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/CNX_Chem_21_00_NuclearMed.png",
+      "creatorAsListed": "OpenStax",
+      "licenseAsListed": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseDeclarationChecked": true,
+      "dateAsListed": "2016-05-18",
+      "provenanceLimit": "Commons says textbook image/illustration but caption missing. Component photo attribution and actual occupational content unresolved; do not treat as verified authentic occupational photo."
+    },
+    "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "remaining": [
+      "Obtain and inspect actual pixels",
+      "Verify original image-specific provenance and suitability",
+      "Write accurate final caption, alt text and attribution after visual review"
+    ]
+  }
+}

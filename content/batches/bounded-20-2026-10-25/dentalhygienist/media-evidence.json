@@ -1,0 +1,26 @@
+{
+  "status": "Parent cloud-browser visual and CC0 record checks complete; educational scene, not live patient care",
+  "candidates": [
+    {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dental_Hygiene-19.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dental_Hygiene-19.jpg",
+      "creator": "waketechcc / Wake Technical Community College",
+      "originalSource": "https://www.flickr.com/photos/42853072@N07/54038615629/",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "date": "2024-10-02",
+      "licenseEvidence": "Commons file page records CC0, original Flickr source and Flickr-review confirmation on 2024-10-06.",
+      "caption": "A learner practices on a dental mannequin with an instructor beside them during a Wake Technical Community College dental hygiene class, 2024.",
+      "alt": "A learner works on a dental mannequin while an instructor stands beside them in a dental hygiene classroom.",
+      "suitability": "Educational setting; do not label students as licensed hygienists.",
+      "checkedDate": "2026-10-25",
+      "licensePageStatus": "Retrieved and read by author",
+      "pixelsObtained": false,
+      "visualReview": "Parent cloud-browser worker rendered actual pixels and confirmed Commons CC0/Flickr-review record; reported in delegated message 2026-10-25",
+      "downloadStatus": "Web original-image clicks returned URL only, not viewable pixels. Local upload.wikimedia.org image download attempted for Dental_Hygiene-19.jpg and failed at network proxy with Tunnel connection failed:403 Forbidden. No local file acquired.",
+      "embedded": false,
+      "parentPixelsInspected": true,
+      "localPixelStatus": "No local copy; parent cloud browser provided visual verification."
+    }
+  ]
+}

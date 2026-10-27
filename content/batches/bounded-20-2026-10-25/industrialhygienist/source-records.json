@@ -1,0 +1,104 @@
+[
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R1",
+    "organizationTitle": "AIHA — Discover Industrial Hygiene",
+    "url": "https://www.aiha.org/ih-careers/discover-industrial-hygiene",
+    "claimSupported": "Profession, hazards, diverse employers and CIH distinction.",
+    "sections": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      10,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R2",
+    "organizationTitle": "AIHA — ARECC decision-making framework",
+    "url": "https://www.aiha.org/blog/arecc-getting-the-right-things-done-right-every-day",
+    "claimSupported": "Anticipation, recognition, exposure evaluation, controls and confirmation of protection.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R3",
+    "organizationTitle": "BLS — Occupational Health and Safety Specialists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm",
+    "claimSupported": "Broad specialist occupation: May 2025 U.S. median $90,150; specialist-group growth 18% for 2025–2035; education and conditions.",
+    "sections": [
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R4",
+    "organizationTitle": "BGC — CIH Eligibility Checklist, December 2022",
+    "url": "https://gobgc.org/wp-content/uploads/2022/03/CIH-Eligibility-Checklist-2022-12-05.pdf",
+    "claimSupported": "Academic, industrial-hygiene coursework, ethics, experience and references; dated checklist, consult current handbook.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official PDF retrieved; dated December 2022. Current applicant page returned403, so exact numeric eligibility thresholds not asserted."
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R5",
+    "organizationTitle": "AIHA — About AIHA",
+    "url": "https://www.aiha.org/about-aiha",
+    "claimSupported": "Association purpose and occupational/environmental health and safety community.",
+    "sections": [
+      5,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R6",
+    "organizationTitle": "CDC/NIOSH — About NIOSH",
+    "url": "https://www.cdc.gov/niosh/index.html",
+    "claimSupported": "Worker safety and health research context.",
+    "sections": [
+      1,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-industrialhygienist",
+    "sourceId": "R7",
+    "organizationTitle": "BGC — CIH Applicant Information",
+    "url": "https://gobgc.org/applicants_CIH/",
+    "claimSupported": "Current credential authority and application destination.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Browser returned403; search snippet and official checklist establish authority, current full handbook eligibility review remains pending."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "sourceKey": "certifiednursingassistant",
+  "sourceUrl": "https://wtcs.pressbooks.pub/nurseassist/chapter/8-4-assisting-clients-to-transfer/",
+  "publicImageUrl": "https://wtcs.pressbooks.pub/app/uploads/sites/38/2022/05/Transferring-a-Client-Using-a-Sit-to-Stand-1024x833.jpg",
+  "credit": "Landon Cerny",
+  "license": "CC BY 4.0",
+  "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "caption": "Educational demonstration of a sit-to-stand transfer device, from the Nursing Assistant textbook.",
+  "alt": "Two adults demonstrate a sit-to-stand lift beside a bed, with one standing on the lift platform and the other holding its control.",
+  "decision": "PASS",
+  "verification": "Actual pixels and image-specific source/license inspected by parent cloud-browser QA worker; exact metadata supplied in delegated task.",
+  "originalDownloadObtained": false,
+  "placement": "Standalone illustrated review figure; preserve full composition, no crop",
+  "nonEndorsement": "",
+  "reuseLimits": "Educational public-release context only; no additional patient consent, model release, credentials or endorsement inferred.",
+  "priorEvidence": {
+    "status": "Image verification missing; no suitable candidate selected",
+    "pixelsObtained": false,
+    "visualReview": "missing",
+    "candidates": [],
+    "rejectedCandidates": [
+      {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Predisan_Nursing_Assistant_Aury_Navarro.JPG",
+        "reason": "Indexed description is oral-hygiene outreach in Honduras; not representative evidence of US CNA duties or scope. Not selected, license not cleared."
+      }
+    ],
+    "nextAction": "Obtain an authentic US nursing-assistant care photograph with explicit license and inspect actual pixels before integration."
+  }
+}

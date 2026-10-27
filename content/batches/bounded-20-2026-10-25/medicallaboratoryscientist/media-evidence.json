@@ -1,0 +1,38 @@
+{
+  "status": "Replacement visually and rights-verified by parent cloud browser; no local original acquired",
+  "checkedDate": "2026-10-25",
+  "imageIncluded": false,
+  "pixelsObtained": false,
+  "visualReview": "Parent cloud-browser verification reported in delegated message; not root local inspection",
+  "licenseVerified": true,
+  "retrievalAttempt": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "remaining": [
+    "Integrate permitted public image route consistently with site workflow after release instruction",
+    "Preserve attribution and source/date limits"
+  ],
+  "rejectedCandidate": {
+    "filePage": "https://commons.wikimedia.org/wiki/File:Medical_Laboratory_Scientist_US_NIH.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Medical_Laboratory_Scientist_US_NIH.jpg",
+    "creatorAsListed": "National Institutes of Health (Commons attribution)",
+    "licenseAsListed": "Public domain claim; federal authorship not independently established",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "licenseDeclarationChecked": false,
+    "dateAsListed": null,
+    "provenanceLimit": "Commons warns NIH also uses commercial images. Original image-specific federal authorship not confirmed; public-domain label alone is insufficient."
+  },
+  "candidate": {
+    "sourcePage": "https://www.dvidshub.net/image/9364294/walters-way-behind-scenes-lab-professionals-walter-reed-national-military-medical-center",
+    "publicPixelUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2510/9364294/1000w_q95.jpg",
+    "pixelUrlType": "Public1000w display derivative, not original",
+    "rightsUrl": "https://www.dvidshub.net/about/copyright",
+    "rights": "Public domain official photograph; item and pixels verified by parent worker",
+    "creator": "Ricardo Reyes-Guevara / Ricardo J. Reyes",
+    "caption": "Medical laboratory scientist Joe Midiri pipettes at Walter Reed National Military Medical Center in October2025. Photo by Ricardo Reyes-Guevara.",
+    "dateLimit": "Source fields disagree October16/17; caption uses month/year.",
+    "originalDownload": "Requires login; not attempted or acquired.",
+    "parentVisualVerification": true,
+    "localPixelsObtained": false,
+    "nonEndorsement": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+    "reuseLimits": "Preserve applicable privacy/publicity rights and nonendorsement language. Do not imply military endorsement."
+  }
+}
