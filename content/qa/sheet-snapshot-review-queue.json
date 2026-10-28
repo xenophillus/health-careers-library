@@ -1,0 +1,121 @@
+{
+  "spreadsheetId": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "readDate": "2026-10-25",
+  "range": "'Review Queue'!A1:T12",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Working Profile ID",
+      "Structure Check",
+      "Source Check",
+      "Credential / Pay Check",
+      "Editorial Review",
+      "Visual QA",
+      "Approval",
+      "Outstanding Issues"
+    ],
+    [
+      "hcl-athletictrainer",
+      "15 sections checked",
+      "BLS, CAATE, BOC and KSBHA direct primary claims verified; source mapping substantially complete",
+      "Pay/credential checked; Kansas protocol requirement added",
+      "Initial readability review complete; final line-by-line copyedit pending",
+      "Live Vercel files verified (200); 15 sections and latest QA updates; mobile interaction/screenshots untested",
+      "Not approved",
+      "2026-10-25: Tested live editorial homepage, CSS and Athletic Trainer module: all HTTP 200; 15 sections and mobile stacking CSS exist. Found stale Section 8/9/15 export, corrected GitHub dev preview and verified live deployed file now contains Kansas practice protocol and current bibliography. Actual browser interaction, rendered layout, mobile dimensions and final copyedit not visually tested. No approval or public-site changes."
+    ],
+    [
+      "hcl-certifiednursingassistant",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-dentalassistant",
+      "15 sections checked",
+      "Key primary sources opened; full claim audit ongoing",
+      "Credential source checks done; remaining state caveats",
+      "Readability QA pending",
+      "Server QA passed (200; 15 sections); visual/browser QA pending",
+      "Not approved",
+      "2026-10-25 review: Primary sources individually checked: BLS, DANB CDA eligibility, DANB 2026 Kansas career ladder, ADAA live site; Kansas Dental Board FAQ indexed but direct fetch returns 403. Remaining full editorial review; preview protected (403)."
+    ],
+    [
+      "hcl-dentalhygienist",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-dentist",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-emergencymedicaltechnician",
+      "15 sections checked",
+      "Primary links checked; KBEMS document conflict",
+      "Credential source checks done; remaining state caveats",
+      "Readability QA pending",
+      "Server QA passed (200; 15 sections); visual/browser QA pending",
+      "Not approved",
+      "2026-10-25 review: Primary sources individually checked: BLS, NREMT context, NAEMT. KBEMS PDF search text says March 2026 but rendered PDF shows 2021, causing a material version conflict; precise Kansas application requirements withheld pending confirmation. Preview protected (403)."
+    ],
+    [
+      "hcl-licensedpracticalnurse",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-medicalassistant",
+      "15 sections checked",
+      "Key primary sources opened; full claim audit ongoing",
+      "Credential source checks done; remaining state caveats",
+      "Readability QA pending",
+      "Server QA passed (200; 15 sections); visual/browser QA pending",
+      "Not approved",
+      "2026-10-25 review: Primary sources individually checked: BLS, AAMA CMA eligibility, AAMA Kansas scope summary. Kansas primary authority for specific delegated duties still outstanding; preview protected (403)."
+    ],
+    [
+      "hcl-nursepractitioner",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-occupationaltherapist",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ],
+    [
+      "hcl-paramedic",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not checked",
+      "Not approved"
+    ]
+  ]
+}

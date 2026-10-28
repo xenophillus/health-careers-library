@@ -1,0 +1,13 @@
+{
+  "title": "Licensed Practical Nurse",
+  "workingProfileId": "hcl-licensedpracticalnurse",
+  "proposedWebsiteCareerId": "licensed-practical-nurse",
+  "sourcePathways": [
+    "Therapeutic Services"
+  ],
+  "status": "draft",
+  "approved": false,
+  "canonicalBaseline": "Career Profiles full snapshot lists Not started; re-read article/source/media rows before any remote write.",
+  "authoredDate": "2026-10-25",
+  "intro": "Licensed practical nurses (LPNs) provide direct nursing care and help the healthcare team follow a patient’s condition over time. They combine hands-on support with observation, records, and communication. In some states the comparable title is licensed vocational nurse (LVN); national employment statistics often group LPNs and LVNs together."
+}

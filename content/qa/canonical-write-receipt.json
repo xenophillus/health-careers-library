@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-25",
+  "spreadsheetId": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "status": "applied_and_readback_verified",
+  "authorization": "Explicit user approval following initial auto-review rejection",
+  "contentCells": 54,
+  "sourceRows": 144,
+  "sourceRange": "Sources!A16:I159",
+  "profiles": [
+    "hcl-athletictrainer",
+    "hcl-dentalassistant",
+    "hcl-emergencymedicaltechnician",
+    "hcl-medicalassistant",
+    "hcl-centralserviceorsterileprocessingtechnician"
+  ],
+  "concurrencyCheck": "Live cells and source records unchanged immediately before write",
+  "readback": "All changed content and source cells match; neighboring article values, validation and format metadata unchanged. Empty source cells normalize to empty string.",
+  "approvalChanges": 0,
+  "generatedFilesChanged": 0,
+  "limitations": [
+    "Google-rendered Sheet fit not inspected; formatting preserved",
+    "Generated exports must be refreshed through normal workflow",
+    "Media corrections remain proposed; no Media edits authorized in this batch",
+    "Other newly authored profiles remain repository proposals"
+  ]
+}

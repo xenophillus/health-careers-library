@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bioinformatics-scientist-section-1",
+    "name": "Career Overview",
+    "markdown": "Bioinformatics scientists use computing to investigate biological questions. They organize and analyze information such as DNA sequences, gene activity and proteins, and develop methods that help researchers make sense of large datasets. The goal is a useful scientific explanation, not simply a program that runs without an error.\n\nA healthcare project might compare genomic data to investigate disease or develop a tool for interpreting laboratory results. Other projects concern organisms, agriculture or basic biology. The field combines biological knowledge with software, statistics and careful attention to the origin of the data. Scientists often work with experimental researchers whose laboratory methods shape what a dataset can reveal."
+  },
+  {
+    "id": "bioinformatics-scientist-section-2",
+    "name": "Duties and Responsibilities",
+    "markdown": "Bioinformatics work connects a research question to an analysis that other people can understand and examine.\n\n- **Choose an analytical approach:** Consult with researchers about the question, available data and suitable computational methods.\n- **Prepare and organize biological data:** Work with sequence files, databases and descriptions of how samples were collected.\n- **Develop and test tools:** Write or adapt software, evaluate its output and check changes before relying on an updated method.\n- **Interpret and communicate:** Connect patterns to biological meaning and explain results through reports, visualizations and publications.\n\nFor example, comparing DNA sequences can reveal differences from a reference sequence. Finding a difference is not the same as establishing that it causes disease. Interpretation requires biological evidence as well as a computational result."
+  },
+  {
+    "id": "bioinformatics-scientist-section-3",
+    "name": "A Day in the Life",
+    "markdown": "In an illustrative day, a scientist meets a laboratory team that wants to compare gene activity between sample groups. Before starting the analysis, they clarify how the samples were prepared and which comparisons the study was designed to support. They then examine the files and check that sample descriptions match the analysis inputs.\n\nAn afternoon may involve testing a change to the analysis code and comparing its output with a known example. The scientist records software versions and decisions so another researcher can follow the work. A meeting at the end of the day may produce a revised question rather than a final discovery. Some projects require building new methods; others depend on careful application of existing tools."
+  },
+  {
+    "id": "bioinformatics-scientist-section-4",
+    "name": "Work Environment and Schedule",
+    "markdown": "The workplace is often a research office or computing environment connected to a laboratory, university, biotechnology company or healthcare research team. Much of the day can be spent at a computer, but consultation with experimental scientists is part of the scientific work rather than an interruption to it.\n\nIn a shared bioinformatics facility, a scientist may advise several research groups. In a dedicated research laboratory, the work may concentrate on one biological question over a longer period. These settings create different demands for scheduling, documentation and explanation. Students exploring jobs should ask who uses the analysis, how projects are prioritized and how much responsibility the role has for developing methods."
+  },
+  {
+    "id": "bioinformatics-scientist-section-5",
+    "name": "Skills, Knowledge, and Personal Qualities",
+    "markdown": "Bioinformatics requires enough biology to recognize a meaningful question and enough computing to investigate it reliably. Programming, statistics, data organization and familiarity with biological databases all contribute. Software skill alone cannot explain what the experiment measured; biological knowledge alone cannot guarantee that an analysis is correct.\n\nThe ISCB competency framework treats bioinformatics as a combination of scientific, computational and professional capabilities. Clear documentation, collaboration and ongoing learning matter because methods and datasets change. A strong scientist can explain why a method was chosen, what assumptions it makes and what further evidence would be needed to support a conclusion."
+  },
+  {
+    "id": "bioinformatics-scientist-section-6",
+    "name": "Physical and Emotional Demands",
+    "markdown": "Extended screen work and sustained concentration are common demands. Debugging a difficult analysis can require separating a scientific problem from a software or data problem. A result may look convincing before a quality check reveals that it depends on an overlooked assumption.\n\nHuman genomic information also carries privacy responsibilities. NHGRI emphasizes that genetic information can have implications for individuals and families, including when used in research. Respecting access conditions and approved uses is part of the job. The scientist must balance useful collaboration with appropriate handling of sensitive data, without assuming that removing a name makes every dataset safe to share."
+  },
+  {
+    "id": "bioinformatics-scientist-section-7",
+    "name": "Education and Training",
+    "markdown": "Preparation combines biology, computation and quantitative reasoning. O*NET places Bioinformatics Scientists in its extensive-preparation job zone, associated with graduate study. Research-scientist roles may seek a master's degree or Ph.D., while related analysis, programming and technical roles can have different entry requirements.\n\nStudents can enter the field from different undergraduate backgrounds, including life sciences or computing, then build strength in the other areas. The important question is whether the training develops the combined skills needed for the intended work. ISCB provides education resources and a competency framework that help describe those skills. In high school, biology, mathematics, programming and clear scientific writing provide useful foundations. A small project using openly available teaching data can reveal whether connecting code to a biological question is appealing."
+  },
+  {
+    "id": "bioinformatics-scientist-section-8",
+    "name": "Certification and Licensure",
+    "markdown": "A bioinformatics course certificate, a graduate degree and qualification for a clinical role are different forms of preparation. ISCB's competency framework describes capabilities for education and professional development; it is not a clinical license.\n\nWhen bioinformatics contributes to human laboratory testing used for diagnosis or health assessment, the laboratory's clinical responsibilities still apply. CMS administers the CLIA framework, including personnel requirements for nonwaived testing. A scientist developing an analytical method should not be assumed to have authority to issue every clinical interpretation or independently treat patients. The exact role determines the required training, review and responsibility."
+  },
+  {
+    "id": "bioinformatics-scientist-section-9",
+    "name": "Salary, Entry-Level Earnings, and Job Outlook",
+    "markdown": "O*NET reports wage data for the broader U.S. group **Biological Scientists, All Other**, rather than a separate Bioinformatics Scientists wage survey. Its **2025 annual median is $98,920**, using BLS wage data. Half the workers in that broader group earned more and half earned less; this is not a verified starting salary or a specialty-specific median.\n\nFor that same broad group, O*NET displays projected **2025\u20132035 growth in the 5%\u20136% category**. This provides general occupational context, not a forecast for every bioinformatics specialty. A research scientist, software-focused position and technical support role may have different qualifications and pay. Compare actual duties and degree requirements when evaluating jobs."
+  },
+  {
+    "id": "bioinformatics-scientist-section-10",
+    "name": "Specialties and Career Advancement",
+    "markdown": "A scientist may concentrate on genomic sequences, gene activity, protein data, structural biology or the integration of several types of biological measurements. Another may focus on developing software and databases that many researchers use. Specialization can therefore reflect either a biological question or a computational problem.\n\nAdvancement may involve leading analyses, designing new methods, directing a shared facility or mentoring other researchers. Core facilities also need people who can coordinate projects and teach collaborators to use tools appropriately. Seniority is not simply the ability to write more code: it can bring responsibility for scientific judgment, review, communication and the quality of a team's work."
+  },
+  {
+    "id": "bioinformatics-scientist-section-11",
+    "name": "Benefits and Challenges of the Career",
+    "markdown": "Bioinformatics can suit someone who wants to combine computing with questions about living systems. An analytical tool may help many research teams, and a well-designed method can make previously difficult questions approachable. The work offers a way to contribute to biomedical research without primarily providing bedside care.\n\nThe challenge is that large datasets do not automatically produce reliable answers. Missing context, inconsistent measurements or an unsuitable method can weaken an analysis. Some of the most valuable work is checking, documenting and explaining those limits. Students who enjoy both problem-solving and questioning the meaning of a result may find that combination rewarding."
+  },
+  {
+    "id": "bioinformatics-scientist-section-12",
+    "name": "Career Connections and Related Occupations",
+    "markdown": "A **biostatistician** brings particular expertise in study design, statistical inference and uncertainty. A bioinformatics scientist often emphasizes biological data structures, computational methods and tools, though the work can overlap. A **geneticist** studies inheritance and genetic variation and may collaborate on interpreting results.\n\nA **bioinformatics technician, associate or specialist** may have overlapping duties, but those titles do not establish an identical education level or scope of responsibility. A **molecular or cellular biologist** may generate experimental evidence that a bioinformatics scientist helps analyze. Reading the actual job description is more informative than assuming all nearby titles are synonyms."
+  },
+  {
+    "id": "bioinformatics-scientist-section-13",
+    "name": "Could This Career Interest You?",
+    "markdown": "Do you like both biological questions and computer-based problem-solving? Would you enjoy checking why an analysis changed after a software update? Can you explain a technical decision to a researcher who uses different methods?\n\nA useful starting activity is to explore a small, publicly released teaching dataset with a teacher or mentor. Ask what the data represent before choosing a tool. Notice whether you enjoy keeping track of assumptions and explaining the result as much as producing it. You do not need to handle private genomic information to learn these habits."
+  },
+  {
+    "id": "bioinformatics-scientist-section-14",
+    "name": "Professional Associations",
+    "markdown": "The **International Society for Computational Biology (ISCB)** supports bioinformatics and computational biology through scientific meetings, education, publications and career resources. Its training materials and competency framework help students see the field's combination of scientific and computational skills.\n\nFor work involving human genetics, the **American Society of Human Genetics (ASHG)** offers additional scientific and career resources. These societies provide professional communities and learning opportunities. Membership or attendance at a training event does not itself establish clinical qualifications."
+  },
+  {
+    "id": "bioinformatics-scientist-section-15",
+    "name": "Bibliography & Sources",
+    "markdown": "All sources accessed October 25, 2026.\n\n- [NHGRI: Bioinformatics](https://www.genome.gov/genetics-glossary/Bioinformatics) \u2014 Definition.\n- [U.S. Department of Labor / O*NET: Bioinformatics Scientists 19-1029.01](https://www.onetonline.org/link/summary/19-1029.01) \u2014 Tasks; Work Context; Wages and Employment.\n- [NHGRI: Genomic Data Science](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science) \u2014 What is genomic data science.\n- [NHGRI: Human Genomic Variation](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation) \u2014 How variants are detected; Why variation matters.\n- [ISCB Education Committee authors: ISCB competency framework v.3](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae166/7903279) \u2014 Framework competencies and career profiles.\n- [Lloret-Llinares and colleagues: Competencies for bioinformatics core facility scientists](https://pmc.ncbi.nlm.nih.gov/articles/PMC12517332/) \u2014 Abstract; career progression framework.\n- [U.S. Department of Labor / O*NET: Bioinformatics Scientists Job Zone](https://www.onetonline.org/skills/zone/19-1029.01) \u2014 Job Zone Five.\n- [International Society for Computational Biology: Education and Training Resources](https://www.iscb.org/nucleus/education-and-training-resources) \u2014 Education pages overview.\n- [NHGRI: Privacy in Genomics](https://www.genome.gov/about-genomics/policy-issues/Privacy) \u2014 Privacy in genomics.\n- [Centers for Medicare & Medicaid Services: Clinical Laboratory Improvement Amendments](https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments) \u2014 About CLIA.\n- [eCFR: 42 CFR 493 Subpart M](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-493/subpart-M) \u2014 Subpart M.\n- [International Society for Computational Biology: About ISCB](https://www.iscb.org/about-iscb) \u2014 Mission and services.\n- [American Society of Human Genetics: ASHG](https://www.ashg.org/) \u2014 Careers and Learning.\n- [U.S. Department of Labor / O*NET: Biostatisticians](https://www.onetonline.org/link/summary/15-2041.01) \u2014 Tasks."
+  }
+]

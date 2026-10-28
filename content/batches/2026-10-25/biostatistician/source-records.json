@@ -1,0 +1,198 @@
+[
+  {
+    "sourceId": "BLS-STATS",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Mathematicians and Statisticians",
+    "url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+    "sectionNumbers": [
+      4,
+      7,
+      9,
+      10
+    ],
+    "claimSummary": "Statisticians May2025 median105650, percentiles64000/174050,11%2025\u20132035; combined group10%/2000 openings explicitly distinct; typical master route.",
+    "locator": "Pay; Job Outlook chart; Education",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-BIOSTATS",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Biostatisticians 15-2041.01",
+    "url": "https://www.onetonline.org/link/summary/15-2041.01",
+    "sectionNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      12,
+      13
+    ],
+    "claimSummary": "Planning, sample size, programming, interpretation, consultation and reporting; original workday/reflection based on these tasks.",
+    "locator": "Tasks; Work Activities; Work Context",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASA-ETHICS",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "American Statistical Association",
+    "title": "Ethical Guidelines for Statistical Practice",
+    "url": "https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice",
+    "sectionNumbers": [
+      5,
+      6,
+      8,
+      11
+    ],
+    "claimSummary": "Appropriate methods, confidentiality, transparent limitations, resisting predetermined results and responsibilities to collaborators.",
+    "locator": "Principles A\u2013E; approved2022-02-01",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASA-ACCREDIT",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "American Statistical Association",
+    "title": "Accreditation",
+    "url": "https://www.amstat.org/your-career/accreditation",
+    "sectionNumbers": [
+      8,
+      14
+    ],
+    "claimSummary": "GStat/PStat recognize preparation and professional development.",
+    "locator": "Why Is Accreditation Important; application components",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASA-VOLUNTARY",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "American Statistical Association",
+    "title": "Guidelines for Voluntary Professional Accreditation",
+    "url": "https://www.amstat.org/asa/files/pdfs/accreditation/Guidelines.pdf",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Professional accreditation explicitly voluntary. No numerical requirements copied into profile.",
+    "locator": "Title and accreditation purpose",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "HARVARD-RESEARCH",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Harvard T.H. Chan School of Public Health",
+    "title": "Biostatistics Research",
+    "url": "https://hsph.harvard.edu/department/biostatistics/research/",
+    "sectionNumbers": [
+      1,
+      10,
+      11
+    ],
+    "claimSummary": "Primary institutional examples: trials, genetics, records, environmental health and infectious disease research; not universal workplace claims.",
+    "locator": "Methods and Applications; research groups",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "HARVARD-MASTER",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Harvard T.H. Chan School of Public Health",
+    "title": "Master of Science\u2014Biostatistics",
+    "url": "https://hsph.harvard.edu/program/sm-biostatistics/",
+    "sectionNumbers": [
+      7
+    ],
+    "claimSummary": "Example masters training in statistical,bioinformatics,data science methods for health.",
+    "locator": "Summary",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "HARVARD-PHD",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Harvard T.H. Chan School of Public Health",
+    "title": "PhD\u2014Biostatistics",
+    "url": "https://hsph.harvard.edu/program/phd-biostatistics/",
+    "sectionNumbers": [
+      7
+    ],
+    "claimSummary": "Example doctoral preparation in advanced biostatistics theory and practice.",
+    "locator": "Summary",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASA-CAREER",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "American Statistical Association",
+    "title": "Your Career",
+    "url": "https://www.amstat.org/your-career",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Career/professional development/ethics resources.",
+    "locator": "Career center overview",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "BLS-EPI",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Epidemiologists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Related population-health research occupation.",
+    "locator": "What They Do",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-CRC",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Clinical Research Coordinators",
+    "url": "https://www.onetonline.org/link/summary/11-9121.01",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Research coordination and operations role contrasted with statistical responsibility.",
+    "locator": "Occupational description/tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Related-role contrast, not independent article coverage."
+  },
+  {
+    "sourceId": "BLS-DATA",
+    "workingProfileId": "hcl-biostatistician",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Data Scientists",
+    "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Data analysis/modeling overlap; role contrast does not assert mutually exclusive duties.",
+    "locator": "Occupational description/tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Related-role contrast, not independent article coverage."
+  }
+]

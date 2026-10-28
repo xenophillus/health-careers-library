@@ -1,0 +1,121 @@
+[
+  {
+    "sourceId": "PHL-01",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      4,
+      7,
+      8,
+      9
+    ],
+    "organizationTitle": "BLS: Phlebotomists",
+    "url": "https://www.bls.gov/ooh/healthcare/phlebotomists.htm",
+    "claimSupported": "May2025 national median $45,230;2025\u201335 growth7%;18,000 annual openings. Postsecondary certificates usually under one year; some employer training; hospital/lab night and weekend work.",
+    "locator": "Pay; Job Outlook; Education; Work Schedules",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-02",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      10,
+      13
+    ],
+    "organizationTitle": "O*NET: Phlebotomists31-9097.00",
+    "url": "https://www.onetonline.org/link/summary/31-9097.00",
+    "claimSupported": "Patient/order identification; collections; records and specimen transport; training personnel; repetitive close-contact work. Workdays and reflection questions are editorial examples derived from these duties, not reported interviews.",
+    "locator": "Tasks; Work Context; updated2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-03",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      7,
+      8,
+      12,
+      14
+    ],
+    "organizationTitle": "ASCP BOC: PBT",
+    "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/PBT",
+    "claimSupported": "PBT role and separate education/experience routes; ASCP route1 high-school equivalent plus NAACLS phlebotomy completion in last5years. Credential requires examination and documentation. Related credentials listed separately.",
+    "locator": "PBT description; ASCP eligibility Route1; credential listing",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-04",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      7
+    ],
+    "organizationTitle": "NAACLS: Program Search",
+    "url": "https://naacls.org/NAACLS-program-search/",
+    "claimSupported": "Directory lists program-specific statuses; user must select intended program. No assertion made that every listed program has full accreditation.",
+    "locator": "Program Search",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-05",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      6,
+      11
+    ],
+    "organizationTitle": "CDC/NIOSH: Bloodborne Infectious Disease Risk Factors",
+    "url": "https://www.cdc.gov/niosh/healthcare/risk-factors/bloodborne-infectious-diseases.html",
+    "claimSupported": "Blood exposure, needlestick and sharps hazards; prompt reporting and professional evaluation; prevention context. No procedural instruction.",
+    "locator": "Feb13,2025; Exposure risk",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-06",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      4,
+      10
+    ],
+    "organizationTitle": "American Red Cross: Blood Collection Careers",
+    "url": "https://www.redcross.org/about-us/careers/pbjob-types/blood-collection.html",
+    "claimSupported": "Employer examples of blood-service roles. Not a universal advancement guarantee.",
+    "locator": "Blood Collections Team",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-07",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      1,
+      3,
+      11
+    ],
+    "organizationTitle": "American Red Cross: Phlebotomists Help Ensure a Healthy Blood Supply",
+    "url": "https://www.redcross.org/local/texas/north-texas/about-us/news-and-events/news/american-red-cross-phlebotomists-help-ensure-a-healthy-blood-sup.html",
+    "claimSupported": "Donor collections and testing/processing sequence; staff perspectives on meaning. Article paraphrases staff experience without inventing quotes.",
+    "locator": "Feb13,2023; staff account",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  },
+  {
+    "sourceId": "PHL-08",
+    "workingProfileId": "hcl-phlebotomist",
+    "sections": [
+      14
+    ],
+    "organizationTitle": "ASCP",
+    "url": "https://www.ascp.org/",
+    "claimSupported": "Professional association education, advocacy, laboratory community; phlebotomy education category; board credentialing distinct from membership.",
+    "locator": "Home; education and membership navigation",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source checked; independent editorial approval pending"
+  }
+]

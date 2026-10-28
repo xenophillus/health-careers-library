@@ -1,0 +1,199 @@
+[
+  {
+    "sourceId": "CHW-01",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "BLS — Community Health Workers",
+    "url": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+    "sections": [
+      4,
+      7,
+      9,
+      10
+    ],
+    "evidence": "May2025 national median $51,850; lowest10% below38,810; highest10% above77,180; growth13% 2025–35;7,000 annual openings. High school typical; full time, evenings/weekends; supervisory advancement.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-02",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "National C3 Council — Roles and Competencies",
+    "url": "https://www.c3council.org/roles-competencies",
+    "sections": [
+      2,
+      5,
+      13,
+      14
+    ],
+    "evidence": "Consensus roles include mediation, navigation, outreach, advocacy, education, coaching, community capacity and evaluation; professional conduct and communication skills. Reflective scenarios are author synthesis.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-03",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "KDHE — Community Health Workers",
+    "url": "https://www.kdhe.ks.gov/1770/Community-Health-Workers",
+    "sections": [
+      1,
+      2
+    ],
+    "evidence": "Trusted community understanding, liaison to services, education, support, advocacy and community capacity; does not supply independent clinical authority.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-04",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "O*NET — Community Health Workers",
+    "url": "https://www.onetonline.org/link/summary/21-1094.00",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      12
+    ],
+    "evidence": "Records, follow-up, referrals, community meetings, provider feedback and navigation titles. Procedure examples in this broad catalog are NOT used as Kansas procedure authorization.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-05",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "BLS Career Outlook — Interview with CHW Mikayla Trujillo, August 2022",
+    "url": "https://www.bls.gov/careeroutlook/2022/interview/community-health-worker.htm",
+    "sections": [
+      3,
+      6,
+      11
+    ],
+    "evidence": "First-person account supports qualitative rewards, crisis/secondary-trauma challenges, boundaries, community connection and varied work. Not population-wide statistical evidence; workday is illustrative.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-06",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "Kansas CHW Coalition — Education",
+    "url": "https://kschw.org/education/",
+    "sections": [
+      7
+    ],
+    "evidence": "Core program 100 instructional hours and60 service-learning hours; specific providers organize hours differently.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-07",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "KDHE — CHW Certification",
+    "url": "https://www.kdhe.ks.gov/1870/Certification",
+    "sections": [
+      8
+    ],
+    "evidence": "Education, work experience and reciprocity pathways; work experience800h over3years plus3 recommendation letters; reciprocity subject to criteria.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-08",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "KDHE — CHW Policy and Billing Guidance",
+    "url": "https://www.kdhe.ks.gov/DocumentCenter/View/46536/CHW-Policy-and-Billing-Guidance-PDF",
+    "sections": [
+      8
+    ],
+    "evidence": "Kansas Medicaid policy effective July1 2023; recognized certification and approved supervising practitioner for covered services; not universal law of all CHW employment. Excludes direct patient care beyond training/certification; article does not reproduce billing rates/limits.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-09",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "Kansas CHW Coalition — Certification",
+    "url": "https://kschw.org/certification/",
+    "sections": [
+      8
+    ],
+    "evidence": "Registry and certification administration. Temporary2026 renewal transition notice not included as evergreen student copy.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-10",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "Indian Health Service — Community Health Representative",
+    "url": "https://www.ihs.gov/chr/",
+    "sections": [
+      10
+    ],
+    "evidence": "CHR is Tribal workforce improving access and capacity in AI/AN communities; does not establish all CHW titles as equivalent credentials.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-11",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "BLS — Health Education Specialists",
+    "url": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+    "sections": [
+      12
+    ],
+    "evidence": "Program development/evaluation; at least bachelor degree typical. No educator wages borrowed for CHW.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-12",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "BLS — Social Workers",
+    "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+    "sections": [
+      12
+    ],
+    "evidence": "Social-worker support role and clinical diagnosis/treatment distinction.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-13",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "National Association of Community Health Workers — About",
+    "url": "https://nachw.org/about/",
+    "sections": [
+      1,
+      10,
+      14
+    ],
+    "evidence": "Membership organization; umbrella terminology, community trust/shared experience; professional development and advocacy.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "CHW-14",
+    "workingProfileId": "hcl-communityhealthworker",
+    "title": "Kansas CHW Coalition",
+    "url": "https://kschw.org/",
+    "sections": [
+      14
+    ],
+    "evidence": "Education, empowerment, professional advocacy and certification resources.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  }
+]

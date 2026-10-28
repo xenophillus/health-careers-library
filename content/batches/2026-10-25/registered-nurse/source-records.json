@@ -1,0 +1,172 @@
+[
+  {
+    "sourceId": "RN-BLS",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      4,
+      7,
+      9,
+      10
+    ],
+    "organizationTitle": "BLS — Registered Nurses",
+    "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+    "claimSupported": "May2025 median $97,550; 2025–35 growth6%,180,800 annual openings; RN education routes/settings and specialties.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "RN-ONET",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      2,
+      5
+    ],
+    "organizationTitle": "O*NET — Registered Nurses 29-1141.00",
+    "url": "https://www.onetonline.org/link/summary/29-1141.00",
+    "claimSupported": "Observation, medication response, records, coordination, teaching and supervision. Does not establish legal prescribing authority.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "RN-PROCESS",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      2,
+      3,
+      5
+    ],
+    "organizationTitle": "ANA — Nursing Process",
+    "url": "https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/the-nursing-process/",
+    "claimSupported": "Assessment, planning, implementation and evaluation. Workday is author-created illustration, not a reported real shift.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "RN-ANA",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      1,
+      10,
+      11,
+      12
+    ],
+    "organizationTitle": "ANA — What Is Nursing?",
+    "url": "https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/",
+    "claimSupported": "Patient care and nursing roles; distinctions among nursing levels.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "RN-AACN",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      7,
+      10
+    ],
+    "organizationTitle": "AACN — Baccalaureate Education",
+    "url": "https://www.aacnnursing.org/students/nursing-education-pathways/baccalaureate-education",
+    "claimSupported": "BSN preparation, clinical learning, leadership/community context, RN degree-completion routes.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "RN-ASSOC",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      14
+    ],
+    "organizationTitle": "American Nurses Association",
+    "url": "https://www.nursingworld.org/ana/",
+    "claimSupported": "Professional education, resources and advocacy. No membership eligibility claim.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-INITIAL",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Initial Application",
+    "url": "https://ksbn.kansas.gov/initial-application/",
+    "claimSupported": "Initial RN/LPN checklist: official transcripts, fingerprints/background check and NCLEX registration. No fees/deadlines reproduced.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-PROGRAMS",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      7
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Programs",
+    "url": "https://ksbn.kansas.gov/programs/",
+    "claimSupported": "Approved prelicensure programs and separate RN/PN pass-rate resources.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-SCOPE",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      1,
+      8,
+      12
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-1113",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_011_0000_article/065_011_0013_section/065_011_0013_k/",
+    "claimSupported": "Professional/practical nursing distinction; nursing versus medical diagnosis; LPN directed supportive/restorative care.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-TREE",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      5,
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — RN/LPN Scope Decision Tree",
+    "url": "https://ksbn.kansas.gov/wp-content/uploads/2023/07/KSBN-Scope-of-Practice-Decision-Tree-for-the-RN-and-LPN.pdf",
+    "claimSupported": "Law, policies, competence, patient needs and supervision determine whether an activity is appropriate; not a blanket task authorization.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-NLC",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Nurse Licensure Compact",
+    "url": "https://ksbn.kansas.gov/nlc/",
+    "claimSupported": "Kansas participates; single-state and multistate licenses differ and eligibility must be satisfied. Old transition dates omitted.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "NCSBN",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "NCSBN — Licensure",
+    "url": "https://www.ncsbn.org/nursing-regulation/licensure.page",
+    "claimSupported": "Nursing regulatory bodies grant permission to practice; education/examination/licensure distinction.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "NIOSH",
+    "workingProfileId": "hcl-registerednurse",
+    "sectionNumbers": [
+      6,
+      11
+    ],
+    "organizationTitle": "CDC/NIOSH — Safe Patient Handling and Mobility",
+    "url": "https://www.cdc.gov/niosh/healthcare/sphm/index.html",
+    "claimSupported": "Patient handling injury risk; assistive devices, training and employer systems. Published May 9, 2024.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  }
+]

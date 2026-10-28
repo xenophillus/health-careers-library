@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-communityhealthworker",
+  "proposedWebsiteId": "community-health-worker",
+  "title": "Community Health Worker",
+  "sourcePathways": [
+    "Support Services"
+  ],
+  "editorialStatus": "research_draft_not_approved",
+  "baseline": "Career Profiles full snapshot confirms ID, Support Services, Not started; no matching Article Sections rows in saved snapshot",
+  "approved": false,
+  "sectionCount": 15
+}

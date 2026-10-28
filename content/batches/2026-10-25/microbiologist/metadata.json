@@ -1,0 +1,25 @@
+{
+  "workingProfileId": "hcl-microbiologist",
+  "websiteCareerId": "microbiologist",
+  "title": "Microbiologist",
+  "sourceIndices": [
+    178
+  ],
+  "sourceTitle": "Microbiologist",
+  "sourcePathway": "Biotechnology Research and Development",
+  "canonicalSnapshot": "content/qa/sheet-snapshot-career-profiles-full.json",
+  "canonicalProfileRow": 169,
+  "canonicalStatusObserved": "Not started",
+  "status": "draft",
+  "publicationApproved": false,
+  "reviewDate": "2026-10-25",
+  "intro": "Microbiologists investigate microbes through research and laboratory testing, helping explain disease, develop useful products and protect public health.",
+  "tags": [
+    "microbiology",
+    "research",
+    "laboratory",
+    "biotechnology",
+    "public health"
+  ],
+  "proposedSourceCoverage": "One original source appearance, index178; no aliases or other occupations silently incorporated."
+}

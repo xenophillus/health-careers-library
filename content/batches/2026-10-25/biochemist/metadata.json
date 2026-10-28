@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-biochemist",
+  "websiteCareerId": "biochemist",
+  "title": "Biochemist",
+  "sourceIndices": [
+    159
+  ],
+  "sourceTitle": "Biochemist",
+  "sourcePathway": "Biotechnology Research and Development",
+  "canonicalSnapshot": "content/qa/sheet-snapshot-career-profiles-full.json",
+  "canonicalProfileRow": 152,
+  "canonicalStatusObserved": "Not started",
+  "status": "draft",
+  "publicationApproved": false,
+  "reviewDate": "2026-10-25",
+  "intro": "Biochemists investigate the chemistry of living systems. They study molecules such as proteins and DNA to understand how cells function, how disease changes those functions and how a potential treatment might act. The work connects chemical measurements to biological questions rather than treating chemistry and biology as separate subjects.",
+  "tags": [
+    "biotechnology",
+    "research",
+    "biochemist"
+  ]
+}

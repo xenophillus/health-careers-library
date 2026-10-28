@@ -1,0 +1,185 @@
+[
+  {
+    "sourceId": "CR-01",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCRA Cancer Registry Profession",
+    "url": "https://www.ncra-usa.org/About/Cancer-Registry-Profession",
+    "sections": [
+      1,
+      2,
+      4,
+      10,
+      11,
+      12
+    ],
+    "claimSupported": "Hospital, central and special-purpose registries; demographic, diagnostic, treatment and follow-up information; research and public-health uses.",
+    "evidence": "Profession page read. No claim that all possible tumors are reportable; no diagnosis/treatment authority assigned to registrar.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-02",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "CDC How Cancer Registries Work",
+    "url": "https://www.cdc.gov/national-program-cancer-registries/about/how-cancer-registries-work.html",
+    "sections": [
+      1,
+      2,
+      4,
+      11
+    ],
+    "claimSupported": "Registries combine detailed cancer information to study occurrence, populations and prevention needs.",
+    "evidence": "Primary NPCR explainer dated September14,2026. Central registries review and combine reports for completeness.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-03",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCI SEER Process of Cancer Data Collection",
+    "url": "https://training.seer.cancer.gov/registration/data/collection.html",
+    "sections": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "claimSupported": "Casefinding, multiple sources, reporting protocols and active collection rather than passive receipt.",
+    "evidence": "Training module updated December11,2023. Illustrative day is author-created synthesis; no exact reporting deadline adopted.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-04",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCI SEER Abstracting a Cancer Case",
+    "url": "https://training.seer.cancer.gov/abstracting/",
+    "sections": [
+      2,
+      3,
+      5
+    ],
+    "claimSupported": "Registrar uses medical record to construct tumor abstract, including diagnostic/pathology information.",
+    "evidence": "Module read. Abstract described in plain language without teaching clinical procedure or implying diagnosis authority.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-05",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCI SEER Registry Operations",
+    "url": "https://seer.cancer.gov/registrars/",
+    "sections": [
+      2,
+      3,
+      5,
+      10
+    ],
+    "claimSupported": "Coding and staging manuals, reporting guidelines, inquiry resources and updated tools support registry work.",
+    "evidence": "Current resource directory read; no claim that one manual or code set governs every registry identically.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-06",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCRA ODS Exam Eligibility",
+    "url": "https://www.ncra-usa.org/ODS-credential/potential-ODS/eligibility",
+    "sections": [
+      7,
+      8
+    ],
+    "claimSupported": "Accredited associate+practicum route; degree/equivalent plus accredited certificate+practicum route; education/anatomy-physiology plus qualifying registry-experience route.",
+    "evidence": "Routes1\u20133 opened directly. Experience route currently includes1,950 hours within preceding five years; article deliberately gives high-level pathway and links exact current rules. No short-course qualification claim.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-07",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCRA ODS Credential",
+    "url": "https://www.ncra-usa.org/ODS-Credential",
+    "sections": [
+      8,
+      14
+    ],
+    "claimSupported": "ODS certification, Council on Certification, exam and continuing education.",
+    "evidence": "Current credential page and certification exam page read. No fee, renewal numeric requirement or universal legal mandate introduced.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-08",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCRA ODS Toolkit for Accredited Education Programs",
+    "url": "https://www.ncra-usa.org/ODSToolkit/Accredited-Education-Program",
+    "sections": [
+      8
+    ],
+    "claimSupported": "ODS replaced CTR beginning January2024; credential name differs from occupation title cancer registrar.",
+    "evidence": "Direct primary toolkit page explicitly retains cancer registrar as profession name. No new occupation invented from credential rename.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-09",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "BLS Health Information Technologists and Medical Registrars",
+    "url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+    "sections": [
+      4,
+      9,
+      10,
+      12
+    ],
+    "claimSupported": "Combined SOC29-9021 May2025 US median$68,020;2025\u20132035 growth16%;3,000 annual openings; broad office setting and advancement.",
+    "evidence": "Broader-group statistics explicitly labeled in article, not cancer-registrar-only wages or starting pay.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-10",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCI SEER Cancer Registrar Training",
+    "url": "https://seer.cancer.gov/training/",
+    "sections": [
+      7,
+      10,
+      13,
+      14
+    ],
+    "claimSupported": "Free web-based self-paced training resources are available for cancer registration.",
+    "evidence": "Training page read. Exploration suggestion is original; modules not presented as substitute for accredited pathway or credential.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-11",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "CDC Cancer Registry Data Security",
+    "url": "https://www.cdc.gov/national-program-cancer-registries/php/data-security/index.html",
+    "sections": [
+      2,
+      5,
+      6
+    ],
+    "claimSupported": "Authorized access, confidentiality/integrity/availability policies and privacy responsibilities.",
+    "evidence": "Actual page reached through official NPCR link after guessed URL404. Only successful /php/ URL used in bibliography. No claim that public reports reveal patient identifiers.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "CR-12",
+    "workingProfileId": "hcl-cancerregistrar",
+    "organizationTitle": "NCRA What is NCRA",
+    "url": "https://www.ncra-usa.org/About/What-is-NCRA",
+    "sections": [
+      4,
+      14
+    ],
+    "claimSupported": "Professional association education, advocacy, credentialing and registry practice settings.",
+    "evidence": "Association primary page directly opened. Membership counts and marketing superlatives omitted.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  }
+]

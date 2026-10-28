@@ -1,0 +1,177 @@
+[
+  {
+    "sourceId": "BCE-01",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "BLS \u2014 Bioengineers and Biomedical Engineers",
+    "url": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+    "sections": [
+      7,
+      9
+    ],
+    "evidence": "May2025 median109,370;10th71,850;90th168,180;2025\u201335growth8%;1,200 annual openings; bachelor degree typical.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-02",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "O*NET \u2014 Bioengineers and Biomedical Engineers",
+    "url": "https://www.onetonline.org/link/summary/17-2031.00",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "evidence": "Design, evaluation, research, reports, technical skills and collaboration.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-03",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "ACCE \u2014 Clinical Engineer Defined",
+    "url": "https://accenet.org/about/Pages/ClinicalEngineer.aspx",
+    "sections": [
+      1,
+      2,
+      4,
+      7,
+      10,
+      12
+    ],
+    "evidence": "Engineering and managerial work in healthcare; clinical education and hospital internship; budgets, systems, assets, IT coordination and maintenance oversight.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-04",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "ACCE \u2014 Certification in Clinical Engineering",
+    "url": "https://accenet.org/cecertification/Pages/Default.aspx",
+    "sections": [
+      8,
+      14
+    ],
+    "evidence": "Voluntary certification; eligibility education, experience and references plus written/oral examinations. Not universal license.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-05",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "NCEES \u2014 Licensure",
+    "url": "https://ncees.org/licensure/",
+    "sections": [
+      8
+    ],
+    "evidence": "State professional licensure generally involves education, experience, FE and PE; state-specific paths. No claim all biomedical jobs need PE.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-06",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "BMES \u2014 FAQs about Biomedical Engineering",
+    "url": "https://member.bmes.org/faqs-about-bme",
+    "sections": [
+      1,
+      4,
+      5,
+      10,
+      12
+    ],
+    "evidence": "Technical specialties, clinical engineering distinction, biological/engineering applications and settings.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-07",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "Biomedical Engineering Society",
+    "url": "https://www.bmes.org/",
+    "sections": [
+      14
+    ],
+    "evidence": "Professional society, publications, meetings and student chapters; no volatile membership count used.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-08",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "FDA \u2014 Human Factors and Medical Devices",
+    "url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/human-factors-and-medical-devices",
+    "sections": [
+      2,
+      3,
+      11
+    ],
+    "evidence": "User-device interaction, controls, displays, maintenance interfaces and reduction of use-related risk.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-09",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "FDA \u2014 Cybersecurity",
+    "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
+    "sections": [
+      10
+    ],
+    "evidence": "Connected-device safety/security requires manufacturer and healthcare-organization collaboration; no unsourced patching instructions.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-10",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "AAMI \u2014 Healthcare Technology Management",
+    "url": "https://aami.org/focus-area/healthcare-technology-management/",
+    "sections": [
+      12,
+      14
+    ],
+    "evidence": "HTM manages and repairs technology with clinicians; safety, security, interoperability and functionality.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-12",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "ACCE \u2014 Certification FAQs and current registry context",
+    "url": "https://accenet.org/CECertification/Pages/Faqs.aspx",
+    "sections": [
+      8
+    ],
+    "evidence": "2026 registry context corroborates education/experience/references and written/oral examination; no membership prerequisite. Older Default page retains2024 dates, which are not copied.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  },
+  {
+    "sourceId": "BCE-LAB",
+    "workingProfileId": "hcl-biomedicalclinicalengineer",
+    "title": "BLS \u2014 Clinical Laboratory Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+    "sections": [
+      12
+    ],
+    "evidence": "Laboratory professionals perform specimen tests; distinct from equipment-service and design work.",
+    "accessed": "2026-10-25",
+    "verification": "Primary source read",
+    "operation": "append_if_not_present_after_fresh_read"
+  }
+]
