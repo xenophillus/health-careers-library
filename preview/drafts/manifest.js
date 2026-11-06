@@ -24,5 +24,10 @@ export const draftProfiles = [
     "id": "medical-assistant",
     "title": "Medical Assistant",
     "status": "Fact check"
+  },
+  {
+    "id": "obgyn",
+    "title": "Obstetrician-Gynecologist (OB-GYN)",
+    "status": "Draft"
   }
 ];
