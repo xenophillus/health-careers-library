@@ -6,8 +6,10 @@ import path from 'node:path';
 import {pathToFileURL} from 'node:url';
 import {careers as revisedCareers} from '../assets/data/careers.js';
 import {draftProfiles} from '../preview/drafts/manifest.js';
-import {draftToPublicId,draftPathways,careerEmoji} from '../assets/data/career-integrity.js';
+import {careerEmoji} from '../assets/data/career-integrity.js';
+import {planReviewIntegration} from './review-integration-policy.mjs';
 
+const plan=planReviewIntegration(draftProfiles);
 const root=process.cwd();
 const destination=path.join(root,'preview/assets');
 fs.cpSync(path.join(root,'assets'),destination,{recursive:true,force:true});
@@ -16,20 +18,15 @@ const copyDraft=(id)=>fs.copyFileSync(path.join(root,'preview/drafts',id+'.js'),
 const clean=s=>s.replace(/<[^>]*>/g,' ').replace(/&(?:amp|nbsp);/g,' ').replace(/\s+/g,' ').trim();
 const careers=structuredClone(revisedCareers);
 const ids=new Set(careers.map(c=>c.id));
-const aliases=new Map();
-const info=[];
-for(const draft of draftProfiles){
- const id=draftToPublicId[draft.id]||draft.id;
- if(aliases.has(id))throw Error('Duplicate draft identity '+id);
- aliases.set(id,draft.id);
+const info=[],deferred=[];
+for(const {draft,id,pathway:pathName,holdReason} of plan){
  copyDraft(draft.id);
  const {sections}=await import(pathToFileURL(path.join(root,'preview/drafts',draft.id+'.js')).href+'?fresh='+Date.now());
  if(!Array.isArray(sections)||sections.length!==15)throw Error('Missing sections for '+id);
+ if(holdReason){deferred.push({id,draftId:draft.id,title:draft.title,status:draft.status,reason:holdReason,sections:sections.length});continue;}
  const index=careers.findIndex(c=>c.id===id);
  const intro=clean(sections[0].html);
  const summary=summarizeIntroduction(intro);
- const pathName=draftPathways[draft.id];
- if(!pathName)throw Error('No pathway for '+draft.id);
  const entry=index>=0?{...careers[index],name:draft.title,path:pathName,icon:careerEmoji[id]||careers[index].icon,desc:summary||careers[index].desc,hasEditorialDraft:true}:
  {id,name:draft.title,path:pathName,icon:careerEmoji[id]||'🏥',years:null,salary:null,desc:summary,work:'See the full career article for work settings.',duties:[],edu:'See Education and Training.',qualities:'See Skills and Personal Qualities.',requirements:'See Certification and Licensure.',related:[],tags:['Full editorial draft'],hasEditorialDraft:true};
  if(index>=0)careers[index]=entry;
@@ -52,4 +49,6 @@ html=html.replace('Early interactive prototype','Unpublished integrated review p
 fs.writeFileSync(path.join(root,'preview/library.html'),html);
 fs.mkdirSync(path.join(root,'qa-results'),{recursive:true});
 fs.writeFileSync(path.join(root,'qa-results/integrated-careers.json'),JSON.stringify(info,null,2)+'\n');
+fs.writeFileSync(path.join(root,'qa-results/deferred-review-drafts.json'),JSON.stringify(deferred,null,2)+'\n');
+for(const draft of deferred)console.log('REVIEW HOLD '+draft.id+': '+draft.reason);
 console.log('Built unpublished integrated library: '+info.length+' editorial drafts, '+careers.length+' unique cards.');

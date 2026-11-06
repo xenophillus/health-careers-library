@@ -8,6 +8,7 @@ on:
       - 'scripts/build-prepared-review.mjs'
       - 'scripts/build-review-library.mjs'
       - 'scripts/review-summary*'
+      - 'scripts/review-integration*'
       - 'scripts/review-media.mjs'
       - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
@@ -23,6 +24,7 @@ on:
       - 'scripts/build-prepared-review.mjs'
       - 'scripts/build-review-library.mjs'
       - 'scripts/review-summary*'
+      - 'scripts/review-integration*'
       - 'scripts/review-media.mjs'
       - 'scripts/qa-prepared-review.cjs'
       - 'scripts/validate-profiles*'
@@ -39,4 +41,4 @@ jobs:
           node-version: '22'
       - run: node scripts/check-draft-isolation.mjs
       - run: node scripts/validate-profiles.mjs
-      - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs scripts/review-summary.test.mjs
+      - run: node --test scripts/validate-profiles.test.mjs scripts/import-profile.test.mjs scripts/review-summary.test.mjs scripts/review-integration.test.mjs

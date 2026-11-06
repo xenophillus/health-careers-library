@@ -1,8 +1,9 @@
 // Reconcile public trial careers with unpublished drafts before promotion.
 import fs from 'node:fs';
 import {careers} from '../assets/data/careers.js';
-import {draftToPublicId,healthSciencePathways,draftPathways,careerMedia} from '../assets/data/career-integrity.js';
+import {healthSciencePathways,careerMedia} from '../assets/data/career-integrity.js';
 import {draftProfiles} from '../preview/drafts/manifest.js';
+import {planReviewIntegration} from './review-integration-policy.mjs';
 
 const normalize=s=>String(s).toLowerCase().replace(/[^a-z0-9]/g,'');
 const existingById=new Map(careers.map(c=>[c.id,c]));
@@ -17,8 +18,17 @@ const existingIds=new Set();
 for(const c of careers){if(existingIds.has(c.id))add('error','repeated-public-id',c.id);existingIds.add(c.id);}
 const used=new Set();
 for(const draft of draftProfiles){
- const canonical=draftToPublicId[draft.id]||draft.id;
- const expectedPath=draftPathways[draft.id];
+ let planned;
+ try{[planned]=planReviewIntegration([draft]);}
+ catch(error){add('error','draft-integration-policy',draft.id+': '+error.message);continue;}
+ const {id:canonical,pathway:expectedPath,holdReason}=planned;
+ if(used.has(canonical))add('error','draft-collision',canonical);
+ used.add(canonical);
+ if(holdReason){
+  actions.push({draft:draft.id,publicId:canonical,mode:'standalone-review-only',pathway:null,existingTitle:null,reason:holdReason});
+  add('review','integration-deferred',draft.id+': '+holdReason);
+  continue;
+ }
  if(!expectedPath)add('error','draft-pathway-unmapped',draft.id);
  if(!healthSciencePathways.includes(expectedPath))add('error','draft-pathway-invalid',draft.id+': '+expectedPath);
  const byTitle=existingByTitle.get(normalize(draft.title));
@@ -26,8 +36,6 @@ for(const draft of draftProfiles){
  if(byId&&byId.path!==expectedPath)add('error','pathway-conflict',canonical+': public '+byId.path+' vs expected '+expectedPath);
  if(byTitle&&byId&&byTitle.id!==byId.id)add('error','identity-conflict',draft.id+' mapped to '+byId.id+' but title matches '+byTitle.id);
  if(byTitle&&!byId)add('error','unmapped-duplicate',draft.id+' duplicates '+byTitle.id+' without canonical mapping');
- if(used.has(canonical))add('error','draft-collision',canonical);
- used.add(canonical);
  actions.push({draft:draft.id,publicId:canonical,mode:byId?'upgrade-existing':'add-new',pathway:expectedPath,existingTitle:byId?.name||null});
  if(!careerMedia[canonical])add('review','image-pending',canonical+': no approved, credited image yet');
 }

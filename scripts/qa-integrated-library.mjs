@@ -2,7 +2,10 @@
 import fs from 'node:fs';
 import {chromium} from 'playwright';
 import {draftProfiles} from '../preview/drafts/manifest.js';
-import {draftToPublicId} from '../assets/data/career-integrity.js';
+import {planReviewIntegration} from './review-integration-policy.mjs';
+const plan=planReviewIntegration(draftProfiles);
+const integratedDrafts=plan.filter(item=>!item.holdReason);
+const deferredDrafts=plan.filter(item=>item.holdReason);
 const base=process.env.PREVIEW_BASE_URL||'http://127.0.0.1:4173/preview/';
 const checks=[], browser=await chromium.launch();
 const note=(name,ok,detail='')=>checks.push({name,ok,detail:String(detail)});
@@ -36,8 +39,10 @@ try{
    note(tag+' six career photographs present',await photos.count()===6);
    note(tag+' career photographs load',await photos.evaluateAll(images=>images.every(image=>image.complete&&image.naturalWidth>0)));
 
-   for(const draft of draftProfiles){
-    const id=draftToPublicId[draft.id]||draft.id;
+   for(const {id,draft} of deferredDrafts){
+    note(tag+' '+id+' remains outside pilot directory',!labels.includes(draft.title));
+   }
+   for(const {id} of integratedDrafts){
     await page.evaluate(id=>window.route('profile',id),id);
     await page.locator('.full-career-profile .menu button').first().waitFor({timeout:8000});
     const buttons=page.locator('.full-career-profile .menu button');
