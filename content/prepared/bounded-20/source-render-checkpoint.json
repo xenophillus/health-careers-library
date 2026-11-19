@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25",
+  "currentBatch": "20 full15-section drafts; currentsource CSV300sections/468source rows",
+  "essentialFacts": "Independent reviewers read all20 articles and sampled primary claims; requested text corrections resolved. No remaining essential factual error identified in this bounded review, not an exhaustive all-claim guarantee.",
+  "administrativeDetails": "Not a text-review blocker where article makes only bounded claims supported by direct primary statutes. No unsupported checklist requirements introduced. Current procedures linked to official authorities.",
+  "specificGuardrails": {
+    "industrialhygienist": "No unsupported current numeric BGC eligibility thresholds asserted;2022checklist identified as dated.",
+    "healthcareadministrator": "Adult-care-home administrator licensing scoped separately; no universal healthcare-administrator license asserted.",
+    "salary": "Exact title/year/geography/group scope retained; no invented starting wage."
+  },
+  "sourceSupplement": "supplemental-source-remediation.json records8direct statutory checks.",
+  "renderQA": "render-qa.json: locally generated standalone HTML tested in-memory in Chromium at1440px/375px,20article anchors and300sections, no horizontal overflow or externalrequests or pageerrors. This is not production runtime rendering; images not embedded; fullprintpagination not inspected.",
+  "imageQA": "Seven profiles now have parent-cleared useful image selections, including new pharmacist/RT/IH replacements. Other profiles may use clean text-only presentation; candidate exploration is optional, not a blanket hold.",
+  "nextBatch": "Current20 source/editorial/render/print checkpoint complete within stated scope. Parent instructed continuation into next reserved20; separate branch/files.",
+  "remoteWrites": 0,
+  "canonicalWrites": 0,
+  "approvalFlagsChanged": 0,
+  "imagePolicy": "Optional when educationally useful, not mandatory per profile. Text-only presentation is acceptable and not a release blocker solely for lacking a photo. Supersedes initial all-images-required interpretation.",
+  "imagePolicyEvidence": [
+    "AGENTS.md: Use photographs, illustrations, diagrams, timelines, tables, and cards when each adds educational value; do not decorate merely to fill space.",
+    "PROJECT_DECISIONS.md: Use authentic, relevant images when they deepen understanding."
+  ],
+  "printQA": "20individual Letter PDFs,83pages; all300section headings and opening passages present,no blankpages; CNA/CDM first+last pages manually inspected and legible. Production-image pagination not tested."
+}

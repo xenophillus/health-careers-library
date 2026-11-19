@@ -1,0 +1,115 @@
+[
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-1",
+    "organizationTitle": "BLS — Interpreters and Translators",
+    "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+    "claimSupported": "Combined occupational category, May 2025 U.S. wage, 2025–35 outlook, broad education and schedule context.",
+    "sections": [
+      4,
+      7,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-2",
+    "organizationTitle": "NCIHC — National Standards of Practice",
+    "url": "https://www.ncihc.org/assets/media/ncihc%20national%20standards%20of%20practice.pdf",
+    "claimSupported": "Accuracy, clarification, role boundaries and professional conduct. Section 13 is author-synthesized reflection about complete and accurate communication, clarification, and separation of personal opinion, grounded in these interpreting standards; not a source-authored or validated professional assessment.",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-3",
+    "organizationTitle": "NCIHC — National Code of Ethics",
+    "url": "https://www.ncihc.org/assets/z2021Images/NCIHC%20National%20Code%20of%20Ethics.pdf",
+    "claimSupported": "Confidentiality, impartiality and ethical responsibilities.",
+    "sections": [
+      5,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-4",
+    "organizationTitle": "CCHI — Eligibility",
+    "url": "https://cchicertification.org/certifications/eligibility/",
+    "claimSupported": "Age 18, diploma/equivalent, 40-hour healthcare interpreter training and language proficiency eligibility.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-5",
+    "organizationTitle": "CCHI — Interpreter Training",
+    "url": "https://cchicertification.org/certifications/eligibility/interpreter-training/",
+    "claimSupported": "Healthcare-specific professional training prerequisite; course and certification distinction.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-6",
+    "organizationTitle": "CCHI — Work Experience for Renewal",
+    "url": "https://cchicertification.org/renew-certification/requirements/work-experience/",
+    "claimSupported": "Continuing professional interpreting activity is part of credential maintenance.",
+    "sections": [
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-7",
+    "organizationTitle": "NCIHC — Standards of Practice resource",
+    "url": "https://www.ncihc.org/standards-of-practice",
+    "claimSupported": "Professional organization standards resources.",
+    "sections": [
+      2,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-interpreter",
+    "sourceId": "interpreter-8",
+    "organizationTitle": "O*NET — Interpreters and Translators",
+    "url": "https://www.onetonline.org/link/summary/27-3091.00",
+    "claimSupported": "Oral/signed versus written language work and occupation title range.",
+    "sections": [
+      1,
+      4,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  }
+]

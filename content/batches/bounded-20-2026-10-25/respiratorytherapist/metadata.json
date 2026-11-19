@@ -1,0 +1,17 @@
+{
+  "workingProfileId": "hcl-respiratorytherapist",
+  "title": "Respiratory Therapist",
+  "sourceTitle": "Respiratory Therapist",
+  "sourceKey": "respiratorytherapist",
+  "sourceIndices": [
+    47,
+    95
+  ],
+  "sourcePathways": [
+    "Therapeutic Services",
+    "Diagnostic Services"
+  ],
+  "mapping": "Exact title, both Therapeutic and Diagnostic Services appearances preserved.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Proposed only; no Sheet read or write by this batch"
+}

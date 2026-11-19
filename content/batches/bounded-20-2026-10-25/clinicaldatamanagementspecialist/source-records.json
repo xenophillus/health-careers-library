@@ -1,0 +1,89 @@
+[
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-1",
+    "organizationTitle": "O*NET — Clinical Data Managers",
+    "url": "https://www.onetonline.org/link/summary/15-2051.02",
+    "claimSupported": "Closest occupational mapping; tasks, title range, broader wage category and preparation context. Section 13 is author-synthesized reflection and a fictional data-check exercise grounded in the listed database-validation, query, and discrepancy-resolution duties; not a source-authored or validated professional assessment.",
+    "sections": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      10,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-2",
+    "organizationTitle": "SCDM — Good Clinical Data Management Practice",
+    "url": "https://scdm.org/gcdmp/",
+    "claimSupported": "Professional practice reference and data management domains.",
+    "sections": [
+      2,
+      5,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-3",
+    "organizationTitle": "SCDM — CCDM Certification",
+    "url": "https://scdm.org/ccdm-certification/",
+    "claimSupported": "Degree/experience eligibility routes and professional certification.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-4",
+    "organizationTitle": "Journal of the Society for Clinical Data Management — Data Management Plan",
+    "url": "https://www.jscdm.org/article/id/116/",
+    "claimSupported": "Documented plans, data handling and controlled storage; professional practice basis.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-5",
+    "organizationTitle": "SCDM — Professional Society",
+    "url": "https://scdm.org/",
+    "claimSupported": "Education, community and certification programs.",
+    "sections": [
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-clinicaldatamanagementspecialist",
+    "sourceId": "clinicaldatamanagementspecialist-6",
+    "organizationTitle": "O*NET — Clinical Data Managers Job Zone",
+    "url": "https://www.onetonline.org/skills/zone/15-2051.02",
+    "claimSupported": "Job Zone Four preparation context; not a universal degree mandate.",
+    "sections": [
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Retrieved primary-source page; author checked stated claim scope. Independent review pending."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-toxicologist",
+  "title": "Toxicologist",
+  "sourceTitle": "Toxicologist",
+  "sourceKey": "toxicologist",
+  "sourceIndices": [
+    192
+  ],
+  "sourcePathways": [
+    "Biotechnology Research and Development"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact Toxicologist inventory title; scientific toxicology focus, with physician and forensic routes distinguished. Medical Scientists wage is contextual only, not asserted to represent every toxicologist."
+}

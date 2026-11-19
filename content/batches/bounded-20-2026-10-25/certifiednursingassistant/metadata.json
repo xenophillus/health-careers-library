@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-certifiednursingassistant",
+  "title": "Certified Nursing Assistant",
+  "sourceKey": "certifiednursingassistant",
+  "sourceIndices": [
+    6
+  ],
+  "sourceTitle": "Certified Nursing Assistant",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; clinical profile does not merge other inventory labels."
+}

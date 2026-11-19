@@ -1,0 +1,15 @@
+{
+  "title": "Patient Navigator",
+  "sourceTitle": "Patient Navigator",
+  "sourceKey": "patientnavigator",
+  "workingProfileId": "hcl-patientnavigator",
+  "sourceIndices": [
+    155
+  ],
+  "sourcePathways": [
+    "Support Services"
+  ],
+  "mapping": "Exact title index 155 preserved. Navigation is explicitly a role with clinical and nonclinical variants. Oncology examples are scoped; not silently equated with Community Health Worker or nurse.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Unapproved editorial source; no publication or canonical action"
+}

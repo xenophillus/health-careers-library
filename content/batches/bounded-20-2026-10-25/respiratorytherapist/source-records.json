@@ -1,0 +1,98 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "BLS — Respiratory Therapists",
+    "url": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+    "claimSupported": "May 2025 national median, 2025–35 outlook, settings and schedules.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET — Respiratory Therapists",
+    "url": "https://www.onetonline.org/link/summary/29-1126.00",
+    "claimSupported": "Assessment, equipment, documentation, work context and skills; basis for illustrative workday.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "aarc-role",
+    "organizationTitle": "AARC — What is an RT?",
+    "url": "https://www.aarc.org/your-rt-career/what-is-an-rt/",
+    "claimSupported": "Patients across ages; bedside, transport, research, management and teaching roles.",
+    "sections": [
+      1,
+      4,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "mayo",
+    "organizationTitle": "Mayo Clinic — Respiratory Therapist",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/respiratory-therapist/",
+    "claimSupported": "Respiratory treatments, ventilators, testing, clinical education and two-to-four-year degree routes.",
+    "sections": [
+      2,
+      5,
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "nbrc",
+    "organizationTitle": "NBRC — Registered Respiratory Therapist",
+    "url": "https://www.nbrc.org/examinations/rrt/",
+    "claimSupported": "Current RRT eligibility/examinations; announced January 2027 transition.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "ks",
+    "organizationTitle": "Kansas Board of Healing Arts — Respiratory Therapist",
+    "url": "https://www.ksbha.ks.gov/professions/respiratory-therapist-r-t",
+    "claimSupported": "Kansas licensing authority and profession information.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official search-index text checked; direct open returned HTTP 403. Detailed Kansas eligibility review remains pending.",
+    "workingProfileId": "hcl-respiratorytherapist"
+  },
+  {
+    "sourceId": "aarc-career",
+    "organizationTitle": "AARC — Be an RT",
+    "url": "https://www.aarc.org/your-rt-career/be-an-rt/",
+    "claimSupported": "Professional association career/educational resources.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-respiratorytherapist"
+  }
+]

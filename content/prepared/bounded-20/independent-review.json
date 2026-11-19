@@ -1,0 +1,405 @@
+{
+  "reviewDate": "2026-10-25",
+  "completeDrafts": 20,
+  "bodySections": 280,
+  "totalSectionsIncludingBibliography": 300,
+  "sourceRecords": 141,
+  "sourceExportRows": 468,
+  "independentEditorialReads": 20,
+  "independentPrimarySourceSpotChecks": 20,
+  "additionalRootWageChecks": 11,
+  "imagesVisuallyVerified": 7,
+  "publicationReadyProfiles": 0,
+  "profiles": [
+    {
+      "sourceKey": "certifiednursingassistant",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "cf55d9b3870978c1b805dbb67aaffa9504f97307e2e3d690959f7640652f487b",
+        "sections.json": "81b05e4caf928189274c9bdad59a5ffd2eb3bbf9b9cf15f57a2f76c585af35e3",
+        "source-records.json": "9508b85b7071e2e10b9951f7898d1db626e3425121cb4e3e859208da049b605b",
+        "metadata.json": "9f8031c1c72e79c94fd43728bb277d1113d97346230b5884bf5516d2a3981505",
+        "media-evidence.json": "32f00a8ac19a28ee273629713fff4fd63e81bbc4569b3b549cc00bcad07653f4",
+        "qa.md": "d2f7c168ef58e707359bb6eebf39b26a7e701c674bb20928cb3aaa5303355eb5"
+      }
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Suitable: 2024 Wake Tech simulated lesson: learner works on dental mannequin beside instructor. CC0/Flickr review confirmed.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "64fa91e0b997fac327689e60827ae90c3c24810a1102601478f66727d7df084e",
+        "sections.json": "4deb6e0afc52cf214a4a05465198297d435b99bd6c1c18a776e42d0087bc0058",
+        "source-records.json": "2f096e5707de4b5954d8bc587024c74335dbe8e88a78fb81017c37ea3e15df53",
+        "metadata.json": "57821710db438d6c27628f4d79a83014fd3ec22c3df368c01222c14ef899fed3",
+        "media-evidence.json": "0a6ae88aa22c3e7bb035d8b7a995e8d63fca47f4b3a26762bc6ba2c697864325",
+        "qa.md": "2e1c0f4d6bd6da0d4f9f7fb75a7a89249e6c32be0eff8ba79dddf809dd5d3ccc"
+      }
+    },
+    {
+      "sourceKey": "dentist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Suitable with context: Clear image; retain2009 military context.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "5ca8b10424859f56eee8e49bbfaa5143770fda414fbd6304b7624de6fc6f25ff",
+        "sections.json": "b48495ba5c7bfa0039d1a1781977ac7c3bf62ef5eca01e8da1212a2dfb1970fa",
+        "source-records.json": "80ca3c61410a93ed8a69979a38f1c442f9f3a1b8fc8e62c67944635a7be96e79",
+        "metadata.json": "25f4da1bf063d799dfbea7ca07af1d1f42c5ac22dd759b47c1734ebe276020d1",
+        "media-evidence.json": "d8876b0fc37ae0ef5d8899c2e0fe5a4ced56bc11ff6529e5451c69f4b829f72f",
+        "qa.md": "53d57dfafd92fc4ecb89d53fdd7cb72c904abe0d198fc95dfda48ecd3f77b9b2"
+      }
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "b87be93c213579e89a8d2aada206a49044cebbf8b6d94f56fc15ede61971b6c9",
+        "sections.json": "038649d512219b48dd4f312e73564e6721a7577d2f4fa4974580b97c1079d647",
+        "source-records.json": "297f3ff6455ce07e024fcf85184ea47db0ce42c0941c4a0ab62b8d366c90ad0c",
+        "metadata.json": "4b2d849ceda644dc4ff60d7d1c11320049fb3a59e0742bb4d422a8f10a94a64d",
+        "media-evidence.json": "93e71f1739d3cf6bf507e6b80a95c187822a43baadd79a115b1b36d9b770c5b5",
+        "qa.md": "d3decb7d9f85678e62349926ac6d70fd14d2da886c712fad10c7f59c8913c856"
+      }
+    },
+    {
+      "sourceKey": "pharmacist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Qualified provenance: Pixels inspected; Commons image-specific public-domain statement. Original NCI verification unavailable; primary provenance not cleared.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "eb42ef91093ca49eed1c85310090b0cf7b788672921f706d5e07e34c34de47da",
+        "sections.json": "e56c064739173ae2a7706690ee5b742657ef3923e74a867745f711bb1eef3d8e",
+        "source-records.json": "8639f8df62756ca556f66b3cac4c9c1e0ee73faaeeaea3946a1d237f92fc5ad8",
+        "metadata.json": "eb8b631f376814c7423d71677a5b94d8b94d1e401f9b25c3a4833ce3c0c937f5",
+        "media-evidence.json": "da414d3ebd4a1893bfc808c368aed47f411466b1a8ac1b1e321fa39cee120be2",
+        "qa.md": "31e5ecd519c8f3a270e6339ceb8ef073238a97baf9994f591f0dea8ec09cb752"
+      }
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Hold; replacement search authorized: Pixels inspected; weak source provenance and small resolution. New official-source replacement search underway.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "9b35c2dad0ce13ec1f09ed925e23a464d3b4efcae235f8360b969dc14748347d",
+        "sections.json": "774f90c67a8ed31bdb2ce43e95f75f107710ab1789aa1bef6db2c653c647d3e2",
+        "source-records.json": "5e743ffe8d34d9d0c1315a472d1517fddef571eb90dce77df4d22fbc078e94c2",
+        "metadata.json": "dae5790bc53f2799130d08275c64db361d2d85d6cd72ede6f8c6919b455c3e39",
+        "media-evidence.json": "d301e78ff9583a13da622ce8fb888f371ebe90881f6e893a0b8a4abac452078f",
+        "qa.md": "230120f02ffdaa39e8fb0f2aea4c282c5891914629bc1ecbcc7b4543324bce1c"
+      }
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "66c6fb2b765bc63addcc2711b21583bc657822fa5796bc0a3c76137bcdef266f",
+        "sections.json": "d0dfa130af9f26768f1d3ad876259976519000943789067f0b2ba45872aa7177",
+        "source-records.json": "560e5e4bad52313df750ad9b5f387a0868e326f9f4a53ffc943a6e046fc95f8d",
+        "metadata.json": "53d4d85c08ff66d2988f0379b97a0269c5c913a293ec5e43cb72551fbcadc15d",
+        "media-evidence.json": "227e0e3c9d31c44096af0fdac8a268742055f00bedbf207cc24e40a63d99755a",
+        "qa.md": "fb46d49d2ddc9e7c7a0060f15913c5d658692310a78491c3014220d8b5e9187e"
+      }
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "ed74ce4d2219724812665cf217e3a29a6a76eea5cbe01f48dbdeddd668104cda",
+        "sections.json": "a55d3264e9dfb4b66d07fcfcccceab2e6820a21e6bfc5f5e3aac16653d72dbcd",
+        "source-records.json": "dcee92a0d6f110360f5da1bd38402d700e4cde2b8c37ae2819bc0a18c6b647ca",
+        "metadata.json": "d9f829f4f6b67170ae39c96d19299b62ff6e022e7381ebff5ad59675baeb9e8b",
+        "media-evidence.json": "d3378d931782bbe441c391faf6ecdb9f89e013ec13a2c7a6d2376d8be2e13cf7",
+        "qa.md": "0ccc55f5f3e5095a24d2dc34b6f5d436baf130d18b65532757fb6912ec0467ba"
+      }
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "ff78c8d53ceff979424069ca57a63a3fe8a4404724b753905f44d4a0b8a0d3fc",
+        "sections.json": "da4f3eb5c3d3877c3373808b8774c3d97ac63a4fb0ca67d7ea4f01c32a84fab3",
+        "source-records.json": "1503e00e0f21d9bd9d6ecfac551e2a52151357c91bc218881bbfb27a01c373fb",
+        "metadata.json": "b0bce9db34b8a062c60f950a359b17a34a4d407da30db63a1498389b5c2202b1",
+        "media-evidence.json": "443cc1424f4060657ebe38889460718e19175bf0eb19397670e858aafeacf49a",
+        "qa.md": "4edb6afd87f53dbc3060d44cc7d9510b37538c0494c7bbdeac7831dc11995ff9"
+      }
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Replacement suitable with month/year caption: DVIDS9364294: named medical laboratory scientist JoeMidiri pipetting; parent verified actual pixels and public-domain rights. CaptionOctober2025; original login-required, not acquired.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-clinical-review.json",
+      "artifactSha256": {
+        "article.md": "44c6496beb65a94fdbd41e1030a5d5773e5d5230c980770eb01e159bc6d35dc8",
+        "sections.json": "7dd914d7d5ca3ac951b2918108a2c9d8113d6ba034a416387049115a5c550406",
+        "source-records.json": "d5e0a9099502d79d07ce5db334b052e5d52077b52665b032b025313a3a29fb04",
+        "metadata.json": "67d90d5071bf7a04799a5bde03433e4976c4732f89a29200d3e87d29bfec13c3",
+        "media-evidence.json": "d010b08b50e627479686812fbb7e1a6e5e960f658f8c80fb12a17816887b291b",
+        "qa.md": "fbe487d96a8516fcc33c282f90256a37ecfe02fa49c6a8f5781cd03c0759c2e6"
+      }
+    },
+    {
+      "sourceKey": "epidemiologist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "e0e510f8873dc5b1bddb4844b45c5e348cf185e46a726ac8298a517d95f13b40",
+        "sections.json": "5aad01c71c15bfef9a34fd5b601547556b3494601cad870f400735b8627ec96b",
+        "source-records.json": "2be684eefbf0c2c45e4e93da8af70bb517f38f034baf47ed371684510548c8e7",
+        "metadata.json": "09af9846eaea2a93a254f40e096965cc426a7fb1eee39936636b5ebb77684b72",
+        "media-evidence.json": "3ed0fd332ab61e300be44bea0ff028df1d0fcaf67fd72e967fd1762f6c857335",
+        "qa.md": "05b751be7a03ebaed96872ccc63f9d92cd7f60f39c57c2b56209b1fe8b862d38"
+      }
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "4f0639afd3898c8d017a29aebc452e9cb529ea3bb503d2befdfcc4c08f989099",
+        "sections.json": "d5d7bcf32897ada5bbf59279b094f35b0debbb0e8eb25c2dd4c652afc5c5306a",
+        "source-records.json": "58e007a995700196ddebe81555ef086df4003fc0eabec97dde5b5d1216ea34a9",
+        "metadata.json": "067df6ddad0b9e47d7bd9f20e34c51eb91f0e3ce31cc995949cf1b3e58c5ac2b",
+        "media-evidence.json": "b52b8da3bded6c642a87d62ce26a2ee5dcad03c3af413b061d4177f7b3d84db2",
+        "qa.md": "bc7a78dc21a6cb5da3a6b77798ba3c677fcb8699db77411505aed4c137392f15"
+      }
+    },
+    {
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "431a292cc2a2bebe25fc8d8461514bbab7933c8070d34dcfb8dd672e524f3260",
+        "sections.json": "59631256bfa095560791174ee1166cb9e91de645f29c48e9bb2127ccbdca4e99",
+        "source-records.json": "c690c87abdfbf1045800f3c9250c9b592f2d065dc31306805830dcc638df892d",
+        "metadata.json": "3079c982e936f4c2b3cd6fad34e975b2c4ebff370f2a60e9805a4dbb7f514348",
+        "media-evidence.json": "1fa9eb1a6bb81b55a6cbef559dd7b5e078887bf0a41251e51e8cf4ad8455b341",
+        "qa.md": "485eaf2fef6ce20a692727239e4256e7a78e36d02ffe7e956fc4ae2093cfb03c"
+      }
+    },
+    {
+      "sourceKey": "interpreter",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "127c2594d390fb6fdaebc9fc917ff56a6b4e7814706c8fb26701532934cdc545",
+        "sections.json": "c2a95d21d45d7cd97bb6b9bbe8fd7b300150f9acc2a11dbf3215e8cd572002de",
+        "source-records.json": "16d5759ec22505bb98bfabb19be6eb94bceed84a10309dc4e843adc1b8fe8f8c",
+        "metadata.json": "a12942a0680a4b0cf6e6ff3c36f2400d7d18a6b4fbdfb9670f94bb63a3308011",
+        "media-evidence.json": "6ea23ac06750897a6331fd55c822c04bad7d81a25157f590f4076f1e2bb8a999",
+        "qa.md": "86279a88df39323510b41268de0dd4b687e63768c7548d6e89183da4a176b715"
+      }
+    },
+    {
+      "sourceKey": "patientnavigator",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "edc524e8a7325df26b59b8fa9642aca241a310586f1540f867a55d7741b194ce",
+        "sections.json": "2635996417473625cc1e45c36c2984fd1b0a3efeb613e17bd528f97311651976",
+        "source-records.json": "284a59f970e50a0d7fb60f28008b768c2c11a0eb5a5dcbc54f1add9cc3649ecb",
+        "metadata.json": "50abdbc9bb554b970aa35ae72f274c0321227ee699cb37a15ad08c776876ff04",
+        "media-evidence.json": "ccf11d0cebc0ae1636102f9a3992c029ddefd6a4d43226490322a6ac45d960ad",
+        "qa.md": "bafc08ca995e559124aa1b43f493ec409550a8718a345cc516e55608ce6c4701"
+      }
+    },
+    {
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "231a3b2c34254da23e1cd141c140bf8c9adb6ed18e4648d97965efff15d81b2c",
+        "sections.json": "279ccee171f2925af39b1fb4588ad5847968344738fbbdae640280c0a53d9d46",
+        "source-records.json": "966bf35a9bfa6f463c332b5904477494370298f6459aa77e6e74913adf5c34c9",
+        "metadata.json": "35332e5fe7a98df545f39bbb64644fd75857fb74a955d73bd9b19633206ec410",
+        "media-evidence.json": "345b097a35bd12dacd476cd3659433be2a8de0198a51fcc2edace8119e1a0dd1",
+        "qa.md": "dbae139b4a94229a4f3ba09c16786742cdd6222a1f5020fd92a937edd88b8dd4"
+      }
+    },
+    {
+      "sourceKey": "regulatoryaffairsspecialist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "2c4652e533fe438fc33b3106456fa045cd0aa4c123d5a2262eb752ab3eb34945",
+        "sections.json": "3a921db27d6c28175baf2d9f835bd5e7b5836d20ecc904f29baf24522f4545bd",
+        "source-records.json": "569073c2d7730e5fb949efefafa740d9c13dbf808ec317e945f6dafe73029d81",
+        "metadata.json": "d58018607db01cd7f1b1d97dc23213042401fd3ab00e91dcb27fd3b1e5ef31e1",
+        "media-evidence.json": "345b097a35bd12dacd476cd3659433be2a8de0198a51fcc2edace8119e1a0dd1",
+        "qa.md": "23fae14f4b71e1bb2d6d59ab567450d2dbae98ed283027887c2a23ed9a03611b"
+      }
+    },
+    {
+      "sourceKey": "toxicologist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "New candidate or conditional contextual artifact researched; parent visual review pending",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "2bcedcb5b136b897fa529203b0fa55bcba124ddf2cd0c9f13362c6abdf0f822b",
+        "sections.json": "96028966cb88fd3c476023a3f399a23bd3b3f3bc512a02bbc024d01798b18044",
+        "source-records.json": "30cca6ca92a6040611e62dc076364d025ab06e62eb343d468a5fb992df9fe72b",
+        "metadata.json": "e93719e2eced4eba2cd8807fa752b053bc994e6e7226a6e165bb40a559840780",
+        "media-evidence.json": "345b097a35bd12dacd476cd3659433be2a8de0198a51fcc2edace8119e1a0dd1",
+        "qa.md": "da4a9f049b7d05bc503c3a45f14975ca78dedb78ac71d967a115bfbe4262ea1e"
+      }
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Suitable with honest posed caption: 2019 posed laboratory portrait; CC BY4.0 verified. Do not imply an active experiment.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "244a00d28a3e2d6706492936e58318bceea838927eb3749c64d2625fa5688a2b",
+        "sections.json": "465d90562ac88c355d107d114a23f843f99a7c0d66ef2d9406e17200bcc17a4e",
+        "source-records.json": "ef866291362b0fa374c8284f76c36c4a721b4022ae0d0a90379eea354ad2a9c7",
+        "metadata.json": "8003fc383dbf05eba5acfea8e927f0d0ddc603f0a1c5d952e4d2adba709ad7f1",
+        "media-evidence.json": "c0e00f3b9904482a1791a9e7f355f67b4b79c3accf542532d56517bbaa157ca3",
+        "qa.md": "442e919cb6c0a14ca4b974149d70caf716b151c8aa78541bb2dae3a7838634fe"
+      }
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "structuralStatus": "pass",
+      "editorialStatus": "Full 15-section read by independent reviewer; requested text corrections resolved",
+      "sourceStatus": "Independent primary-source spot-check complete; exhaustive claim/legal review not claimed",
+      "imageStatus": "Suitable historical training only: Clear1998 training image; parent worker checking newer2019 alternative. Do not duplicate.",
+      "canonicalStatus": "Not written",
+      "renderedStatus": "Standalone editorial rendering passed desktop/mobile structural and navigation checks; production integration not tested",
+      "publicationStatus": "Not approved or published",
+      "reviewReport": "independent-nonclinical-review.json",
+      "artifactSha256": {
+        "article.md": "486ce578c1f5c417009d8fd3d7deb9f2b17a793768154b4c4cc90028feb05aac",
+        "sections.json": "45976888eeb80dc78474076e31cc072c84c17ffa9d3b9b473d17c3e5b90d82d6",
+        "source-records.json": "7f941e5ea9a764e0f6b0cc876ccf9b5299c53702536649e5b32a2793b939028d",
+        "metadata.json": "e669777a89363e0df71e590d389e2a39efa690e0192879824ba7fec75dd14ef6",
+        "media-evidence.json": "ff05a663c463926934a34ff257c6eb588b5f3607a95cf5a959baad591fa008f0",
+        "qa.md": "ee0ab52ac1bb9686e04dcd684d0ca5c4d27fe0abb2dc17e4328a9893f8c464a3"
+      }
+    }
+  ],
+  "limitations": [
+    "Image statuses now vary; consult parent-image-review-update.json and new candidate ledgers, not initial missing-image counts.",
+    "Several Kansas board pages and current BGC applicant page return403; precise unsupported requirements omitted and source retrieval limits recorded.",
+    "Exact specialty/local/starting wages not established where sources do not support them; broader statistics labeled.",
+    "Independent full-text reads plus selected claim checks do not establish exhaustive factual/legal review.",
+    "No live canonical comparison/write, rendered QA, approval change, merge, deployment, or student publication."
+  ],
+  "followupCheckpoint": "source-render-checkpoint.json supersedes initial source/render/media statuses; component reports retained as dated review snapshots",
+  "imageVerificationScope": "Seven profiles have parent pixel checks; rights/suitability remain separate. Eight distinct candidate images inspected, including MLSreplacement.",
+  "renderFollowup": "Standalone local editorial HTML checked inChromium at1440/375px; productionintegration still pending."
+}

@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-medicallaboratoryscientist",
+  "title": "Medical Laboratory Scientist",
+  "sourceTitle": "Medical Laboratory Scientist",
+  "sourceKey": "medicallaboratoryscientist",
+  "sourceIndices": [
+    73
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Exact Medical Laboratory Scientist title retained; Clinical Laboratory Technician and Medical Laboratory Technician remain separate inventory entries. BLS wage is explicitly broader than MLS.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Proposed only; no Sheet read or write by this batch"
+}

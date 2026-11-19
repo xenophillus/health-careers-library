@@ -1,0 +1,31 @@
+{
+  "status": "missing_visual_verification",
+  "verifiedDate": "2026-10-25",
+  "reason": "Authentic occupational candidate metadata checked by root; actual pixel download blocked; no image embedded.",
+  "assets": [
+    {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Working_days_of_a_molecular_biologist.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Working_days_of_a_molecular_biologist.jpg",
+      "creator": "Kelbin Vasiliy",
+      "creationDate": "2019-02-12",
+      "sourceDeclaration": "Own work",
+      "license": "CC BY4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseStatus": "Root independently retrieved Commons file metadata and license",
+      "pixelStatus": "Root urllib original-file request failed URLError: Tunnel connection failed403Forbidden. Web thumbnail returned URL only, no inspectable pixels.",
+      "localFile": null,
+      "caption": "Provisional: Molecular biology laboratory work, photographed2019. Caption awaits visual review.",
+      "alt": "Pending actual visual inspection",
+      "publicationStatus": "Not embedded; image verification missing"
+    }
+  ],
+  "rejectedCandidate": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:European_Molecular_Biology_Laboratory_(EMBL)_-_July_2022_5.jpg",
+    "creator": "Luis Fernando Flores LAB",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "metadataStatus": "Author viewed Commons file-page license and source declaration",
+    "pixelStatus": "urllib download proxy403; web click yielded URL without visible pixels",
+    "reasonNotSelected": "Building photo less educational than actual laboratory work; root has better candidate."
+  }
+}

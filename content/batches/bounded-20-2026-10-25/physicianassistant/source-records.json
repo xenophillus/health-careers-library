@@ -1,0 +1,85 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "BLS — Physician Assistants",
+    "url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+    "claimSupported": "May 2025 U.S. median, 2025–35 outlook, settings and schedules.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-physicianassistant"
+  },
+  {
+    "sourceId": "aapa",
+    "organizationTitle": "AAPA — What is a PA?",
+    "url": "https://www.aapa.org/about/what-is-a-pa/",
+    "claimSupported": "PA role, generalist preparation, specialties and professional organization.",
+    "sections": [
+      1,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-physicianassistant"
+  },
+  {
+    "sourceId": "mayo",
+    "organizationTitle": "Mayo Clinic — Physician Assistant",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/physician-assistant/",
+    "claimSupported": "Duties, graduate preparation, prior experience and two-to-three-year PA program example.",
+    "sections": [
+      2,
+      7,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-physicianassistant"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET — Physician Assistants",
+    "url": "https://www.onetonline.org/link/summary/29-1071.00",
+    "claimSupported": "Clinical duties, skills and context; basis for illustrative day and reflection.",
+    "sections": [
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-physicianassistant"
+  },
+  {
+    "sourceId": "nccpa",
+    "organizationTitle": "NCCPA — Become Certified",
+    "url": "https://www.nccpa.net/become-certified/",
+    "claimSupported": "PANCE eligibility and certification organization.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-physicianassistant"
+  },
+  {
+    "sourceId": "kansas",
+    "organizationTitle": "Kansas Board of Healing Arts — Physician Assistant",
+    "url": "https://www.ksbha.ks.gov/professions/physician-assistant-p-a",
+    "claimSupported": "Kansas licensing authority and profession information.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official search-index page checked; direct page HTTP 403. Detailed Kansas scope/application rules remain unverified.",
+    "workingProfileId": "hcl-physicianassistant"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "BLS — Speech-Language Pathologists",
+    "url": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+    "claimSupported": "May 2025 U.S. median, 2025–35 outlook, education and work settings.",
+    "sections": [
+      4,
+      7,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "asha-career",
+    "organizationTitle": "ASHA — Speech-Language Pathologists",
+    "url": "https://www.asha.org/students/speech-language-pathologists/",
+    "claimSupported": "Communication/swallowing scope, patients, collaboration and career directions.",
+    "sections": [
+      1,
+      2,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET — Speech-Language Pathologists",
+    "url": "https://www.onetonline.org/link/summary/29-1127.00",
+    "claimSupported": "Work activities, skills, documentation and context; basis for illustrative workday.",
+    "sections": [
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "aac",
+    "organizationTitle": "ASHA — Augmentative and Alternative Communication",
+    "url": "https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/",
+    "claimSupported": "AAC supplements or replaces speech and involves communication partners.",
+    "sections": [
+      2,
+      5
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "swallow",
+    "organizationTitle": "ASHA — Adult Dysphagia",
+    "url": "https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/",
+    "claimSupported": "Swallowing assessment/management and interprofessional referrals.",
+    "sections": [
+      2,
+      6,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "telepractice",
+    "organizationTitle": "ASHA — Telepractice",
+    "url": "https://www.asha.org/practice-portal/professional-issues/telepractice/",
+    "claimSupported": "Remote service delivery and individual/cultural needs.",
+    "sections": [
+      4,
+      5
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "cert",
+    "organizationTitle": "ASHA — CCC-SLP Standards",
+    "url": "https://www.asha.org/certification/2020-slp-certification-standards/",
+    "claimSupported": "Graduate preparation, clinical education, examination, fellowship and maintenance.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "kansas",
+    "organizationTitle": "KDADS — Licensure",
+    "url": "https://www.kdads.ks.gov/licensing-policy/health-occupations-credentialing/licensure",
+    "claimSupported": "Kansas SLP licensing agency.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official search-index text checked; direct page HTTP 403. Detailed Kansas/school eligibility not verified.",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "ksha",
+    "organizationTitle": "Kansas Speech-Language-Hearing Association — Licensing",
+    "url": "https://www.ksha.org/licensing.php",
+    "claimSupported": "State association distinguishes itself from KDADS licensing authority.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  },
+  {
+    "sourceId": "portal",
+    "organizationTitle": "ASHA — Practice Portal",
+    "url": "https://www.asha.org/practice-portal/",
+    "claimSupported": "Professional resources and association identity.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-speechlanguagepathologist"
+  }
+]

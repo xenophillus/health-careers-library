@@ -1,0 +1,122 @@
+[
+  {
+    "sourceId": "bls",
+    "organizationTitle": "BLS — Clinical Laboratory Technologists and Technicians",
+    "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+    "claimSupported": "Combined occupational-group May 2025 median and 2025–35 outlook; work schedules and state-license variation.",
+    "sections": [
+      4,
+      6,
+      8,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "mayo",
+    "organizationTitle": "Mayo Clinic — Medical Laboratory Scientist",
+    "url": "https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/medical-laboratory-scientist/",
+    "claimSupported": "Clinical laboratory role, equipment, analysis, quality and education.",
+    "sections": [
+      1,
+      5,
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "onet",
+    "organizationTitle": "O*NET — Medical and Clinical Laboratory Technologists",
+    "url": "https://www.onetonline.org/link/summary/29-2011.00",
+    "claimSupported": "Complex tests, specimens, quality, troubleshooting, skills and work context; basis for illustrative day.",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "education",
+    "organizationTitle": "ASCLS — Becoming a Clinical Laboratory Professional",
+    "url": "https://ascls.org/how-do-i-become-a-laboratory-professional/",
+    "claimSupported": "Education, accredited programs, MLT-to-MLS and graduate routes.",
+    "sections": [
+      7,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved. Education/pathway discussion used; visibly obsolete salary and outlook claims on this page NOT used.",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "ascp-mls",
+    "organizationTitle": "ASCP Board of Certification — Medical Laboratory Scientist",
+    "url": "https://www.ascp.org/boc/explore-credentials/view-all-credentials/MLS",
+    "claimSupported": "MLS Route 1 and alternative certification routes.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "cms",
+    "organizationTitle": "CMS — Clinical Laboratory Improvement Amendments",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "claimSupported": "CLIA regulation of laboratories and quality testing.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "competency",
+    "organizationTitle": "CMS — Assessing Personnel Competency",
+    "url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/clia_compbrochure_508.pdf",
+    "claimSupported": "Personnel competency in moderate/high complexity clinical laboratories.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "ascls",
+    "organizationTitle": "ASCLS — Professional Society",
+    "url": "https://ascls.org/",
+    "claimSupported": "Professional education, career resources and association community.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  },
+  {
+    "sourceId": "ascp",
+    "organizationTitle": "ASCP — Professional Association",
+    "url": "https://www.ascp.org/",
+    "claimSupported": "Association education, certification and advocacy roles.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary page retrieved and relevant claim checked on 2026-10-25",
+    "workingProfileId": "hcl-medicallaboratoryscientist"
+  }
+]

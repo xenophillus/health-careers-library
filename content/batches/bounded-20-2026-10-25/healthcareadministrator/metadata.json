@@ -1,0 +1,17 @@
+{
+  "title": "Healthcare Administrator",
+  "sourceTitle": "Healthcare Administrator",
+  "sourceKey": "healthcareadministrator",
+  "workingProfileId": "hcl-healthcareadministrator",
+  "sourceIndices": [
+    115,
+    149
+  ],
+  "sourcePathways": [
+    "Health Informatics",
+    "Support Services"
+  ],
+  "mapping": "Exact title preserved across two inventory appearances: 115 Health Informatics and 149 Support Services. BLS medical and health services managers is a broad benchmark, not a claim of identical jobs.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Unapproved editorial source; no publication or canonical action"
+}

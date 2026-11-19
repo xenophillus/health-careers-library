@@ -1,0 +1,93 @@
+[
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R1",
+    "organizationTitle": "O*NET — Clinical Research Coordinators",
+    "url": "https://www.onetonline.org/link/summary/11-9121.01",
+    "claimSupported": "Coordinator tasks, preparation category and broad Natural Sciences Managers wage mapping.",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R2",
+    "organizationTitle": "FDA — Informed Consent guidance",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/informed-consent",
+    "claimSupported": "Guidance for investigators, sponsors and institutional review boards on research informed consent.",
+    "sections": [
+      2,
+      5,
+      6,
+      8,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R3",
+    "organizationTitle": "ACRP — CCRC Certification",
+    "url": "https://acrpnet.org/certification/crc-certification",
+    "claimSupported": "Experience-based CCRC eligibility: 3,000 qualifying hours; full criteria in policy manual.",
+    "sections": [
+      7,
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R4",
+    "organizationTitle": "ACRP — Professional resources",
+    "url": "https://acrpnet.org/",
+    "claimSupported": "Clinical research education and certification organization.",
+    "sections": [
+      10,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R5",
+    "organizationTitle": "BLS — Natural Sciences Managers",
+    "url": "https://www.bls.gov/ooh/management/natural-sciences-managers.htm",
+    "claimSupported": "Broad management occupation; its national wage is not a coordinator-specific salary.",
+    "sections": [
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-clinicaltrialsresearchcoordinator",
+    "sourceId": "R6",
+    "organizationTitle": "SOCRA — Society of Clinical Research Associates",
+    "url": "https://www.socra.org/",
+    "claimSupported": "Professional association and education/certification resources.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary association homepage retrieved directly2026-10-25; identity and listed resources checked"
+  }
+]

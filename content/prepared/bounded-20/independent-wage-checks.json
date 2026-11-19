@@ -1,0 +1,95 @@
+{
+  "reviewDate": "2026-10-25",
+  "reviewer": "root; separate from article authors",
+  "scope": "Targeted salary checks; does not establish line-by-line article verification",
+  "records": [
+    {
+      "sourceKey": "certifiednursingassistant",
+      "url": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 42260,
+      "scope": "Nursing assistants; excludes separate orderlies wage",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 98100,
+      "scope": "Dental hygienists",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "dentist",
+      "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 176110,
+      "scope": "Dentists combined; not general dentist-only rate",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 45750,
+      "scope": "Pharmacy technicians",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "pharmacist",
+      "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 140910,
+      "scope": "Pharmacists",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "url": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 82280,
+      "scope": "Respiratory therapists",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "url": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 97870,
+      "scope": "Speech-language pathologists",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 135880,
+      "scope": "Physician assistants",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "url": "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 101370,
+      "scope": "Nuclear medicine technologists",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 62930,
+      "scope": "Combined clinical laboratory technologists and technicians; broader than medical laboratory scientist alone",
+      "independentCheck": "Root retrieved BLS page and wage passage independently on 2026-10-25; not starting pay"
+    },
+    {
+      "sourceKey": "epidemiologist",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+      "statistic": "U.S. median annual wage, May 2025",
+      "amountUSD": 87220,
+      "projection": "19% employment growth, 2025\u20132035",
+      "independentCheck": "Root independently retrieved wage and projection passages on 2026-10-25"
+    }
+  ]
+}

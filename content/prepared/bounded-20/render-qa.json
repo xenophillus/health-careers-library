@@ -1,0 +1,19 @@
+{
+  "scope": "Actual repository importer HTML in standalone editorial shell; no runtime registration or external requests",
+  "profiles": 20,
+  "sections": 300,
+  "viewports": [
+    {
+      "width": 1440,
+      "navigation": "20 anchors exercised",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "navigation": "20 anchors exercised",
+      "overflow": false
+    }
+  ],
+  "pageErrors": [],
+  "externalRequests": []
+}

@@ -1,0 +1,140 @@
+{
+  "scope": "Image research only for certifiednursingassistant and interpreter; no existing profile or other media records changed.",
+  "checkedDate": "2026-10-25",
+  "candidates": [
+    {
+      "sourceKey": "interpreter",
+      "candidateId": "amistad-8545712",
+      "title": "AMISTAD 24 - Focused on our Paraguayan Partners",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AMISTAD_24_-_Focused_on_our_Paraguayan_Partners_(8545712).jpg",
+      "primaryRecord": "https://www.dvidshub.net/image/8545712/amistad-24-focused-our-paraguayan-partners",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AMISTAD_24_-_Focused_on_our_Paraguayan_Partners_%288545712%29.jpg",
+      "sourceFileUrl": "https://d34w7g4gy10iej.cloudfront.net/photos/2407/8545712.jpg",
+      "dimensions": [
+        1346,
+        2015
+      ],
+      "creator": "Tech. Sgt. Carly Feliciano / U.S. Air Force",
+      "date": "2024-07-19",
+      "virin": "240719-F-UB655-8260",
+      "license": "Public domain in United States; official U.S. Air Force work",
+      "licenseEvidence": "Commons PD-USGov-USAF tag and originating DVIDS PUBLIC DOMAIN record both read.",
+      "depictedRole": "Senior Airman Maria Weddle-Torres, identified by the official caption as a certified Spanish medical interpreter, assisting an optometry encounter.",
+      "proposedCaption": "Spanish medical interpreter Maria Weddle-Torres supports an eye examination during AMISTAD 24 in Filadelfia, Paraguay, July 19, 2024. U.S. Air Force photo by Tech. Sgt. Carly Feliciano.",
+      "suitability": "Preferred interpreter candidate subject to visual check. Must explicitly identify military medical outreach in Paraguay; not a typical US civilian clinic or evidence that interpreters perform eye examinations.",
+      "metadataCaution": "Commons and DVIDS file sizes differ; hash the bytes obtained and preserve the selected source URL.",
+      "checkedDate": "2026-10-25",
+      "pixelsObtained": false,
+      "visualReview": "not performed; web image clicks supplied URL-only responses",
+      "embedded": false,
+      "reuseConditions": {
+        "source": "https://www.dvidshub.net/about/copyright",
+        "note": "DVIDS use notice read: no implied endorsement, privacy/publicity rights remain, include required/requested nonendorsement notice as applicable.",
+        "exactDisclaimer": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement."
+      }
+    },
+    {
+      "sourceKey": "interpreter",
+      "candidateId": "amistad-8557214",
+      "title": "AMISTAD 24: Setting sights on Paraguayan community",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AMISTAD_24-_Setting_sights_on_Paraguayan_community_(8557214).jpg",
+      "primaryRecord": "https://www.dvidshub.net/image/8557214/amistad-24-setting-sights-paraguayan-community",
+      "originalFileUrl": null,
+      "sourceFileUrl": "https://d34w7g4gy10iej.cloudfront.net/photos/2407/8557214.jpg",
+      "previewUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2407/8557214/1000w_q95.jpg",
+      "dimensions": [
+        7881,
+        5254
+      ],
+      "creator": "Tech. Sgt. Brittany A. Chase / U.S. Air Force",
+      "date": "2024-07-24",
+      "virin": "240724-F-BM568-1066",
+      "license": "Public domain in United States; official U.S. Air Force work",
+      "licenseEvidence": "Commons PD-USGov-USAF tag and originating DVIDS PUBLIC DOMAIN record both read.",
+      "depictedRole": "Official caption identifies Maria Weddle-Torres as certified Spanish medical interpreter relaying information to a patient while optometrist Doug Norrick listens.",
+      "proposedCaption": "Spanish medical interpreter Maria Weddle-Torres relays information during an optometry visit at AMISTAD 24 in Filadelfia, Paraguay, July 24, 2024. U.S. Air Force photo by Tech. Sgt. Brittany A. Chase.",
+      "suitability": "Strong alternative subject to pixels; retain military outreach and Paraguay setting.",
+      "metadataCaution": "Commons camera EXIF gives January 2017 while official caption, event, VIRIN and DVIDS Date Taken identify July24,2024. Use official descriptive date and preserve discrepancy. Commons original-file click failed internally, so its exact upload URL was not recovered; sourceFileUrl is explicitly recorded in Commons upload history, not inferred.",
+      "checkedDate": "2026-10-25",
+      "pixelsObtained": false,
+      "visualReview": "not performed; web image clicks supplied URL-only responses",
+      "embedded": false,
+      "reuseConditions": {
+        "source": "https://www.dvidshub.net/about/copyright",
+        "note": "DVIDS use notice read: no implied endorsement, privacy/publicity rights remain, include required/requested nonendorsement notice as applicable.",
+        "exactDisclaimer": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement."
+      }
+    },
+    {
+      "sourceKey": "certifiednursingassistant",
+      "candidateId": "openrn-sit-to-stand",
+      "title": "Transferring a Client Using a Sit to Stand",
+      "sourcePage": "https://wtcs.pressbooks.pub/nurseassist/chapter/8-4-assisting-clients-to-transfer/",
+      "fileUrl": "https://wtcs.pressbooks.pub/app/uploads/sites/38/2022/05/Transferring-a-Client-Using-a-Sit-to-Stand-1024x833.jpg",
+      "fileUrlType": "Exact linked figure image; 1024x833 derivative, original master not established",
+      "creator": "Landon Cerny",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "Figure8.13 image caption explicitly credits Landon Cerny and CC BY4.0; not merely inferred from book-wide license.",
+      "date": null,
+      "context": "Published in a nursing-assistant educational textbook (2023); file path has2022, not a verified capture date.",
+      "proposedCaption": "Training illustration of a sit-to-stand lift used when assisting a person to move. Landon Cerny, in Nursing Assistant, CC BY 4.0.",
+      "suitability": "Preferred CNA still candidate pending actual pixel review. Label educational demonstration; do not identify depicted personnel as licensed nurses or certified aides without evidence.",
+      "nextAction": "Inspect whether actual photo or composite and who/what is visible; final alt text must describe pixels. Caption may be refined after inspection.",
+      "checkedDate": "2026-10-25",
+      "pixelsObtained": false,
+      "visualReview": "not performed; web image clicks supplied URL-only responses",
+      "embedded": false
+    },
+    {
+      "sourceKey": "certifiednursingassistant",
+      "candidateId": "openrn-crossed-sling",
+      "title": "Preparing to Transfer with Crossed Sling / Suspended in a Crossed Sling",
+      "sourcePage": "https://wtcs.pressbooks.pub/nurseassist/chapter/8-4-assisting-clients-to-transfer/",
+      "fileUrl": "https://wtcs.pressbooks.pub/app/uploads/sites/38/2022/05/Cross-Leg-Mechanical-Lift-Transfer.png",
+      "creator": "Myra Reuter for Chippewa Valley Technical College",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "Figure8.19 individually credits creator and CC BY4.0; preceding text explicitly identifies a mannequin.",
+      "date": null,
+      "proposedCaption": "A mannequin demonstrates a crossed-sling mechanical-lift setup in nursing-assistant education. Myra Reuter for Chippewa Valley Technical College, CC BY 4.0.",
+      "suitability": "Clear training alternative; not an authentic patient-care encounter. Could illustrate equipment rather than stand in for occupational portrait.",
+      "nextAction": "Inspect actual pixels; ensure no procedural teaching beyond the career-profile purpose.",
+      "checkedDate": "2026-10-25",
+      "pixelsObtained": false,
+      "visualReview": "not performed; web image clicks supplied URL-only responses",
+      "embedded": false
+    },
+    {
+      "sourceKey": "certifiednursingassistant",
+      "candidateId": "openrn-gait-belt-video",
+      "title": "Transfer From Bed to Chair With a Gait Belt",
+      "sourcePage": "https://wtcs.pressbooks.pub/nurseassist/chapter/8-9-checklist-transfer-from-bed-to-chair-with-gait-belt/",
+      "videoUrl": "https://youtu.be/pyoHSHef90c",
+      "creator": "Chippewa Valley Technical College",
+      "date": "2022-12-03",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "Chapter footnote1 identifies creator/date/video URL and explicitly licenses this video CC BY4.0.",
+      "proposedCaption": "Instructor demonstration of a bed-to-chair transfer in nursing-assistant training. Chippewa Valley Technical College, 2022, CC BY 4.0.",
+      "suitability": "Training video fallback; not a photograph of current patient care. A still requires a documented timestamp, frame inspection and adaptation credit.",
+      "nextAction": "Review video and choose frame only after verifying portrayal and obtaining actual pixels; this task did not extract a frame.",
+      "checkedDate": "2026-10-25",
+      "pixelsObtained": false,
+      "visualReview": "not performed; web image clicks supplied URL-only responses",
+      "embedded": false
+    }
+  ],
+  "recommendation": "Interpreter: visually inspect8545712 first. CNA: inspect OpenRN sit-to-stand still first, with explicitly educational caption; mannequin alternative and video available.",
+  "rejectedApproaches": [
+    "Do not relabel generic nurse photographs as CNA.",
+    "Previously rejected Honduras nursing-assistant outreach photo remains rejected.",
+    "Historical nurse-aide photos found but not pursued as contemporary care illustrations."
+  ],
+  "remainingBlockers": [
+    "No actual image pixels obtained or visual verification in this research-only task.",
+    "CNA educational still cannot be described as observed certified aide in real patient care.",
+    "8557214 Commons original download URL unresolved; explicit original source URL retained."
+  ],
+  "remoteWrites": false
+}

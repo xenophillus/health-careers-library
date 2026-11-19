@@ -1,0 +1,1722 @@
+{
+  "source": "PR #11 committed snapshots; not a live Sheet read",
+  "pr11Head": "8638950f3c9f0994e5544fb708afbd378d3b52fc",
+  "records": [
+    {
+      "sourceKey": "certifiednursingassistant",
+      "snapshotProfileRow": 7,
+      "snapshotIdentity": [
+        "hcl-certifiednursingassistant",
+        "Certified Nursing Assistant",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 17,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 18,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 19,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 20,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 21,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 22,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 23,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 24,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 25,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 26,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 27,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 28,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 29,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 30,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 31,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "dentalhygienist",
+      "snapshotProfileRow": 11,
+      "snapshotIdentity": [
+        "hcl-dentalhygienist",
+        "Dental Hygienist",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 47,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 48,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 49,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 50,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 51,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 52,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 53,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 54,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 55,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 56,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 57,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 58,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 59,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 60,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 61,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "dentist",
+      "snapshotProfileRow": 13,
+      "snapshotIdentity": [
+        "hcl-dentist",
+        "Dentist",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 62,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 63,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 64,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 65,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 66,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 67,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 68,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 69,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 70,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 71,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 72,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 73,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 74,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 75,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 76,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "pharmacytechnician",
+      "snapshotProfileRow": 36,
+      "snapshotIdentity": [
+        "hcl-pharmacytechnician",
+        "Pharmacy Technician",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 182,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 183,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 184,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 185,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 186,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 187,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 188,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 189,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 190,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 191,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 192,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 193,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 194,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 195,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 196,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "pharmacist",
+      "snapshotProfileRow": 35,
+      "snapshotIdentity": [
+        "hcl-pharmacist",
+        "Pharmacist",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 167,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 168,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 169,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 170,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 171,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 172,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 173,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 174,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 175,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 176,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 177,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 178,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 179,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 180,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 181,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "respiratorytherapist",
+      "snapshotProfileRow": 48,
+      "snapshotIdentity": [
+        "hcl-respiratorytherapist",
+        "Respiratory Therapist",
+        "Therapeutic Services; Diagnostic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 257,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 258,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 259,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 260,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 261,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 262,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 263,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 264,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 265,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 266,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 267,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 268,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 269,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 270,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 271,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "speechlanguagepathologist",
+      "snapshotProfileRow": 50,
+      "snapshotIdentity": [
+        "hcl-speechlanguagepathologist",
+        "Speech Language Pathologist",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 272,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 273,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 274,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 275,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 276,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 277,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 278,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 279,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 280,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 281,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 282,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 283,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 284,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 285,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 286,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "physicianassistant",
+      "snapshotProfileRow": 40,
+      "snapshotIdentity": [
+        "hcl-physicianassistant",
+        "Physician Assistant",
+        "Therapeutic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 227,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 228,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 229,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 230,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 231,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 232,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 233,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 234,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 235,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 236,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 237,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 238,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 239,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 240,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 241,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "nuclearmedicinetechnologist",
+      "snapshotProfileRow": 75,
+      "snapshotIdentity": [
+        "hcl-nuclearmedicinetechnologist",
+        "Nuclear Medicine Technologist",
+        "Diagnostic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 482,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 483,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 484,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 485,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 486,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 487,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 488,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 489,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 490,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 491,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 492,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 493,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 494,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 495,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 496,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "medicallaboratoryscientist",
+      "snapshotProfileRow": 73,
+      "snapshotIdentity": [
+        "hcl-medicallaboratoryscientist",
+        "Medical Laboratory Scientist",
+        "Diagnostic Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 452,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 453,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 454,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 455,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 456,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 457,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 458,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 459,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 460,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 461,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 462,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 463,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 464,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 465,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 466,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "epidemiologist",
+      "snapshotProfileRow": 104,
+      "snapshotIdentity": [
+        "hcl-epidemiologist",
+        "Epidemiologist",
+        "Health Informatics",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 602,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 603,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 604,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 605,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 606,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 607,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 608,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 609,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 610,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 611,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 612,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 613,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 614,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 615,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 616,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "healthcareadministrator",
+      "snapshotProfileRow": 110,
+      "snapshotIdentity": [
+        "hcl-healthcareadministrator",
+        "Healthcare Administrator",
+        "Health Informatics; Support Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 647,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 648,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 649,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 650,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 651,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 652,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 653,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 654,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 655,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 656,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 657,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 658,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 659,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 660,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 661,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "clinicaldatamanagementspecialist",
+      "snapshotProfileRow": 99,
+      "snapshotIdentity": [
+        "hcl-clinicaldatamanagementspecialist",
+        "Clinical Data Management Specialist",
+        "Health Informatics",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 572,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 573,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 574,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 575,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 576,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 577,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 578,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 579,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 580,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 581,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 582,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 583,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 584,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 585,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 586,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "interpreter",
+      "snapshotProfileRow": 146,
+      "snapshotIdentity": [
+        "hcl-interpreter",
+        "Interpreter",
+        "Support Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 782,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 783,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 784,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 785,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 786,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 787,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 788,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 789,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 790,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 791,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 792,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 793,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 794,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 795,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 796,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "patientnavigator",
+      "snapshotProfileRow": 148,
+      "snapshotIdentity": [
+        "hcl-patientnavigator",
+        "Patient Navigator",
+        "Support Services",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 797,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 798,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 799,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 800,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 801,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 802,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 803,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 804,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 805,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 806,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 807,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 808,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 809,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 810,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 811,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "clinicaltrialsresearchcoordinator",
+      "snapshotProfileRow": 164,
+      "snapshotIdentity": [
+        "hcl-clinicaltrialsresearchcoordinator",
+        "Clinical Trials Research Coordinator",
+        "Biotechnology Research and Development",
+        "Priority",
+        "Not started"
+      ],
+      "snapshotSectionRows": [
+        {
+          "row": 857,
+          "sectionNumber": "1",
+          "title": "Career Overview",
+          "hasContent": false
+        },
+        {
+          "row": 858,
+          "sectionNumber": "2",
+          "title": "Duties and Responsibilities",
+          "hasContent": false
+        },
+        {
+          "row": 859,
+          "sectionNumber": "3",
+          "title": "A Day in the Life",
+          "hasContent": false
+        },
+        {
+          "row": 860,
+          "sectionNumber": "4",
+          "title": "Work Environment and Schedule",
+          "hasContent": false
+        },
+        {
+          "row": 861,
+          "sectionNumber": "5",
+          "title": "Skills, Knowledge, and Personal Qualities",
+          "hasContent": false
+        },
+        {
+          "row": 862,
+          "sectionNumber": "6",
+          "title": "Physical and Emotional Demands",
+          "hasContent": false
+        },
+        {
+          "row": 863,
+          "sectionNumber": "7",
+          "title": "Education and Training",
+          "hasContent": false
+        },
+        {
+          "row": 864,
+          "sectionNumber": "8",
+          "title": "Certification and Licensure",
+          "hasContent": false
+        },
+        {
+          "row": 865,
+          "sectionNumber": "9",
+          "title": "Salary, Entry-Level Earnings, and Job Outlook",
+          "hasContent": false
+        },
+        {
+          "row": 866,
+          "sectionNumber": "10",
+          "title": "Specialties and Career Advancement",
+          "hasContent": false
+        },
+        {
+          "row": 867,
+          "sectionNumber": "11",
+          "title": "Benefits and Challenges of the Career",
+          "hasContent": false
+        },
+        {
+          "row": 868,
+          "sectionNumber": "12",
+          "title": "Career Connections and Related Occupations",
+          "hasContent": false
+        },
+        {
+          "row": 869,
+          "sectionNumber": "13",
+          "title": "Could This Career Interest You?",
+          "hasContent": false
+        },
+        {
+          "row": 870,
+          "sectionNumber": "14",
+          "title": "Professional Associations",
+          "hasContent": false
+        },
+        {
+          "row": 871,
+          "sectionNumber": "15",
+          "title": "Bibliography & Sources",
+          "hasContent": false
+        }
+      ],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "regulatoryaffairsspecialist",
+      "snapshotProfileRow": 180,
+      "snapshotIdentity": [
+        "hcl-regulatoryaffairsspecialist",
+        "Regulatory Affairs Specialist",
+        "Biotechnology Research and Development",
+        "Backlog",
+        "Not started"
+      ],
+      "snapshotSectionRows": [],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "toxicologist",
+      "snapshotProfileRow": 183,
+      "snapshotIdentity": [
+        "hcl-toxicologist",
+        "Toxicologist",
+        "Biotechnology Research and Development",
+        "Backlog",
+        "Not started"
+      ],
+      "snapshotSectionRows": [],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "molecularbiologist",
+      "snapshotProfileRow": 170,
+      "snapshotIdentity": [
+        "hcl-molecularbiologist",
+        "Molecular Biologist",
+        "Biotechnology Research and Development",
+        "Backlog",
+        "Not started"
+      ],
+      "snapshotSectionRows": [],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    },
+    {
+      "sourceKey": "industrialhygienist",
+      "snapshotProfileRow": 145,
+      "snapshotIdentity": [
+        "hcl-industrialhygienist",
+        "Industrial Hygienist",
+        "Support Services",
+        "Backlog",
+        "Not started"
+      ],
+      "snapshotSectionRows": [],
+      "action": "None; proposed content only. Re-read live profile and section identities/content before integration."
+    }
+  ]
+}

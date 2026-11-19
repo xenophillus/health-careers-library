@@ -1,0 +1,90 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "url": "https://wtcs.pressbooks.pub/app/uploads/sites/38/2022/05/Transferring-a-Client-Using-a-Sit-to-Stand-1024x833.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2403/8303837/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1907/5564838/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2202/7063725/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AMISTAD_24_-_Focused_on_our_Paraguayan_Partners_%288545712%29.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9940972/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Clinical_Trial_Admissions_Coordinator_with_Study_Volunteer_%2845116549061%29.jpg",
+          "loaded": false,
+          "alt": true
+        }
+      ],
+      "sections": 300
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "images": [
+        {
+          "url": "https://wtcs.pressbooks.pub/app/uploads/sites/38/2022/05/Transferring-a-Client-Using-a-Sit-to-Stand-1024x833.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2403/8303837/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1907/5564838/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2202/7063725/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AMISTAD_24_-_Focused_on_our_Paraguayan_Partners_%288545712%29.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9940972/1000w_q95.jpg",
+          "loaded": false,
+          "alt": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Clinical_Trial_Admissions_Coordinator_with_Study_Volunteer_%2845116549061%29.jpg",
+          "loaded": false,
+          "alt": true
+        }
+      ],
+      "sections": 300
+    }
+  ],
+  "pixelAndRightsReview": "Parent cloud-browser QA; not repeated here",
+  "limitation": "Any unloaded image has metadata/layout checks only in this environment; image-bearing PDF pagination not claimed."
+}

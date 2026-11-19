@@ -1,0 +1,17 @@
+{
+  "structuralPreparation": "PASS 20 profiles/300 ordered sections/468 source export rows",
+  "csvRoundTrip": "PASS all 300 rows exactly match authored JSON",
+  "identityChecks": "PASS exact 20 titles and 22 appearances retained; full 192-appearance182-title coverage ledger",
+  "bodySourceMapping": "PASS sources mapped to all 14 body sections per profile; synthesized illustrative/reflection content identified",
+  "wageChecks": "PASS 11 independently retrieved BLS medians match article amount/year",
+  "editorialScan": "PASS requested process-language removals and reviewer corrections",
+  "registeredRuntimeValidation": "PASS unchanged 1 registered profile/14 tabs",
+  "validatorTests": "PASS 5/5",
+  "imageVisualVerification": "NOT COMPLETE: 0/20",
+  "renderedArticleQA": "NOT RUN: unregistered prepared content; parent integration stage",
+  "canonicalWrites": 0,
+  "approvalFlagsChanged": 0,
+  "remotePushes": 0,
+  "merged": false,
+  "deployed": false
+}

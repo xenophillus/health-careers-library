@@ -1,0 +1,35 @@
+{
+  "status": "Useful authentic replacement visually and rights-verified by parent; source/role/date context required",
+  "verifiedDate": "2026-10-25",
+  "assets": [
+    {
+      "sourcePage": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=6796",
+      "imageURL": "https://wwwn.cdc.gov/phil/PHIL_Images/20050127/e0403bc8d0f64976a77d9ad3e58b123a/6796_lores.jpg",
+      "creator": "Aaron L Sussell",
+      "provider": "CDC/NIOSH",
+      "creationYear": 1998,
+      "license": "CDC PHIL copyright field permits public-domain reuse with CDC and photographer attribution; confirm alongside agency-use terms before publication.",
+      "licenseURL": "https://www.cdc.gov/other/agencymaterials.html",
+      "caption": "Inspectors in the Philippines practice air-sampling pump calibration during an industrial hygiene course, 1998. Historical training image; not a claim about present-day equipment.",
+      "alt": "Provisional from source caption: Two inspectors practice calibrating air-sampling pumps during an industrial hygiene course.",
+      "licenseStatus": "PHIL metadata and permission field retrieved directly",
+      "pixelStatus": "web image link returned URL; urllib download failed with proxy tunnel403; no visual inspection completed",
+      "localFile": null,
+      "publicationStatus": "Not inserted; visual inspection and final caption/alt review pending"
+    }
+  ],
+  "parentClearedReplacement": {
+    "sourceKey": "industrialhygienist",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_(40924705483).jpg",
+    "publicImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Industrial_Hygienist_%2840924705483%29.jpg",
+    "credit": "PEO ACWA",
+    "date": "2019",
+    "caption": "Posed occupational portrait of an industrial hygienist in the Blue Grass Chemical Agent-Destruction Pilot Plant boiler room,2019. This is not active sampling.",
+    "license": "CC BY2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verification": "Parent cloud-browser worker visually and rights-verified; reported in delegated message.",
+    "originalDownloadObtained": false,
+    "embedded": false,
+    "provenanceLimit": "Commons Flickr review preserves license; original Flickr now404."
+  }
+}

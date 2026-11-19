@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-speechlanguagepathologist",
+  "title": "Speech Language Pathologist",
+  "sourceTitle": "Speech Language Pathologist",
+  "sourceKey": "speechlanguagepathologist",
+  "sourceIndices": [
+    49
+  ],
+  "sourcePathways": [
+    "Therapeutic Services"
+  ],
+  "mapping": "Exact source title Speech Language Pathologist retained; common professional spelling speech-language pathologist in prose.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Proposed only; no Sheet read or write by this batch"
+}

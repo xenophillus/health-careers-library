@@ -1,0 +1,15 @@
+{
+  "title": "Epidemiologist",
+  "sourceTitle": "Epidemiologist",
+  "sourceKey": "epidemiologist",
+  "workingProfileId": "hcl-epidemiologist",
+  "sourceIndices": [
+    109
+  ],
+  "sourcePathways": [
+    "Health Informatics"
+  ],
+  "mapping": "Exact inventory title; one appearance, index 109. Epidemiology is not treated as physician practice.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Unapproved editorial source; no publication or canonical action"
+}
