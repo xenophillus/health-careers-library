@@ -1,0 +1,18 @@
+{
+  "websiteId": "radiologic-technologist",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Normal_posteroanterior_(PA)_chest_radiograph_(X-ray).jpg",
+  "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg",
+  "credit": "Mikael Häggström",
+  "license": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "proposedCaption": "Chest radiograph: an example of the diagnostic images acquired in radiography.",
+  "proposedAlt": "Chest X-ray showing the lungs, ribs, and central chest structures.",
+  "accessed": "2026-10-25",
+  "evidence": "June 28, 2017; Commons uploader identifies own work; CC0 record inspected. No patient biography or diagnosis should be reproduced in caption.",
+  "status": "license record verified; image visual check and local download pending",
+  "localAsset": null,
+  "changes": "No image downloaded or modified.",
+  "blocker": "Image original urllib request failed with environment proxy 403; web source pages and original links resolve, but pixels not yet inspected. Parent asked to use alternate available download mechanism.",
+  "use": "Clinical-output figure; use full aspect ratio rather than decorative cropped hero. Captions/alt provisional until pixel inspection.",
+  "approvalStatus": "unapproved"
+}

@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-cancerregistrar",
+  "proposedWebsiteId": "cancer-registrar",
+  "displayTitle": "Cancer Registrar",
+  "sourceAppearances": [
+    {
+      "inventoryIndex": 97,
+      "sourceTitle": "Cancer Registrar",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "cancerregistrar"
+    }
+  ],
+  "mappingStatus": "Exact source title retained; no alias consolidation",
+  "occupationalStatisticsGroup": "SOC29-9021 Health Information Technologists and Medical Registrars; broader than cancer registrars",
+  "status": "Draft \u2014 source-backed, not approved",
+  "coverageCredit": {
+    "draftedExactTitles": 1,
+    "approvedExactTitles": 0,
+    "additionalAliasTitlesCounted": 0
+  },
+  "canonicalSheetWriteStatus": "Not written; re-read canonical rows before applying"
+}

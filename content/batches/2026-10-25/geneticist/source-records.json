@@ -1,0 +1,270 @@
+[
+  {
+    "sourceId": "NHGRI-GENETICS",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "NHGRI",
+    "title": "Genetics vs.Genomics",
+    "url": "https://www.genome.gov/about-genomics/fact-sheets/Genetics-vs-Genomics",
+    "sectionNumbers": [
+      1,
+      5,
+      10,
+      11,
+      13
+    ],
+    "claimSummary": "Inheritance and genomics distinctions; genetic/environmental contributions.",
+    "locator": "Fact sheet",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-GENETICS",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Geneticists 19-1029.03",
+    "url": "https://www.onetonline.org/link/summary/19-1029.03",
+    "sectionNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "claimSummary": "Research tasks and broader Biological Scientists All Other data; clinical tasks not generalized to every research geneticist.",
+    "locator": "Tasks; Wages and Employment",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-VARIATION",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "NHGRI",
+    "title": "Human Genomic Variation",
+    "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+    "sectionNumbers": [
+      2,
+      5,
+      11
+    ],
+    "claimSummary": "Most variants have no influence on genome functioning; small subset matters; simple detected difference is not diagnosis.",
+    "locator": "How genomes vary; Why variation matters",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-CAREERS",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "NHGRI",
+    "title": "Careers in Genomics",
+    "url": "https://www.genome.gov/careers-in-genomics",
+    "sectionNumbers": [
+      4,
+      7,
+      10
+    ],
+    "claimSummary": "Career settings and distinct career routes.",
+    "locator": "Career settings",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASHG-CAREERS",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "American Society of Human Genetics",
+    "title": "Career Paths in Genetics",
+    "url": "https://www.ashg.org/wp-content/uploads/2023/04/Discover-Genetic-Career-Paths-in-Genetics-factsheet.pdf",
+    "sectionNumbers": [
+      7,
+      10,
+      12,
+      14
+    ],
+    "claimSummary": "Related technician, research and clinical paths; education headings must be interpreted with original layout.",
+    "locator": "Career path descriptions",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "BLS-MEDSCI",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Medical Scientists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+    "sectionNumbers": [
+      7,
+      8
+    ],
+    "claimSummary": "Doctoral research preparation context; licensure required for practicing medicine. Wages not transferred to Geneticists.",
+    "locator": "Education; Licenses Certifications Registrations",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ABMGG-PATH",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "American Board of Medical Genetics and Genomics",
+    "title": "Certification Pathways",
+    "url": "https://www.abmgg.org/initial-certification/certification-pathways/",
+    "sectionNumbers": [
+      1,
+      3,
+      7,
+      8,
+      10,
+      12
+    ],
+    "claimSummary": "Physician MD/DO clinical genetics versus doctoral laboratory specialty training.",
+    "locator": "Primary specialty training",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ABMGG-SPECIALTY",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "American Board of Medical Genetics and Genomics",
+    "title": "Specialties and Subspecialties",
+    "url": "https://www.abmgg.org/initial-certification/specialties-and-subspecialties/",
+    "sectionNumbers": [
+      8,
+      12,
+      14
+    ],
+    "claimSummary": "Clinical Genetics and Genomics; Laboratory Genetics and Genomics; Clinical Biochemical Genetics distinctions.",
+    "locator": "Specialty list",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "BLS-COUNSELOR",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Genetic Counselors",
+    "url": "https://www.bls.gov/ooh/healthcare/genetic-counselors.htm",
+    "sectionNumbers": [
+      1,
+      7,
+      12
+    ],
+    "claimSummary": "Distinct counseling profession and typical masters preparation.",
+    "locator": "What They Do; Education",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-PRIVACY",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "NHGRI",
+    "title": "Privacy in Genomics",
+    "url": "https://www.genome.gov/about-genomics/policy-issues/Privacy",
+    "sectionNumbers": [
+      6
+    ],
+    "claimSummary": "Genomic privacy responsibilities.",
+    "locator": "Privacy overview",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "NHGRI-CONSENT",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "NHGRI",
+    "title": "Informed Consent",
+    "url": "https://www.genome.gov/about-genomics/policy-issues/Informed-Consent",
+    "sectionNumbers": [
+      6
+    ],
+    "claimSummary": "Genomics consent and participant autonomy.",
+    "locator": "Overview",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "CMS-CLIA",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "title": "Clinical Laboratory Improvement Amendments",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Clinical laboratory framework separate from research training.",
+    "locator": "About CLIA",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ECFR-PERSONNEL",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "eCFR",
+    "title": "42 CFR 493 Subpart M",
+    "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-493/subpart-M",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Nonwaived personnel requirements.",
+    "locator": "Subpart M",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASHG",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "American Society of Human Genetics",
+    "title": "ASHG",
+    "url": "https://www.ashg.org/",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Career,education,scientific exchange resources.",
+    "locator": "Careers and Learning",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-BIOINFO",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Bioinformatics Scientists",
+    "url": "https://www.onetonline.org/link/summary/19-1029.01",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Computational role distinction.",
+    "locator": "Tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-STATS",
+    "workingProfileId": "hcl-geneticist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Biostatisticians",
+    "url": "https://www.onetonline.org/link/summary/15-2041.01",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Statistical study-design and analysis contribution.",
+    "locator": "Tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Source review is not independent factual signoff or publication approval."
+  }
+]

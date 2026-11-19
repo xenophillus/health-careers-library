@@ -1,0 +1,23 @@
+{
+  "workingProfileId": "hcl-geneticist",
+  "websiteCareerId": "geneticist",
+  "title": "Geneticist",
+  "sourceIndices": [
+    174
+  ],
+  "sourceTitle": "Geneticist",
+  "sourcePathway": "Biotechnology Research and Development",
+  "canonicalSnapshot": "content/qa/sheet-snapshot-career-profiles-full.json",
+  "canonicalProfileRow": 165,
+  "canonicalStatusObserved": "Not started",
+  "status": "draft",
+  "publicationApproved": false,
+  "reviewDate": "2026-10-25",
+  "intro": "Geneticists study genes, inheritance and genetic variation. They investigate how traits arise, how genes function and how genetic differences relate to health and disease. Their work can involve molecules, cells, organisms or populations, using laboratory experiments, computational analysis or both.",
+  "tags": [
+    "genomics",
+    "research",
+    "biotechnology"
+  ],
+  "scopeNote": "Bioinformatics Associate/Specialist and Cell/Molecular Biologist source labels are not merged. Geneticist article explains research versus physician/laboratory and genetic counselor routes; no additional source appearances claimed."
+}

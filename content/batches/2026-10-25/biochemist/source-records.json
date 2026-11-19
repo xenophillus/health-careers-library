@@ -1,0 +1,182 @@
+[
+  {
+    "sourceId": "BLS-BIOCHEM",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Biochemists and Biophysicists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+    "sectionNumbers": [
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "claimSummary": "Combined group pay and outlook; PhD independent R&D versus some bachelor/master entry roles; work setting and advancement.",
+    "locator": "Pay; Job Outlook; How to Become One; Work Environment",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ONET-BIOCHEM",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Biochemists and Biophysicists 19-1021.00",
+    "url": "https://www.onetonline.org/link/summary/19-1021.00",
+    "sectionNumbers": [
+      2,
+      3,
+      5,
+      11,
+      13
+    ],
+    "claimSummary": "Experiments, molecular investigations, reports, team and research work. Illustrative day and reflection are authored applications, not worker interview claims.",
+    "locator": "Tasks; Work Activities; Knowledge",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ACS-BIOCHEM",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "American Chemical Society",
+    "title": "Biological/Biochemistry",
+    "url": "https://www.acs.org/careers/chemical-sciences/areas/biochemistry.html",
+    "sectionNumbers": [
+      1,
+      2,
+      4,
+      10,
+      11,
+      12
+    ],
+    "claimSummary": "Chemistry of living systems, molecular scope and applications; interdisciplinary and industrial/basic research distinctions.",
+    "locator": "What is biochemistry; What do biochemists do; Applications",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASBMB-ACCREDIT",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "American Society for Biochemistry and Molecular Biology",
+    "title": "Accreditation",
+    "url": "https://www.asbmb.org/education/accreditation",
+    "sectionNumbers": [
+      7
+    ],
+    "claimSummary": "Undergraduate program accreditation; no claim that accreditation licenses individuals.",
+    "locator": "Program accreditation",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASBMB-EXAM",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "American Society for Biochemistry and Molecular Biology",
+    "title": "ASBMB exam",
+    "url": "https://www.asbmb.org/education/exam",
+    "sectionNumbers": [
+      8
+    ],
+    "claimSummary": "Competency exam for juniors/seniors in accredited programs; not presented as clinical license.",
+    "locator": "Exam purpose; eligibility introduction",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "CMS-CLIA",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "title": "Clinical Laboratory Improvement Amendments",
+    "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+    "sectionNumbers": [
+      8,
+      12
+    ],
+    "claimSummary": "Human testing for health assessment/diagnosis regulated separately from research-degree preparation.",
+    "locator": "About CLIA",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ECFR-PERSONNEL",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "eCFR",
+    "title": "42 CFR 493 Subpart M",
+    "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-493/subpart-M",
+    "sectionNumbers": [
+      8,
+      12
+    ],
+    "claimSummary": "Clinical nonwaived personnel role requirements; no specific license exemption claimed.",
+    "locator": "Personnel for Nonwaived Testing",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ASBMB",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "American Society for Biochemistry and Molecular Biology",
+    "title": "ASBMB",
+    "url": "https://www.asbmb.org/",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Education, scientific community, professional development.",
+    "locator": "Supporting our members",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "ACS-DIV",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "ACS Division of Biochemistry and Chemical Biology",
+    "title": "Division website",
+    "url": "https://www.divbiolchem.org/",
+    "sectionNumbers": [
+      14
+    ],
+    "claimSummary": "Professional community for chemistry and biological processes.",
+    "locator": "About us",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Author source review, not independent factual signoff or publication approval."
+  },
+  {
+    "sourceId": "BLS-MICRO",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "Bureau of Labor Statistics",
+    "title": "Microbiologists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Microbiologist organism-focused role distinguished from molecular chemistry.",
+    "locator": "Occupational description/tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Related-role contrast, not independent article coverage."
+  },
+  {
+    "sourceId": "ONET-BIOSTATS",
+    "workingProfileId": "hcl-biochemist",
+    "publisher": "U.S. Department of Labor / O*NET",
+    "title": "Biostatisticians",
+    "url": "https://www.onetonline.org/link/summary/15-2041.01",
+    "sectionNumbers": [
+      12
+    ],
+    "claimSummary": "Related statistical study-design and analysis contribution.",
+    "locator": "Occupational description/tasks",
+    "accessDate": "2026-10-25",
+    "verificationStatus": "primary_source_checked_for_stated_claims",
+    "notes": "Related-role contrast, not independent article coverage."
+  }
+]

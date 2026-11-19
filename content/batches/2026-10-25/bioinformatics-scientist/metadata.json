@@ -1,0 +1,23 @@
+{
+  "workingProfileId": "hcl-bioinformaticsscientist",
+  "websiteCareerId": "bioinformatics-scientist",
+  "title": "Bioinformatics Scientist",
+  "sourceIndices": [
+    161
+  ],
+  "sourceTitle": "Bioinformatics Scientist",
+  "sourcePathway": "Biotechnology Research and Development",
+  "canonicalSnapshot": "content/qa/sheet-snapshot-career-profiles-full.json",
+  "canonicalProfileRow": 154,
+  "canonicalStatusObserved": "Not started",
+  "status": "draft",
+  "publicationApproved": false,
+  "reviewDate": "2026-10-25",
+  "intro": "Bioinformatics scientists use computing to investigate biological questions. They organize and analyze information such as DNA sequences, gene activity and proteins, and develop methods that help researchers make sense of large datasets. The goal is a useful scientific explanation, not simply a program that runs without an error.",
+  "tags": [
+    "genomics",
+    "research",
+    "biotechnology"
+  ],
+  "scopeNote": "Bioinformatics Associate/Specialist and Cell/Molecular Biologist source labels are not merged. Geneticist article explains research versus physician/laboratory and genetic counselor routes; no additional source appearances claimed."
+}

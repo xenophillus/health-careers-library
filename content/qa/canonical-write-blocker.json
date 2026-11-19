@@ -1,0 +1,11 @@
+{
+  "status": "resolved_after_explicit_user_approval; see canonical-write-receipt.json",
+  "date": "2026-10-25",
+  "action": "google_drive_batch_update_spreadsheet",
+  "target": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "proposedChanges": {"Article Sections column D cells": 54, "new Sources rows": 144, "Sources range": "A16:I159", "approvalFields": "unchanged"},
+  "reasonVerbatim": "This writes 54 article sections and 143 source rows to the remote canonical workbook; although canonical updates were authorized in substance, the required parent confirmation before remote writes is not evidenced.",
+  "note": "Reviewer message counted 143 source rows; submitted payload contained 144. Action was rejected; no successful write reported. Do not retry without materially new parent authorization. Re-read targets before retry.",
+  "completed": "Five pilot revisions authored; source mappings prepared; current 75 article rows compared with baseline; content-column metadata inspected; existing Sources A1:I1000 read and IDs checked; local proposals and draft PR preserved.",
+  "approvalRequest": "Explicit confirmation requested for 54 article content cells and 144 source rows, with fresh live comparison and no approval changes."
+}

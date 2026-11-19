@@ -1,0 +1,13 @@
+{
+  "title": "Registered Nurse",
+  "workingProfileId": "hcl-registerednurse",
+  "proposedWebsiteCareerId": "registered-nurse",
+  "sourcePathways": [
+    "Therapeutic Services"
+  ],
+  "status": "draft",
+  "approved": false,
+  "canonicalBaseline": "Career Profiles full snapshot lists Not started; re-read article/source/media rows before any remote write.",
+  "authoredDate": "2026-10-25",
+  "intro": "Registered nurses (RNs) combine direct patient care with responsibility for understanding a patient’s needs, planning nursing care, and checking whether it is helping. They connect observations at the bedside with information from the wider healthcare team. Teaching a family how to manage care at home can be as important as using equipment or giving a treatment."
+}

@@ -1,0 +1,22 @@
+{
+  "workingProfileId": "hcl-surgicaltechnologist",
+  "websiteCareerId": "surgical-technologist",
+  "sourceTitle": "Surgical Technologist",
+  "sourceAppearances": [
+    {
+      "sourceIndex": 51,
+      "sourceTitle": "Surgical Technologist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "surgicaltechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "fact_check",
+  "approval": "Not approved",
+  "mappingStatus": "Exact source title; proposed profile mapping",
+  "canonicalBaseline": "content/qa/sheet-snapshot-all-sections.json",
+  "canonicalStatus": "Existing 15 empty section rows inspected; no remote writes"
+}

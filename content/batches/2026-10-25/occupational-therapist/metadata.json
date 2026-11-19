@@ -1,0 +1,36 @@
+{
+  "title": "Occupational Therapist",
+  "workingProfileId": "hcl-occupationaltherapist",
+  "proposedWebsiteCareerId": "occupational-therapist",
+  "sourcePathways": [
+    "Therapeutic Services",
+    "Diagnostic Services"
+  ],
+  "sourceAppearances": [
+    {
+      "sourceRecordIndex": 24,
+      "sourceTitle": "Occupational Therapist",
+      "sourcePathway": "Therapeutic Services",
+      "sourceKey": "occupationaltherapist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    },
+    {
+      "sourceRecordIndex": 77,
+      "sourceTitle": "Occupational Therapist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "occupationaltherapist",
+      "productionWave": "backlog",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "draft",
+  "approved": false,
+  "authoredDate": "2026-10-25",
+  "canonicalBaseline": "Career Profiles full snapshot: Not started. Re-read Article Sections, Sources and Media before applying.",
+  "intro": "Occupational therapists (OTs) help people participate in meaningful everyday activities. Here, “occupation” includes self-care, school, play, family responsibilities, work, and leisure—not only paid employment. Illness, injury, disability, or developmental needs can make these activities difficult."
+}

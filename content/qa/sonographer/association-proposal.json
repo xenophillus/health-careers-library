@@ -1,0 +1,18 @@
+{
+  "workingProfileId": "hcl-diagnosticmedicalsonographer",
+  "range": "'Article Sections'!D405",
+  "expectedRow": [
+    "hcl-diagnosticmedicalsonographer",
+    "14",
+    "Professional Associations",
+    null,
+    "Not started"
+  ],
+  "proposedMarkdown": "**Society of Diagnostic Medical Sonography (SDMS)** \u2014 A professional membership organization for sonographers and sonography students. SDMS provides continuing education, career resources and professional advocacy, including resources on workplace ergonomics. Its professional community can help students explore the daily practice of sonography and the specialties within it.\n\n[SDMS: Who We Are](https://www.sdms.org/about/who-we-are). Professional association membership is separate from earning a sonography credential.",
+  "status": "Not approved; targeted proposal only",
+  "source": {
+    "url": "https://www.sdms.org/about/who-we-are",
+    "verifiedDate": "2026-10-25",
+    "claim": "Professional membership, education, advocacy and sonography community verified directly"
+  }
+}

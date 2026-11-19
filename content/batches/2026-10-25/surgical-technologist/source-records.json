@@ -1,0 +1,184 @@
+[
+  {
+    "sourceId": "ST-BLS-PAY",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — Surgical Assistants and Technologists: Pay",
+    "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+    "claimSupported": "Surgical-technologist-only U.S. median $64,650, lower 10% below $45,940, upper 10% above $96,940 in May 2025. Not surgical-assistant pay or entry wages.",
+    "publicationDate": "May 2025",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-BLS-OUTLOOK",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — Surgical Assistants and Technologists: Outlook",
+    "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+    "claimSupported": "Technologists SOC 29-2055 projected 5% growth 2025–2035. 8,600 annual openings refers to assistants and technologists combined.",
+    "publicationDate": "2025–2035",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-BLS-WORK",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13
+    ],
+    "organizationTitle": "BLS — Surgical Assistants and Technologists: duties, environment and education",
+    "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+    "claimSupported": "Operating-room preparation, sterile supplies, instrument passing/counts; hospital/outpatient settings, standing/call schedules, certificate/associate preparation and state regulation distinction. Workday/fit questions are editorial synthesis.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-ONET",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      2,
+      3,
+      5,
+      6,
+      10,
+      11,
+      13
+    ],
+    "organizationTitle": "O*NET — Surgical Technologists (29-2055.00)",
+    "url": "https://www.onetonline.org/link/summary/29-2055.00",
+    "claimSupported": "Sterile field, counts, instruments, specimens, teamwork, concentration and occupational demands. Not state legal authority.",
+    "publicationDate": "Updated 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-CST",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      7,
+      8
+    ],
+    "organizationTitle": "NBSTSA — CST Eligibility",
+    "url": "https://www.nbstsa.org/cst-eligibility",
+    "claimSupported": "Current first-time CST education eligibility: graduate of CAAHEP- or ABHES-accredited surgical technology program; NBSTSA determines eligibility.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-CST-APPLY",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "NBSTSA — CST Application Process",
+    "url": "https://www.nbstsa.org/cst-application-process",
+    "claimSupported": "Application and certification examination separate from school completion.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-CST-RENEW",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      8,
+      14
+    ],
+    "organizationTitle": "NBSTSA — Renewals and Recertification",
+    "url": "https://www.nbstsa.org/cst-csfa-renewals-recertification",
+    "claimSupported": "Continuing education/renewal processes; AST education role distinct from NBSTSA certification administration. No fragile numeric renewal requirements copied.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-CSFA",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      8,
+      10,
+      12
+    ],
+    "organizationTitle": "NBSTSA — CSFA Eligibility",
+    "url": "https://www.nbstsa.org/csfa-eligibility",
+    "claimSupported": "First-assistant eligibility requires CAAHEP-accredited surgical first assistant program; separate from CST.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-CAAHEP",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      7,
+      14
+    ],
+    "organizationTitle": "CAAHEP — Find an Accredited Program",
+    "url": "https://www.caahep.org/students/find-an-accredited-program",
+    "claimSupported": "Official directory for current program accreditation checks; school claims should be checked against named program.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-AST",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      14
+    ],
+    "organizationTitle": "Association of Surgical Technologists — About AST",
+    "url": "https://www.ast.org/AboutUs/About_AST/",
+    "claimSupported": "Professional organization and resources; source navigation exposes education and student resources.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-AST-STUDENT",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      7,
+      14
+    ],
+    "organizationTitle": "Association of Surgical Technologists — Student Members",
+    "url": "https://www.ast.org/Members/Student_Members/",
+    "claimSupported": "Student resources and distinction between training-program accreditation and NBSTSA examination. NBSTSA current page governs eligibility details.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "ST-AST-DUTIES",
+    "workingProfileId": "hcl-surgicaltechnologist",
+    "sections": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "organizationTitle": "Association of Surgical Technologists — Responsibilities",
+    "url": "https://www.ast.org/AboutUs/Surgical_Technologists_Responsibilities/",
+    "claimSupported": "Professional responsibility resource; duties supported jointly with BLS/O*NET.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  }
+]

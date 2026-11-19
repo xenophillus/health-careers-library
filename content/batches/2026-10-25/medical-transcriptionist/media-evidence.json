@@ -1,0 +1,11 @@
+{
+  "status": "No image selected; not approved",
+  "searchDate": "2026-10-25",
+  "queries": [
+    "site.commons.wikimedia.org \"Medical transcription\" \"File\""
+  ],
+  "findings": "Search did not establish a relevant occupational image with confirmed subject and license. College-list graphics and unrelated documents were rejected.",
+  "reasonNotAdded": "Do not substitute unrelated stock imagery or infer photographer/permission from page hosting.",
+  "nextStep": "Acquire a suitable primary-source or Commons image; verify creator/license, actual depicted activity, caption and alt text; visually inspect before integrating.",
+  "assetsAdded": 0
+}

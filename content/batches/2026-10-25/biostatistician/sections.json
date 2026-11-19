@@ -1,0 +1,77 @@
+[
+  {
+    "id": "biostatistician-section-1",
+    "name": "Career Overview",
+    "markdown": "Biostatisticians use statistical reasoning to answer questions in biology, medicine and public health. They help researchers decide how a study should collect evidence and what conclusions its results can support. A study of a treatment, an environmental exposure or a pattern of illness may all need this expertise.\n\nThe work starts before the final dataset arrives. A biostatistician can help define the research question, plan comparisons and determine how much information is needed. After data collection, they analyze results and explain uncertainty. Their contribution is to make evidence more dependable, not to make every study produce a positive result."
+  },
+  {
+    "id": "biostatistician-section-2",
+    "name": "Duties and Responsibilities",
+    "markdown": "The role combines study planning, computing and scientific collaboration.\n\n- **Design studies:** Work with investigators to select measurements, comparisons and sample-size assumptions that address the research question.\n- **Prepare analysis plans:** Document how the evidence will be evaluated before seeing the final results.\n- **Analyze data:** Write and check statistical code, examine data quality and evaluate whether an analysis is suitable.\n- **Explain findings:** Prepare tables, graphs and reports that communicate both the result and its limitations.\n\nIn clinical research, biostatisticians may prepare statistical information for monitoring committees or regulatory reports. They work with clinicians, researchers and data-management staff, but their statistical role does not substitute for the clinician's responsibility for treatment decisions."
+  },
+  {
+    "id": "biostatistician-section-3",
+    "name": "A Day in the Life",
+    "markdown": "In an illustrative day, a biostatistician meets a research team planning to compare two approaches to care. Before choosing a formula, they ask what outcome would represent a meaningful difference and when it will be measured. That discussion can reveal a problem in the design while it is still possible to fix it.\n\nLater, they examine a different study's dataset and investigate an unexpected pattern of missing observations. They document the issue, discuss it with the study team and review the analysis code. The day may end with revising a graph so that a nonstatistical reader can understand the estimate and its uncertainty. Some days center on consultation; others require long stretches of focused programming."
+  },
+  {
+    "id": "biostatistician-section-4",
+    "name": "Work Environment and Schedule",
+    "markdown": "Biostatisticians work in settings such as pharmaceutical companies, hospitals, universities and public-health agencies. Much of the work happens at a computer or in meetings with investigators. Most statisticians work full time, and analysis deadlines can require additional hours.\n\nA university role may combine collaborative studies with teaching or development of new methods. Industry work may focus on a product-development program, while public-health work may examine population-level questions. A useful workplace comparison is how much time goes to consulting, programming, methodological research and leadership. Those responsibilities can differ even when two positions share the same title."
+  },
+  {
+    "id": "biostatistician-section-5",
+    "name": "Skills, Knowledge, and Personal Qualities",
+    "markdown": "Probability, statistics and mathematics provide the foundation, but useful analysis also requires programming and an understanding of the scientific question. A technically sophisticated model can still answer the wrong question if its assumptions do not match the study.\n\nListening and explanation are central skills. The biostatistician must translate between clinical language and measurable outcomes, then explain results without burying the reader in equations. Intellectual honesty matters when a preferred explanation is not supported. ASA's ethical guidelines emphasize appropriate methods, reproducible work and resistance to pressure to predetermine results. Curiosity should be paired with a willingness to state what the data cannot establish."
+  },
+  {
+    "id": "biostatistician-section-6",
+    "name": "Physical and Emotional Demands",
+    "markdown": "This is usually an office-based role rather than physically intensive bedside work. Long periods of computer analysis require attention to workstation comfort and opportunities to change posture. The more distinctive demand is sustained concentration: a small coding or data-handling mistake can change a reported result.\n\nThere can also be pressure when colleagues want a quick, definite answer from incomplete evidence. The biostatistician must communicate uncertainty clearly and document limitations rather than choose a convenient interpretation. Working with sensitive health information adds responsibility for confidentiality and appropriate data use."
+  },
+  {
+    "id": "biostatistician-section-7",
+    "name": "Education and Training",
+    "markdown": "A master's degree in statistics or a closely related field is a typical preparation route; some entry-level statistical positions accept a bachelor's degree. Biostatistics programs combine statistical theory, computing and applications to biomedical questions. A Ph.D. provides deeper preparation for developing methods and pursuing independent methodological research.\n\nFor example, Harvard's biostatistics master's programs train students in statistical, bioinformatics and data-science methods for health research, while its doctoral program emphasizes advanced theory and practice. These are examples of educational routes, not a requirement to attend a particular institution. High-school mathematics, statistics if available, computing and clear writing are useful preparation. Undergraduate coursework in biology or health sciences helps connect quantitative methods to the questions collaborators ask."
+  },
+  {
+    "id": "biostatistician-section-8",
+    "name": "Certification and Licensure",
+    "markdown": "The American Statistical Association offers **voluntary professional accreditation**, including GStat and PStat. These recognize statistical preparation and professional development; they are not clinical licenses. Applicants should use ASA's current eligibility criteria rather than assume that completing any quantitative course earns a designation.\n\nFor research work, competence also includes knowing the project's ethical and data-handling requirements. ASA's guidelines address integrity, confidentiality and responsibilities to collaborators and research participants. A statistical credential does not authorize prescribing, diagnosing or treating patients. The biostatistician's contribution to a clinical study is the design and interpretation of evidence within the research team."
+  },
+  {
+    "id": "biostatistician-section-9",
+    "name": "Salary, Entry-Level Earnings, and Job Outlook",
+    "markdown": "BLS does not provide a separate Occupational Outlook Handbook wage series just for biostatisticians. For the broader U.S. **Statisticians** occupation, the **median annual wage was $105,650 in May 2025**. The lowest-paid 10% earned below $64,000 and the highest-paid 10% above $174,050. Those percentiles are not verified starting salaries.\n\nThe BLS chart projects **11% growth for Statisticians from 2025 to 2035**. The combined Mathematicians and Statisticians group has a different projection of 10% and about 2,000 annual openings; those combined openings should not be presented as biostatistician openings. These national figures provide context, not a specialty-specific, Kansas or new-graduate salary promise."
+  },
+  {
+    "id": "biostatistician-section-10",
+    "name": "Specialties and Career Advancement",
+    "markdown": "Biostatisticians can specialize in clinical trials, genetics, environmental health, infectious diseases or the analysis of health records. They can also specialize in methods, such as analyzing repeated observations over time or studying time until an event. A specialty connects a statistical problem with the kind of evidence a study produces.\n\nFor example, Harvard's biostatistics research groups work on clinical-trial design, statistical genetics and public-health applications. Advancement may involve leading collaborative projects, supervising analysts or developing new methods. Senior positions can require graduate training and a record of sound scientific work. Moving into management also increases responsibility for people, timelines and review."
+  },
+  {
+    "id": "biostatistician-section-11",
+    "name": "Benefits and Challenges of the Career",
+    "markdown": "Biostatistics offers a way to contribute to healthcare through mathematics and evidence. It can appeal to someone who enjoys explaining patterns and wants their analytical work to matter beyond the computer screen. Collaboration exposes the statistician to varied scientific questions rather than one fixed type of dataset.\n\nThe tradeoff is that important work often happens before an eye-catching result exists: clarifying definitions, checking records, documenting code and discussing assumptions. A valid conclusion may be that a study cannot answer its intended question confidently. That answer can be scientifically valuable even when it disappoints the team. Comfort with uncertainty is part of the work."
+  },
+  {
+    "id": "biostatistician-section-12",
+    "name": "Career Connections and Related Occupations",
+    "markdown": "An **epidemiologist** studies the distribution and causes of illness in populations. A biostatistician contributes expertise in study design, estimation and analysis, and may collaborate closely with epidemiologists. A **clinical research coordinator** helps run a study's daily operations rather than serving the same statistical role.\n\nA **data scientist** may also build models and analyze large datasets, but a biostatistician's work is organized around biological and health-research questions and the evidence needed to answer them. A **statistical programmer** may focus more heavily on implementing and checking analysis code. Actual job responsibilities can overlap, so compare the duties and qualifications rather than relying only on titles."
+  },
+  {
+    "id": "biostatistician-section-13",
+    "name": "Could This Career Interest You?",
+    "markdown": "Would you enjoy finding out why two analyses of the same data reach different conclusions? Can you explain an idea clearly to someone who does not share your mathematical background? Are you willing to say that the evidence is uncertain when a team wants a simple answer?\n\nTry examining a public, nonidentifiable dataset in a supervised class project. Pay attention to the questions before the calculations: who is represented, what was measured and what might be missing? If those questions interest you as much as making the graph, biostatistics may be worth exploring. Ask a professional how they divide their time among study planning, coding and conversations with researchers."
+  },
+  {
+    "id": "biostatistician-section-14",
+    "name": "Professional Associations",
+    "markdown": "The **American Statistical Association (ASA)** provides education, career resources, professional-development opportunities and ethical guidance for statistical practice. Its communities and specialty sections can help students see how statistics is used in health research and other fields.\n\nASA also administers voluntary professional accreditation. Career exploration, membership and accreditation are different services: a student can learn from professional resources while still working toward the education and experience required for a professional designation. University biostatistics departments offer additional examples of research questions and training routes."
+  },
+  {
+    "id": "biostatistician-section-15",
+    "name": "Bibliography & Sources",
+    "markdown": "All sources accessed October 25, 2026.\n\n- [Bureau of Labor Statistics: Mathematicians and Statisticians](https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm) \u2014 Pay; Job Outlook chart; Education.\n- [U.S. Department of Labor / O*NET: Biostatisticians 15-2041.01](https://www.onetonline.org/link/summary/15-2041.01) \u2014 Tasks; Work Activities; Work Context.\n- [American Statistical Association: Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice) \u2014 Principles A\u2013E; approved2022-02-01.\n- [American Statistical Association: Accreditation](https://www.amstat.org/your-career/accreditation) \u2014 Why Is Accreditation Important; application components.\n- [American Statistical Association: Guidelines for Voluntary Professional Accreditation](https://www.amstat.org/asa/files/pdfs/accreditation/Guidelines.pdf) \u2014 Title and accreditation purpose.\n- [Harvard T.H. Chan School of Public Health: Biostatistics Research](https://hsph.harvard.edu/department/biostatistics/research/) \u2014 Methods and Applications; research groups.\n- [Harvard T.H. Chan School of Public Health: Master of Science\u2014Biostatistics](https://hsph.harvard.edu/program/sm-biostatistics/) \u2014 Summary.\n- [Harvard T.H. Chan School of Public Health: PhD\u2014Biostatistics](https://hsph.harvard.edu/program/phd-biostatistics/) \u2014 Summary.\n- [American Statistical Association: Your Career](https://www.amstat.org/your-career) \u2014 Career center overview.\n- [Bureau of Labor Statistics: Epidemiologists](https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm) \u2014 What They Do.\n- [U.S. Department of Labor / O*NET: Clinical Research Coordinators](https://www.onetonline.org/link/summary/11-9121.01) \u2014 related occupation.\n- [Bureau of Labor Statistics: Data Scientists](https://www.bls.gov/ooh/math/data-scientists.htm) \u2014 related occupation."
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "spreadsheetId": "1UrhfwQa8U-Obx-dOX_PyfTt882adIgpm7uG6ysv23UI",
+  "baseline": "content/qa/sheet-snapshot-all-sections.json",
+  "status": "Proposed only; no remote writes",
+  "applyRule": "Re-read ID, section number and content; apply only while destination remains empty. Preserve all status/reviewer columns and unrelated content.",
+  "changes": [
+    {
+      "sheet": "Article Sections",
+      "range": "D152",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 1,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedics provide advanced emergency medical care and help patients reach the next stage of treatment. They assess illness and injury, use monitoring equipment, give authorized treatments, and watch how the patient responds. Much of this care happens before arrival at a hospital, in places where the team must also manage traffic, weather, cramped spaces, or worried bystanders.\n\nA paramedic builds on EMT preparation with more extensive clinical education. Paramedics can use a broader range of treatments and equipment, including cardiac monitoring, advanced airway care, and medications within their authorized practice. They work under medical oversight as part of an emergency medical services (EMS) system, not as independent physicians.\n\nThe profession combines clinical judgment with teamwork and practical problem-solving. A calm explanation to a frightened patient, a clear handoff to a nurse, and a carefully checked medication are all important parts of the job."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D153",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 2,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedics assess patients and provide basic and advanced emergency care while coordinating safe transport. Their major responsibilities include:\n\n- **Assessing the patient and scene:** Identify hazards, ask about symptoms and history, examine the patient, and decide which problems need attention first.\n- **Providing emergency treatment:** Use basic life support and authorized advanced interventions, such as cardiac monitoring, airway management, and medication administration. Select treatment according to findings, medical protocols, and orders.\n- **Reassessing response:** Monitor whether the patient's condition improves, worsens, or changes during care and transport, and adjust the plan within authorized practice.\n- **Coordinating the response:** Work with an EMT or other partner, dispatch, fire or police personnel, medical direction, and the receiving facility.\n- **Moving and transferring patients:** Plan a safe route, use appropriate lifting or transport equipment, and give an organized handoff.\n- **Documenting and maintaining readiness:** Record findings, treatments and responses; check equipment and supplies; clean after calls; and keep skills current.\n\nA procedure described in a national occupation profile is not automatic permission to perform it. State authorization, validated competence, medical protocols, and the service's equipment determine a paramedic's actual practice."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D154",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 3,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Imagine a paramedic beginning an ambulance shift. Before the first call, the crew checks the vehicle, monitor, airway equipment, medications, and other supplies. They review information from the departing crew and make sure equipment is ready for use.\n\nA call arrives for a person with a serious medical complaint. At the scene, the paramedic gathers information, assesses the patient, and directs the clinical work with the partner. Monitoring can add information, but it does not replace listening to the patient or noticing changes. Treatment and destination decisions follow the local EMS system's procedures and medical direction.\n\nDuring transport, the paramedic reassesses the patient and communicates important findings to the receiving team. After the handoff, the crew completes documentation, cleans, and restocks. The next call may be quite different. A scheduled interfacility transport assignment has a different pattern from a 911 ambulance, though assessment, readiness, and communication remain central. This is an illustrative shift, not a report of a particular patient."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D155",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 4,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedics work for ambulance services, fire and rescue organizations, local governments, hospitals, and other emergency-care providers. Ambulance work takes them into homes, roads, businesses, and public places before returning to a medical facility. Some positions involve transporting patients between facilities rather than responding only to new emergencies.\n\nServices need coverage when emergencies occur, so schedules can include nights, weekends, holidays, and extended shifts. Busy periods may interrupt meals or plans for routine station work. The work environment can move rapidly from quiet preparation to a crowded scene and then a small ambulance compartment.\n\nThe crew's tools and teamwork travel with it. Paramedics must coordinate with people who have different responsibilities, from a dispatcher obtaining an address to a hospital team preparing to receive a patient."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D156",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 5,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedic education develops an understanding of how illness and injury affect the body, how medications work, and how to interpret patient findings. A paramedic must connect information from conversation, examination, and equipment rather than rely on one reading alone.\n\nAttention to detail supports safe medication use and accurate records. Clinical reasoning helps the paramedic recognize priorities, while situational awareness helps identify hazards or the need for more assistance. Skills must remain reliable when conditions are noisy, tiring, or unfamiliar.\n\nCommunication is both technical and personal. A concise handoff helps another clinician continue care; a patient explanation helps someone understand what is happening. Patience, compassion, willingness to learn, and the ability to accept feedback matter as much as confidence under pressure."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D157",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 6,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Patient movement may involve stairs, uneven ground, confined rooms, and heavy equipment. Stretchers and other assistive devices help, but safe teamwork and planning remain necessary. Paramedics also work around traffic, infectious illness, body fluids, and occasionally threatening behavior. Protective equipment and scene-safety procedures are part of routine practice.\n\nEmotionally difficult calls may involve severe injury, death, or distressed families. Irregular shifts and repeated urgent decisions can add fatigue. The profession requires sustained attention after the most dramatic part of a call, including during transport and documentation.\n\nWhen learning about an employer, ask how it handles lifting equipment, fatigue, safety training, and support after difficult events. These are concrete features of the working environment, not signs that a new worker should manage every challenge alone."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D158",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 7,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "The usual educational sequence begins with EMT preparation, then a paramedic program with more advanced classroom, laboratory, and supervised clinical learning. Topics include patient assessment, emergency treatment, medication knowledge, and care of different types of patients. Practice and clinical experience develop judgment as well as technical skill.\n\nFor the National Registry's full-education pathway, candidates need a current National Registry certification or state license at EMT level or higher. They must complete a CAAHEP-accredited paramedic program, or a program with a CoAEMSP Letter of Review, and meet the program-completion, competency, and examination requirements. A Letter of Review is a specific accreditation-process status; it is not the same as full accreditation.\n\nPrograms may lead to different academic awards, so students should check the particular program's prerequisites, schedule, clinical placements, and credential eligibility. Biology, anatomy, mathematics, and communication are useful high-school foundations. EMT employment experience can help a student understand the field, but program admission requirements determine whether and how much experience is required."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D159",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 8,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "National Registry paramedic certification and state permission to practice are separate processes. Passing a national certification examination does not by itself authorize practice in every state. Continuing education and renewal requirements also continue after initial qualification.\n\n**Kansas:** The Kansas Board of Emergency Medical Services oversees state EMS certification. For the Kansas-course route, the published requirements include approved education, the required examination, application, and applicable background-check requirements. Applicants for paramedic certification must already hold EMT or advanced EMT certification. The agency's current initial-certification instructions distinguish the paramedic examination route from the EMT knowledge-and-skills examination route.\n\nKansas law also limits what a paramedic may do. K.S.A. 65-6119 connects authorized activities to approved instruction, local specialized-device training, competency validation, and authorization by medical protocols or an order from a qualified healthcare provider. A paramedic credential is not unrestricted authority to use any medication or procedure. Consult [KBEMS's current instructions](https://www.ksbems.org/ems/?page_id=6152) for the applicable application route."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D160",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 9,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "The U.S. Bureau of Labor Statistics reports a **national median annual wage of $60,600 for paramedics in May 2025**. Half earned more and half earned less. The lowest-paid 10% earned less than $44,230; the highest-paid 10% earned more than $84,850. These are paramedic figures, not EMT wages, and the percentiles are not verified starting salaries.\n\nBLS projects **6% growth for paramedic employment from 2025 through 2035**. It reports about **18,200 annual openings for EMTs and paramedics combined**; that openings figure is not paramedic-only. Replacement of workers leaving the occupation contributes to openings as well as employment growth.\n\nLocal pay depends on the employer, location, experience, and schedule. Compare base pay separately from overtime when considering a first-job offer. [BLS: EMTs and Paramedics](https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm)."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D161",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 10,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedics may develop expertise in emergency response, interfacility transport, or particular patient-care environments. Flight and critical-care transport are examples of more specialized settings, not roles every new paramedic enters. Such employers can require substantial experience and additional preparation for their patients and equipment.\n\nExperienced paramedics may help teach learners, mentor coworkers, or coordinate team activities. Others pursue supervision or further healthcare education. Advancement can mean becoming a stronger clinician as well as taking an administrative role.\n\nMoving into nursing, physician-assistant practice, or medicine requires the education and licensure of that separate profession. Paramedic experience can inform the choice, but it does not replace those qualifications."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D162",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 11,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Paramedics can make an immediate contribution when a patient is seriously ill or injured. The work offers close teamwork, varied situations, and the challenge of applying clinical knowledge away from a fully equipped hospital. Someone who enjoys both patient interaction and technical decision-making may find that combination rewarding.\n\nThe tradeoffs include unpredictable workload, physical hazards, interrupted routines, and responsibility during urgent decisions. Not every call has a clear resolution, and a paramedic may never learn the patient's final outcome after handoff. Documentation and equipment preparation remain necessary even after an exhausting call.\n\nAn interest in dramatic emergencies is only one part of career fit. The routine work of listening, checking, communicating, and maintaining readiness occupies a substantial part of the profession."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D163",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 12,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "**EMT:** Provides care at a different EMS qualification level. A paramedic has further education and a broader authorized range of interventions; the titles should not be used interchangeably.\n\n**Emergency nurse:** Provides licensed nursing care, often receiving patients from EMS. Nursing education and licensure are separate from paramedic certification.\n\n**Emergency physician:** Has medical education and physician licensure; may provide medical direction within an EMS system as well as hospital care.\n\n**Firefighter:** May also be qualified as a paramedic, but a combined firefighter-paramedic job requires preparation for both functions.\n\nThese relationships show why a strong response is a team effort. Dispatch, rescue, transport, and hospital care contribute different expertise rather than one professional doing every part of the work."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D164",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 13,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "Consider the decisions behind emergency care:\n\n- Do I enjoy using science to work through an unfamiliar problem?\n- Can I communicate calmly and respectfully with a frightened person while coordinating with a partner?\n- Would I remain careful with equipment checks and records after a demanding call?\n- How would rotating shifts, physical work, and uncertainty about the next call fit my preferences?\n\nCompare EMT and paramedic education, and ask a local EMS educator how supervised clinical learning works. If a service offers career observation, follow its age, privacy, and safety requirements. Learning about routine calls and station work is as useful as hearing about unusual emergencies."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D165",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 14,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "The [National Association of Emergency Medical Technicians (NAEMT)](https://www.naemt.org/about-naemt/about-NAEMT) serves EMS practitioners, including paramedics. It offers education, professional resources, and advocacy related to the EMS workforce. Its safety and wellness resources can help students understand concerns beyond clinical procedures.\n\nNAEMT is distinct from the National Registry, which administers certification, and from state EMS regulators, which authorize practice. Professional membership supports development but does not replace either credentialing or legal authorization."
+    },
+    {
+      "sheet": "Article Sections",
+      "range": "D166",
+      "workingProfileId": "hcl-paramedic",
+      "sectionNumber": 15,
+      "expectedBefore": null,
+      "expectedBeforeNormalizedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "proposedAfter": "1. [BLS — EMTs and Paramedics: Pay](https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm). Accessed October 25, 2026.\n\n2. [O*NET — Paramedics (29-2043.00)](https://www.onetonline.org/link/summary/29-2043.00). Accessed October 25, 2026.\n\n3. [National Registry — Paramedic Certification](https://www.nremt.org/Paramedic/Certification). Accessed October 25, 2026.\n\n4. [National Registry — Paramedic Full Education Program Pathway](https://www.nremt.org/Document/Paramedic-Full-Education-Program-Pathway). Accessed October 25, 2026.\n\n5. [CoAEMSP — Seeking Accreditation](https://coaemsp.org/seeking-ems-accreditation/). Accessed October 25, 2026.\n\n6. [National Registry — Certification versus Licensure](https://www.nremt.org/Document/certification_licensure). Accessed October 25, 2026.\n\n7. [KBEMS — Initial Certification](https://www.ksbems.org/ems/?page_id=6152). Accessed October 25, 2026.\n\n8. [Kansas Secretary of State — KBEMS regulations](https://www.kssos.org/publications/Register/Volume-43/Issues/Issue-42/10-17-24-52587.html). Accessed October 25, 2026.\n\n9. [Kansas Legislature — K.S.A. 65-6119](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_061_0000_article/065_061_0019_section/065_061_0019_k/). Accessed October 25, 2026.\n\n10. [NAEMT — Overview](https://www.naemt.org/about-naemt/about-NAEMT). Accessed October 25, 2026."
+    }
+  ]
+}

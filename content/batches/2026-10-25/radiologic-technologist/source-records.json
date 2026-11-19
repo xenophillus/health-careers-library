@@ -1,0 +1,189 @@
+[
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-01",
+    "websiteId": "radiologic-technologist",
+    "title": "BLS Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+    "accessed": "2026-10-25",
+    "sections": [
+      4,
+      6,
+      7,
+      9
+    ],
+    "evidence": "May2025 radiologic technologists and technicians median $80,110; 2025–35 growth5%; broad group includes more than general radiography. Combined openings deliberately omitted.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-02",
+    "websiteId": "radiologic-technologist",
+    "title": "ARRT Radiography",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiography",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "evidence": "Radiography captures X-ray images; may assist contrast/fluoroscopy; primary pathway. Current task inventory through February28,2027 distinguished from future requirements.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-03",
+    "websiteId": "radiologic-technologist",
+    "title": "O*NET 29-2034.00",
+    "url": "https://www.onetonline.org/link/summary/29-2034.00",
+    "accessed": "2026-10-25",
+    "sections": [
+      2,
+      4,
+      5,
+      10
+    ],
+    "evidence": "Patient preparation, positioning, image QC, equipment checks, documentation and work contexts. Broad task list not universal clinical authority.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-04",
+    "websiteId": "radiologic-technologist",
+    "title": "ARRT Radiography Task Inventory",
+    "url": "https://assets-us-01.kc-usercontent.com/406ac8c6-58e8-00b3-e3c1-0c312965deb2/1d530fe3-05d7-4633-a7e8-70f9d414489b/RAD_TI_2022.pdf",
+    "accessed": "2026-10-25",
+    "sections": [
+      3,
+      5,
+      6,
+      11
+    ],
+    "evidence": "Current linked RAD_TI_2022 document supports patient interactions, mobile imaging and examination workflow; illustrative day is original synthesis.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-05",
+    "websiteId": "radiologic-technologist",
+    "title": "ASRT Careers in Radiologic Technology",
+    "url": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      5,
+      10,
+      12
+    ],
+    "evidence": "Professional nomenclature radiologic technologist/radiographer; separate modality descriptions including CT, MRI, mammography, nuclear medicine and therapy.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-06",
+    "websiteId": "radiologic-technologist",
+    "title": "FDA Radiography",
+    "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiography",
+    "accessed": "2026-10-25",
+    "sections": [
+      1,
+      6,
+      11,
+      12
+    ],
+    "evidence": "X-ray imaging principle, diagnostic benefit and radiation risk; technique-specific occupational context.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-07",
+    "websiteId": "radiologic-technologist",
+    "title": "ARRT Primary Eligibility Requirements",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+    "accessed": "2026-10-25",
+    "sections": [
+      7,
+      8
+    ],
+    "evidence": "Associate or higher degree plus approved discipline program, ethics and examination.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-08",
+    "websiteId": "radiologic-technologist",
+    "title": "JRCERT Find a Program",
+    "url": "https://www.jrcert.org/find-a-program/",
+    "accessed": "2026-10-25",
+    "sections": [
+      7
+    ],
+    "evidence": "Accredited-program search; not claimed as sole route to ARRT eligibility.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-09",
+    "websiteId": "radiologic-technologist",
+    "title": "K.S.A.65-7303",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+    "accessed": "2026-10-25",
+    "sections": [
+      8
+    ],
+    "evidence": "License and protected titles; practitioner prescription; subject to statutory exceptions.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-10",
+    "websiteId": "radiologic-technologist",
+    "title": "K.S.A.65-7304",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/",
+    "accessed": "2026-10-25",
+    "sections": [
+      8
+    ],
+    "evidence": "Exemptions including trained supervised workers in(f); do not falsely state every person using X-ray must have identical licensure.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-11",
+    "websiteId": "radiologic-technologist",
+    "title": "ARRT Postprimary Requirements",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/postprimary-requirement",
+    "accessed": "2026-10-25",
+    "sections": [
+      10
+    ],
+    "evidence": "Additional credential requires supporting category, structured education, clinical experience, ethics/exam.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  },
+  {
+    "sourceId": "HCL-RADIOLOGIC-TECHNOLOGIST-12",
+    "websiteId": "radiologic-technologist",
+    "title": "ASRT About Us",
+    "url": "https://www.asrt.org/main/about-asrt",
+    "accessed": "2026-10-25",
+    "sections": [
+      14
+    ],
+    "evidence": "Professional mission, education resources and advocacy distinct from credentialing.",
+    "verificationStatus": "primary source inspected",
+    "approvalStatus": "unapproved",
+    "workingProfileId": "hcl-radiologictechnician"
+  }
+]

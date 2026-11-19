@@ -1,0 +1,39 @@
+{
+  "websiteId": "radiologic-technologist",
+  "proposedWorkingProfileId": "hcl-radiologictechnician",
+  "displayTitle": "Radiologic Technologist",
+  "sourceTitles": [
+    "Radiologic Technician"
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "sourceRecords": [
+    {
+      "sourceTitle": "Radiologic Technician",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "radiologictechnician",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "draft",
+  "approved": false,
+  "canonicalSheetStatus": "new proposed draft; parent must compare full Sheet before insert",
+  "normalizationRationale": "Proposed title uses ASRT/ARRT professional terminology for general radiography while preserving source label Radiologic Technician. Source label alone does not resolve full-scope radiographer versus a limited-scope X-ray role; owner mapping review required. Do not assign source listing to all imaging modalities.",
+  "doNotCollapse": [
+    "CT technologist",
+    "Mammographer",
+    "Positron Emission Tomography (PET) Technologist",
+    "Radiation Therapist"
+  ],
+  "mappingStatus": "proposed scope; confirm intended source label",
+  "publicationBlockers": [
+    "editorial approval",
+    "canonical Sheet reconciliation",
+    "image visual verification and delivery",
+    "rendered browser/mobile/print QA"
+  ]
+}

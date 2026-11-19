@@ -1,0 +1,185 @@
+[
+  {
+    "sourceId": "LPN-BLS",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      1,
+      4,
+      7,
+      9
+    ],
+    "organizationTitle": "BLS — Licensed Practical and Licensed Vocational Nurses",
+    "url": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+    "claimSupported": "Combined LPN/LVN May2025 median $64,400; 2025–35 growth3%,51,800 openings annually; common one-year program; work settings.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-ONET",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      2,
+      3,
+      5
+    ],
+    "organizationTitle": "O*NET — Licensed Practical and Licensed Vocational Nurses 29-2061.00",
+    "url": "https://www.onetonline.org/link/summary/29-2061.00",
+    "claimSupported": "Observations, reporting, personal care, records, preparation. Clinical task examples are not generalized legal permissions.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-STANDARDS",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      2,
+      3,
+      5,
+      10,
+      11
+    ],
+    "organizationTitle": "NALPN — Nurse Practice Standards",
+    "url": "https://nalpn.org/standards/",
+    "claimSupported": "Confidentiality, competence, reporting, contribution to care plan, continuing development. Professional guidance, not Kansas law.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-ASSOC",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      14
+    ],
+    "organizationTitle": "National Association of Licensed Practical Nurses",
+    "url": "https://nalpn.org/",
+    "claimSupported": "Professional support, education and networking.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-NAPNES",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      14
+    ],
+    "organizationTitle": "National Association for Practical Nurse Education and Service",
+    "url": "https://napnes.org/site/",
+    "claimSupported": "Practical nursing professional learning and education resources.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-ANA",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      10,
+      12
+    ],
+    "organizationTitle": "ANA — What Is Nursing?",
+    "url": "https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/",
+    "claimSupported": "Nursing role comparisons; advancement involves additional education.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "LPN-AACN",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      7,
+      10
+    ],
+    "organizationTitle": "AACN — Baccalaureate Education",
+    "url": "https://www.aacnnursing.org/students/nursing-education-pathways/baccalaureate-education",
+    "claimSupported": "Educational progression including practical nurses continuing into baccalaureate preparation. No automatic credit promised.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-INITIAL",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Initial Application",
+    "url": "https://ksbn.kansas.gov/initial-application/",
+    "claimSupported": "Initial RN/LPN checklist: official transcripts, fingerprints/background check and NCLEX registration. No fees/deadlines reproduced.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-PROGRAMS",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      7
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Programs",
+    "url": "https://ksbn.kansas.gov/programs/",
+    "claimSupported": "Approved prelicensure programs and separate RN/PN pass-rate resources.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-SCOPE",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      1,
+      8,
+      12
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-1113",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_011_0000_article/065_011_0013_section/065_011_0013_k/",
+    "claimSupported": "Professional/practical nursing distinction; nursing versus medical diagnosis; LPN directed supportive/restorative care.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-TREE",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      5,
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — RN/LPN Scope Decision Tree",
+    "url": "https://ksbn.kansas.gov/wp-content/uploads/2023/07/KSBN-Scope-of-Practice-Decision-Tree-for-the-RN-and-LPN.pdf",
+    "claimSupported": "Law, policies, competence, patient needs and supervision determine whether an activity is appropriate; not a blanket task authorization.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "KS-NLC",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "Kansas Board of Nursing — Nurse Licensure Compact",
+    "url": "https://ksbn.kansas.gov/nlc/",
+    "claimSupported": "Kansas participates; single-state and multistate licenses differ and eligibility must be satisfied. Old transition dates omitted.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "NCSBN",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      8
+    ],
+    "organizationTitle": "NCSBN — Licensure",
+    "url": "https://www.ncsbn.org/nursing-regulation/licensure.page",
+    "claimSupported": "Nursing regulatory bodies grant permission to practice; education/examination/licensure distinction.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  },
+  {
+    "sourceId": "NIOSH",
+    "workingProfileId": "hcl-licensedpracticalnurse",
+    "sectionNumbers": [
+      6,
+      11
+    ],
+    "organizationTitle": "CDC/NIOSH — Safe Patient Handling and Mobility",
+    "url": "https://www.cdc.gov/niosh/healthcare/sphm/index.html",
+    "claimSupported": "Patient handling injury risk; assistive devices, training and employer systems. Published May 9, 2024.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source directly opened/read; independent final review pending"
+  }
+]

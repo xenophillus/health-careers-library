@@ -1,0 +1,16 @@
+{
+  "status": "not_cleared",
+  "selectedImage": null,
+  "checkedDate": "2026-10-25",
+  "candidates": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Community_health_worker_in_the_Brazilian_public_health_system.jpg",
+      "finding": "Commons identifies Brazilian home visit and CC BY2.0, but also displays Flickr bad-author licensing warning. Not cleared or downloaded."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Community_Health_Workers_(5762479865).jpg",
+      "finding": "Commons public-domain USAID/Nena Terrell photo from Ethiopia2011; source describes clinical tasks specific to that setting. Not selected as a representative US career image."
+    }
+  ],
+  "remaining": "Find and visually inspect a correctly licensed relevant photograph, preserve its setting in caption; no false provenance or license claim."
+}

@@ -1,0 +1,21 @@
+{
+  "workingProfileId": "hcl-microbiologist",
+  "proposedImageId": "HCL-IMG-MICROBIOLOGIST",
+  "sourceUrl": "https://wwwn.cdc.gov/phil/details.aspx?pid=11157",
+  "candidateAssetUrl": "https://wwwn.cdc.gov/phil///PHIL_Images/11157/11157_lores.jpg",
+  "creator": "Janice Haney Carr",
+  "contentProvider": "CDC / Matthew J. Arduino, DrPH",
+  "creationYear": 2001,
+  "license": "Public domain per CDC PHIL record; attribution and agency reuse terms apply",
+  "termsUrl": "https://www.cdc.gov/other/agencymaterials.html",
+  "credit": "CDC / Janice Haney Carr; CDC PHIL11157",
+  "caption": "Digitally colorized scanning electron micrograph of Staphylococcus aureus bacteria,2001. The image shows microscopic structure; color was added digitally. Source: CDC/Janice Haney Carr, PHIL11157, available free from CDC. Use does not imply CDC or U.S. government endorsement.",
+  "alt": "Digitally colorized electron micrograph of clustered, round Staphylococcus aureus bacteria",
+  "intendedPlacement": "Career Overview or Duties and Responsibilities; explanatory micrograph rather than occupational portrait",
+  "licenseRecordChecked": "2026-10-25",
+  "visualInspectionStatus": "pending",
+  "downloadStatus": "blocked_http403",
+  "localAsset": null,
+  "publicationApproved": false,
+  "blocker": "Direct downloads from both normalized and source-linked triple-slash URL returned HTTP403. Source record/attribution/terms were readable; no image bytes saved or visual inspection claimed. Obtain asset through an authorized browser or alternative verified source, inspect, and test presentation before use."
+}

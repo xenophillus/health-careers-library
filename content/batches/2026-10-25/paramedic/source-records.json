@@ -1,0 +1,179 @@
+[
+  {
+    "sourceId": "PAR-BLS-PAY",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: Pay",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "Paramedic-only U.S. May 2025 median $60,600; lowest 10% below $44,230; highest 10% above $84,850. Percentiles not starting wages.",
+    "publicationDate": "May 2025",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-BLS-OUTLOOK",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      9
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: Outlook",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "2025–2035 paramedic growth 6%; 18,200 annual openings applies to EMTs and paramedics combined.",
+    "publicationDate": "2025–2035",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-BLS-WORK",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13
+    ],
+    "organizationTitle": "BLS — EMTs and Paramedics: duties, environment and education",
+    "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+    "claimSupported": "Advanced paramedic care vs EMT level; shift work, transport, physical/emotional demands, clinical education and team relationships. Workflow and reflections are editorial synthesis, not observed cases.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-ONET",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      13
+    ],
+    "organizationTitle": "O*NET — Paramedics (29-2043.00)",
+    "url": "https://www.onetonline.org/link/summary/29-2043.00",
+    "claimSupported": "Assessment, advanced monitoring/medication interventions, patient movement, recording responses, coordination, teaching, flight/critical-care job titles. National occupation description does not confer local procedural authority.",
+    "publicationDate": "Updated 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-NREMT-ROLE",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      1,
+      2
+    ],
+    "organizationTitle": "National Registry — Paramedic Certification",
+    "url": "https://www.nremt.org/Paramedic/Certification",
+    "claimSupported": "Advanced emergency care and transport under medical oversight, basic and advanced ambulance equipment.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-NREMT-EDUCATION",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      7,
+      8
+    ],
+    "organizationTitle": "National Registry — Paramedic Full Education Program Pathway",
+    "url": "https://www.nremt.org/Document/Paramedic-Full-Education-Program-Pathway",
+    "claimSupported": "Current EMT-or-higher credential, CAAHEP-accredited or CoAEMSP Letter-of-Review program, director completion/competency verification, certification examination. No universal program duration asserted.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-COAEMSP",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      7
+    ],
+    "organizationTitle": "CoAEMSP — Seeking Accreditation",
+    "url": "https://coaemsp.org/seeking-ems-accreditation/",
+    "claimSupported": "Letter of Review is a status in the becoming-accredited process, not full accreditation; NREMT recognizes qualifying graduates. Programs include classroom, laboratory, hospital and field internship learning.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-NREMT-AUTH",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      8,
+      14
+    ],
+    "organizationTitle": "National Registry — Certification versus Licensure",
+    "url": "https://www.nremt.org/Document/certification_licensure",
+    "claimSupported": "National certification and state authorization distinct.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-KBEMS",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "KBEMS — Initial Certification",
+    "url": "https://www.ksbems.org/ems/?page_id=6152",
+    "claimSupported": "Stable agency page linking current March 1, 2026 instructions. Paramedic knowledge-exam route distinguished from EMT skills-and-knowledge route.",
+    "publicationDate": "PDF revised March 1, 2026",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-KANSAS-CERT",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      8
+    ],
+    "organizationTitle": "Kansas Secretary of State — KBEMS regulations",
+    "url": "https://www.kssos.org/publications/Register/Volume-43/Issues/Issue-42/10-17-24-52587.html",
+    "claimSupported": "K.A.R. 109-15-3 requires existing EMT/AEMT certification for Kansas paramedic applicants plus approved course, exam/application/background requirements. No exact application deadlines or fees imported.",
+    "publicationDate": "Published October 17, 2024; effective November 1, 2024",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-KANSAS-SCOPE",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      2,
+      8
+    ],
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-6119",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_061_0000_article/065_061_0019_section/065_061_0019_k/",
+    "claimSupported": "Current statute: approved instruction, local specialized device training, competency validation, and medical protocols or qualified-provider order condition authorized activities. Updated 2025 language used.",
+    "publicationDate": "2025 amendment, July 1",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  },
+  {
+    "sourceId": "PAR-NAEMT",
+    "workingProfileId": "hcl-paramedic",
+    "sections": [
+      14
+    ],
+    "organizationTitle": "NAEMT — Overview",
+    "url": "https://www.naemt.org/about-naemt/about-NAEMT",
+    "claimSupported": "Professional education, resources and advocacy for EMS practitioners including paramedics.",
+    "publicationDate": "",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; proposed mapping; editorial approval pending"
+  }
+]

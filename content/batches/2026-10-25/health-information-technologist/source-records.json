@@ -1,0 +1,155 @@
+[
+  {
+    "sourceId": "MIT-01",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "BLS Health Information Technologists and Medical Registrars",
+    "url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+    "sections": [
+      1,
+      4,
+      7,
+      9,
+      10,
+      12
+    ],
+    "claimSupported": "Combined SOC29-9021 May2025 median$68,020;2025\u20132035 growth16%;3,000 average annual openings; associate and higher degree routes; office setting; advancement.",
+    "evidence": "Combined statistical group explicitly named; no title-only salary or entry-pay estimate. Medical registrar/cancer registrar is not silently treated as same occupation as technologist.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-02",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "O*NET Health Information Technologists and Medical Registrars29-9021.00",
+    "url": "https://www.onetonline.org/link/summary/29-9021.00",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      10
+    ],
+    "claimSupported": "Systems design/improvement, clinical-data analysis, databases, educational materials and technical collaboration.",
+    "evidence": "Tasks opened; source states subset of profile available and data collection continuing. No inference of exact alias Medical Information Technologist from this source.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-03",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "HIMSS CAHIMS",
+    "url": "https://www.himss.org/certifications/cahims/",
+    "sections": [
+      8
+    ],
+    "claimSupported": "Foundational health information and management systems credential relates to implementation, workflows and collaboration.",
+    "evidence": "Credential overview read. No unverified eligibility hours, fee, renewal interval, or claim of legal requirement introduced.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-04",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "HIMSS Individual Membership",
+    "url": "https://www.himss.org/membership/individual/",
+    "sections": [
+      14
+    ],
+    "claimSupported": "Professional development, communities, events and student membership.",
+    "evidence": "Primary membership page opened.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-05",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "ONC Benefits of Electronic Health Records",
+    "url": "https://healthit.gov/health-it-basics/benefits-ehrs/",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      11
+    ],
+    "claimSupported": "Electronic information supports access, coordination and useful healthcare information; effective workflow matters.",
+    "evidence": "Primary federal health IT explanation opened; illustrative report example is authored to explain data quality, not evidence of a measured intervention.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-06",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "AHIMA Health Information 101",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/career-tools/career-pages/health-information-101/",
+    "sections": [
+      1,
+      2,
+      5,
+      10,
+      11,
+      12
+    ],
+    "claimSupported": "Information management connects clinical, business and IT work; information completeness, accuracy, privacy and standardization matter.",
+    "evidence": "Primary association describes health records and health information work; article examples are original illustrative synthesis, not reported worker diaries.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-07",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "AHIMA RHIT",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/rhit/",
+    "sections": [
+      7,
+      8
+    ],
+    "claimSupported": "Associate-level CAHIIM-accredited HIM education or listed international reciprocity route; health informatics programs not currently supported; recertification required.",
+    "evidence": "Eligibility and maintenance sections read directly. No claim that every information job requires RHIT.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-08",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "CAHIIM Programs",
+    "url": "https://www.cahiim.org/programs/",
+    "sections": [
+      7
+    ],
+    "claimSupported": "Accreditor distinguishes Health Informatics and Health Information Management and provides accredited program directory.",
+    "evidence": "Programs page opened. Directory visible in search; direct directory fetch returned502. Do not treat any individual program as verified accredited.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-09",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "HHS HIPAA Privacy Rule summary",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+    "sections": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "claimSupported": "Covered organizations restrict workforce access according to role and maintain disclosure procedures.",
+    "evidence": "Access/Uses and disclosure sections reviewed. Article avoids oversimplified claim that all disclosure needs patient authorization or that minimum-necessary rule applies without exceptions.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  },
+  {
+    "sourceId": "MIT-10",
+    "workingProfileId": "hcl-medicalinformationtechnologist",
+    "organizationTitle": "AHIMA About",
+    "url": "https://www.ahima.org/who-we-are/about-us/",
+    "sections": [
+      14
+    ],
+    "claimSupported": "Professional association supporting health information practitioners.",
+    "evidence": "About page directly opened; membership is not presented as credentialing or licensure.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent editorial review pending"
+  }
+]

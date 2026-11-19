@@ -1,0 +1,39 @@
+{
+  "websiteId": "mri-technologist",
+  "proposedWorkingProfileId": "hcl-magneticresonancemrtechnologist",
+  "displayTitle": "Magnetic Resonance Imaging (MRI) Technologist",
+  "sourceTitles": [
+    "Magnetic Resonance (MR) Technologist"
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "sourceRecords": [
+    {
+      "sourceTitle": "Magnetic Resonance (MR) Technologist",
+      "sourcePathway": "Diagnostic Services",
+      "sourceKey": "magneticresonancemrtechnologist",
+      "productionWave": "priority",
+      "profileStatus": "not_started",
+      "reviewFlags": [],
+      "profileId": null
+    }
+  ],
+  "status": "draft",
+  "approved": false,
+  "canonicalSheetStatus": "new proposed draft; parent must compare full Sheet before insert",
+  "normalizationRationale": "MR and MRI name the same magnetic resonance imaging field; exact source label retained. Separate from radiography; primary and postprimary credential routes both represented.",
+  "doNotCollapse": [
+    "CT technologist",
+    "Mammographer",
+    "Positron Emission Tomography (PET) Technologist",
+    "Radiation Therapist"
+  ],
+  "mappingStatus": "explicit MRI profile; preserve exact source label",
+  "publicationBlockers": [
+    "editorial approval",
+    "canonical Sheet reconciliation",
+    "image visual verification and delivery",
+    "rendered browser/mobile/print QA"
+  ]
+}

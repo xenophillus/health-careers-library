@@ -1,0 +1,18 @@
+{
+  "websiteId": "mri-technologist",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg",
+  "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MRI_Scan_General_Illustration.jpg",
+  "credit": "Ptrump16",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "proposedCaption": "One image from a head MRI examination, illustrating the kind of images acquired by MRI technologists.",
+  "proposedAlt": "MRI image through the head showing the brain and eyes.",
+  "accessed": "2026-10-25",
+  "evidence": "February 6, 2022; Commons identifies own work by Ptrump16; CC BY-SA4 license inspected. Preserve attribution, license link and change statement; derivative adaptations must retain compatible share-alike license.",
+  "status": "license record verified; image visual check and local download pending",
+  "localAsset": null,
+  "changes": "No image downloaded or modified.",
+  "blocker": "Image original urllib request failed with environment proxy 403; web source pages and original links resolve, but pixels not yet inspected. Parent asked to use alternate available download mechanism.",
+  "use": "Clinical-output figure; use full aspect ratio rather than decorative cropped hero. Captions/alt provisional until pixel inspection.",
+  "approvalStatus": "unapproved"
+}

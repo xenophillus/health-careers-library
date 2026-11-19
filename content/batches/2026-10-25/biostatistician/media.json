@@ -1,0 +1,27 @@
+{
+  "imageTitle": "Nightingale-mortality.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg",
+  "candidateAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg",
+  "creator": "Florence Nightingale",
+  "creationYear": 1858,
+  "license": "Public domain; historical1858 published work, author died1910; Commons public-domain mark",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "credit": "Florence Nightingale,1858 / Wikimedia Commons; public domain",
+  "caption": "Florence Nightingale\u2019s1858 diagram compared causes of mortality in the British Army. It is a historical example of presenting health evidence visually, not a dataset describing current healthcare.",
+  "alt": "Two historical polar-area diagrams with blue, red and black wedges comparing causes of mortality by month",
+  "intendedPlacement": "Duties and Responsibilities beside communicating evidence; include readable explanatory caption and link to full-resolution source",
+  "historicalProvenance": "Commons identifies1858 work, author and David Rumsey source scan. Public-domain assessment refers to the original artwork; no modern dataset or occupation portrait inferred.",
+  "dimensionsFromSource": [
+    6996,
+    3826
+  ],
+  "workingProfileId": "hcl-biostatistician",
+  "licenseRecordChecked": "2026-10-25",
+  "status": "candidate_pending_asset_and_visual_review",
+  "visualInspectionStatus": "pending",
+  "downloadStatus": "blocked_network_tunnel_http403",
+  "localAsset": null,
+  "publicationApproved": false,
+  "changes": "No local asset or derivative created.",
+  "blocker": "urllib HTTPS GET of candidateAssetUrl failed: Tunnel connection failed:403 Forbidden. Source record was readable via web tool. No image installed or visual inspection claimed."
+}

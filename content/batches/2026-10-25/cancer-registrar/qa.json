@@ -1,0 +1,13 @@
+{
+  "checkedDate": "2026-10-25",
+  "approved": false,
+  "checks": {
+    "structure": "Pass:15 canonical sections, exact order, nonempty Markdown, unique IDs and bibliography links",
+    "source": "Author checked current primary occupational, credential and wage sources; independent claim review pending",
+    "editorial": "Occupation-specific draft complete; illustrative workday and reflective suggestions identified; independent copyedit pending",
+    "image": "Not ready: no suitable licensed image selected or visually inspected",
+    "technical": "Not integrated/rendered; browser/mobile/print QA pending with integrator",
+    "canonical": "Not written to Sheet; requires fresh canonical row comparison",
+    "approval": "Not approved"
+  }
+}

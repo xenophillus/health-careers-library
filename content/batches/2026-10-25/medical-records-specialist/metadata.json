@@ -1,0 +1,26 @@
+{
+  "workingProfileId": "hcl-medicalrecordstechnician",
+  "proposedWebsiteId": "medical-records-specialist",
+  "displayTitle": "Medical Records Technician",
+  "articleScope": "Medical records technician within BLS Medical Records Specialists",
+  "sourceAppearances": [
+    {
+      "inventoryIndex": 123,
+      "sourceTitle": "Medical Records Technician",
+      "sourcePathway": "Health Informatics",
+      "sourceKey": "medicalrecordstechnician"
+    }
+  ],
+  "mappingStatus": "Exact source title retained; occupational crosswalk supported by O*NET reported titles",
+  "unresolvedRelatedLabels": [
+    "Clinical Coder",
+    "Health Information Technician"
+  ],
+  "status": "Draft \u2014 source-backed, not approved",
+  "coverageCredit": {
+    "draftedExactTitles": 1,
+    "approvedExactTitles": 0,
+    "additionalAliasTitlesCounted": 0
+  },
+  "canonicalSheetWriteStatus": "Not written; integrator must reread canonical rows before applying"
+}

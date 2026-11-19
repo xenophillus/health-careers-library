@@ -1,0 +1,140 @@
+[
+  {
+    "sourceId": "MT-01",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "BLS Medical Transcriptionists",
+    "url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
+    "sections": [
+      1,
+      4,
+      7,
+      9,
+      11
+    ],
+    "claimSupported": "May2025 US median$40,410;2025\u20132035 employment decline4%;6,200 annual replacement openings; certificate entry; workplace and pay arrangements.",
+    "evidence": "Current OOH pay/outlook read directly. Decline preserved; openings explicitly replacement-only; median not starting wage. No salary promise or remote-job guarantee.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-02",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "O*NET Medical Transcriptionists31-9094.00",
+    "url": "https://www.onetonline.org/link/summary/31-9094.00",
+    "sections": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      10,
+      12
+    ],
+    "claimSupported": "Transcribe/edit reports, consult references, clarify errors with clinicians, return for approval; pathology/radiology titles and work context.",
+    "evidence": "Tasks and context read. O*NET listed titles include scribes but article does not declare all scribe work identical to transcription; scope stays recorded-dictation/editing work.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-03",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI Become a Healthcare Documentation Specialist",
+    "url": "https://ahdionline.org/become-a-healthcare-documentation-specialist/",
+    "sections": [
+      7,
+      8,
+      13,
+      14
+    ],
+    "claimSupported": "Training quality and program completion versus independent RHDS/CHDS credentials.",
+    "evidence": "Career introduction directly read. Article avoids dated income promises and emphasizes current editing preparation.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-04",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI Types of Credentials",
+    "url": "https://ahdionline.org/types-of-credentials/",
+    "sections": [
+      8,
+      10
+    ],
+    "claimSupported": "Voluntary RHDS level1; CHDS geared toward RHDS holders with at least2years acute-care/multispecialty experience; broader documentation credentials exist.",
+    "evidence": "Credential page directly read. No claim that certification is a state license or automatically earned at school graduation.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-05",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI RHDS",
+    "url": "https://ahdionline.org/rhds-rmt/",
+    "sections": [
+      8
+    ],
+    "claimSupported": "RHDS intended audience and prerequisite relationship to CHDS.",
+    "evidence": "Direct credential page read.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-06",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI CHDS",
+    "url": "https://ahdionline.org/certified-healthcare-documentation-specialist/",
+    "sections": [
+      8
+    ],
+    "claimSupported": "RHDS prerequisite; current CMT holders may bypass RHDS to pursue CHDS.",
+    "evidence": "Primary credential page read; avoids falsely applying prerequisite without its stated exception.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-07",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI Speech Recognition Technology",
+    "url": "https://ahdionline.org/speech-recognition-technology/",
+    "sections": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "claimSupported": "Editing requires listening to source while examining software draft and using medical knowledge/critical thinking.",
+    "evidence": "Mechanism corroborated by current BLS. Page contains visibly older vendor/examples and adoption predictions; those are NOT used as current market evidence.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-08",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "AHDI Quality Assurance",
+    "url": "https://ahdionline.org/style-standards/",
+    "sections": [
+      5,
+      10,
+      14
+    ],
+    "claimSupported": "Documentation quality review and a2025 updated professional QA resource.",
+    "evidence": "June2025 update verified. Paid/linked toolkit contents not claimed reviewed; only public description supports resource existence.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  },
+  {
+    "sourceId": "MT-09",
+    "workingProfileId": "hcl-medicaltranscriptionist",
+    "organizationTitle": "HHS HIPAA Privacy Rule Summary",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+    "sections": [
+      2,
+      4,
+      6
+    ],
+    "claimSupported": "Role-appropriate access and organizational privacy procedures for health information.",
+    "evidence": "Primary summary read during prior information batch. Article stays high-level and does not apply blanket authorization or minimum-necessary claims.",
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source read; author review complete; independent review pending"
+  }
+]

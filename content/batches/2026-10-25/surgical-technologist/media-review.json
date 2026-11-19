@@ -1,0 +1,22 @@
+{
+  "mediaId": "PROPOSED-ST-01",
+  "workingProfileId": "hcl-surgicaltechnologist",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surgeons_at_Work.jpg",
+  "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Surgeons_at_Work.jpg",
+  "assetPath": null,
+  "credit": "Derrick C. Goode / U.S. Air Force",
+  "license": "Public domain in the United States: official U.S. Air Force work",
+  "licenseEvidence": "Commons description names photographer and official U.S. Air Force public-domain status; source explicitly identifies surgical technician SrA Ray Wilson and surgeons Patrick Miller and Michael Hughes.",
+  "proposedCaption": "A U.S. Air Force surgical technician works with surgeons during an operation at a field hospital in 2003.",
+  "proposedAlt": "Surgical team working around an operating table at a military field hospital",
+  "verifiedDate": "2026-10-25",
+  "visualReview": "Not completed. Web image fetch failed; curl download returned HTTP403, including approved elevated execution. No asset saved.",
+  "suitability": "Historical military setting, not representative of every civilian operating room. Visual review must confirm technician visibility and non-graphic suitability before choosing this image.",
+  "approval": "Not approved; candidate provenance checked, visual review and local download pending",
+  "blocker": {
+    "action": "Download and visually inspect candidate photograph",
+    "target": "https://upload.wikimedia.org/wikipedia/commons/0/08/Surgeons_at_Work.jpg",
+    "reason": "HTTP403 from download route; web fetch internal error",
+    "outcome": "Failed; no download; visual QA pending"
+  }
+}

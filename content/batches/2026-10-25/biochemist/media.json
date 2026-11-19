@@ -1,0 +1,26 @@
+{
+  "imageTitle": "InsulinHexamer.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:InsulinHexamer.jpg",
+  "candidateAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/InsulinHexamer.jpg",
+  "creator": "Isaac Yonemoto (original uploader Takometer)",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+  "credit": "Isaac Yonemoto / Wikimedia Commons, CC BY 2.5",
+  "caption": "A molecular model of an insulin hexamer, created from the experimentally determined structure PDB 1AI0. Biochemists study how molecular structure relates to biological function. Model: Isaac Yonemoto, CC BY 2.5.",
+  "alt": "Computer-rendered molecular model of an insulin hexamer",
+  "intendedPlacement": "Duties and Responsibilities, next to molecular structure explanation",
+  "scientificProvenance": "Commons record identifies NMR structure1AI0; primary structure record https://www.rcsb.org/structure/1ai0 confirms human insulin hexamer and NMR data. This is a molecular visualization, not a microscope photograph or AI-generated image.",
+  "dimensionsFromSource": [
+    380,
+    398
+  ],
+  "workingProfileId": "hcl-biochemist",
+  "licenseRecordChecked": "2026-10-25",
+  "status": "candidate_pending_asset_and_visual_review",
+  "visualInspectionStatus": "pending",
+  "downloadStatus": "blocked_network_tunnel_http403",
+  "localAsset": null,
+  "publicationApproved": false,
+  "changes": "No local asset or derivative created.",
+  "blocker": "urllib HTTPS GET of candidateAssetUrl failed: Tunnel connection failed:403 Forbidden. Source record was readable via web tool. No image installed or visual inspection claimed."
+}

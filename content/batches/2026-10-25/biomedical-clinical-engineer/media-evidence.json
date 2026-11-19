@@ -1,0 +1,7 @@
+{
+  "status": "not_ready",
+  "selectedImage": null,
+  "verifiedDate": "2026-10-25",
+  "remaining": "Authenticated image provenance plus visual/local rendering review required before image readiness.",
+  "reason": "No verified engineer-specific photo selected. Do not relabel the technician photograph as an engineer or use generic clinical imagery as profession evidence."
+}
