@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-medicaleditorwriter",
+  "title": "Medical Editor/Writer",
+  "sourceTitle": "Medical Editor/Writer",
+  "sourceKey": "medicaleditorwriter",
+  "sourceIndices": [
+    177
+  ],
+  "sourcePathways": [
+    "Biotechnology Research and Development"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact combined source label Medical Editor/Writer preserved. Related writing and editing roles explained, not invented as one regulated occupation."
+}

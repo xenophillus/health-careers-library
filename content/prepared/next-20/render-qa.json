@@ -1,0 +1,24 @@
+{
+  "integrationBase": "22c519dd70e1ae3994c56c45df9ae28112e4e6b5",
+  "renderer": "Actual scripts/import-profile.mjs CSV converter",
+  "checks": [
+    {
+      "width": 1440,
+      "articles": 20,
+      "sections": 300,
+      "workingAnchors": 20,
+      "horizontalOverflow": false,
+      "images": 0
+    },
+    {
+      "width": 375,
+      "articles": 20,
+      "sections": 300,
+      "workingAnchors": 20,
+      "horizontalOverflow": false,
+      "images": 0
+    }
+  ],
+  "pageErrors": [],
+  "scope": "Standalone editorial review, not registered student runtime"
+}

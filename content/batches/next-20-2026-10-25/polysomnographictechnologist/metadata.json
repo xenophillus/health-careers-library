@@ -1,0 +1,15 @@
+{
+  "title": "Polysomnographic Technologist",
+  "sourceTitle": "Polysomnographic Technologist",
+  "sourceKey": "polysomnographictechnologist",
+  "workingProfileId": "hcl-polysomnographictechnologist",
+  "sourceIndices": [
+    86
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Inventory sourceIndex 86, exact title Polysomnographic Technologist. Sleep technologist is a descriptive synonym; not merged with respiratory therapist or other neurodiagnostic inventory titles. Physician diagnosis remains separate from technologist recording/scoring.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Prepared editorial draft; no publication or canonical action"
+}

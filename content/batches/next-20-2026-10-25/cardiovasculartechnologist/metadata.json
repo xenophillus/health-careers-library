@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-cardiovasculartechnologist",
+  "title": "Cardiovascular Technologist",
+  "sourceTitle": "Cardiovascular Technologist",
+  "sourceKey": "cardiovasculartechnologist",
+  "sourceIndices": [
+    58
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Broad cardiovascular title; invasive cardiac-catheterization work is the principal example. Noninvasive roles acknowledged without merging separately inventoried EKG or sonography titles.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Separate prepared draft; no canonical or runtime writes."
+}

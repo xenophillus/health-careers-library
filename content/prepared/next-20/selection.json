@@ -1,0 +1,376 @@
+{
+  "selectedTitles": 20,
+  "records": [
+    {
+      "sourceKey": "nursepractitioner",
+      "sourceTitle": "Nurse Practitioner",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 24,
+          "sourceTitle": "Nurse Practitioner",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "nursepractitioner",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        },
+        {
+          "sourceIndex": 76,
+          "sourceTitle": "Nurse Practitioner",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "nursepractitioner",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "physicianmddo",
+      "sourceTitle": "Physician (MD/DO)",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 38,
+          "sourceTitle": "Physician (MD/DO)",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "physicianmddo",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "veterinarian",
+      "sourceTitle": "Veterinarian",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 52,
+          "sourceTitle": "Veterinarian",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "veterinarian",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "veterinariantechnician",
+      "sourceTitle": "Veterinarian Technician",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 53,
+          "sourceTitle": "Veterinarian Technician",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "veterinariantechnician",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "cardiovasculartechnologist",
+      "sourceTitle": "Cardiovascular Technologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 58,
+          "sourceTitle": "Cardiovascular Technologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "cardiovasculartechnologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "computertomographycttechnologist",
+      "sourceTitle": "Computer Tomography (CT) Technologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 62,
+          "sourceTitle": "Computer Tomography (CT) Technologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "computertomographycttechnologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "electrocardiographicecgorekgtechnician",
+      "sourceTitle": "Electrocardiographic (ECG or EKG) Technician",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 66,
+          "sourceTitle": "Electrocardiographic (ECG or EKG) Technician",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "electrocardiographicecgorekgtechnician",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "histotechnologist",
+      "sourceTitle": "Histotechnologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 70,
+          "sourceTitle": "Histotechnologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "histotechnologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "medicallaboratorytechnician",
+      "sourceTitle": "Medical Laboratory Technician",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 74,
+          "sourceTitle": "Medical Laboratory Technician",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "medicallaboratorytechnician",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "polysomnographictechnologist",
+      "sourceTitle": "Polysomnographic Technologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 86,
+          "sourceTitle": "Polysomnographic Technologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "polysomnographictechnologist",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "clinicalcoder",
+      "sourceTitle": "Clinical Coder",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 102,
+          "sourceTitle": "Clinical Coder",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "clinicalcoder",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "healthinformationadministrator",
+      "sourceTitle": "Health Information Administrator",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 112,
+          "sourceTitle": "Health Information Administrator",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "healthinformationadministrator",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "informationprivacyofficer",
+      "sourceTitle": "Information Privacy Officer",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 117,
+          "sourceTitle": "Information Privacy Officer",
+          "sourcePathway": "Health Informatics",
+          "sourceKey": "informationprivacyofficer",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "centralservicemanager",
+      "sourceTitle": "Central Service Manager",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 142,
+          "sourceTitle": "Central Service Manager",
+          "sourcePathway": "Support Services",
+          "sourceKey": "centralservicemanager",
+          "productionWave": "priority",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "pharmacologist",
+      "sourceTitle": "Pharmacologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 183,
+          "sourceTitle": "Pharmacologist",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "pharmacologist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "occupationaltherapyassistant",
+      "sourceTitle": "Occupational Therapy Assistant",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 26,
+          "sourceTitle": "Occupational Therapy Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "occupationaltherapyassistant",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "physicaltherapyassistant",
+      "sourceTitle": "Physical Therapy Assistant",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 37,
+          "sourceTitle": "Physical Therapy Assistant",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "physicaltherapyassistant",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        },
+        {
+          "sourceIndex": 85,
+          "sourceTitle": "Physical Therapy Assistant",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "physicaltherapyassistant",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "radiationtherapist",
+      "sourceTitle": "Radiation Therapist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 43,
+          "sourceTitle": "Radiation Therapist",
+          "sourcePathway": "Therapeutic Services",
+          "sourceKey": "radiationtherapist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "medicaleditorwriter",
+      "sourceTitle": "Medical Editor/Writer",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 177,
+          "sourceTitle": "Medical Editor/Writer",
+          "sourcePathway": "Biotechnology Research and Development",
+          "sourceKey": "medicaleditorwriter",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    },
+    {
+      "sourceKey": "exercisephysiologist",
+      "sourceTitle": "Exercise Physiologist",
+      "sourceAppearances": [
+        {
+          "sourceIndex": 68,
+          "sourceTitle": "Exercise Physiologist",
+          "sourcePathway": "Diagnostic Services",
+          "sourceKey": "exercisephysiologist",
+          "productionWave": "backlog",
+          "profileStatus": "not_started",
+          "reviewFlags": [],
+          "profileId": null
+        }
+      ],
+      "status": "reservation only; no long authoring begun"
+    }
+  ],
+  "excludedKnownPartialWork": [
+    "bioinformaticsscientist",
+    "geneticist"
+  ],
+  "scope": "Absent from initial24 and current20; parent reconciliation of unpushed work remains necessary. Preserve aliases; MLT/clinical laboratory technician and assistant title variants not silently merged.",
+  "batch": "next-20-2026-10-25",
+  "baseCommit": "0ac07adf260e3b0ecb7d4bcbfae827a1cc5be366",
+  "previousReviewPR": "https://github.com/xenophillus/health-careers-library/pull/18",
+  "inventoryAppearances": 192,
+  "inventoryExactTitles": 182,
+  "selectedExactTitles": 20
+}

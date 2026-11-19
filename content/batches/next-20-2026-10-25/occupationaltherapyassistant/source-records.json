@@ -1,0 +1,117 @@
+[
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-1",
+    "organizationTitle": "BLS — Occupational Therapy Assistants and Aides",
+    "url": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+    "claimSupported": "OTA-only May 2025 median and 2025–35 projection; settings and physical demands; aide distinction.",
+    "sections": [
+      4,
+      6,
+      9,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-2",
+    "organizationTitle": "O*NET — Occupational Therapy Assistants",
+    "url": "https://www.onetonline.org/link/summary/31-2011.00",
+    "claimSupported": "Treatment activities, observation, documentation, caregiver teaching and communication.",
+    "sections": [
+      2,
+      3,
+      5,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-3",
+    "organizationTitle": "AOTA — What is occupational therapy?",
+    "url": "https://www.aota.org/about/what-is-ot",
+    "claimSupported": "Everyday occupations, adaptive equipment, routines, and participation goals.",
+    "sections": [
+      1,
+      3,
+      5,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-4",
+    "organizationTitle": "AOTA — Find a School",
+    "url": "https://www.aota.org/education/find-a-school",
+    "claimSupported": "OTA associate and bachelor entry routes, accredited school resources, distinct OT preparation.",
+    "sections": [
+      7,
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-5",
+    "organizationTitle": "NBCOT — Get Certified",
+    "url": "https://www.nbcot.org/get-certified",
+    "claimSupported": "COTA certification process and distinction from licensure.",
+    "sections": [
+      8,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-6",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-5406",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_054_0000_article/065_054_0006_section/065_054_0006_k/",
+    "claimSupported": "Academic preparation, fieldwork and examination requirements.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-7",
+    "organizationTitle": "Kansas Legislature — K.S.A. 65-5402",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_054_0000_article/065_054_0002_section/065_054_0002_k/",
+    "claimSupported": "Assistant services under direction of occupational therapist.",
+    "sections": [
+      1,
+      8,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-occupationaltherapyassistant",
+    "sourceId": "occupationaltherapyassistant-8",
+    "organizationTitle": "AOTA — About AOTA",
+    "url": "https://www.aota.org/about",
+    "claimSupported": "Professional association, education and practice resources.",
+    "sections": [
+      10,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Official indexed primary-source text retrieved."
+  }
+]

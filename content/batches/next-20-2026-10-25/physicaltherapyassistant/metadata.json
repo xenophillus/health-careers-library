@@ -1,0 +1,17 @@
+{
+  "workingProfileId": "hcl-physicaltherapyassistant",
+  "title": "Physical Therapy Assistant",
+  "sourceTitle": "Physical Therapy Assistant",
+  "sourceKey": "physicaltherapyassistant",
+  "sourceIndices": [
+    37,
+    85
+  ],
+  "sourcePathways": [
+    "Therapeutic Services",
+    "Diagnostic Services"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact inventory title Physical Therapy Assistant preserved; professional name Physical Therapist Assistant explained in prose. Both source appearances37 and85 preserved."
+}

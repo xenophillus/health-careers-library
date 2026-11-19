@@ -1,0 +1,107 @@
+# Cardiovascular Technologist
+
+## Career Overview
+
+Cardiovascular technologists help a clinical team investigate and treat problems involving the heart and blood vessels. The title can cover different departments. A major example is the cardiovascular invasive specialist, who assists in a cardiac catheterization laboratory, often called a cath lab. A catheter is a thin tube a physician guides through a blood vessel to examine or treat a problem.
+
+This career combines patient contact with instruments, monitors, and precise teamwork. The technologist supplies measurements and technical support; the cardiologist makes the medical diagnosis and directs treatment. Noninvasive cardiovascular jobs use different tests and training, so the actual department matters when comparing positions. [Mayo Clinic career overview](https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/)
+
+## Duties and Responsibilities
+
+Before a procedure, a technologist checks the equipment, prepares supplies, and helps the patient understand what will happen. During catheterization, team assignments may include maintaining the sterile field, assisting the physician with equipment, or monitoring pressures and the heart's electrical activity. Those assignments require different actions but must stay coordinated.
+
+A change on a monitor must be communicated clearly, along with what the patient is doing and which part of the procedure is underway. Afterward, accurate records allow other clinicians to follow what happened. Equipment preparation and documentation are patient-care tasks, not merely work between cases. [O*NET occupational tasks](https://www.onetonline.org/link/summary/29-2031.00)
+
+## A Day in the Life
+
+An illustrative cath-lab shift begins with a team review of the scheduled cases and an equipment check. For one patient, the technologist prepares monitoring equipment while another team member prepares the sterile supplies. During the case, the technologist records measurements and promptly reports a change to the physician.
+
+After the patient leaves the room, the team completes its records and prepares for the next procedure. An urgent case may change the planned order. This example shows why a good shift depends on both individual concentration and reliable handoffs; it is not a fixed timetable for every hospital. [Mayo Clinic](https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/)
+
+## Work Environment and Schedule
+
+Hospitals are the largest employers in the broader cardiovascular technology field. Cath labs also operate within specialist cardiovascular services. The room brings technologists into close contact with physicians, nurses, patients, and substantial equipment.
+
+Hospital work may include evenings, weekends, or nights. A student who likes cardiac science should also consider whether a hospital schedule fits their preferences. The setting makes a difference: a scheduled outpatient service and a hospital accepting urgent cases do not organize their days identically. [BLS career overview](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm)
+
+## Skills, Knowledge, and Personal Qualities
+
+Understanding cardiac anatomy helps a technologist connect a measurement with the structure being examined. Equipment knowledge helps them recognize when a technical problem may be interfering with a signal. Sterile technique and radiation safety support the entire team.
+
+Communication must be brief enough to use during a procedure and specific enough to be useful. A patient may need a calm explanation, while a clinician needs a precise observation. Practice in science labs can reveal whether you enjoy combining careful measurements with communication. [Mayo Clinic](https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/)
+
+## Physical and Emotional Demands
+
+The work can involve long periods standing, helping position patients, and working close to invasive procedures. A cath lab also requires attention to blood exposure and radiation protection. Following local safety procedures is part of ordinary work, even when a case feels familiar.
+
+Emotionally, the challenge is to remain attentive when a patient is frightened or a condition changes quickly. Asking for clarification and speaking up about a concern are practical safety skills. [O*NET work context](https://www.onetonline.org/link/summary/29-2031.00)
+
+## Education and Training
+
+Associate-degree and certificate routes are common in cardiovascular technology, with supervised clinical experience connecting science courses to patient care. A student interested in invasive work should examine the program's actual clinical specialty rather than choose by the word “cardiovascular” alone.
+
+For a concrete example, Mayo Clinic's Minnesota Cardiovascular Invasive Specialist Program is a 21-month program. That is one institution's program length, not a universal route from high school. Its admission prerequisites and academic pathways must be considered separately. [BLS](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm); [Mayo program](https://college.mayo.edu/academics/health-sciences-education/cardiovascular-invasive-specialist-minnesota/)
+
+## Certification and Licensure
+
+Cardiovascular Credentialing International offers the Registered Cardiovascular Invasive Specialist, or RCIS, credential for cardiac-catheterization professionals. One eligibility pathway is graduation from a programmatically accredited invasive cardiovascular technology program; other pathways have different education and experience requirements. A high-school diploma alone does not establish RCIS eligibility. Certification and employer privileges are distinct from legal authority. [CCI RCIS](https://cci-online.org/credentials/registered-cardiovascular-invasive-specialist/)
+
+In Kansas, radiologic-technology duties require particular attention. K.S.A. 65-7303 establishes a license requirement subject to the act's exceptions, and 65-7304 lists exemptions, including specified supervised arrangements. An RCIS credential by itself does not resolve who may perform each radiologic task. [Kansas requirement](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/); [exceptions](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/)
+
+## Salary, Entry-Level Earnings, and Job Outlook
+
+The U.S. Bureau of Labor Statistics reports a **May 2025 national median annual wage of $74,310 for cardiovascular technologists and technicians together**. This is a broad occupational-group benchmark, not an invasive-specialist-only or Kansas starting salary. Half of workers in the measured group earned more and half earned less.
+
+BLS projects **4% employment growth from 2025 to 2035** for that same group. A new graduate should compare actual local job descriptions, required credentials, shift expectations, and posted compensation instead of treating the national median as an offer. [BLS pay and outlook](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm)
+
+## Specialties and Career Advancement
+
+With further training, cardiovascular professionals may build expertise in particular procedures or patient populations. Electrophysiology, which concerns the heart's electrical system, has its own CCI credential, RCES. It should not be treated as an automatic extension of every cath-lab job.
+
+Other directions include teaching, equipment education, or leading a team. Advancement involves demonstrating competence in the new responsibilities, whether those responsibilities concern patients, equipment, or staff. [CCI credentials](https://cci-online.org/credentials/get-credentialed/); [Mayo Clinic](https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/)
+
+## Benefits and Challenges of the Career
+
+One attraction is seeing how a measurement or carefully prepared instrument contributes to care during the same procedure. People who enjoy both hands-on work and physiology may find that combination satisfying.
+
+The tradeoff is that technical interest must come with patience for repeated checks and willingness to function as part of a coordinated team. A dramatic procedure does not make the quieter responsibilities less important. Consider whether you would value preparing the room and completing records as much as observing the intervention. [O*NET](https://www.onetonline.org/link/summary/29-2031.00)
+
+## Career Connections and Related Occupations
+
+An EKG technician concentrates on recording the heart's electrical activity. A cardiac sonographer uses ultrasound to examine heart structures and motion. An invasive cardiovascular technologist supports catheter-based procedures. These careers share cardiac science, but their equipment and training are not interchangeable.
+
+Radiologic technologists and nurses may also work in a cath lab, bringing different education and responsibilities. Comparing the specific position is more useful than assuming everyone in the room holds the same credential. [BLS distinctions](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm); [CCI credential categories](https://cci-online.org/credentials/get-credentialed/)
+
+## Could This Career Interest You?
+
+Would you enjoy following a changing monitor while remaining aware of the patient and the rest of the team? How do you respond when a careful plan must change quickly? Are you interested in understanding why a measurement changes, rather than simply copying its value?
+
+When speaking with a training program, ask which invasive procedures students observe and practice under supervision. That conversation can help you picture the actual work behind the job title. These questions are invitations to explore, not a test of who belongs in healthcare. [O*NET duties](https://www.onetonline.org/link/summary/29-2031.00); [Mayo program](https://college.mayo.edu/academics/health-sciences-education/cardiovascular-invasive-specialist-minnesota/)
+
+## Professional Associations
+
+CCI's professional-society directory connects cardiovascular workers with organizations such as the Alliance of Cardiovascular Professionals and the Society for Cardiovascular Angiography & Interventions. Their education and professional communities can help students discover how specialties differ.
+
+CCI itself is a credentialing organization. Joining an association, completing an education program, earning a credential, and obtaining any required license are separate steps. [CCI professional organizations](https://cci-online.org/professional-societies-organizations/)
+
+## Bibliography & Sources
+
+1. [BLS — Cardiovascular Technologists and Technicians](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm). National May 2025 group wage, 2025–2035 outlook, education, settings and role distinctions.
+
+2. [Mayo Clinic — Cardiovascular Invasive Specialist](https://college.mayo.edu/academics/explore-health-care-careers/careers-a-z/cardiovascular-invasive-specialist/). Invasive role, team duties, skills, representative workflow, and advancement.
+
+3. [O*NET — Cardiovascular Technologists and Technicians](https://www.onetonline.org/link/summary/29-2031.00). Occupational-group tasks, work context, and professional responsibilities.
+
+4. [Mayo Clinic — Minnesota program](https://college.mayo.edu/academics/health-sciences-education/cardiovascular-invasive-specialist-minnesota/). Named 21-month program example, clinical preparation and accreditation.
+
+5. [CCI — RCIS](https://cci-online.org/credentials/registered-cardiovascular-invasive-specialist/). RCIS specialty and accredited-program eligibility pathway.
+
+6. [Kansas Legislature — K.S.A. 65-7303](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/). Radiologic-technology license requirement subject to statutory exceptions.
+
+7. [Kansas Legislature — K.S.A. 65-7304](https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0004_section/065_073_0004_k/). Exemptions, including specified supervised arrangements.
+
+8. [CCI — Credential categories](https://cci-online.org/credentials/get-credentialed/). Distinct invasive, electrophysiology and other cardiovascular credentials.
+
+9. [CCI — Professional societies](https://cci-online.org/professional-societies-organizations/). Professional communities and distinction from credentialing.
+
+Sources reviewed October 25, 2026.

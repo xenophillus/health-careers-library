@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-electrocardiographicecgorekgtechnician",
+  "title": "Electrocardiographic (ECG or EKG) Technician",
+  "sourceTitle": "Electrocardiographic (ECG or EKG) Technician",
+  "sourceKey": "electrocardiographicecgorekgtechnician",
+  "sourceIndices": [
+    66
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "ECG and EKG retained as equivalent abbreviations. Focus on electrocardiographic recording; no silent merger with invasive cardiovascular technologist or cardiac sonographer.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Separate prepared draft; no canonical or runtime writes."
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-1",
+    "organizationTitle": "HHS \u2014 Summary of the HIPAA Privacy Rule",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+    "claimSupported": "Covered-entity privacy-official designation, policies, training, and organizational responsibilities.",
+    "sections": [
+      1,
+      2,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-2",
+    "organizationTitle": "HHS \u2014 Breach Notification Rule",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html",
+    "claimSupported": "Incident assessment, documentation, and breach-notification responsibilities. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      2,
+      3,
+      6,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-3",
+    "organizationTitle": "HHS \u2014 Summary of the HIPAA Security Rule",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html",
+    "claimSupported": "Protection of electronic health information and administrative, physical, and technical safeguards.",
+    "sections": [
+      5,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-4",
+    "organizationTitle": "AHIMA \u2014 Certified in Healthcare Privacy and Security",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/chps/",
+    "claimSupported": "Credential eligibility examples, privacy/security program roles, and advanced career directions.",
+    "sections": [
+      4,
+      7,
+      8,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-5",
+    "organizationTitle": "HHS \u2014 Your Rights Under HIPAA",
+    "url": "https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html",
+    "claimSupported": "Patient rights, protected information, and appropriate access and sharing.",
+    "sections": [
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-6",
+    "organizationTitle": "AHIMA \u2014 Privacy and Security",
+    "url": "https://www.ahima.org/education-events/privacy-and-security/",
+    "claimSupported": "Professional privacy/security education and changing information-management responsibilities.",
+    "sections": [
+      5,
+      12,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-informationprivacyofficer",
+    "sourceId": "informationprivacyofficer-7",
+    "organizationTitle": "AHIMA \u2014 Professional Organization",
+    "url": "https://www.ahima.org/",
+    "claimSupported": "Career resources and professional education for health information workers.",
+    "sections": [
+      9,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  }
+]

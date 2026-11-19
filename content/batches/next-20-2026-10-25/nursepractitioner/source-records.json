@@ -1,0 +1,91 @@
+[
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-1",
+    "organizationTitle": "BLS \u2014 Nurse Anesthetists, Nurse Midwives, and Nurse Practitioners",
+    "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+    "claimSupported": "NP-specific May 2025 wage and 2025\u201335 projection; settings, scheduling and physical demands.",
+    "sections": [
+      4,
+      6,
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-2",
+    "organizationTitle": "O*NET \u2014 Nurse Practitioners",
+    "url": "https://www.onetonline.org/link/summary/29-1171.00",
+    "claimSupported": "Clinical duties, decision-making and communication.",
+    "sections": [
+      2,
+      3,
+      5,
+      11,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-3",
+    "organizationTitle": "AANP \u2014 Scope of Practice for Nurse Practitioners",
+    "url": "https://www.aanp.org/advocacy/advocacy-resource/position-statements/scope-of-practice-for-nurse-practitioners",
+    "claimSupported": "Role, population focuses, consultation and leadership/education/research roles.",
+    "sections": [
+      1,
+      2,
+      10,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-4",
+    "organizationTitle": "AANP \u2014 Planning Your Nurse Practitioner Education",
+    "url": "https://www.aanp.org/student-resources-2/planning-your-np-education",
+    "claimSupported": "Program selection, graduate degree choices and student resources.",
+    "sections": [
+      7,
+      13,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-5",
+    "organizationTitle": "Kansas Legislature \u2014 K.S.A. 65-1130",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_011_0000_article/065_011_0030_section/065_011_0030_k/",
+    "claimSupported": "APRN licensure and initial-licensure national certification provision.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read; bounded claims checked"
+  },
+  {
+    "workingProfileId": "hcl-nursepractitioner",
+    "sourceId": "nursepractitioner-6",
+    "organizationTitle": "AANP \u2014 Standards of Practice for Nurse Practitioners",
+    "url": "https://www.aanp.org/advocacy/advocacy-resource/position-statements/standards-of-practice-for-nurse-practitioners",
+    "claimSupported": "Shared care planning, follow-up, patient education, documentation and collaborative responsibilities.",
+    "sections": [
+      2,
+      3,
+      5,
+      10,
+      11,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved and read."
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R1",
+    "organizationTitle": "BLS — Physical Therapist Assistants and Aides",
+    "url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+    "claimSupported": "PTA duties, settings, education and demands; May2025 U.S. PTA median$68,380; PTA-specific2025–2035 growth23%.",
+    "sections": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9,
+      11,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R2",
+    "organizationTitle": "O*NET — Physical Therapist Assistants",
+    "url": "https://www.onetonline.org/link/summary/31-2021.00",
+    "claimSupported": "Treatment tasks, observation, documentation and occupational skills.",
+    "sections": [
+      2,
+      5,
+      6,
+      10,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R3",
+    "organizationTitle": "APTA — Becoming a PTA",
+    "url": "https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pta",
+    "claimSupported": "Professional title, accredited associate-degree pathway, typical program duration and role distinction.",
+    "sections": [
+      1,
+      7,
+      10,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R4",
+    "organizationTitle": "Kansas Legislature — K.S.A.65-2906",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_029_0000_article/065_029_0006_section/065_029_0006_k/",
+    "claimSupported": "Kansas PTA certificate education, examination, legal-age and fee qualifications.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R5",
+    "organizationTitle": "Kansas Legislature — K.S.A.65-2913",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_029_0000_article/065_029_0013_section/065_029_0013_k/",
+    "claimSupported": "Protected PTA title and authorization provisions.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R6",
+    "organizationTitle": "Kansas Board of Healing Arts — PTA",
+    "url": "https://www.ksbha.ks.gov/professions/physical-therapy-assistant-p-t-a",
+    "claimSupported": "State profession information and application authority.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R7",
+    "organizationTitle": "APTA — PTA resources",
+    "url": "https://www.apta.org/for-ptas",
+    "claimSupported": "PTA professional community and learning resources.",
+    "sections": [
+      10,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-physicaltherapyassistant",
+    "sourceId": "R8",
+    "organizationTitle": "Author synthesis grounded in O*NET PTA duties",
+    "url": "https://www.onetonline.org/link/summary/31-2021.00",
+    "claimSupported": "Illustrative clinic workday, tradeoffs and reflection questions synthesized from documented tasks; not an observed person or source quotation.",
+    "sections": [
+      3,
+      5,
+      11,
+      13,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Author-created illustrative/reflection synthesis, grounded in linked primary occupational description; independent editorial review pending"
+  }
+]

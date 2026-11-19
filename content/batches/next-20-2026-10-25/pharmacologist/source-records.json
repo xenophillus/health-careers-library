@@ -1,0 +1,102 @@
+[
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R1",
+    "organizationTitle": "ASPET — About Pharmacology",
+    "url": "https://www.aspet.org/aspet/education-careers/about-pharmacology",
+    "claimSupported": "Drug action and biological response; distinction between pharmacology and pharmacy.",
+    "sections": [
+      1,
+      2,
+      5,
+      8,
+      10,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R2",
+    "organizationTitle": "O*NET — Medical Scientists, Except Epidemiologists",
+    "url": "https://www.onetonline.org/link/summary/19-1042.00",
+    "claimSupported": "Broad biomedical research duties and work context; Clinical Pharmacologist among reported titles.",
+    "sections": [
+      2,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R3",
+    "organizationTitle": "BLS — Medical Scientists",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+    "claimSupported": "Broad research education and work context; May2025 U.S. median$103,410 for medical scientists except epidemiologists.",
+    "sections": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      11,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R4",
+    "organizationTitle": "UT Health San Antonio — Physiology and Pharmacology Future Careers",
+    "url": "https://lsom.uthscsa.edu/physiology/education/phd/future-careers/",
+    "claimSupported": "Example of PhD research training and common postdoctoral routes; not universal timetable.",
+    "sections": [
+      7,
+      10,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R5",
+    "organizationTitle": "ASPET — Membership and professional community",
+    "url": "https://www.aspet.org/aspet/membership-community/aspet-membership/apply-for-membership",
+    "claimSupported": "Scientific meetings, divisions and professional development.",
+    "sections": [
+      10,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-pharmacologist",
+    "sourceId": "R6",
+    "organizationTitle": "Author synthesis grounded in ASPET pharmacology description",
+    "url": "https://www.aspet.org/aspet/education-careers/about-pharmacology",
+    "claimSupported": "Constructed experiment-day example, interpretation and reflection prompts based on drug-action research; not a reported study or worker.",
+    "sections": [
+      3,
+      5,
+      11,
+      13,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Author-created illustrative/reflection synthesis, grounded in linked primary occupational description; independent editorial review pending"
+  }
+]

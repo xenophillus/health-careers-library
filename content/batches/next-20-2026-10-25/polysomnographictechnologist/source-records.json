@@ -1,0 +1,94 @@
+[
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-1",
+    "organizationTitle": "AAST \u2014 Scope of Practice",
+    "url": "https://aastweb.org/career/scope-of-practice/",
+    "claimSupported": "Sleep testing, physician-directed practice, patient education, and treatment-support roles. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-2",
+    "organizationTitle": "AAST \u2014 Job Descriptions",
+    "url": "https://aastweb.org/career/job-descriptions/",
+    "claimSupported": "Different levels of sleep-technology responsibility and supervisory work.",
+    "sections": [
+      4,
+      6,
+      10,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-3",
+    "organizationTitle": "AAST \u2014 Core Competencies",
+    "url": "https://aastweb.org/career/core-competencies/",
+    "claimSupported": "Technical performance and patient-care competencies. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      5,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-4",
+    "organizationTitle": "BRPT \u2014 RPSGT Eligibility Pathways",
+    "url": "https://brpt.org/rpsgt/eligibility/",
+    "claimSupported": "Accredited-program and alternative eligibility routes, documentation, life support, and state-requirement resources.",
+    "sections": [
+      7,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-5",
+    "organizationTitle": "AAST \u2014 Career Center",
+    "url": "https://careercenter.aastweb.org/",
+    "claimSupported": "Current employer-posting resource for comparing sleep-technology job responsibilities and compensation.",
+    "sections": [
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-6",
+    "organizationTitle": "AAST \u2014 About",
+    "url": "https://aastweb.org/about/",
+    "claimSupported": "Professional association and educational mission.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-polysomnographictechnologist",
+    "sourceId": "polysomnographictechnologist-7",
+    "organizationTitle": "BRPT \u2014 RPSGT",
+    "url": "https://brpt.org/rpsgt/",
+    "claimSupported": "Role of the polysomnographic technologist certification board.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  }
+]

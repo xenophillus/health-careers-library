@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-exercisephysiologist",
+  "title": "Exercise Physiologist",
+  "sourceTitle": "Exercise Physiologist",
+  "sourceKey": "exercisephysiologist",
+  "sourceIndices": [
+    68
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact Exercise Physiologist title. Clinical and research settings separated; ACSM credential populations distinguished."
+}

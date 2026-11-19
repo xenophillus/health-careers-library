@@ -1,0 +1,105 @@
+# Electrocardiographic (ECG or EKG) Technician
+
+## Career Overview
+
+An electrocardiographic technician records the heart's electrical activity so a clinician can evaluate its rate, rhythm, and other features. ECG and EKG are two abbreviations for the same test. Small electrodes attached to the patient's skin detect electrical signals; the recording gives the healthcare team information about how the heart is functioning.
+
+The technician's contribution is an accurate, clearly identified recording and careful patient preparation. Producing the tracing is different from making the final medical diagnosis. A clinician interprets it alongside symptoms, history, and sometimes other tests. [MedlinePlus ECG](https://medlineplus.gov/lab-tests/electrocardiogram/)
+
+## Duties and Responsibilities
+
+The technician prepares the equipment, confirms the patient and requested test, explains the procedure, and positions the electrodes. They check that the recording is usable and send the completed test to the appropriate clinician. Depending on training and the position, duties may also include preparing patients for ambulatory monitors or assisting with stress tests.
+
+Electrode placement and signal quality matter. Patient movement or shivering can affect a tracing, so a technician must distinguish a recording problem from something that needs the clinical team's attention. A machine's printed interpretation does not replace the clinician's review. [NHA role description](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)); [MedlinePlus procedure](https://medlineplus.gov/ency/article/003868.htm)
+
+## A Day in the Life
+
+In an illustrative clinic morning, a technician checks supplies and prepares the ECG equipment. A patient arrives uncertain about whether the test will hurt. The technician explains the recording, preserves the patient's privacy while preparing the skin, and helps them settle into position.
+
+When movement disrupts the trace, the technician checks the connections and helps the patient relax before obtaining a usable recording. After confirming the identifying information, the technician forwards the test for interpretation and prepares for the next patient. Another appointment may involve explaining a portable monitor. This is an example of a workflow, not a promised daily schedule. [NHA duties](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)); [MedlinePlus](https://medlineplus.gov/ency/article/003868.htm)
+
+## Work Environment and Schedule
+
+EKG technicians work within cardiac diagnostic services in hospitals, medical offices, and other care settings. Hospital assignments can involve taking equipment to patients rather than having everyone visit one testing room. Scheduled clinics and around-the-clock hospital services have different staffing needs.
+
+Most cardiovascular technologists and technicians work full time, and hospital roles may include evenings, nights, or weekends. Ask whether a position is dedicated to ECGs or combines ECG work with other support duties; the job title alone may not describe the entire shift. [BLS settings and schedule](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm)
+
+## Skills, Knowledge, and Personal Qualities
+
+The scientific foundation includes cardiac anatomy and basic electrical activity. The practical skills include accurate electrode placement, checking equipment, protecting patient information, and recognizing when a recording needs attention.
+
+Communication is especially important because the interaction may be brief. A technician needs to explain clearly without alarming a patient or promising a result. Careful observation also matters: the patient's comfort, the appearance of the tracing, and the condition of the leads all provide different information. [CCI CCT examination scope](https://cci-online.org/credentials/certified-cardiographic-technician/); [O*NET tasks](https://www.onetonline.org/link/summary/29-2031.00)
+
+## Physical and Emotional Demands
+
+Preparing a patient requires working at close range, reaching to place electrodes, and sometimes assisting with positioning. Infection-prevention practices apply to equipment and patient contact. Respectful explanations and draping help preserve privacy when electrodes must be placed on the chest.
+
+A short test can occur during a stressful moment for the patient. The technician must remain calm, report concerns through the care team's procedures, and avoid guessing aloud about a diagnosis. It is possible to be reassuring about the process without claiming that the results will be normal. [MedlinePlus procedure](https://medlineplus.gov/ency/article/003868.htm); [O*NET work context](https://www.onetonline.org/link/summary/29-2031.00)
+
+## Education and Training
+
+Some EKG positions accept a high-school diploma or equivalent plus relevant training. Other employers seek a formal certificate or previous healthcare experience. Training should include supervised practice with actual recordings and patient communication, not just memorizing a diagram of the heart.
+
+A program's advertised length does not establish certification eligibility. For example, NHA's CET education route includes recent EKG education and evidence of successfully performing at least ten EKGs on live individuals, along with its education eligibility conditions. Students should check how supervised practical experience is arranged. [BLS education](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm); [NHA eligibility](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet))
+
+## Certification and Licensure
+
+Two credentials a student may encounter are CCI's Certified Cardiographic Technician (CCT) and NHA's Certified EKG Technician (CET). CCT covers ECG, Holter monitoring, and stress testing. CCI requires a high-school diploma or equivalent and an eligible education or work pathway with supporting documentation; its training-program pathway includes students or graduates of cardiovascular or allied-health programs.
+
+These are professional certifications, not a single nationwide government EKG license. An employer may specify which credential it accepts and what tasks the employee may perform. For a Kansas position, check the duties and supervision described by the employer rather than assuming that either credential authorizes every cardiac procedure. [CCI CCT](https://cci-online.org/credentials/certified-cardiographic-technician/); [NHA CET](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet))
+
+## Salary, Entry-Level Earnings, and Job Outlook
+
+The **May 2025 U.S. median annual wage of $74,310** reported by BLS applies to **cardiovascular technologists and technicians as a whole**, a group that includes EKG technicians and other cardiovascular roles with different preparation and responsibilities. It is not an EKG-only estimate and should not be used as an expected first-job salary.
+
+BLS projects **4% growth from 2025 to 2035** for the same broad group. To compare entry opportunities, examine local EKG job postings and whether the advertised pay includes additional duties, experience requirements, or shift differentials. [BLS group statistics](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm)
+
+## Specialties and Career Advancement
+
+With additional training, a technician may work with ambulatory monitoring or exercise-testing services. A portable monitor records over a longer period than a brief office ECG, so preparing and instructing the patient becomes particularly important.
+
+Other cardiovascular careers require separate preparation. CCI offers a distinct rhythm-analysis credential as well as credentials for invasive and ultrasound work. Experience recording ECGs can provide useful context, but it does not automatically qualify someone for those other roles. [MedlinePlus monitoring](https://medlineplus.gov/lab-tests/electrocardiogram/); [CCI credential categories](https://cci-online.org/credentials/get-credentialed/)
+
+## Benefits and Challenges of the Career
+
+This work offers a direct way to contribute to patient care through a focused technical skill. The technician can help a nervous person complete an unfamiliar test and provide the clinician with a useful recording.
+
+Repetition is part of the challenge. Repeating the same test does not mean that patient identity, electrode placement, or signal checks become optional. Someone who enjoys steady improvement in a precise procedure may find this satisfying; someone who wants a completely different task every few minutes should investigate the actual workflow carefully. [O*NET duties and work context](https://www.onetonline.org/link/summary/29-2031.00)
+
+## Career Connections and Related Occupations
+
+An EKG records electrical activity; an echocardiogram uses ultrasound to produce images of the heart. Both help cardiac care, but they require different equipment and skills. Invasive cardiovascular technologists assist with catheter-based procedures rather than simply recording an office ECG.
+
+Medical assistants or other healthcare workers may also perform ECGs as one part of a broader job. A dedicated EKG position concentrates more heavily on cardiac testing. Compare the duties and required education instead of assuming that similarly named jobs are interchangeable. [BLS role distinctions](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm); [CCI credentials](https://cci-online.org/credentials/get-credentialed/)
+
+## Could This Career Interest You?
+
+Would you enjoy combining a repeated technical procedure with a new patient interaction each time? Are you willing to pause and troubleshoot a poor recording instead of accepting the first printout? How comfortable are you explaining a procedure while respecting someone's privacy?
+
+A useful career conversation is to ask how technicians learn the difference between recording artifacts and findings that need immediate attention. That question connects classroom science to the responsibility of working with real patients. [O*NET](https://www.onetonline.org/link/summary/29-2031.00); [MedlinePlus procedure](https://medlineplus.gov/ency/article/003868.htm)
+
+## Professional Associations
+
+The Alliance of Cardiovascular Professionals offers education and professional connections for allied-health workers in cardiac care. Its resources can help a student see how ECG work fits into the wider cardiovascular team.
+
+CCI and NHA publish the requirements for their respective credentials. These organizations serve different functions: professional community and continuing learning are not the same thing as meeting the eligibility rules for a certification examination. [ACVP](https://www.acp-online.org/); [CCI](https://cci-online.org/credentials/certified-cardiographic-technician/); [NHA](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet))
+
+## Bibliography & Sources
+
+1. [MedlinePlus — Electrocardiogram medical test](https://medlineplus.gov/lab-tests/electrocardiogram/). Electrical recording, clinician interpretation, and longer-term monitoring.
+
+2. [MedlinePlus — Electrocardiogram procedure](https://medlineplus.gov/ency/article/003868.htm). Patient preparation, movement interference, electrodes and recording process.
+
+3. [NHA — Certified EKG Technician](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)). Occupational duties and CET eligibility; education and live-recording experience.
+
+4. [BLS — Cardiovascular Technologists and Technicians](https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm). Settings, education, related roles, May 2025 broad-group U.S. wage and 2025–2035 outlook.
+
+5. [CCI — Certified Cardiographic Technician](https://cci-online.org/credentials/certified-cardiographic-technician/). CCT scope and eligibility pathways; credentialing purpose.
+
+6. [O*NET — Cardiovascular Technologists and Technicians](https://www.onetonline.org/link/summary/29-2031.00). Recording duties, patient contact, precision, and work context.
+
+7. [CCI — Credential categories](https://cci-online.org/credentials/get-credentialed/). Separate cardiac credentials and role distinctions.
+
+8. [Alliance of Cardiovascular Professionals](https://www.acp-online.org/). Allied cardiovascular professional association and education.
+
+Sources reviewed October 25, 2026.

@@ -1,0 +1,105 @@
+[
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R1",
+    "organizationTitle": "BLS — Exercise Physiologists",
+    "url": "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm",
+    "claimSupported": "Duties, settings and education; May2025 U.S. median$59,460;2025–2035 growth13% and approximately1,400 annual openings.",
+    "sections": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R2",
+    "organizationTitle": "O*NET — Exercise Physiologists",
+    "url": "https://www.onetonline.org/link/summary/29-1128.00",
+    "claimSupported": "Assessment, exercise programming, monitoring, records and occupational skills.",
+    "sections": [
+      2,
+      5,
+      6,
+      10,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R3",
+    "organizationTitle": "ACSM — Clinical Exercise Physiologist",
+    "url": "https://acsm.org/certification/get-certified/clinical-exercise-physiologist/",
+    "claimSupported": "Current CEP degree/clinical-hour and life-support qualifications; application and exam; future-accreditation notice.",
+    "sections": [
+      7,
+      8,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R4",
+    "organizationTitle": "ACSM — Get Certified",
+    "url": "https://acsm.org/certification/get-certified/",
+    "claimSupported": "Distinction between EP and CEP populations and credential roles.",
+    "sections": [
+      1,
+      7,
+      8,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R5",
+    "organizationTitle": "ACSM — CEP Exam Content Outline",
+    "url": "https://acsm.org/wp-content/uploads/2024/12/ACSM-Certified-Clinical-Exercise-Physiologist-Exam-Content-Outline.pdf",
+    "claimSupported": "Clinical assessment, prescribed exercise and patient education context.",
+    "sections": [
+      2,
+      5,
+      6,
+      8,
+      10,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-exercisephysiologist",
+    "sourceId": "R6",
+    "organizationTitle": "Author synthesis grounded in O*NET Exercise Physiologists",
+    "url": "https://www.onetonline.org/link/summary/29-1128.00",
+    "claimSupported": "Constructed clinical/research day, practical tradeoffs and reflection prompts based on documented tasks; not an observed case.",
+    "sections": [
+      3,
+      5,
+      11,
+      13,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Author-created illustrative/reflection synthesis, grounded in linked primary occupational description; independent editorial review pending"
+  }
+]

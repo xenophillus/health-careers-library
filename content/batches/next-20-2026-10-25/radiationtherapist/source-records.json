@@ -1,0 +1,127 @@
+[
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R1",
+    "organizationTitle": "BLS — Radiation Therapists",
+    "url": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+    "claimSupported": "Occupation, settings, preparation, demands; May2025 U.S. median$105,310 and2025–2035 growth3%, approximately700 annual openings.",
+    "sections": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R2",
+    "organizationTitle": "O*NET — Radiation Therapists",
+    "url": "https://www.onetonline.org/link/summary/29-1124.00",
+    "claimSupported": "Treatment delivery, positioning, checks, documentation and patient communication.",
+    "sections": [
+      2,
+      5,
+      6,
+      10,
+      12,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R3",
+    "organizationTitle": "ARRT — Radiation Therapy",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/credential-options/radiation-therapy",
+    "claimSupported": "Radiation Therapy credential uses primary eligibility pathway.",
+    "sections": [
+      7,
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R4",
+    "organizationTitle": "ARRT — Primary Requirements",
+    "url": "https://www.arrt.org/pages/earn-arrt-credentials/initial-requirements/primary-requirements",
+    "claimSupported": "Education, ethics and examination; associate degree or higher and approved discipline program.",
+    "sections": [
+      7,
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R5",
+    "organizationTitle": "Kansas Legislature — K.S.A.65-7303",
+    "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+    "claimSupported": "State practice authorization, prescription condition and protected radiation-therapist title.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R6",
+    "organizationTitle": "Kansas Legislature — K.S.A.65-7305",
+    "url": "https://www.kslegislature.gov/laws/065_000_0000_chapter/065_073_0000_article/065_073_0005_section/065_073_0005_k",
+    "claimSupported": "State application education/examination qualifications.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R7",
+    "organizationTitle": "ASRT — Careers in Radiologic Technology",
+    "url": "https://www.asrt.org/main/career-center/careers-in-radiologic-technology",
+    "claimSupported": "Radiation therapy and imaging role distinctions; professional education resources.",
+    "sections": [
+      1,
+      7,
+      10,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-radiationtherapist",
+    "sourceId": "R8",
+    "organizationTitle": "Author synthesis grounded in O*NET Radiation Therapists",
+    "url": "https://www.onetonline.org/link/summary/29-1124.00",
+    "claimSupported": "Constructed treatment-day example, practical tradeoffs and reflection questions; not an observed worker or quoted account.",
+    "sections": [
+      3,
+      5,
+      11,
+      13,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Author-created illustrative/reflection synthesis, grounded in linked primary occupational description; independent editorial review pending"
+  }
+]

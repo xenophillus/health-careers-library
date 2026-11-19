@@ -1,0 +1,12 @@
+{
+  "workingProfileId": "hcl-physicianmddo",
+  "title": "Physician (MD/DO)",
+  "sourceKey": "physicianmddo",
+  "sourceIndices": [
+    38
+  ],
+  "sourceTitle": "Physician (MD/DO)",
+  "sourcePathway": "Therapeutic Services",
+  "reviewDate": "2026-10-25",
+  "mappingStatus": "Exact inventory title; no other source label merged."
+}

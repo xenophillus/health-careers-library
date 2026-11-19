@@ -1,0 +1,98 @@
+[
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-1",
+    "organizationTitle": "AHIMA \u2014 Registered Health Information Administrator",
+    "url": "https://www.ahima.org/certification-careers/certifications-overview/rhia/",
+    "claimSupported": "HIM responsibilities, settings, professional certification, and established academic eligibility routes.",
+    "sections": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-2",
+    "organizationTitle": "O*NET \u2014 Medical and Health Services Managers",
+    "url": "https://www.onetonline.org/link/summary/11-9111.00",
+    "claimSupported": "Healthcare management tasks involving people, operations, coordination, and improvement. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      3,
+      5,
+      6,
+      10,
+      11,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-3",
+    "organizationTitle": "CAHIIM \u2014 Student Resources",
+    "url": "https://www.cahiim.org/students/",
+    "claimSupported": "Programmatic accreditation, educational quality, and the accredited-program directory.",
+    "sections": [
+      7,
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-4",
+    "organizationTitle": "BLS \u2014 Medical and Health Services Managers",
+    "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+    "claimSupported": "Health information management within the broader occupation; U.S. May 2025 median and 2025\u201335 outlook.",
+    "sections": [
+      9,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-5",
+    "organizationTitle": "AHIMA \u2014 Privacy and Security",
+    "url": "https://www.ahima.org/education-events/privacy-and-security/",
+    "claimSupported": "Health information responsibilities for appropriate use and protection of patient information.",
+    "sections": [
+      1,
+      5,
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-6",
+    "organizationTitle": "O*NET \u2014 Medical Records Specialists",
+    "url": "https://www.onetonline.org/link/summary/29-2072.00",
+    "claimSupported": "Related record-maintenance and coding responsibilities.",
+    "sections": [
+      12
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-healthinformationadministrator",
+    "sourceId": "healthinformationadministrator-7",
+    "organizationTitle": "AHIMA \u2014 Professional Organization",
+    "url": "https://www.ahima.org/",
+    "claimSupported": "Professional education, certification, and resources for health information work.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  }
+]

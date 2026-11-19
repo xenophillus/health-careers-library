@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-pharmacologist",
+  "title": "Pharmacologist",
+  "sourceTitle": "Pharmacologist",
+  "sourceKey": "pharmacologist",
+  "sourceIndices": [
+    183
+  ],
+  "sourcePathways": [
+    "Biotechnology Research and Development"
+  ],
+  "status": "draft",
+  "reviewDate": "2026-10-25",
+  "mapping": "Exact Pharmacologist inventory title; general drug-action research, not merged with separate Clinical Pharmacologist or Pharmaceutical Scientist labels. Broad Medical Scientists wage used only as context."
+}

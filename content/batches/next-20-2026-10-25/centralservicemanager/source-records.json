@@ -1,0 +1,108 @@
+[
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-1",
+    "organizationTitle": "HSPA \u2014 What Is Sterile Processing",
+    "url": "https://myhspa.org/about/what-is-sterile-processing/",
+    "claimSupported": "Instrument preparation, distribution, and collaboration with clinical departments. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      1,
+      3,
+      12,
+      13
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-2",
+    "organizationTitle": "HSPA \u2014 Certified Healthcare Leader",
+    "url": "https://myhspa.org/certification/certification-overview/certified-healthcare-leader-chl/",
+    "claimSupported": "Management responsibilities for staffing, reporting, compliance, finances, and communication.",
+    "sections": [
+      2,
+      5,
+      10
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-3",
+    "organizationTitle": "CDC \u2014 Sterilizing Practices",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/sterilizing-practices.html",
+    "claimSupported": "Central processing organization, staff competence, quality controls, and safe instrument preparation. Sections 3 and 13, when mapped, are author-created examples/reflection grounded in these duties, not a source-authored assessment or worker interview.",
+    "sections": [
+      3,
+      4,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-4",
+    "organizationTitle": "CDC \u2014 Disinfection and Sterilization Introduction",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-terms.html",
+    "claimSupported": "Patient-safety purpose and selection of processing based on intended device use.",
+    "sections": [
+      1,
+      6,
+      11
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-5",
+    "organizationTitle": "HSPA \u2014 Training Courses",
+    "url": "https://myhspa.org/education/training-courses/",
+    "claimSupported": "Distinct technical and leadership preparation and optional exam-preparation courses.",
+    "sections": [
+      7
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-6",
+    "organizationTitle": "HSPA \u2014 CHL Eligibility Updates",
+    "url": "https://myhspa.org/certified-healthcare-leader-chl-pilot-exam/",
+    "claimSupported": "Current October 2026 CRCST prerequisite and experience-or-degree eligibility options.",
+    "sections": [
+      8
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-7",
+    "organizationTitle": "HSPA \u2014 Career Center",
+    "url": "https://myhspa.org/resources/career-center/",
+    "claimSupported": "Sterile-processing job-search resource for comparing actual role scope and compensation.",
+    "sections": [
+      9
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  },
+  {
+    "workingProfileId": "hcl-centralservicemanager",
+    "sourceId": "centralservicemanager-8",
+    "organizationTitle": "HSPA \u2014 Who We Are",
+    "url": "https://myhspa.org/about/who-we-are/",
+    "claimSupported": "Professional development, education, certification, and the association mission.",
+    "sections": [
+      14
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-source page retrieved and claim scope checked by author; independent review pending."
+  }
+]

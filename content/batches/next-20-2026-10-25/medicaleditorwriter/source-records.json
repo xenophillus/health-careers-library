@@ -1,0 +1,122 @@
+[
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R1",
+    "organizationTitle": "AMWA — Ultimate Guide to Becoming a Medical Writer",
+    "url": "https://info.amwa.org/ultimate-guide-to-becoming-a-medical-writer",
+    "claimSupported": "Medical communication roles, documents, education backgrounds, portfolio and employment arrangements.",
+    "sections": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      10,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R2",
+    "organizationTitle": "AMWA — A Comprehensive Guide to Medical Editing",
+    "url": "https://info.amwa.org/a-comprehensive-guide-to-medical-editing",
+    "claimSupported": "Editing tasks, skills and distinction from writing; professional credential context.",
+    "sections": [
+      1,
+      2,
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R3",
+    "organizationTitle": "BLS — Technical Writers",
+    "url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm",
+    "claimSupported": "Broad writing occupation: May2025 U.S. median$90,390, working conditions and collaboration.",
+    "sections": [
+      4,
+      5,
+      6,
+      9,
+      11,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R4",
+    "organizationTitle": "BLS — Editors",
+    "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm",
+    "claimSupported": "Broad editing occupation: May2025 U.S. median$77,920, duties and working conditions.",
+    "sections": [
+      2,
+      4,
+      5,
+      6,
+      9,
+      11,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R5",
+    "organizationTitle": "AMWA — Medical-writing certification",
+    "url": "https://blog.amwa.org/how-medical-writing-certification-can-advance-your-career",
+    "claimSupported": "MWC professional certification and eligibility distinction from introductory learning.",
+    "sections": [
+      8,
+      14,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary source retrieved in browser; author checked relevant text; independent review pending"
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R6",
+    "organizationTitle": "AMWA — Certificate Programs",
+    "url": "https://www.amwa.org/page/Certificates",
+    "claimSupported": "Course certificates differ from exam-based MWC for experienced writers.",
+    "sections": [
+      8,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Primary-site search excerpt retrieved; full page returned403. Only general distinction used, corroborated by AMWA editing and certification articles."
+  },
+  {
+    "workingProfileId": "hcl-medicaleditorwriter",
+    "sourceId": "R7",
+    "organizationTitle": "Author synthesis grounded in AMWA editing guide",
+    "url": "https://info.amwa.org/a-comprehensive-guide-to-medical-editing",
+    "claimSupported": "Constructed editorial example, evidence-language reasoning, tradeoffs and reflection questions; not a reported incident.",
+    "sections": [
+      2,
+      3,
+      5,
+      11,
+      13,
+      15
+    ],
+    "verifiedDate": "2026-10-25",
+    "verificationStatus": "Author-created illustrative/reflection synthesis, grounded in linked primary occupational description; independent editorial review pending"
+  }
+]

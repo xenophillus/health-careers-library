@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-medicallaboratorytechnician",
+  "title": "Medical Laboratory Technician",
+  "sourceTitle": "Medical Laboratory Technician",
+  "sourceKey": "medicallaboratorytechnician",
+  "sourceIndices": [
+    74
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Exact MLT inventory entry retained independently. Clinical Laboratory Technician acknowledged as common occupational terminology only; no inventory records merged. Distinguished from Medical Laboratory Scientist.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Separate prepared draft; no canonical or runtime writes."
+}

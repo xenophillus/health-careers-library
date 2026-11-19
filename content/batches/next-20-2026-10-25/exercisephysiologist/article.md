@@ -1,0 +1,99 @@
+# Exercise Physiologist
+
+## Career Overview
+
+Exercise physiologists study how the body responds to physical activity and use that knowledge to develop exercise programs. In a healthcare setting, they may help people with chronic conditions improve fitness and function through carefully selected activity. Their work combines assessment, monitoring, education and support for sustained behavior change.
+
+The title covers different settings. A clinical exercise physiologist working with medically complex patients has different preparation and responsibilities from a scientist researching exercise responses or a professional working mainly with healthy adults. Exercise physiology is also distinct from physical therapy and personal training, even though all may involve movement.
+
+## Duties and Responsibilities
+
+An exercise physiologist gathers information about health, activity and fitness, performs appropriate assessments and uses the results to plan an exercise program. During activity, the physiologist monitors responses and documents progress. In clinical practice, this may involve working within a healthcare team and following the relevant medical plan and testing procedures.
+
+Education is part of the intervention. A person needs to understand the purpose of an activity, how to follow the program and when to raise a concern. The physiologist adjusts the exercise approach within the role's responsibilities rather than assuming that everyone benefits from the same intensity. Data and conversation both help reveal whether the program is realistic for the individual.
+
+## A Day in the Life
+
+Imagine a clinical exercise physiologist in a rehabilitation program. Before a session, the physiologist reviews the participant's recent information and checks for concerns that need discussion with the team. During exercise, they observe the person's response, review monitored measures and provide instructions. A change from the expected response requires attention, not simply encouragement to push harder.
+
+Later, the physiologist records the session and talks with the person about carrying activity into daily life. In a university research laboratory, a different day might center on a standardized exercise test and analysis of study data. These illustrative settings share physiological knowledge but have different goals and responsibilities.
+
+## Work Environment and Schedule
+
+Exercise physiologists work in healthcare facilities, exercise and wellness programs, research settings and other organizations. Some are self-employed. A clinical program may involve repeated visits by people with chronic disease, while research work may revolve around study participants and scheduled tests.
+
+Full-time and part-time arrangements exist. Hours depend on the program and the people it serves. The work can alternate between active supervision, equipment preparation, discussions and computer-based records. Students should examine whether a position emphasizes clinical care, fitness programming, testing or research rather than relying on the title alone.
+
+## Skills, Knowledge, and Personal Qualities
+
+Anatomy, physiology and an understanding of exercise testing help professionals connect a measurement with its meaning. Quantitative skills support comparison over time, while careful observation helps detect a response that needs attention. Records should show what was done and how the person responded.
+
+Communication and patience are central to helping people adopt activity they can sustain. A technically sound program may still fail if it does not fit the person's needs or circumstances. Listening, explaining clearly and working within professional boundaries are important alongside knowledge of exercise equipment and scientific concepts.
+
+## Physical and Emotional Demands
+
+The job may involve standing, moving between exercise stations, demonstrating activities and helping prepare equipment. Clinical settings can include people who have limited exercise tolerance or need closer monitoring. The physical requirements differ from those of a research position spent largely analyzing data.
+
+Emotional demands include supporting people who are discouraged or fearful about activity after illness. Changes in health can interrupt progress. The physiologist needs to avoid unrealistic promises and recognize when another team member should address a concern. Attention to monitoring and emergency procedures is important in settings that serve medically complex patients.
+
+## Education and Training
+
+BLS describes at least a bachelor's degree in exercise physiology, exercise science, kinesiology or a related field as typical entry education. Programs may include anatomy, physiology, nutrition and clinical experience. Graduate education can provide additional depth for clinical work, research or teaching, depending on the program.
+
+The choice of program should fit the intended role. Clinical experience with patients is not equivalent to general fitness experience, and a research doctorate is a different goal from an entry clinical credential. High-school biology, chemistry, mathematics and communication support later study. Supervised experience helps students connect physiological measurements with real people and safe professional judgment.
+
+## Certification and Licensure
+
+The American College of Sports Medicine distinguishes its **ACSM-EP** and **ACSM-CEP** credentials. The EP credential concerns exercise work with healthy people and those with medically controlled conditions; the CEP credential focuses on clinical populations. As checked in October 2026, ACSM's CEP page lists a relevant master's degree plus 600 clinical hours or a relevant bachelor's degree plus 1,200 clinical hours, together with specified basic-life-support or professional-rescuer CPR certification and examination requirements.
+
+These are professional certification rules, not a license to practice medicine or physical therapy. ACSM also posts forthcoming degree-accreditation requirements, so students choosing a program should consult the current eligibility information for their intended examination date. A credential, degree and employer's clinical responsibilities are related but distinct.
+
+## Salary, Entry-Level Earnings, and Job Outlook
+
+BLS reports a **May 2025 U.S. median annual wage of $59,460 for exercise physiologists**. Half of workers in that occupation earned more and half less. The median is not a starting salary and does not describe all university faculty, personal trainers or sport scientists whose work may overlap with exercise.
+
+Employment is projected to grow **13% from 2025 to 2035**, with about **1,400 openings per year on average**. Openings include replacements as well as growth. Local healthcare programs, employer requirements and whether a position is clinical or research-focused affect the opportunities a student will find.
+
+## Specialties and Career Advancement
+
+Exercise physiologists may concentrate on clinical rehabilitation, exercise testing, chronic-disease programs, health promotion or research. A particular role may involve a defined patient group or a specialized testing environment. Additional study and supervised experience can support greater responsibility in that area.
+
+Advancement may include coordinating a program, supervising staff, teaching or pursuing research. Academic research leadership generally involves graduate research preparation; clinical leadership depends on the relevant clinical competence and organizational experience. Moving between these settings requires attention to the actual work, not simply adding a new title to the same qualification.
+
+## Benefits and Challenges of the Career
+
+This career can connect an interest in human movement with measurable changes in health and daily function. Repeated sessions may let a professional see someone become more confident and consistent with activity. The work also provides opportunities to explain science in a practical way.
+
+Challenges include uneven progress, complicated health circumstances and the effort required to sustain behavior change. An exercise plan must be both appropriate and workable. Clinical positions carry responsibility for observation and response, while research positions may require patience with careful testing and data analysis. Enjoying one's own exercise routine is not the same as enjoying this professional work.
+
+## Career Connections and Related Occupations
+
+A **physical therapist** evaluates and treats movement dysfunction through a separate licensed profession. A **personal trainer** generally focuses on fitness instruction, with different education and credential expectations. A **clinical exercise physiologist** applies exercise science within a clinical role and works with the appropriate healthcare team.
+
+An **exercise researcher** may investigate physiological responses without providing an ongoing clinical program. A **cardiac rehabilitation nurse** brings nursing assessment and care to a shared setting. Understanding each person's contribution helps students distinguish clinical, fitness and scientific pathways.
+
+## Could This Career Interest You?
+
+Are you interested in why heart rate, breathing or fatigue changes during activity? Would you enjoy using measurements and conversation to help someone build a realistic program? Could you remain attentive when a person needs monitoring rather than vigorous motivation?
+
+Think about whether clinical populations, healthy-adult fitness or research appeal most to you. The distinction affects preparation and daily work. Observing a program can help you see how much of the job involves assessment, teaching, documentation and follow-through.
+
+## Professional Associations
+
+The [American College of Sports Medicine (ACSM)](https://acsm.org/) brings together people interested in exercise science, sports medicine and health. It provides scientific publications, education, professional connections and exercise-professional certifications.
+
+Its resources explain differences among exercise-related credentials. Association membership is separate from earning a credential, and neither should be confused with authorization to perform another licensed profession's work.
+
+## Bibliography & Sources
+
+Sources checked October 25, 2026.
+
+1. [BLS — Exercise Physiologists](https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm) — Duties, settings and education; May 2025 U.S. median $59,460;2025–2035 growth 13% and approximately 1,400 annual openings.
+
+2. [O*NET — Exercise Physiologists](https://www.onetonline.org/link/summary/29-1128.00) — Assessment, exercise programming, monitoring, records and occupational skills.
+
+3. [ACSM — Clinical Exercise Physiologist](https://acsm.org/certification/get-certified/clinical-exercise-physiologist/) — Current CEP degree/clinical-hour and life-support qualifications; application and exam; future-accreditation notice.
+
+4. [ACSM — Get Certified](https://acsm.org/certification/get-certified/) — Distinction between EP and CEP populations and credential roles.
+
+5. [ACSM — CEP Exam Content Outline](https://acsm.org/wp-content/uploads/2024/12/ACSM-Certified-Clinical-Exercise-Physiologist-Exam-Content-Outline.pdf) — Clinical assessment, prescribed exercise and patient education context.

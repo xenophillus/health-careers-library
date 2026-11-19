@@ -1,0 +1,15 @@
+{
+  "workingProfileId": "hcl-computertomographycttechnologist",
+  "title": "Computer Tomography (CT) Technologist",
+  "sourceTitle": "Computer Tomography (CT) Technologist",
+  "sourceKey": "computertomographycttechnologist",
+  "sourceIndices": [
+    62
+  ],
+  "sourcePathways": [
+    "Diagnostic Services"
+  ],
+  "mapping": "Exact source title retained. Professional explanatory name is computed tomography technologist; CT is a modality within broader radiologic work, not a separate BLS wage series.",
+  "reviewDate": "2026-10-25",
+  "canonicalDisposition": "Separate prepared draft; no canonical or runtime writes."
+}

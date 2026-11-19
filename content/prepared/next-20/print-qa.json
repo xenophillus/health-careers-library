@@ -1,0 +1,127 @@
+{
+  "scope": "Standalone text-only editorial preview; Chromium Letter PDF for each of20 articles. Not production runtime.",
+  "profiles": [
+    {
+      "sourceKey": "nursepractitioner",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "physicianmddo",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "veterinarian",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "veterinariantechnician",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "cardiovasculartechnologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "computertomographycttechnologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "electrocardiographicecgorekgtechnician",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "histotechnologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "medicallaboratorytechnician",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "polysomnographictechnologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "clinicalcoder",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "healthinformationadministrator",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "informationprivacyofficer",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "centralservicemanager",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "pharmacologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "occupationaltherapyassistant",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "physicaltherapyassistant",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "radiationtherapist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "medicaleditorwriter",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    },
+    {
+      "sourceKey": "exercisephysiologist",
+      "pages": 4,
+      "all15SectionStartsPresent": true,
+      "blankPages": 0
+    }
+  ],
+  "totalPages": 80,
+  "limitations": "Automated checks cover all20 articles/80 pages. Manual visual sampling covers physician first page and central-service-manager last page; not every PDF page or production runtime."
+}

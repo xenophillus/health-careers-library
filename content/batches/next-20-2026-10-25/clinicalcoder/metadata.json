@@ -1,0 +1,15 @@
+{
+  "title": "Clinical Coder",
+  "sourceTitle": "Clinical Coder",
+  "sourceKey": "clinicalcoder",
+  "workingProfileId": "hcl-clinicalcoder",
+  "sourceIndices": [
+    102
+  ],
+  "sourcePathways": [
+    "Health Informatics"
+  ],
+  "mapping": "Inventory sourceIndex 102, exact title Clinical Coder. Mapped to medical coding within O*NET/BLS Medical Records Specialists 29-2072, not collapsed into separate Medical Records Technician or billing inventory entries. Broad wages explicitly labeled.",
+  "reviewDate": "2026-10-25",
+  "draftDisposition": "Prepared editorial draft; no publication or canonical action"
+}

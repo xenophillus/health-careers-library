@@ -1,0 +1,275 @@
+{
+  "reviewDate": "2026-10-25",
+  "reviewer": "independent nonclinical reviewer",
+  "scope": "Full 15-section editorial reading and key primary-source scope/credential/pay spot-checks. Optional images checked when present; deliberate text-only presentation does not block readiness. No publication or approval flag changes.",
+  "reviewComplete": true,
+  "profiles": [
+    {
+      "sourceKey": "polysomnographictechnologist",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://brpt.org/rpsgt/eligibility/",
+          "finding": "Five pathways and accredited CAAHEP/CoARC program route confirmed; credential distinct from state authorization. No unsupported exact salary or universal state rule.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all15sections: substantial occupation-specific explanations, realistic illustrative workflow, role boundaries, and thoughtful comparisons.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "clinicalcoder",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.ahima.org/certification-careers/certifications-overview/cca/",
+          "finding": "CCA high-school diploma required; experience/training recommended not required. Article accurately distinguishes eligibility and readiness.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+          "finding": "May2025 U.S.medical records specialists median51140 and2025\u201335growth8% verified; clearly scoped broader group.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all15sections; concrete record-resolution example, coding vs billing and clinical boundaries clearly distinguished, salary group explicitly broader.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "healthinformationadministrator",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.ahima.org/certification-careers/certifications-overview/rhia/",
+          "finding": "Current RHIA page lists CAHIIM HIM qualifying education; research article accurately describes bachelor-level HIM route and degree/credential/job distinction.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        },
+        {
+          "url": "https://www.ahima.org/news-publications/cchiim-criteria-change-for-rhit-to-rhia-pathway/",
+          "finding": "Additional RHIT+degree+3years pathway is proposed with effective date after formal approval; correctly excluded from active routes.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all15sections. Substantive systems-management perspective, role distinctions and broad wage labels. Established HIM credential route accurately stated; no proposed pathway presented as active.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "informationprivacyofficer",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+          "finding": "Privacy-official designation and policy responsibility confirmed; appointment is accurately separated from credential.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.ahima.org/certification-careers/certifications-overview/chps/",
+          "finding": "Relevant bachelor degree plus two years privacy/security experience is a current CHPS eligibility route as stated.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all 15 sections; strong privacy/security and role/credential distinctions. Concrete incident reasoning without procedural legal advice; no invented salary.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "centralservicemanager",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://myhspa.org/certified-healthcare-leader-chl-pilot-exam/",
+          "finding": "Current October 2026 CHL exam eligibility requires CRCST plus qualifying 2080-hour sterile processing or leadership experience, or associate degree/higher. Article correctly distinguishes credential, exam eligibility and manager appointment; does not assert current exam availability during testing blackout.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all 15 sections. Specific department operations, staff leadership and process-quality reasoning. Manager versus technician duties and pay comparisons properly distinguished; no exact unsupported manager wage.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "pharmacologist",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.aspet.org/aspet/education-careers/about-pharmacology",
+          "finding": "Drug biological effects discipline and distinction from pharmacy confirmed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+          "finding": "May 2025 US medical-scientist median $103,410 confirmed; article correctly labels broader occupational group rather than exact pharmacologist salary.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all 15 sections; concrete experimental reasoning and uncertainty, research/clinical boundaries, substantive preparation and career paths.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "physicaltherapyassistant",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+          "finding": "May2025 U.S.PTA median68380 and PTA-only growth23%2025\u201335 confirmed; aides not conflated.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_029_0000_article/065_029_0006_section/065_029_0006_k/",
+          "finding": "Kansas uses PTA certificate terminology with board education/exam, legal age, application and fees confirmed.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        }
+      ],
+      "errorsFixed": [
+        "Author removed internal synthesis/methodology bibliography notes and normalized numeric spacing; revised article checked."
+      ],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all15sections: substantial occupation-specific explanations, realistic illustrative workflow, role boundaries, and thoughtful comparisons.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "radiationtherapist",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+          "finding": "May2025 U.S.median105310,2025\u201335growth3% and700 annual openings confirmed.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/laws/065_000_0000_chapter/065_073_0000_article/065_073_0003_section/065_073_0003_k/",
+          "finding": "Kansas radiologic procedure license rule and radiation-therapist protected title requiring LRT+ARRT radiation therapy confirmed.",
+          "retrieval": "Primary source retrieved2026-10-25"
+        }
+      ],
+      "errorsFixed": [
+        "Author removed internal synthesis/methodology bibliography notes and normalized numeric spacing; revised article checked."
+      ],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all15sections: substantial occupation-specific explanations, realistic illustrative workflow, role boundaries, and thoughtful comparisons.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "medicaleditorwriter",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://info.amwa.org/ultimate-guide-to-becoming-a-medical-writer",
+          "finding": "Medical communication specialties and audience distinctions confirmed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm",
+          "finding": "May 2025 US technical-writer median $90,390 confirmed; article explicitly scopes broad group.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm",
+          "finding": "May 2025 US editor median $77,920 confirmed; not presented as exact medical-editor or entry salary.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all 15 sections; grouped writer/editor label preserved with clear role differences, realistic evidence-checking example. Precise inaccessible MWC procedural thresholds are not asserted.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    },
+    {
+      "sourceKey": "exercisephysiologist",
+      "status": "review passed within stated scope",
+      "claimsChecked": [
+        {
+          "url": "https://acsm.org/certification/get-certified/clinical-exercise-physiologist/",
+          "finding": "Current CEP master-plus-600 or bachelor-plus-1200 clinical hours and BLS/professional-rescuer CPR confirmed; future accreditation notice not confused with current route.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        },
+        {
+          "url": "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm",
+          "finding": "May 2025 US median $59,460; 2025\u20132035 growth 13% and 1,400 annual openings confirmed.",
+          "retrieval": "Primary source retrieved 2026-10-25"
+        }
+      ],
+      "errorsFixed": [],
+      "errorsPending": [],
+      "mediaReview": {
+        "status": "intentional text-only; final media record inspected",
+        "licenseStatus": "not applicable, no image",
+        "pixelStatus": "not applicable, no image",
+        "finding": "No selected or embedded image. Optional text-only presentation is acceptable within this review scope."
+      },
+      "editorialReview": "Read all 15 sections; specific exercise assessment, clinical versus general preparation and patient monitoring; no unsupported diagnosis authority.",
+      "structuralObservation": "15 article sections present; root handles full prepared-format, ID and coverage checks."
+    }
+  ],
+  "summary": {
+    "profilesReviewed": 10,
+    "fullEditorialReads": 10,
+    "primarySourceSpotChecks": 10,
+    "pendingCorrections": 0,
+    "textOnlyProfiles": 10,
+    "limits": "Independent review is limited to full editorial reading and recorded primary-source checks, not exhaustive verification of every sentence or jurisdiction. Inaccessible unused procedural details are not approval blockers. No publication approval granted."
+  }
+}
